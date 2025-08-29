@@ -1,19 +1,49 @@
-import React from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import {
   View,
   Text,
   StyleSheet,
   ScrollView,
   StatusBar,
+  TouchableOpacity,
 } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { COLORS, GRADIENTS } from '../constants/colors';
 import { SUBJECTS_DATA } from '../data/subjects';
 import SubjectCard from '../components/SubjectCard';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+
+const THEME_KEY = 'theme_preference';
 
 const HomeScreen = ({ navigation }) => {
   console.log('HomeScreen - SUBJECTS_DATA:', SUBJECTS_DATA);
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        const saved = await AsyncStorage.getItem(THEME_KEY);
+        if (saved) setIsDarkMode(saved === 'dark');
+      } catch (e) {}
+    })();
+  }, []);
+
+  const theme = useMemo(() => ({
+    background: isDarkMode ? '#0B1220' : COLORS.background,
+    card: isDarkMode ? '#111827' : COLORS.card,
+    textPrimary: isDarkMode ? '#F3F4F6' : COLORS.textPrimary,
+    textSecondary: isDarkMode ? '#9CA3AF' : COLORS.textSecondary,
+    headerGradient: GRADIENTS.primary,
+  }), [isDarkMode]);
+
+  const toggleTheme = async () => {
+    const next = !isDarkMode;
+    setIsDarkMode(next);
+    try {
+      await AsyncStorage.setItem(THEME_KEY, next ? 'dark' : 'light');
+    } catch (e) {}
+  };
   
   const handleSubjectPress = (subject) => {
     console.log('HomeScreen - Subject pressed:', subject);
@@ -21,12 +51,12 @@ const HomeScreen = ({ navigation }) => {
   };
 
   return (
-    <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
+    <View style={[styles.container, { backgroundColor: theme.background }]}>
+      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} backgroundColor={isDarkMode ? '#0B1220' : COLORS.background} />
       
       {/* Header */}
       <LinearGradient
-        colors={GRADIENTS.primary}
+        colors={theme.headerGradient}
         style={styles.header}
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 0 }}
@@ -38,15 +68,20 @@ const HomeScreen = ({ navigation }) => {
               Government Exam Preparation
             </Text>
           </View>
-          <Icon name="school" size={40} color={COLORS.white} />
+          <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+            <TouchableOpacity onPress={toggleTheme} activeOpacity={0.8} style={{ marginRight: 12 }}>
+              <Icon name={isDarkMode ? 'white-balance-sunny' : 'weather-night'} size={28} color={COLORS.white} />
+            </TouchableOpacity>
+            <Icon name="school" size={40} color={COLORS.white} />
+          </View>
         </View>
       </LinearGradient>
 
       {/* Content */}
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
         <View style={styles.welcomeSection}>
-          <Text style={styles.welcomeTitle}>Welcome to Your Study Guide</Text>
-          <Text style={styles.welcomeText}>
+          <Text style={[styles.welcomeTitle, { color: theme.textPrimary }]}>Welcome to Your Study Guide</Text>
+          <Text style={[styles.welcomeText, { color: theme.textSecondary }]}>
             Explore comprehensive study materials for Indian & Karnataka Government Exams
           </Text>
         </View>
@@ -62,7 +97,7 @@ const HomeScreen = ({ navigation }) => {
         </View>
 
         <View style={styles.footer}>
-          <Text style={styles.footerText}>
+          <Text style={[styles.footerText, { color: theme.textSecondary }]}>
             Tap on any subject to explore detailed topics
           </Text>
         </View>

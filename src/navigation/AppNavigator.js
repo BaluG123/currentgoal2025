@@ -11,6 +11,7 @@ import HomeScreen from '../screens/HomeScreen';
 import SubjectDetailScreen from '../screens/SubjectDetailScreen';
 import LevelsScreen from '../screens/LevelsScreen';
 import QuizScreen from '../screens/QuizScreen';
+import SplashScreen from '../screens/SplashScreen';
 
 // Custom Drawer Content
 import CustomDrawerContent from '../components/CustomDrawerContent';
@@ -56,6 +57,13 @@ const AppNavigator = () => {
           },
         }}
       >
+        <Drawer.Screen
+          name="Splash"
+          component={SplashScreen}
+          options={{
+            drawerItemStyle: { height: 0 },
+          }}
+        />
         <Drawer.Screen
           name="Home"
           component={HomeStack}
