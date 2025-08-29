@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import {
   View,
   Text,
@@ -7,7 +7,6 @@ import {
   StatusBar,
   ScrollView,
   Alert,
-  Modal,
 } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
@@ -15,14 +14,15 @@ import { COLORS, GRADIENTS } from '../constants/colors';
 import { getQuizForLevel } from '../data/quizData';
 import { saveProgressForSubject } from '../utils/progressTracker';
 import { getQuizSubjectTitle } from '../utils/subjectMapper';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const QuizScreen = ({ route, navigation }) => {
   const { subject, level } = route.params;
   const [quiz, setQuiz] = useState(null);
-  
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
   console.log('QuizScreen - Subject:', subject, 'Level:', level);
   const [selectedOption, setSelectedOption] = useState(null);
-  const [showExplanation, setShowExplanation] = useState(false);
   const [showHint, setShowHint] = useState(false);
   const [isCorrect, setIsCorrect] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -31,14 +31,34 @@ const QuizScreen = ({ route, navigation }) => {
     loadQuiz();
   }, [loadQuiz]);
 
+  useEffect(() => {
+    (async () => {
+      try {
+        const saved = await AsyncStorage.getItem('theme_preference');
+        if (saved) {
+          setIsDarkMode(saved === 'dark');
+        }
+      } catch (e) {}
+    })();
+  }, []);
+
+  const theme = useMemo(() => ({
+    background: isDarkMode ? '#0B1220' : COLORS.background,
+    card: isDarkMode ? '#111827' : COLORS.white,
+    textPrimary: isDarkMode ? '#F3F4F6' : COLORS.textPrimary,
+    textSecondary: isDarkMode ? '#9CA3AF' : COLORS.textSecondary,
+    correctBg: isDarkMode ? '#059669' : COLORS.success,
+    incorrectBg: isDarkMode ? '#DC2626' : COLORS.error,
+    selectedBg: isDarkMode ? '#1E3A8A' : COLORS.primary,
+    iconOnCard: isDarkMode ? COLORS.white : COLORS.textPrimary,
+  }), [isDarkMode]);
+
   const loadQuiz = useCallback(() => {
     try {
       const quizSubjectTitle = getQuizSubjectTitle(subject);
       console.log('Loading quiz for subject:', quizSubjectTitle, 'level:', level);
-      
       const quizData = getQuizForLevel(quizSubjectTitle, level);
       console.log('Quiz data:', quizData);
-      
       if (quizData) {
         setQuiz(quizData);
       } else {
@@ -55,12 +75,14 @@ const QuizScreen = ({ route, navigation }) => {
   }, [subject, level, navigation]);
 
   const handleOptionSelect = (optionIndex) => {
-    if (selectedOption !== null) return; // Prevent multiple selections
-    
+    if (selectedOption !== null) {
+      return; // Prevent multiple selections
+    }
+
     setSelectedOption(optionIndex);
     const correct = optionIndex === (quiz.correctAnswer || 1) - 1;
     setIsCorrect(correct);
-    
+
     if (correct) {
       // Save progress when correct
       const quizSubjectTitle = getQuizSubjectTitle(subject);
@@ -83,8 +105,8 @@ const QuizScreen = ({ route, navigation }) => {
         [
           {
             text: 'Back to Levels',
-            onPress: () => navigation.navigate('LevelsScreen', { subject: { title: subject, color: 'primary' } })
-          }
+            onPress: () => navigation.navigate('LevelsScreen', { subject: { title: subject, color: 'primary' } }),
+          },
         ]
       );
     }
@@ -93,7 +115,6 @@ const QuizScreen = ({ route, navigation }) => {
   const handleRetry = () => {
     setSelectedOption(null);
     setIsCorrect(null);
-    setShowExplanation(false);
     setShowHint(false);
   };
 
@@ -152,9 +173,8 @@ const QuizScreen = ({ route, navigation }) => {
   }
 
   return (
-    <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
-      
+    <View style={[styles.container, { backgroundColor: theme.background }]}>
+      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} backgroundColor={theme.background} />
       {/* Header */}
       <LinearGradient
         colors={GRADIENTS.primary}
@@ -182,35 +202,35 @@ const QuizScreen = ({ route, navigation }) => {
 
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
         {/* Question Card */}
-        <View style={styles.questionCard}>
+        <View style={[styles.questionCard, { backgroundColor: theme.card }]}>
           <View style={styles.questionHeader}>
-            <Text style={styles.questionNumber}>Question</Text>
+            <Text style={[styles.questionNumber, { color: theme.textPrimary }]}>Question</Text>
             <View style={styles.difficultyBadge}>
               <Text style={styles.difficultyText}>{quiz.difficulty || 'Unknown'}</Text>
             </View>
           </View>
-          <Text style={styles.questionText}>{quiz.question || 'Question not available'}</Text>
+          <Text style={[styles.questionText, { color: theme.textPrimary }]}>{quiz.question || 'Question not available'}</Text>
         </View>
 
         {/* Options */}
         <View style={styles.optionsContainer}>
-          <Text style={styles.optionsTitle}>Select the correct answer:</Text>
+          <Text style={[styles.optionsTitle, { color: theme.textPrimary }]}>Select the correct answer:</Text>
           {quiz.options && quiz.options.length > 0 ? (
             quiz.options.map((option, index) => (
             <TouchableOpacity
               key={index}
-              style={getOptionStyle(index)}
+              style={[getOptionStyle(index), selectedOption === null ? { backgroundColor: theme.card } : null]}
               onPress={() => handleOptionSelect(index)}
               activeOpacity={0.8}
               disabled={selectedOption !== null}
             >
-              <Text style={styles.optionLabel}>{String.fromCharCode(65 + index)}</Text>
-              <Text style={getOptionTextStyle(index)}>{option}</Text>
+              <Text style={[styles.optionLabel, { color: theme.iconOnCard }]}>{String.fromCharCode(65 + index)}</Text>
+              <Text style={[getOptionTextStyle(index), selectedOption === null ? { color: theme.textPrimary } : null]}>{option}</Text>
               {selectedOption === index && (
-                <Icon 
-                  name={isCorrect ? "check-circle" : "close-circle"} 
-                  size={24} 
-                  color={COLORS.white} 
+                <Icon
+                  name={isCorrect ? 'check-circle' : 'close-circle'}
+                  size={24}
+                  color={COLORS.white}
                   style={styles.optionIcon}
                 />
               )}
@@ -218,7 +238,7 @@ const QuizScreen = ({ route, navigation }) => {
           ))
           ) : (
             <View style={styles.noOptionsContainer}>
-              <Text style={styles.noOptionsText}>No options available</Text>
+              <Text style={[styles.noOptionsText, { color: theme.textSecondary }]}>No options available</Text>
             </View>
           )}
         </View>
@@ -237,23 +257,23 @@ const QuizScreen = ({ route, navigation }) => {
 
         {/* Hint Display */}
         {showHint && (
-          <View style={styles.hintContainer}>
+          <View style={[styles.hintContainer, { backgroundColor: theme.card }]}>
             <View style={styles.hintHeader}>
               <Icon name="lightbulb" size={20} color={COLORS.warning} />
-              <Text style={styles.hintTitle}>Hint</Text>
+              <Text style={[styles.hintTitle, { color: theme.textPrimary }]}>Hint</Text>
             </View>
-            <Text style={styles.hintText}>{quiz.hint || 'No hint available'}</Text>
+            <Text style={[styles.hintText, { color: theme.textSecondary }]}>{quiz.hint || 'No hint available'}</Text>
           </View>
         )}
 
         {/* Result Section */}
         {selectedOption !== null && (
-          <View style={styles.resultContainer}>
+          <View style={[styles.resultContainer, { backgroundColor: theme.card }]}>
             <View style={styles.resultHeader}>
-              <Icon 
-                name={isCorrect ? "trophy" : "alert-circle"} 
-                size={32} 
-                color={isCorrect ? COLORS.success : COLORS.error} 
+              <Icon
+                name={isCorrect ? 'trophy' : 'alert-circle'}
+                size={32}
+                color={isCorrect ? COLORS.success : COLORS.error}
               />
               <Text style={[styles.resultTitle, { color: isCorrect ? COLORS.success : COLORS.error }]}>
                 {isCorrect ? 'Correct!' : 'Incorrect!'}
@@ -262,8 +282,8 @@ const QuizScreen = ({ route, navigation }) => {
 
             {/* Explanation */}
             <View style={styles.explanationContainer}>
-              <Text style={styles.explanationTitle}>Explanation:</Text>
-              <Text style={styles.explanationText}>{quiz.explanation || 'No explanation available'}</Text>
+              <Text style={[styles.explanationTitle, { color: theme.textPrimary }]}>Explanation:</Text>
+              <Text style={[styles.explanationText, { color: theme.textSecondary }]}>{quiz.explanation || 'No explanation available'}</Text>
             </View>
 
             {/* Action Buttons */}

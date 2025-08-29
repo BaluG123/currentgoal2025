@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import {
   View,
   Text,
@@ -10,10 +10,32 @@ import {
 import LinearGradient from 'react-native-linear-gradient';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { COLORS, GRADIENTS } from '../constants/colors';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+
+const THEME_KEY = 'theme_preference';
 
 const SubjectDetailScreen = ({ route, navigation }) => {
   const { subject } = route.params;
   const [expandedSubtopic, setExpandedSubtopic] = useState(null);
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        const saved = await AsyncStorage.getItem(THEME_KEY);
+        if (saved) setIsDarkMode(saved === 'dark');
+      } catch (e) {}
+    })();
+  }, []);
+
+  const theme = useMemo(() => ({
+    background: isDarkMode ? '#0B1220' : COLORS.background,
+    card: isDarkMode ? '#111827' : COLORS.white,
+    textPrimary: isDarkMode ? '#F3F4F6' : COLORS.textPrimary,
+    textSecondary: isDarkMode ? '#9CA3AF' : COLORS.textSecondary,
+    divider: isDarkMode ? '#1F2937' : COLORS.grayLight,
+    iconBg: isDarkMode ? '#1F2937' : COLORS.grayLight,
+  }), [isDarkMode]);
 
   const gradientColors = GRADIENTS[subject.color] || GRADIENTS.primary;
 
@@ -64,8 +86,8 @@ const SubjectDetailScreen = ({ route, navigation }) => {
   };
 
   return (
-    <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
+    <View style={[styles.container, { backgroundColor: theme.background }]}>
+      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} backgroundColor={theme.background} />
       
       {/* Header */}
       <LinearGradient
@@ -94,27 +116,66 @@ const SubjectDetailScreen = ({ route, navigation }) => {
 
       {/* Content */}
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
-        <View style={styles.statsContainer}>
+        <View style={[styles.statsContainer, { backgroundColor: theme.card }]}>
           <View style={styles.statItem}>
-            <Text style={styles.statNumber}>{subject.subtopics.length}</Text>
-            <Text style={styles.statLabel}>Subtopics</Text>
+            <Text style={[styles.statNumber, { color: theme.textPrimary }]}>{subject.subtopics.length}</Text>
+            <Text style={[styles.statLabel, { color: theme.textSecondary }]}>Subtopics</Text>
           </View>
-          <View style={styles.statDivider} />
+          <View style={[styles.statDivider, { backgroundColor: theme.divider }]} />
           <View style={styles.statItem}>
-            <Text style={styles.statNumber}>
+            <Text style={[styles.statNumber, { color: theme.textPrimary }]}>
               {subject.subtopics.reduce((total, subtopic) => total + subtopic.topics.length, 0)}
             </Text>
-            <Text style={styles.statLabel}>Total Topics</Text>
+            <Text style={[styles.statLabel, { color: theme.textSecondary }]}>Total Topics</Text>
           </View>
         </View>
 
         <View style={styles.subtopicsSection}>
-          <Text style={styles.sectionTitle}>Study Topics</Text>
-          <Text style={styles.sectionSubtitle}>
+          <Text style={[styles.sectionTitle, { color: theme.textPrimary }]}>Study Topics</Text>
+          <Text style={[styles.sectionSubtitle, { color: theme.textSecondary }]}>
             Tap on any subtopic to expand and view detailed topics
           </Text>
           
-          {subject.subtopics.map(renderSubtopic)}
+          {subject.subtopics.map((subtopic) => {
+            const isExpanded = expandedSubtopic === subtopic.id;
+            return (
+              <View key={subtopic.id} style={[styles.subtopicContainer, { backgroundColor: theme.card }]}>
+                <TouchableOpacity
+                  style={styles.subtopicHeader}
+                  onPress={() => toggleSubtopic(subtopic.id)}
+                  activeOpacity={0.7}
+                >
+                  <View style={styles.subtopicHeaderContent}>
+                    <View style={[styles.subtopicIconContainer, { backgroundColor: theme.iconBg }]}>
+                      <Icon name="book-open-page-variant" size={20} color={COLORS.primary} />
+                    </View>
+                    <View style={styles.subtopicInfo}>
+                      <Text style={[styles.subtopicTitle, { color: theme.textPrimary }]}>{subtopic.title}</Text>
+                      <Text style={[styles.topicCount, { color: theme.textSecondary }]}>
+                        {subtopic.topics.length} Topics
+                      </Text>
+                    </View>
+                  </View>
+                  <Icon
+                    name={isExpanded ? 'chevron-up' : 'chevron-down'}
+                    size={24}
+                    color={theme.textSecondary}
+                  />
+                </TouchableOpacity>
+
+                {isExpanded && (
+                  <View style={styles.topicsContainer}>
+                    {subtopic.topics.map((topic, index) => (
+                      <View key={index} style={styles.topicItem}>
+                        <View style={styles.topicBullet} />
+                        <Text style={[styles.topicText, { color: theme.textPrimary }]}>{topic}</Text>
+                      </View>
+                    ))}
+                  </View>
+                )}
+              </View>
+            );
+          })}
         </View>
 
         <View style={styles.footer}>
