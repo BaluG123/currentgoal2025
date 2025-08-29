@@ -12,6 +12,9 @@ import SubjectDetailScreen from '../screens/SubjectDetailScreen';
 import LevelsScreen from '../screens/LevelsScreen';
 import QuizScreen from '../screens/QuizScreen';
 import SplashScreen from '../screens/SplashScreen';
+import EssayListScreen from '../screens/EssayListScreen';
+import EssayDetailScreen from '../screens/EssayDetailScreen';
+import TranslationsScreen from '../screens/TranslationsScreen';
 
 // Custom Drawer Content
 import CustomDrawerContent from '../components/CustomDrawerContent';
@@ -28,6 +31,9 @@ const HomeStack = () => {
       }}
     >
       <Stack.Screen name="HomeMain" component={HomeScreen} />
+      <Stack.Screen name="EssayList" component={EssayListScreen} />
+      <Stack.Screen name="EssayDetail" component={EssayDetailScreen} />
+      <Stack.Screen name="Translations" component={TranslationsScreen} />
       <Stack.Screen name="SubjectDetail" component={SubjectDetailScreen} />
       <Stack.Screen name="LevelsScreen" component={LevelsScreen} />
       <Stack.Screen name="QuizScreen" component={QuizScreen} />

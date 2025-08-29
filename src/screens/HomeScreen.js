@@ -86,6 +86,7 @@ const HomeScreen = ({ navigation }) => {
           </Text>
         </View>
 
+
         <View style={styles.subjectsGrid}>
           {SUBJECTS_DATA.map((subject) => (
             <SubjectCard
@@ -94,6 +95,51 @@ const HomeScreen = ({ navigation }) => {
               onPress={() => handleSubjectPress(subject)}
             />
           ))}
+        </View>
+
+                {/* Kannada Section */}
+                <View style={{ marginBottom: 8 }}>
+          <Text style={[styles.welcomeTitle, { color: theme.textPrimary }]}>Kannada Section</Text>
+          <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+            <TouchableOpacity
+              onPress={() => navigation.navigate('EssayList')}
+              activeOpacity={0.8}
+              style={{
+                flex: 1,
+                marginRight: 8,
+                padding: 16,
+                borderRadius: 12,
+                borderWidth: 1,
+                borderColor: '#E5E7EB',
+                backgroundColor: theme.card,
+              }}
+            >
+              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 6 }}>
+                <Icon name="book-open-variant" size={20} color={theme.textPrimary} />
+                <Text style={{ marginLeft: 8, fontWeight: '700', color: theme.textPrimary }}>Essays</Text>
+              </View>
+              <Text style={{ color: theme.textSecondary }}>Topics and Kannada essays</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => navigation.navigate('Translations')}
+              activeOpacity={0.8}
+              style={{
+                flex: 1,
+                marginLeft: 8,
+                padding: 16,
+                borderRadius: 12,
+                borderWidth: 1,
+                borderColor: '#E5E7EB',
+                backgroundColor: theme.card,
+              }}
+            >
+              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 6 }}>
+                <Icon name="translate" size={20} color={theme.textPrimary} />
+                <Text style={{ marginLeft: 8, fontWeight: '700', color: theme.textPrimary }}>Translations</Text>
+              </View>
+              <Text style={{ color: theme.textSecondary }}>English to Kannada phrases</Text>
+            </TouchableOpacity>
+          </View>
         </View>
 
         <View style={styles.footer}>
