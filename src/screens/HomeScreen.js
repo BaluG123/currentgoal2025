@@ -17,7 +17,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 const THEME_KEY = 'theme_preference';
 
 const HomeScreen = ({ navigation }) => {
-  console.log('HomeScreen - SUBJECTS_DATA:', SUBJECTS_DATA);
+  // Removed verbose console logs for performance
   const [isDarkMode, setIsDarkMode] = useState(false);
 
   useEffect(() => {

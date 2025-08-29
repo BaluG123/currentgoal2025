@@ -21,7 +21,7 @@ const QuizScreen = ({ route, navigation }) => {
   const [quiz, setQuiz] = useState(null);
   const [isDarkMode, setIsDarkMode] = useState(false);
 
-  console.log('QuizScreen - Subject:', subject, 'Level:', level);
+  // Removed verbose console logs for performance
   const [selectedOption, setSelectedOption] = useState(null);
   const [showHint, setShowHint] = useState(false);
   const [isCorrect, setIsCorrect] = useState(null);
@@ -56,9 +56,9 @@ const QuizScreen = ({ route, navigation }) => {
   const loadQuiz = useCallback(() => {
     try {
       const quizSubjectTitle = getQuizSubjectTitle(subject);
-      console.log('Loading quiz for subject:', quizSubjectTitle, 'level:', level);
+      // Loading quiz
       const quizData = getQuizForLevel(quizSubjectTitle, level);
-      console.log('Quiz data:', quizData);
+      // Quiz data loaded
       if (quizData) {
         setQuiz(quizData);
       } else {
@@ -403,14 +403,8 @@ const styles = StyleSheet.create({
     marginTop: 20,
     padding: 20,
     borderRadius: 12,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   questionHeader: {
     flexDirection: 'row',
@@ -455,14 +449,8 @@ const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 12,
     marginBottom: 12,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   correctOption: {
     backgroundColor: COLORS.success,
@@ -505,14 +493,8 @@ const styles = StyleSheet.create({
     padding: 12,
     borderRadius: 8,
     marginTop: 16,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   hintButtonText: {
     fontSize: 14,
@@ -525,14 +507,8 @@ const styles = StyleSheet.create({
     marginTop: 16,
     padding: 16,
     borderRadius: 12,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   hintHeader: {
     flexDirection: 'row',
@@ -556,14 +532,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     padding: 20,
     borderRadius: 12,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   resultHeader: {
     flexDirection: 'row',
@@ -595,14 +565,8 @@ const styles = StyleSheet.create({
   },
   nextButton: {
     borderRadius: 12,
-    elevation: 4,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
+    borderWidth: 1,
+    borderColor: '#0ea5e9',
   },
   nextButtonGradient: {
     flexDirection: 'row',
@@ -619,14 +583,8 @@ const styles = StyleSheet.create({
   },
   retryButton: {
     borderRadius: 12,
-    elevation: 4,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
+    borderWidth: 1,
+    borderColor: '#f43f5e',
   },
   retryButtonGradient: {
     flexDirection: 'row',

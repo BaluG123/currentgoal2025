@@ -56,14 +56,8 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     padding: 16,
     minHeight: 160,
-    elevation: 4,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 255, 255, 0.3)',
   },
   iconContainer: {
     width: 48,

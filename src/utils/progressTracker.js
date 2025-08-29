@@ -93,13 +93,9 @@ export const resetAllProgress = async () => {
 // Get completion percentage for a subject
 export const getCompletionPercentage = async (subject, totalLevels) => {
   try {
-    console.log('Getting completion percentage for:', subject, 'totalLevels:', totalLevels);
     const progress = await getProgressForSubject(subject);
-    console.log('Progress data:', progress);
     const completedCount = progress.completedLevels.length;
-    console.log('Completed count:', completedCount);
     const percentage = Math.round((completedCount / totalLevels) * 100);
-    console.log('Calculated percentage:', percentage);
     return percentage;
   } catch (error) {
     console.error('Error getting completion percentage:', error);

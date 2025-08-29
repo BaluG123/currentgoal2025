@@ -258,14 +258,8 @@ const styles = StyleSheet.create({
     padding: 20,
     marginTop: 20,
     marginBottom: 24,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   statItem: {
     flex: 1,
@@ -305,14 +299,8 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.white,
     borderRadius: 12,
     marginBottom: 12,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   subtopicHeader: {
     flexDirection: 'row',

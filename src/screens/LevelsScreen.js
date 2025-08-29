@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import {
   View,
   Text,
@@ -15,6 +15,7 @@ import { COLORS, GRADIENTS } from '../constants/colors';
 import { getTotalLevelsForSubject } from '../data/quizData';
 import { getProgressForSubject, getCompletionPercentage } from '../utils/progressTracker';
 import { getQuizSubjectTitle } from '../utils/subjectMapper';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const { width } = Dimensions.get('window');
 
@@ -23,16 +24,32 @@ const LevelsScreen = ({ route, navigation }) => {
   const [progress, setProgress] = useState({ completedLevels: [], currentLevel: 1 });
   const [completionPercentage, setCompletionPercentage] = useState(0);
   const [loading, setLoading] = useState(true);
-
-  console.log('LevelsScreen - Subject object:', subject);
-  console.log('Subject title:', subject.title);
-  console.log('Subject color:', subject.color);
+  const [isDarkMode, setIsDarkMode] = useState(false);
 
   const quizSubjectTitle = getQuizSubjectTitle(subject.title);
-  console.log('Quiz subject title:', quizSubjectTitle);
 
   const totalLevels = getTotalLevelsForSubject(quizSubjectTitle);
   const gradientColors = GRADIENTS[subject.color] || GRADIENTS.primary;
+
+  useEffect(() => {
+    (async () => {
+      try {
+        const saved = await AsyncStorage.getItem('theme_preference');
+        if (saved) {
+          setIsDarkMode(saved === 'dark');
+        }
+      } catch (e) {}
+    })();
+  }, []);
+
+  const theme = useMemo(() => ({
+    background: isDarkMode ? '#0B1220' : COLORS.background,
+    card: isDarkMode ? '#111827' : COLORS.white,
+    textPrimary: isDarkMode ? '#F3F4F6' : COLORS.textPrimary,
+    textSecondary: isDarkMode ? '#9CA3AF' : COLORS.textSecondary,
+    border: isDarkMode ? '#1F2937' : '#E5E7EB',
+    grayBlock: isDarkMode ? '#1F2937' : COLORS.grayLight,
+  }), [isDarkMode]);
 
   useEffect(() => {
     if (totalLevels > 0) {
@@ -42,16 +59,8 @@ const LevelsScreen = ({ route, navigation }) => {
 
   const loadProgress = useCallback(async () => {
     try {
-      console.log('Loading progress for subject:', subject.title);
-      console.log('Quiz subject title:', quizSubjectTitle);
-      console.log('Total levels:', totalLevels);
-      
       const subjectProgress = await getProgressForSubject(quizSubjectTitle);
-      console.log('Subject progress:', subjectProgress);
-      
       const percentage = await getCompletionPercentage(quizSubjectTitle, totalLevels);
-      console.log('Completion percentage:', percentage);
-      
       setProgress(subjectProgress);
       setCompletionPercentage(percentage);
     } catch (error) {
@@ -59,11 +68,11 @@ const LevelsScreen = ({ route, navigation }) => {
     } finally {
       setLoading(false);
     }
-  }, [subject.title, quizSubjectTitle, totalLevels]);
+  }, [quizSubjectTitle, totalLevels]);
 
   const handleLevelPress = async (level) => {
     const isUnlocked = level === 1 || progress.completedLevels.includes(level - 1);
-    
+
     if (!isUnlocked) {
       Alert.alert(
         'Level Locked',
@@ -138,8 +147,7 @@ const LevelsScreen = ({ route, navigation }) => {
   const renderLevelsGrid = () => {
     const rows = [];
     const levelsToShow = totalLevels || 0;
-    console.log('Rendering levels grid with', levelsToShow, 'levels');
-    
+
     for (let i = 1; i <= levelsToShow; i += 5) {
       rows.push(
         <View key={i} style={styles.levelRow}>
@@ -159,9 +167,9 @@ const LevelsScreen = ({ route, navigation }) => {
   }
 
   return (
-    <View style={styles.container}>
-      <StatusBar barStyle="light-content" backgroundColor={COLORS.primary} />
-      
+    <View style={[styles.container, { backgroundColor: theme.background }]}>
+      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} backgroundColor={theme.background} />
+
       {/* Header */}
       <LinearGradient
         colors={gradientColors}
@@ -188,19 +196,19 @@ const LevelsScreen = ({ route, navigation }) => {
       </LinearGradient>
 
       {/* Progress Section */}
-      <View style={styles.progressSection}>
+      <View style={[styles.progressSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
         <View style={styles.progressInfo}>
-          <Text style={styles.progressTitle}>Your Progress</Text>
-                  <Text style={styles.progressText}>
-          {progress.completedLevels.length} of {totalLevels || 0} levels completed
-        </Text>
+          <Text style={[styles.progressTitle, { color: theme.textPrimary }]}>Your Progress</Text>
+          <Text style={[styles.progressText, { color: theme.textSecondary }]}>
+            {progress.completedLevels.length} of {totalLevels || 0} levels completed
+          </Text>
         </View>
-        <View style={styles.progressBar}>
-          <View 
+        <View style={[styles.progressBar, { backgroundColor: theme.grayBlock }]}>
+          <View
             style={[
-              styles.progressFill, 
-              { width: `${completionPercentage}%` }
-            ]} 
+              styles.progressFill,
+              { width: `${completionPercentage}%` },
+            ]}
           />
         </View>
         <Text style={styles.percentageText}>{completionPercentage || 0}%</Text>
@@ -209,39 +217,39 @@ const LevelsScreen = ({ route, navigation }) => {
       {/* Levels Grid */}
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
         <View style={styles.levelsContainer}>
-          <Text style={styles.levelsTitle}>Levels</Text>
+          <Text style={[styles.levelsTitle, { color: theme.textPrimary }]}>Levels</Text>
           {totalLevels > 0 ? (
             renderLevelsGrid()
           ) : (
             <View style={styles.noLevelsContainer}>
-              <Icon name="alert-circle" size={48} color={COLORS.gray} />
-              <Text style={styles.noLevelsText}>No levels available for this subject</Text>
-              <Text style={styles.noLevelsSubtext}>Please check the quiz data configuration</Text>
+              <Icon name="alert-circle" size={48} color={theme.textSecondary} />
+              <Text style={[styles.noLevelsText, { color: theme.textPrimary }]}>No levels available for this subject</Text>
+              <Text style={[styles.noLevelsSubtext, { color: theme.textSecondary }]}>Please check the quiz data configuration</Text>
             </View>
           )}
         </View>
 
         {/* Legend */}
-        <View style={styles.legendContainer}>
-          <Text style={styles.legendTitle}>Legend</Text>
+        <View style={[styles.legendContainer, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.legendTitle, { color: theme.textPrimary }]}>Legend</Text>
           <View style={styles.legendItems}>
             <View style={styles.legendItem}>
-              <View style={[styles.legendBlock, styles.unlockedBlock]}>
+              <View style={[styles.legendBlock, styles.unlockedBlock, { borderColor: theme.border, backgroundColor: theme.card }]}>
                 <Icon name="play-circle" size={16} color={COLORS.primary} />
               </View>
-              <Text style={styles.legendText}>Available</Text>
+              <Text style={[styles.legendText, { color: theme.textSecondary }]}>Available</Text>
             </View>
             <View style={styles.legendItem}>
               <View style={[styles.legendBlock, styles.completedBlock]}>
                 <Icon name="check-circle" size={16} color={COLORS.white} />
               </View>
-              <Text style={styles.legendText}>Completed</Text>
+              <Text style={[styles.legendText, { color: theme.textSecondary }]}>Completed</Text>
             </View>
             <View style={styles.legendItem}>
-              <View style={[styles.legendBlock, styles.lockedBlock]}>
-                <Icon name="lock" size={16} color={COLORS.gray} />
+              <View style={[styles.legendBlock, styles.lockedBlock, { backgroundColor: theme.grayBlock }]}>
+                <Icon name="lock" size={16} color={theme.textSecondary} />
               </View>
-              <Text style={styles.legendText}>Locked</Text>
+              <Text style={[styles.legendText, { color: theme.textSecondary }]}>Locked</Text>
             </View>
           </View>
         </View>
@@ -310,14 +318,8 @@ const styles = StyleSheet.create({
     margin: 16,
     padding: 20,
     borderRadius: 12,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   progressInfo: {
     marginBottom: 12,
@@ -375,14 +377,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     position: 'relative',
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   unlockedBlock: {
     backgroundColor: COLORS.white,
@@ -419,14 +415,8 @@ const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 12,
     marginBottom: 20,
-    elevation: 2,
-    shadowColor: COLORS.black,
-    shadowOffset: {
-      width: 0,
-      height: 1,
-    },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
+    borderWidth: 1,
+    borderColor: '#E5E7EB',
   },
   legendTitle: {
     fontSize: 16,

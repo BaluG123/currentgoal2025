@@ -337,8 +337,7 @@ export const QUIZ_DATA = {
 
 // Helper function to get quiz data for a specific subject
 export const getQuizDataForSubject = (subject) => {
-  console.log('Getting quiz data for subject:', subject);
-  console.log('Available subjects:', Object.keys(QUIZ_DATA));
+  // Reduced logging for performance
   
   // Try exact match first
   if (QUIZ_DATA[subject]) {
@@ -351,11 +350,9 @@ export const getQuizDataForSubject = (subject) => {
   );
   
   if (subjectKey) {
-    console.log('Found matching subject:', subjectKey);
     return QUIZ_DATA[subjectKey];
   }
   
-  console.log('No matching subject found for:', subject);
   return [];
 };
 
