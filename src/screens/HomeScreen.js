@@ -13,7 +13,10 @@ import { SUBJECTS_DATA } from '../data/subjects';
 import SubjectCard from '../components/SubjectCard';
 
 const HomeScreen = ({ navigation }) => {
+  console.log('HomeScreen - SUBJECTS_DATA:', SUBJECTS_DATA);
+  
   const handleSubjectPress = (subject) => {
+    console.log('HomeScreen - Subject pressed:', subject);
     navigation.navigate('SubjectDetail', { subject });
   };
 

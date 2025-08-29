@@ -72,7 +72,7 @@ src/
 
    **For iOS:**
    ```bash
-   npm run ios
+npm run ios
    ```
 
 ## 📚 Subjects Covered

@@ -122,8 +122,7 @@ const SubjectDetailScreen = ({ route, navigation }) => {
             style={styles.studyButton}
             activeOpacity={0.8}
             onPress={() => {
-              // TODO: Navigate to study mode
-              console.log('Start studying:', subject.title);
+              navigation.navigate('LevelsScreen', { subject });
             }}
           >
             <LinearGradient

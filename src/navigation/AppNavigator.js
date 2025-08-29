@@ -9,6 +9,8 @@ import { SUBJECTS_DATA } from '../data/subjects';
 // Screens
 import HomeScreen from '../screens/HomeScreen';
 import SubjectDetailScreen from '../screens/SubjectDetailScreen';
+import LevelsScreen from '../screens/LevelsScreen';
+import QuizScreen from '../screens/QuizScreen';
 
 // Custom Drawer Content
 import CustomDrawerContent from '../components/CustomDrawerContent';
@@ -26,6 +28,8 @@ const HomeStack = () => {
     >
       <Stack.Screen name="HomeMain" component={HomeScreen} />
       <Stack.Screen name="SubjectDetail" component={SubjectDetailScreen} />
+      <Stack.Screen name="LevelsScreen" component={LevelsScreen} />
+      <Stack.Screen name="QuizScreen" component={QuizScreen} />
     </Stack.Navigator>
   );
 };
