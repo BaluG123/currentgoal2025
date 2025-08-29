@@ -57,6 +57,7 @@ export const GRADIENTS = {
   primary: ['#1E3A8A', '#3B82F6'],
   secondary: ['#059669', '#10B981'],
   accent: ['#DC2626', '#EF4444'],
+  success: ['#10B981', '#34D399'],
   history: ['#8B5CF6', '#A78BFA'],
   geography: ['#06B6D4', '#22D3EE'],
   polity: ['#F59E0B', '#FBBF24'],
