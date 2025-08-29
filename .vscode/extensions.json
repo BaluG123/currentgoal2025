@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "msjsdiag.vscode-react-native",
+    "jawandarajbir.react-vscode-react-native-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "rbbit.typescript-hero",
+    "christian-kohler.path-intellisense",
+    "steoates.autoimport",
+    "styled-components.vscode-styled-components",
+    "bradlc.vscode-tailwindcss",
+    "eamodio.gitlens",
+    "usernamehw.errorlens"
+  ]
+}

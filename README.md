@@ -1,97 +1,203 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# PSIESI - Government Exam Preparation App
 
-# Getting Started
+A comprehensive React Native mobile application designed to help students prepare for Indian & Karnataka Government Exams. The app provides organized study materials covering all major subjects with detailed subtopics and topics.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## 🎯 Features
 
-## Step 1: Start Metro
+- **9 Major Subjects**: History, Geography, Political Science, Economics, Science, Current Affairs, Culture & Society, Technology & Development, and Language & Communication
+- **Beautiful UI/UX**: Modern design with gradient cards, smooth animations, and intuitive navigation
+- **Drawer Navigation**: Easy access to all subjects through a beautiful drawer menu
+- **Detailed Content**: Each subject contains multiple subtopics with comprehensive topic lists
+- **Responsive Design**: Optimized for both Android and iOS devices
+- **Color-coded Subjects**: Each subject has its own color theme for easy identification
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## 📱 Screenshots
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+The app features:
+- **Home Screen**: Grid layout of all subjects with gradient cards
+- **Subject Detail Screen**: Expandable list of subtopics and topics
+- **Drawer Navigation**: Custom drawer with user profile and subject navigation
 
-```sh
-# Using npm
-npm start
+## 🏗️ Project Structure
 
-# OR using Yarn
-yarn start
+```
+src/
+├── components/
+│   └── CustomDrawerContent.js    # Custom drawer navigation component
+├── constants/
+│   └── colors.js                 # Color themes and gradients
+├── data/
+│   └── subjects.js               # Complete subject data with topics
+├── navigation/
+│   └── AppNavigator.js           # Main navigation setup
+├── screens/
+│   ├── HomeScreen.js             # Main home screen
+│   └── SubjectDetailScreen.js    # Subject detail screen
+└── utils/                        # Utility functions (future use)
 ```
 
-## Step 2: Build and run your app
+## 🚀 Getting Started
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+### Prerequisites
 
-### Android
+- Node.js (>= 18)
+- React Native CLI
+- Android Studio (for Android development)
+- Xcode (for iOS development, macOS only)
 
-```sh
-# Using npm
-npm run android
+### Installation
 
-# OR using Yarn
-yarn android
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd PSIESI
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Install iOS dependencies** (macOS only)
+   ```bash
+   cd ios && pod install && cd ..
+   ```
+
+4. **Run the app**
+
+   **For Android:**
+   ```bash
+   npm run android
+   ```
+
+   **For iOS:**
+   ```bash
+   npm run ios
+   ```
+
+## 📚 Subjects Covered
+
+### 1. History
+- Ancient Indian History
+- Medieval Indian History
+- Modern Indian History
+- Karnataka History (State-Specific)
+
+### 2. Geography
+- Physical Geography
+- Indian Geography
+- Karnataka Geography
+
+### 3. Political Science
+- Constitution of India
+- Governance
+- Important Amendments & Acts
+
+### 4. Economics
+- Basic Concepts
+- Indian Economy
+- Karnataka Economy
+- Current Economic Issues
+
+### 5. Science
+- Physics
+- Chemistry
+- Biology
+- Environmental Science
+- Space & Defence Science
+
+### 6. Current Affairs
+- National & International Current Affairs
+- Indian Government Schemes & Programs
+- Karnataka Government Schemes
+- Recent Bills & Acts
+
+### 7. Culture & Society
+- Indian Culture
+- Karnataka Culture
+- Society
+
+### 8. Technology & Development
+- Information Technology & AI
+- Biotechnology & Healthcare
+- Space & Defence Technology
+- Infrastructure Development
+- Sustainable Development
+
+### 9. Language & Communication
+- English / Kannada Grammar
+- Reading & Writing
+- Official & Administrative
+
+## 🎨 Design System
+
+The app uses a comprehensive color system with:
+- **Primary Colors**: Deep blue theme
+- **Subject-specific Colors**: Each subject has its own color identity
+- **Gradients**: Beautiful gradient backgrounds for cards and headers
+- **Typography**: Consistent font sizes and weights
+- **Spacing**: Systematic spacing using consistent margins and padding
+
+## 🔧 Technologies Used
+
+- **React Native**: Cross-platform mobile development
+- **React Navigation**: Navigation library with drawer and stack navigators
+- **React Native Vector Icons**: Material Design icons
+- **React Native Linear Gradient**: Gradient backgrounds
+- **React Native Gesture Handler**: Touch handling for drawer navigation
+- **React Native Reanimated**: Smooth animations
+
+## 📦 Dependencies
+
+```json
+{
+  "@react-navigation/drawer": "^6.x.x",
+  "@react-navigation/native": "^6.x.x",
+  "@react-navigation/stack": "^6.x.x",
+  "react-native-gesture-handler": "^2.x.x",
+  "react-native-linear-gradient": "^2.x.x",
+  "react-native-reanimated": "^3.x.x",
+  "react-native-safe-area-context": "^4.x.x",
+  "react-native-screens": "^3.x.x",
+  "react-native-vector-icons": "^10.x.x"
+}
 ```
 
-### iOS
+## 🚧 Future Enhancements
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+- [ ] Quiz/MCQ functionality
+- [ ] Progress tracking
+- [ ] Study timer
+- [ ] Offline content download
+- [ ] Search functionality
+- [ ] Bookmark important topics
+- [ ] Dark mode support
+- [ ] Push notifications for study reminders
+- [ ] Performance analytics
+- [ ] Social features (study groups)
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+## 🤝 Contributing
 
-```sh
-bundle install
-```
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Then, and every time you update your native dependencies, run:
+## 📄 License
 
-```sh
-bundle exec pod install
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+## 👨‍💻 Development Team
 
-```sh
-# Using npm
-npm run ios
+- **PSIESI Team** - Government Exam Preparation Specialists
 
-# OR using Yarn
-yarn ios
-```
+## 📞 Support
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+For support and queries, please contact:
+- Email: support@psiesi.com
+- Website: www.psiesi.com
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+---
 
-## Step 3: Modify your app
-
-Now that you have successfully run the app, let's make changes!
-
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+**Note**: This app is designed specifically for Indian & Karnataka Government Exam preparation. The content is comprehensive and regularly updated to match the latest exam patterns and syllabi.
