@@ -3625,6 +3625,158 @@ export const QUIZ_DATA = {
     {
       level: 1,
       mainsubject: 'Economics',
+      question: 'What is the difference between GDP and GNP?',
+      options: [
+        'GDP includes income from abroad, GNP does not',
+        'GNP includes income from abroad, GDP does not',
+        'GDP and GNP are the same',
+        'GDP includes only goods, GNP includes services',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "GDP (Gross Domestic Product) measures the total value of goods and services produced within a country's borders. GNP (Gross National Product) includes GDP plus net income earned from abroad. Understanding this distinction helps clarify national income accounting and international economic activity.",
+      difficulty: 'Easy',
+      hint: 'Think about domestic vs. national production',
+    },
+    {
+      level: 2,
+      mainsubject: 'Economics',
+      question: 'Which of the following is a tool of fiscal policy?',
+      options: [
+        'Repo Rate',
+        'Open Market Operations',
+        'Government Spending',
+        'Cash Reserve Ratio',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Fiscal policy involves government decisions on taxation and spending. Government spending is a direct tool of fiscal policy, used to influence economic activity. Repo rate and CRR are monetary tools used by the RBI. This question also touches on the difference between fiscal and monetary policy.',
+      difficulty: 'Medium',
+      hint: 'Fiscal policy is about government budget decisions',
+    },
+    {
+      level: 3,
+      mainsubject: 'Economics',
+      question: 'Which committee recommended the establishment of NITI Aayog?',
+      options: [
+        'Rangarajan Committee',
+        'Planning Commission',
+        'Narendra Modi Cabinet',
+        'Finance Commission',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'NITI Aayog was established in 2015 by the Union Cabinet under Prime Minister Narendra Modi, replacing the Planning Commission. It aims to foster cooperative federalism and provide strategic inputs to policy-making. This question links to economic planning and institutional reforms.',
+      difficulty: 'Hard',
+      hint: 'Think post-Planning Commission era',
+    },
+    {
+      level: 4,
+      mainsubject: 'Economics',
+      question: 'What is inflation?',
+      options: [
+        'Decrease in general price level',
+        'Increase in general price level',
+        'Increase in production',
+        'Decrease in employment',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Inflation refers to the sustained increase in the general price level of goods and services in an economy over a period of time. It affects purchasing power and is a key indicator of economic health. Related concepts include deflation, CPI, and WPI.',
+      difficulty: 'Easy',
+      hint: 'Think rising prices',
+    },
+    {
+      level: 5,
+      mainsubject: 'Economics',
+      question: "Which sector contributes the most to Karnataka's GDP?",
+      options: ['Agriculture', 'Industry', 'Services', 'Mining'],
+      correctAnswer: 3,
+      explanation:
+        'The services sector, especially IT and biotechnology, contributes the most to Karnataka’s GDP. Bengaluru is a major hub for software exports. This question connects to regional economic development and industrial hubs.',
+      difficulty: 'Medium',
+      hint: 'Think Bengaluru’s economy',
+    },
+    {
+      level: 6,
+      mainsubject: 'Economics',
+      question:
+        'What was the primary objective of Demonetization in India (2016)?',
+      options: [
+        'Increase GDP',
+        'Control inflation',
+        'Curb black money and promote digital economy',
+        'Reduce fiscal deficit',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Demonetization aimed to curb black money, counterfeit currency, and promote digital transactions. It had mixed economic impacts including short-term liquidity crunch and long-term digital adoption. This question ties into current economic issues and policy evaluation.',
+      difficulty: 'Hard',
+      hint: 'Think currency and digital shift',
+    },
+    {
+      level: 7,
+      mainsubject: 'Economics',
+      question: 'Which institution prepares the Union Budget in India?',
+      options: [
+        'Reserve Bank of India',
+        'Ministry of Finance',
+        'NITI Aayog',
+        'Planning Commission',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The Ministry of Finance prepares the Union Budget, which outlines government revenue and expenditure. It is a key tool of fiscal policy and reflects priorities in taxation, welfare, and development.',
+      difficulty: 'Easy',
+      hint: 'Think finance ministry',
+    },
+    {
+      level: 8,
+      mainsubject: 'Economics',
+      question: 'Which of the following is a direct tax?',
+      options: ['GST', 'Income Tax', 'Excise Duty', 'Customs Duty'],
+      correctAnswer: 2,
+      explanation:
+        'Income Tax is a direct tax paid directly by individuals and entities to the government. Indirect taxes like GST are collected by intermediaries. This question helps distinguish tax types and their economic implications.',
+      difficulty: 'Medium',
+      hint: 'Directly paid by taxpayer',
+    },
+    {
+      level: 9,
+      mainsubject: 'Economics',
+      question:
+        'Which irrigation project is crucial for agriculture in North Karnataka?',
+      options: [
+        'Bhakra Nangal',
+        'Tungabhadra Dam',
+        'Sardar Sarovar',
+        'Tehri Dam',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Tungabhadra Dam is vital for irrigation in North Karnataka, supporting crops like paddy and sugarcane. It plays a role in rural development and water resource management. This question links to Karnataka’s agricultural economy.',
+      difficulty: 'Hard',
+      hint: 'Think major river project in Karnataka',
+    },
+    {
+      level: 10,
+      mainsubject: 'Economics',
+      question: 'Which of the following is a feature of MSMEs?',
+      options: [
+        'Large capital investment',
+        'High employment generation',
+        'Export monopoly',
+        'Government ownership',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Micro, Small and Medium Enterprises (MSMEs) are known for generating employment with relatively low capital investment. They are vital for inclusive growth and industrial development. This question connects to industrial policy and economic planning.',
+      difficulty: 'Medium',
+      hint: 'Think small businesses and jobs',
+    },
+    {
+      level: 11,
+      mainsubject: 'Economics',
       question: 'What does GDP stand for?',
       options: [
         'Gross Domestic Product',
@@ -3639,7 +3791,7 @@ export const QUIZ_DATA = {
       hint: 'Think about economic measurement',
     },
     {
-      level: 2,
+      level: 12,
       mainsubject: 'Economics',
       question: 'Which of the following is NOT a function of RBI?',
       options: [
@@ -3653,6 +3805,4990 @@ export const QUIZ_DATA = {
         'RBI does not directly lend to the public. It regulates banks and provides banking services to the government.',
       difficulty: 'Medium',
       hint: 'RBI is a central bank, not a commercial bank',
+    },
+    {
+      level: 13,
+      mainsubject: 'Economics',
+      question: "Which of the following best describes 'National Income'?",
+      options: [
+        'The total revenue of the government.',
+        'The total value of all goods and services produced in a country in a year.',
+        'The total income of all individuals in the country.',
+        'The total profit made by all companies in the country.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "National Income is the total monetary value of all final goods and services produced by a country during a period of one year. It's a comprehensive measure of economic activity and is often used interchangeably with Gross National Product (GNP) at market prices. It's important to distinguish it from government revenue (which is primarily from taxes), individual incomes (which is a part of national income, but not the whole picture), and corporate profits (also just a component). Understanding this concept is fundamental to macroeconomics.",
+      difficulty: 'Easy',
+      hint: 'Think about the total output of a nation.',
+    },
+    {
+      level: 14,
+      mainsubject: 'Economics',
+      question:
+        "What is the main purpose of the Reserve Bank of India's (RBI) Monetary Policy?",
+      options: [
+        'To increase government revenue through taxes.',
+        'To manage the supply of money and credit in the economy to maintain price stability and support growth.',
+        'To directly fund infrastructure projects.',
+        'To regulate the stock market and protect investors.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The primary objective of the RBI's Monetary Policy is to control the money supply in the economy to achieve macroeconomic goals. This involves managing interest rates (like the repo rate), controlling inflation within a target range (currently 4% with a +/- 2% tolerance band), ensuring adequate credit flow to productive sectors, and maintaining overall financial stability. Fiscal policy deals with government revenue and expenditure. While the RBI's actions indirectly impact infrastructure and markets, its core mandate is monetary management, not direct funding or stock market regulation (which is SEBI's role).",
+      difficulty: 'Medium',
+      hint: "Consider the central bank's role in controlling inflation and interest rates.",
+    },
+    {
+      level: 15,
+      mainsubject: 'Economics',
+      question: "The concept of 'Fiscal Deficit' represents:",
+      options: [
+        'The difference between total revenue and total expenditure of the government.',
+        'The total borrowings of the government.',
+        "The amount by which government's total expenditure exceeds its total revenue, excluding borrowings.",
+        'The total tax revenue collected by the government.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "Fiscal Deficit is a key indicator of the government's financial health. It is calculated as: Total Expenditure - (Revenue Receipts + Non-debt creating Capital Receipts). Essentially, it shows the total amount of borrowing the government needs to meet its expenses. A high fiscal deficit can lead to inflation, increased government debt, and can crowd out private investment. It is different from 'Revenue Deficit' (which is the excess of revenue expenditure over revenue receipts) and 'Primary Deficit' (Fiscal Deficit minus interest payments).",
+      difficulty: 'Hard',
+      hint: "Think about the gap between the government's spending and its income, without considering loans.",
+    },
+    {
+      level: 16,
+      mainsubject: 'Indian Economy',
+      question:
+        'NITI Aayog, which replaced the Planning Commission, functions as a:',
+      options: [
+        'Constitutional body with financial allocation powers.',
+        'Statutory body that executes five-year plans.',
+        'Think tank or advisory body to the government.',
+        'Regulatory body for central and state finances.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'NITI Aayog (National Institution for Transforming India) was established in 2015 to replace the Planning Commission. Unlike the Planning Commission, which had the power to allocate funds to states and formulate five-year plans, NITI Aayog is primarily a policy think tank for the Government of India. It fosters cooperative federalism by involving states in the policy-making process and provides strategic and technical advice on various economic and social issues. It does not have the power to allocate funds.',
+      difficulty: 'Easy',
+      hint: 'Consider its role in providing policy advice rather than allocating funds.',
+    },
+    {
+      level: 17,
+      mainsubject: 'Indian Economy',
+      question:
+        "What is the primary objective of the 'Pradhan Mantri Fasal Bima Yojana' (PMFBY)?",
+      options: [
+        'To provide free seeds to farmers.',
+        'To offer insurance coverage and financial support to farmers in the event of crop failure.',
+        'To set the Minimum Support Price (MSP) for crops.',
+        'To provide direct income support to all landholding farmer families.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a comprehensive crop insurance scheme. Its main goal is to protect farmers against financial losses resulting from crop damage or failure due to natural calamities, pests, or diseases. It aims to stabilize farmers' income and encourage them to adopt innovative and modern agricultural practices. This is different from the PM-KISAN scheme, which provides direct income support, and the MSP regime, which guarantees a price for certain crops.",
+      difficulty: 'Medium',
+      hint: "The word 'Bima' in the scheme's name means insurance.",
+    },
+    {
+      level: 18,
+      mainsubject: 'Indian Economy',
+      question:
+        'Which type of unemployment is prevalent in the Indian agricultural sector, where more people are employed than actually needed?',
+      options: [
+        'Frictional Unemployment',
+        'Structural Unemployment',
+        'Cyclical Unemployment',
+        'Disguised Unemployment',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "Disguised unemployment, also known as hidden unemployment, is a situation where the marginal productivity of labor is zero or negative. This is common in India's agricultural sector, where a single farm might have multiple family members working on it, but the work could be done by fewer people without affecting the output. Frictional unemployment is temporary and occurs when people are between jobs. Structural unemployment is due to a mismatch between skills and available jobs. Cyclical unemployment is related to the business cycle.",
+      difficulty: 'Hard',
+      hint: "Think about a situation where removing some workers doesn't reduce the total output.",
+    },
+    {
+      level: 19,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "Which city in Karnataka is famously known as the 'Silicon Valley of India' due to its booming IT industry?",
+      options: ['Mysuru', 'Mangaluru', 'Bengaluru', 'Hubli-Dharwad'],
+      correctAnswer: 3,
+      explanation:
+        "Bengaluru (formerly Bangalore) is renowned globally as the 'Silicon Valley of India'. It is the nation's leading information technology (IT) exporter and is home to a vast number of multinational and domestic technology companies, R&D centers, and startups. This has made it a major economic hub and a significant contributor to both the state and national GDP. While Mysuru, Mangaluru, and Hubli-Dharwad are also important industrial centers, Bengaluru's dominance in the IT sector is unparalleled.",
+      difficulty: 'Easy',
+      hint: 'This city is the capital of Karnataka.',
+    },
+    {
+      level: 20,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Almatti Dam, a key component of the Upper Krishna Project, is built across which river?',
+      options: ['Cauvery', 'Tungabhadra', 'Krishna', 'Sharavathi'],
+      correctAnswer: 3,
+      explanation:
+        'The Almatti Dam is a major hydroelectric and irrigation project in North Karnataka, built across the Krishna River. It is a vital part of the Upper Krishna Project, which helps irrigate the drought-prone areas of Vijayapura, Bagalkot, Kalaburagi, Yadgir, and Raichur districts. The Cauvery river has the Krishna Raja Sagara (KRS) dam, and the Tungabhadra river has the Tungabhadra dam. The Sharavathi river is famous for the Jog Falls and its hydroelectric projects.',
+      difficulty: 'Medium',
+      hint: "The name of the project, 'Upper Krishna Project', gives a clue.",
+    },
+    {
+      level: 21,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Karnataka Industrial Area Development Board (KIADB) was established with the primary objective of:',
+      options: [
+        'Providing loans to small and medium enterprises (MSMEs).',
+        'Promoting rapid and orderly establishment of industrial areas in the state.',
+        'Regulating the prices of industrial goods.',
+        'Managing the export of silk and IT services from the state.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The Karnataka Industrial Area Development Board (KIADB) is a statutory body of the Government of Karnataka. Its primary function is to acquire land and develop it with necessary infrastructure like roads, water supply, and electricity, creating industrial estates. This facilitates the setting up of industries in a planned and organized manner across the state. While its work supports MSMEs and exports, its core mandate is the development of industrial areas, not providing loans or price regulation.',
+      difficulty: 'Hard',
+      hint: "Focus on the 'Development Board' part of its name.",
+    },
+    {
+      level: 22,
+      mainsubject: 'Current Economic Issues',
+      question: 'What does GST, implemented in India in 2017, stand for?',
+      options: [
+        'General Sales Tax',
+        'Goods and Services Tax',
+        'Government Service Tax',
+        'Gross State Tax',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'GST stands for Goods and Services Tax. It is a comprehensive, multi-stage, destination-based indirect tax that has replaced many indirect taxes in India, such as excise duty, VAT, and service tax. The main aim of GST was to create a single, unified market across India and eliminate the cascading effect of taxes (tax on tax), thereby simplifying the tax structure and improving compliance.',
+      difficulty: 'Easy',
+      hint: "It's a single tax on the supply of both goods and services.",
+    },
+    {
+      level: 23,
+      mainsubject: 'Current Economic Issues',
+      question:
+        "The 'Demonetisation' exercise in 2016 involved the withdrawal of which currency notes as legal tender?",
+      options: [
+        '₹100 and ₹500 notes',
+        '₹500 and ₹1000 notes',
+        '₹1000 and ₹2000 notes',
+        '₹50 and ₹100 notes',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The 2016 demonetisation in India was a major economic step where the government declared that the existing ₹500 and ₹1000 denomination banknotes would no longer be valid as legal tender. The stated objectives were to curb black money, counterfeit currency, and terror financing. This was followed by the introduction of new ₹500 and ₹2000 notes. The move had a significant short-term impact on the economy, particularly on the cash-intensive informal sector.',
+      difficulty: 'Medium',
+      hint: 'Think about the high-value notes that were in circulation before the introduction of the new ₹2000 note.',
+    },
+    {
+      level: 24,
+      mainsubject: 'Current Economic Issues',
+      question:
+        "In the context of globalization, what does the term 'FDI' mean?",
+      options: [
+        'Fiscal Deficit Index',
+        'Foreign Direct Investment',
+        'Federal Department of Investigation',
+        'Financial Development Initiative',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "FDI stands for Foreign Direct Investment. It is an investment made by a firm or individual from one country into business interests located in another country. FDI is a crucial source of non-debt financial resources for a developing country's economic development. It is different from Foreign Portfolio Investment (FPI), where investors buy equities or bonds of a foreign country. FDI is generally considered more stable as it involves a long-term interest in the host country's economy, often including the transfer of technology and management skills.",
+      difficulty: 'Hard',
+      hint: 'It refers to an investment from an entity in one country into a business in another.',
+    },
+    {
+      level: 25,
+      mainsubject: 'Economics',
+      question:
+        'When inflation is high, the RBI is likely to take which of the following actions as part of its monetary policy?',
+      options: [
+        'Decrease the Repo Rate',
+        'Increase the Repo Rate',
+        'Buy government securities in the open market',
+        'Lower the Cash Reserve Ratio (CRR)',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'To combat high inflation, the RBI adopts a contractionary (or hawkish) monetary policy. Increasing the Repo Rate is a key tool for this. The repo rate is the rate at which the RBI lends money to commercial banks. A higher repo rate makes borrowing more expensive for banks, which in turn leads to higher lending rates for businesses and consumers. This reduces the money supply in the economy, curbs demand, and helps control inflation. Decreasing the repo rate, buying securities, or lowering CRR are expansionary measures used to boost economic growth.',
+      difficulty: 'Medium',
+      hint: 'Think about whether the central bank wants to make money cheaper or more expensive to borrow.',
+    },
+    {
+      level: 26,
+      mainsubject: 'Indian Economy',
+      question:
+        "The concept of 'Public Finance' in India primarily deals with:",
+      options: [
+        'The financial management of publicly listed companies.',
+        'The management of household savings and investments.',
+        'The revenue, expenditure, and debt operations of the government.',
+        'The regulation of foreign exchange markets.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "Public Finance is a branch of economics that studies the role of the government in the economy. It is concerned with how the government raises its revenue (through taxation, non-tax sources, and borrowings), how it spends this money (on defense, infrastructure, social welfare, etc.), and how it manages its debt. The annual Union Budget is the most important policy document related to India's public finance.",
+      difficulty: 'Hard',
+      hint: "This field of economics is concerned with the government's wallet.",
+    },
+    {
+      level: 27,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Mysuru city in Karnataka is globally renowned for the production and GI-tagged status of which product?',
+      options: ['Coffee', 'Spices', 'Silk', 'Cashews'],
+      correctAnswer: 3,
+      explanation:
+        "Mysuru is famous for its high-quality silk sarees, which have a Geographical Indication (GI) tag. The 'Mysore Silk' is known for its durability, lustre, and fine texture. The city has been a center for silk production for centuries, with the industry being actively promoted by the Wodeyar dynasty. While Karnataka is also a major producer of coffee (especially in the Kodagu and Chikkamagaluru districts), Mysuru's primary industrial heritage is linked to silk.",
+      difficulty: 'Medium',
+      hint: 'This product is often used to make a traditional Indian garment for women.',
+    },
+    {
+      level: 28,
+      mainsubject: 'Current Economic Issues',
+      question: 'Under the GST regime, what is the role of the GST Council?',
+      options: [
+        'To directly collect GST from businesses.',
+        'To prosecute cases of tax evasion.',
+        'To make recommendations to the Union and State Governments on issues related to GST, like tax rates and exemptions.',
+        'To conduct audits of all registered businesses.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The GST Council is a constitutional body (under Article 279A) responsible for making key decisions regarding the Goods and Services Tax. It is a joint forum of the Centre and the States, chaired by the Union Finance Minister. Its primary role is to make recommendations on almost all aspects of GST, including the tax rates for different goods and services, the items to be exempted, the threshold limit for registration, and the rules for administration. The actual collection and administration are done by the Central and State tax authorities.',
+      difficulty: 'Hard',
+      hint: "Think of it as the main decision-making body for GST in India's federal system.",
+    },
+    {
+      level: 29,
+      mainsubject: 'Economics',
+      question: 'What does GNP (Gross National Product) measure?',
+      options: [
+        "The total value of production within a country's borders.",
+        "The total income earned by a country's residents, regardless of where they are located.",
+        'The total value of exports minus imports.',
+        'The total government spending in a fiscal year.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Gross National Product (GNP) measures the total value of all finished goods and services produced by a country's citizens in a given financial year, irrespective of their geographical location. The key difference between GDP and GNP is the inclusion of 'Net Factor Income from Abroad'. GNP = GDP + (Income earned by Indian residents abroad - Income earned by foreign residents in India). It focuses on the income of the nationals of a country.",
+      difficulty: 'Easy',
+      hint: "Focus on the 'National' part – it's about the income of the country's citizens.",
+    },
+    {
+      level: 30,
+      mainsubject: 'Indian Economy',
+      question:
+        "The 'Green Revolution' in India was primarily focused on increasing the production of which crops?",
+      options: [
+        'Pulses and Oilseeds',
+        'Cotton and Jute',
+        'Wheat and Rice',
+        'Fruits and Vegetables',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The Green Revolution, which began in the 1960s, was a period when agricultural productivity in India increased drastically. The focus was on improving the output of food grains to ensure food security. This was achieved through the introduction of high-yielding varieties (HYV) of seeds, increased use of fertilizers and pesticides, and better irrigation facilities. The most significant gains were seen in the production of wheat and rice, particularly in states like Punjab, Haryana, and Uttar Pradesh.',
+      difficulty: 'Medium',
+      hint: 'Think about the staple food grains that form the core of the Indian diet.',
+    },
+    {
+      level: 31,
+      mainsubject: 'Economics',
+      question: "A situation of 'Stagflation' is characterized by:",
+      options: [
+        'High economic growth and low inflation.',
+        'Low economic growth and low inflation.',
+        'High unemployment and falling prices.',
+        'High inflation and high unemployment (stagnant growth).',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "Stagflation is a particularly difficult economic situation for policymakers. It combines 'stagnation' (slow economic growth and high unemployment) with high 'inflation' (rising prices). This contradicts the traditional Phillips Curve theory, which suggests an inverse relationship between inflation and unemployment. Stagflation can be caused by supply-side shocks, such as a sharp increase in oil prices, which can increase business costs and reduce production, leading to both higher prices and lower output.",
+      difficulty: 'Hard',
+      hint: "The name itself is a combination of 'stagnation' and 'inflation'.",
+    },
+    {
+      level: 32,
+      mainsubject: 'Current Economic Issues',
+      question:
+        "The term 'Digital Economy' broadly refers to an economy that is based on:",
+      options: [
+        'The manufacturing of electronic goods.',
+        'The export of software services.',
+        'Digital computing technologies and the internet.',
+        'The use of cryptocurrency for all transactions.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The Digital Economy refers to a wide range of economic activities, transactions, and interactions that are enabled by digital technologies, primarily the internet. This includes e-commerce, online services, digital banking (like UPI), gig economy platforms, and the data-driven business models of tech companies. While software exports and electronics manufacturing are parts of it, the concept is much broader and encompasses the overall shift of economic activity to online and digital platforms.',
+      difficulty: 'Medium',
+      hint: 'Think about how the internet has changed the way we buy, sell, and work.',
+    },
+    {
+      level: 33,
+      mainsubject: 'Indian Economy',
+      question: 'The poverty line in India is primarily estimated based on:',
+      options: [
+        'Per capita income',
+        'Household ownership of assets',
+        'Consumption expenditure',
+        'Access to basic healthcare',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "In India, the official poverty line is predominantly determined by the minimum level of **consumption expenditure** required for a person to meet basic needs. This 'poverty line basket' includes food and non-food items. Various committees, like the Tendulkar and Rangarajan committees, have used this method. While per capita income is a measure of average income, it doesn't reflect actual consumption or distribution. Asset ownership and healthcare access are important indicators of welfare but are not the primary basis for the official poverty line calculation.",
+      difficulty: 'Medium',
+      hint: 'Think about how basic needs are measured for a large population.',
+    },
+    {
+      level: 34,
+      mainsubject: 'Economics',
+      question:
+        "What does the term 'Repo Rate' signify in the context of the Indian banking system?",
+      options: [
+        'The rate at which commercial banks lend to the public.',
+        'The rate at which the RBI lends money to commercial banks.',
+        'The rate at which commercial banks deposit their surplus funds with the RBI.',
+        'The interest rate on inter-bank lending.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Repo Rate** (Repurchase Option Rate) is the fixed interest rate at which the Reserve Bank of India (RBI) provides overnight liquidity to commercial banks against the collateral of government securities. It is a key tool of monetary policy. When the RBI increases the repo rate, borrowing becomes more expensive for banks, leading to higher interest rates for loans, which helps control inflation. Conversely, a decrease in the repo rate makes borrowing cheaper, stimulating economic growth. The rate at which banks deposit surplus funds with the RBI is called the **Reverse Repo Rate**.',
+      difficulty: 'Easy',
+      hint: "It's a key interest rate set by the central bank to control money supply.",
+    },
+    {
+      level: 35,
+      mainsubject: 'Current Economic Issues',
+      question: "The term 'Twin Deficit' in an economy refers to:",
+      options: [
+        'High inflation and high unemployment.',
+        'A trade deficit and a budget surplus.',
+        'A fiscal deficit and a current account deficit.',
+        'A revenue deficit and a primary deficit.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The 'Twin Deficit' problem refers to a situation where a country concurrently experiences a **fiscal deficit** (government spending exceeds its revenue) and a **current account deficit** (the value of its imports of goods and services is greater than the value of its exports). These two deficits are often interlinked; a high fiscal deficit can lead to higher domestic demand and inflation, which can make imports cheaper and exports more expensive, thus widening the current account deficit. It's a sign of macroeconomic instability.",
+      difficulty: 'Hard',
+      hint: "Think about deficits on both the government's side and the country's external trade side.",
+    },
+    {
+      level: 36,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "Which major public sector undertaking (PSU) with its headquarters in Bengaluru is a key player in India's aerospace and defense sector?",
+      options: [
+        'Bharat Heavy Electricals Limited (BHEL)',
+        'Steel Authority of India Limited (SAIL)',
+        'Hindustan Aeronautics Limited (HAL)',
+        'National Thermal Power Corporation (NTPC)',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Hindustan Aeronautics Limited (HAL)** is a premier Indian state-owned aerospace and defense company headquartered in Bengaluru, Karnataka. It is one of Asia's largest aerospace companies and has played a crucial role in the design, fabrication, and assembly of aircraft, jet engines, helicopters, and their spare parts for the Indian military and other clients. Its presence has been a key factor in making Bengaluru a major aerospace hub.",
+      difficulty: 'Medium',
+      hint: 'This organization is synonymous with aircraft manufacturing in India.',
+    },
+    {
+      level: 37,
+      mainsubject: 'Indian Economy',
+      question:
+        "Which five-year plan in India had the main objective of 'Garibi Hatao' (Eradication of Poverty)?",
+      options: [
+        'Third Five-Year Plan (1961-66)',
+        'Fourth Five-Year Plan (1969-74)',
+        'Fifth Five-Year Plan (1974-79)',
+        'Sixth Five-Year Plan (1980-85)',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The slogan **'Garibi Hatao'** was central to the **Fifth Five-Year Plan (1974-79)**, championed by then Prime Minister Indira Gandhi. The plan focused on two main objectives: poverty eradication and the attainment of self-reliance. It proposed to raise the consumption standards of the people living below the poverty line through various social welfare programs and employment generation schemes. Though the slogan was given during the 1971 elections, it was formally incorporated into the objectives of this plan.",
+      difficulty: 'Medium',
+      hint: 'This plan was launched in the mid-1970s and focused on poverty and self-reliance.',
+    },
+    {
+      level: 38,
+      mainsubject: 'Economics',
+      question: 'The Lorenz Curve is a graphical representation used to show:',
+      options: [
+        'The relationship between inflation and unemployment.',
+        'The distribution of income or wealth in a population.',
+        'The stages of a business cycle.',
+        'The demand and supply of a commodity.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Lorenz Curve** is a graph that illustrates income or wealth inequality. It plots the cumulative percentage of total income received against the cumulative percentage of the population, starting with the poorest individuals. A perfectly straight diagonal line represents perfect equality (i.e., every x% of the population has x% of the income). The further the Lorenz curve bows away from this diagonal line, the greater the inequality in the society. The **Gini coefficient** is a numerical measure derived from the Lorenz curve.',
+      difficulty: 'Hard',
+      hint: 'This graph helps visualize the gap between the rich and the poor.',
+    },
+    {
+      level: 39,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'What is the primary function of the UPI (Unified Payments Interface) system in India?',
+      options: [
+        'To regulate cryptocurrency transactions.',
+        'To provide long-term loans to businesses.',
+        'To enable instant, real-time inter-bank fund transfers through a mobile platform.',
+        "To manage the government's tax collection portal.",
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**UPI (Unified Payments Interface)** is an instant real-time payment system developed by the National Payments Corporation of India (NPCI). It facilitates inter-bank peer-to-peer (P2P) and person-to-merchant (P2M) transactions. Its key feature is allowing users to link multiple bank accounts into a single mobile application and transfer funds instantly without needing bank account numbers or IFSC codes, using just a Virtual Payment Address (VPA). It has been a cornerstone of India's digital economy revolution.",
+      difficulty: 'Easy',
+      hint: 'Think about popular mobile payment apps like Google Pay, PhonePe, and Paytm.',
+    },
+    {
+      level: 40,
+      mainsubject: 'Indian Economy',
+      question:
+        'The Minimum Support Price (MSP) for agricultural crops in India is recommended by:',
+      options: [
+        'NITI Aayog',
+        "Ministry of Agriculture & Farmers' Welfare",
+        'Commission for Agricultural Costs and Prices (CACP)',
+        'Food Corporation of India (FCI)',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The **Commission for Agricultural Costs and Prices (CACP)** is the statutory body that recommends the Minimum Support Prices (MSP) for various agricultural crops to the Government of India. It considers factors like the cost of production, changes in input prices, and demand-supply conditions. The final decision on the level of MSP is taken by the Cabinet Committee on Economic Affairs (CCEA) based on these recommendations. The Food Corporation of India (FCI) is the main agency responsible for the procurement and distribution of food grains at MSP.',
+      difficulty: 'Medium',
+      hint: 'This specialized commission analyzes the costs involved in farming.',
+    },
+    {
+      level: 41,
+      mainsubject: 'Economics',
+      question: 'Cost-push inflation occurs due to:',
+      options: [
+        'An increase in aggregate demand.',
+        'An increase in the costs of production.',
+        'A decrease in the money supply.',
+        'Government subsidies on essential goods.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Cost-push inflation** is a type of inflation caused by substantial increases in the cost of important goods or services where no suitable alternative is available. It arises from the 'supply side'. For example, a sharp rise in the price of crude oil increases transportation and manufacturing costs, forcing producers to increase the prices of their final goods. This is different from **Demand-pull inflation**, which occurs when aggregate demand in an economy outpaces aggregate supply.",
+      difficulty: 'Hard',
+      hint: "Focus on the 'cost' part of the term – what happens when it becomes more expensive to produce things?",
+    },
+    {
+      level: 42,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "Which region of Karnataka is particularly famous for the cultivation of coffee and is often called the 'Coffee Land of India'?",
+      options: [
+        'Coastal Karnataka (Karavali)',
+        'Bayaluseeme (Deccan Plateau)',
+        'Kalyana-Karnataka (Hyderabad-Karnataka)',
+        'Malnad region (Western Ghats)',
+      ],
+      correctAnswer: 4,
+      explanation:
+        'The **Malnad region**, which covers the hilly areas of the Western Ghats in Karnataka, is renowned for its coffee plantations. Districts like **Kodagu (Coorg)**, **Chikkamagaluru**, and parts of Hassan are the heartland of Indian coffee production. The cool climate, high altitude, and abundant rainfall in this region provide ideal conditions for growing high-quality Arabica and Robusta coffee beans. Chikkamagaluru is historically significant as the place where coffee was first cultivated in India.',
+      difficulty: 'Medium',
+      hint: 'This is a hilly, rain-fed region in the western part of the state.',
+    },
+    {
+      level: 43,
+      mainsubject: 'Indian Economy',
+      question:
+        "The industrial policy resolution of which year is often referred to as the 'Economic Constitution of India' for its emphasis on the public sector?",
+      options: ['1948', '1956', '1977', '1991'],
+      correctAnswer: 2,
+      explanation:
+        "The **Industrial Policy Resolution of 1956** is often called the 'Economic Constitution of India' or the 'Bible of State Capitalism'. It laid down the basic framework for India's industrial development for the next few decades. It emphasized the leading role of the public sector, classifying industries into three categories: Schedule A (exclusively for the state), Schedule B (progressively state-owned), and Schedule C (left to the private sector). This policy guided India's socialist-leaning, state-led development model until the liberalization of 1991.",
+      difficulty: 'Hard',
+      hint: 'This policy was introduced during the second Five-Year Plan.',
+    },
+    {
+      level: 44,
+      mainsubject: 'Economics',
+      question: "Which of the following is a measure of 'Fiscal Policy'?",
+      options: [
+        'Changing the Cash Reserve Ratio (CRR)',
+        'Open Market Operations (OMO)',
+        'Adjusting government spending and taxation',
+        'Setting the bank rate',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Fiscal Policy** refers to the use of government revenue collection (mainly taxes) and expenditure to influence a country's economy. Adjusting government spending levels and tax rates are the primary tools of fiscal policy. For example, during a recession, the government might increase spending on infrastructure or cut taxes to boost demand. In contrast, changing the CRR, conducting OMOs, and setting the bank rate are tools of **Monetary Policy**, which is controlled by the central bank (RBI).",
+      difficulty: 'Easy',
+      hint: "This policy is managed by the government's Ministry of Finance, not the central bank.",
+    },
+    {
+      level: 45,
+      mainsubject: 'Current Economic Issues',
+      question:
+        "The concept of 'V-shaped recovery' in economics, often discussed post-COVID-19, describes a situation where:",
+      options: [
+        'The economy experiences a prolonged period of stagnation.',
+        'The economy declines sharply but then recovers quickly and strongly.',
+        'The economy declines, recovers partially, and then declines again.',
+        'The economy recovers very slowly over a long period.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "A **'V-shaped recovery'** is a type of economic recession and recovery that resembles a 'V' shape on a graph. It involves a sharp economic decline followed by a quick and sustained recovery back to its previous peak level. This is the most optimistic scenario after a recession. Other shapes include a 'U-shaped' (prolonged trough), 'W-shaped' (double-dip recession), and 'L-shaped' (steep decline followed by a long period of stagnation) recovery.",
+      difficulty: 'Medium',
+      hint: 'Think about the shape the economic activity graph would make.',
+    },
+    {
+      level: 46,
+      mainsubject: 'Basic Concepts',
+      question: 'GDP differs from GNP primarily because GNP:',
+      options: [
+        'Excludes services sector output',
+        'Includes net factor income from abroad',
+        'Is always higher than GDP for all countries',
+        'Is measured only at constant prices',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Gross Domestic Product (GDP) measures the value of final goods and services produced within a country's borders, while Gross National Product (GNP) adjusts GDP by adding income earned by residents from abroad and subtracting income earned domestically by non-residents. This adjustment is called Net Factor Income from Abroad (NFIA). Depending on the country's external income flows, GNP can be higher or lower than GDP. Both GDP and GNP can be measured at current or constant prices.",
+      difficulty: 'Easy',
+      hint: 'Think of income crossing borders in or out.',
+    },
+    {
+      level: 47,
+      mainsubject: 'Basic Concepts',
+      question:
+        'Which of the following is excluded from the calculation of national income by the value added method?',
+      options: [
+        'Imputed rent of owner-occupied houses',
+        'Value of intermediate goods',
+        'Net indirect taxes',
+        'Wages and salaries in kind',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'In the value added method, the value of intermediate goods is excluded to avoid double counting; only the value added at each stage is included. Imputed rent of owner-occupied housing is included to reflect the service value consumed. Net indirect taxes (indirect taxes minus subsidies) are added when moving from factor cost to market prices. Wages and salaries in kind are part of compensation of employees and included.',
+      difficulty: 'Medium',
+      hint: 'Avoid counting the same value multiple times.',
+    },
+    {
+      level: 48,
+      mainsubject: 'Basic Concepts',
+      question: 'Demand-pull inflation is primarily caused by:',
+      options: [
+        'Increase in production costs due to higher wages',
+        'Excess aggregate demand over aggregate supply',
+        'Technological improvements reducing costs',
+        'Appreciation of the domestic currency',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Demand-pull inflation occurs when aggregate demand outpaces aggregate supply, pushing up the general price level. It is often associated with expansionary fiscal or monetary policy, consumer optimism, or investment booms. In contrast, cost-push inflation arises from higher production costs (e.g., wages, commodity prices) that shift supply leftward.',
+      difficulty: 'Easy',
+      hint: 'Too much money chasing too few goods.',
+    },
+    {
+      level: 49,
+      mainsubject: 'Basic Concepts',
+      question:
+        'Which of the following is a likely consequence of persistent deflation?',
+      options: [
+        'Lower real burden of debt',
+        'Higher incentive to spend immediately',
+        'Postponement of consumption and investment',
+        'Rapid nominal wage growth',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Deflation increases the real value of money and the real burden of debt, encouraging households and firms to postpone consumption and investment in anticipation of lower future prices. This can trigger a deflationary spiral, raise real interest rates when nominal rates are near zero, and entrench low growth. Nominal wages tend to be rigid downward, worsening unemployment.',
+      difficulty: 'Medium',
+      hint: 'If prices fall tomorrow, why buy today?',
+    },
+    {
+      level: 50,
+      mainsubject: 'Basic Concepts',
+      question:
+        'The GDP deflator differs from the Consumer Price Index (CPI) because the GDP deflator:',
+      options: [
+        'Covers only imported consumer goods',
+        'Uses a fixed basket of goods and services',
+        'Reflects prices of all domestically produced final goods and services',
+        'Measures only rural price changes',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The GDP deflator measures the price level of all domestically produced final goods and services in the economy and uses current-period weights, making it a broader and flexible-weight index. CPI tracks a fixed basket of consumer goods and services purchased by households and can include imported items. Therefore, the GDP deflator and CPI can diverge due to coverage and weighting differences.',
+      difficulty: 'Medium',
+      hint: 'Think economy-wide output vs household purchases.',
+    },
+    {
+      level: 51,
+      mainsubject: 'Basic Concepts',
+      question: 'Real GDP increases only when:',
+      options: [
+        'Nominal GDP increases faster than prices',
+        'The GDP deflator rises',
+        'Exports increase',
+        'The population grows',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Real GDP adjusts nominal GDP for changes in the price level. Real GDP rises when the growth of nominal GDP exceeds inflation, indicating an increase in actual output. A rising deflator by itself indicates higher prices, not necessarily higher real output. Exports and population may influence growth, but real GDP is determined by output net of price changes.',
+      difficulty: 'Easy',
+      hint: 'Strip out inflation from nominal growth.',
+    },
+    {
+      level: 52,
+      mainsubject: 'Basic Concepts',
+      question:
+        'In the Indian context, the Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) primarily aim to:',
+      options: [
+        'Boost government capital expenditure directly',
+        'Manage liquidity and ensure banking system stability',
+        'Set the exchange rate',
+        'Determine tax rates on bank profits',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'CRR requires banks to keep a portion of deposits with the central bank, while SLR mandates holding specified liquid assets (e.g., government securities). Both influence the amount of lendable resources, enable monetary transmission, and contribute to systemic liquidity management and financial stability. They do not set exchange rates or tax policy.',
+      difficulty: 'Medium',
+      hint: 'These are prudential and liquidity tools for banks.',
+    },
+    {
+      level: 53,
+      mainsubject: 'Basic Concepts',
+      question:
+        'The central bank’s ‘lender of last resort’ function refers to:',
+      options: [
+        'Providing emergency liquidity to solvent but illiquid banks',
+        'Financing the government’s budget deficit',
+        'Guaranteeing all bank deposits without limit',
+        'Setting statutory tax rates',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'As lender of last resort, the central bank provides liquidity support to solvent but illiquid institutions facing temporary funding stress, preventing contagion and bank runs. This function stabilizes the financial system during crises. It is distinct from fiscal financing, deposit insurance design, or tax policy.',
+      difficulty: 'Medium',
+      hint: 'Think crisis-time liquidity backstop.',
+    },
+    {
+      level: 54,
+      mainsubject: 'Basic Concepts',
+      question:
+        'An increase in the policy repo rate by the central bank is most likely to:',
+      options: [
+        'Reduce borrowing costs for firms',
+        'Tighten monetary conditions and cool inflationary pressures',
+        'Directly raise government capital spending',
+        'Increase money supply automatically',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Raising the policy repo rate makes borrowing costlier for banks, which is typically passed on to firms and households through higher lending rates. This tightens monetary conditions, moderates credit growth and demand, and helps contain inflationary pressures over time. It does not directly determine fiscal outlays or automatically expand money supply.',
+      difficulty: 'Easy',
+      hint: 'Higher policy rates transmit to higher lending rates.',
+    },
+    {
+      level: 55,
+      mainsubject: 'Basic Concepts',
+      question:
+        'In fiscal policy, the government expenditure multiplier is larger when:',
+      options: [
+        'The marginal propensity to consume is high and there is slack in the economy',
+        'Taxes are lump-sum and leakages are large',
+        'Imports are highly responsive to income',
+        'The economy is at full employment',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'The fiscal multiplier tends to be larger when households spend a larger fraction of additional income (high MPC), when interest rates are constrained, and when idle resources exist (output gap). High import leakages and full employment reduce the multiplier because more spending leaks abroad or crowds out private activity. Distortionary taxes and capacity constraints also dampen the effect.',
+      difficulty: 'Hard',
+      hint: 'Bigger effects when spare capacity and high MPC.',
+    },
+    {
+      level: 56,
+      mainsubject: 'Basic Concepts',
+      question: 'Primary deficit is defined as:',
+      options: [
+        'Fiscal deficit minus interest payments',
+        'Revenue deficit plus capital expenditure',
+        'Total expenditure minus total receipts including borrowings',
+        'Gross fiscal deficit plus primary revenue',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Primary deficit equals fiscal deficit minus interest payments. It measures the borrowing requirements of the government net of interest obligations, indicating the stance of current fiscal operations before servicing past debt. Fiscal deficit itself is total expenditure minus total receipts excluding borrowings.',
+      difficulty: 'Easy',
+      hint: 'Strip interest from the fiscal gap.',
+    },
+    {
+      level: 57,
+      mainsubject: 'Basic Concepts',
+      question: 'Which of the following is a direct tax in India?',
+      options: [
+        'Goods and Services Tax (GST)',
+        'Customs duty',
+        'Personal income tax',
+        'Excise duty',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Personal income tax is levied directly on individuals’ incomes and borne by the same person who pays it, hence a direct tax. GST, customs duty, and excise duty are indirect taxes where the tax is typically passed on to the consumer through prices. India’s tax mix uses both direct and indirect taxes for revenue and redistribution.',
+      difficulty: 'Easy',
+      hint: 'Who bears the tax burden directly?',
+    },
+    {
+      level: 58,
+      mainsubject: 'Basic Concepts',
+      question: 'Automatic stabilizers in fiscal policy primarily refer to:',
+      options: [
+        'Discretionary capital expenditure packages',
+        'Built-in features like progressive taxes and unemployment benefits',
+        'One-time stimulus cheques',
+        'Open market operations by the central bank',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Automatic stabilizers are fiscal mechanisms that adjust with the business cycle without new legislation—progressive taxation increases revenues in booms and falls in recessions; welfare and unemployment benefits rise when the economy slows. They smooth consumption and output volatility. Discretionary spending and monetary tools are not automatic stabilizers.',
+      difficulty: 'Medium',
+      hint: 'They work without new laws each time.',
+    },
+    {
+      level: 59,
+      mainsubject: 'Basic Concepts',
+      question: 'In India’s monetary aggregates, M3 broadly includes:',
+      options: [
+        'Currency with the public only',
+        'Currency with the public plus demand deposits',
+        'M1 plus time deposits with the banking system',
+        'Foreign currency deposits only',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'M3, commonly referred to as broad money, includes M1 (currency with the public, demand deposits with banks, and other deposits with the RBI) plus time deposits with the banking system. It is the key monetary aggregate used for policy and analysis in India. Currency alone or foreign currency deposits alone are narrower or different measures.',
+      difficulty: 'Medium',
+      hint: 'Think: M1 plus time deposits.',
+    },
+    {
+      level: 60,
+      mainsubject: 'Basic Concepts',
+      question: 'The current account in the Balance of Payments records:',
+      options: [
+        'Trade in goods and services, income, and transfers',
+        'Only exports and imports of goods',
+        'Cross-border acquisition of companies',
+        'External commercial borrowings',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'The current account includes trade in goods and services, primary income (investment income, compensation of employees), and secondary income (current transfers like remittances). The capital and financial accounts record cross-border acquisitions, portfolio flows, FDI, and external borrowings. A current account balance reflects saving-investment gaps.',
+      difficulty: 'Medium',
+      hint: 'It captures trade, income, and transfers—not assets.',
+    },
+    {
+      level: 61,
+      mainsubject: 'Indian Economy',
+      question:
+        'NITI Aayog primarily differs from the erstwhile Planning Commission because NITI Aayog:',
+      options: [
+        'Allocates plan funds to states',
+        'Is a policy think tank emphasizing cooperative federalism',
+        'Prepares mandatory Five Year Plans',
+        'Operates as a constitutional body',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'NITI Aayog functions as a policy think tank that fosters cooperative and competitive federalism, offers strategic and technical advice, and emphasizes bottom-up planning. It does not allocate plan funds or prepare binding Five Year Plans. It is an executive body, not a constitutional or statutory one.',
+      difficulty: 'Medium',
+      hint: 'Think advisory role and federal cooperation.',
+    },
+    {
+      level: 62,
+      mainsubject: 'Indian Economy',
+      question: 'A key outcome of India’s Green Revolution was:',
+      options: [
+        'A uniform rise in yields across all crops and regions',
+        'Self-sufficiency in foodgrains with regional concentration in irrigated areas',
+        'A sharp decline in fertilizer use',
+        'Immediate eradication of rural poverty',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The Green Revolution boosted yields in wheat and rice, leading to foodgrain self-sufficiency, especially in irrigated regions like Punjab, Haryana, and western Uttar Pradesh. The gains were not uniform; rainfed areas lagged, input use (HYV seeds, fertilizers, irrigation) increased, and while it improved food security, poverty reduction required broader rural development policies.',
+      difficulty: 'Medium',
+      hint: 'High yields clustered where irrigation and inputs were available.',
+    },
+    {
+      level: 63,
+      mainsubject: 'Indian Economy',
+      question: 'Minimum Support Price (MSP) primarily aims to:',
+      options: [
+        'Subsidize exports of agricultural commodities',
+        'Provide a floor price to protect farmers against distress sales',
+        'Fix retail prices for consumers',
+        'Replace crop insurance schemes',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'MSP is an administered floor price announced for select crops before sowing to assure farmers a minimum remunerative price and reduce the risk of distress sales. It is supported by procurement operations in some crops/regions. MSP does not control retail prices, export subsidies, or substitute for risk-transfer instruments like crop insurance.',
+      difficulty: 'Easy',
+      hint: 'It’s a safety net for farm producers’ prices.',
+    },
+    {
+      level: 64,
+      mainsubject: 'Indian Economy',
+      question: 'NABARD’s core mandate includes:',
+      options: [
+        'Urban housing finance to high-income groups',
+        'Refinance and development support for agriculture and rural sectors',
+        'Regulating stock exchanges',
+        'Managing foreign exchange reserves',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The National Bank for Agriculture and Rural Development (NABARD) provides refinance to rural financial institutions, supports rural infrastructure, promotes microfinance and SHGs, and undertakes development and supervisory functions for rural credit. It does not regulate securities markets or manage forex reserves.',
+      difficulty: 'Easy',
+      hint: 'Think rural credit, infrastructure, and development.',
+    },
+    {
+      level: 65,
+      mainsubject: 'Indian Economy',
+      question: 'A distinct feature of MGNREGA is that it:',
+      options: [
+        'Guarantees 100 days of wage employment per household on demand',
+        'Provides unconditional cash transfers to all rural households',
+        'Focuses only on individual beneficiary assets',
+        'Is implemented exclusively by the central government',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'The Mahatma Gandhi National Rural Employment Guarantee Act ensures up to 100 days of wage employment per rural household on demand, with legal entitlements including timely payment and unemployment allowance if work is not provided. It funds community and individual assets, is implemented by states with central support, and emphasizes transparency and social audits.',
+      difficulty: 'Medium',
+      hint: 'It’s a rights-based, demand-driven rural jobs program.',
+    },
+    {
+      level: 66,
+      mainsubject: 'Indian Economy',
+      question:
+        'Under the revised MSME definition in India, classification is based on:',
+      options: [
+        'Only the number of employees',
+        'Only investment in plant and machinery',
+        'A composite criterion of investment and turnover',
+        'Exports value alone',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'MSMEs are classified using a composite criterion that combines investment in plant and machinery/equipment with annual turnover thresholds. The revised unified definition removes manufacturing–services distinction and allows for growth without immediate loss of MSME status, aiding formalization and market access.',
+      difficulty: 'Medium',
+      hint: 'It’s not just investment; turnover matters too.',
+    },
+    {
+      level: 67,
+      mainsubject: 'Indian Economy',
+      question: 'Industrial corridors are primarily designed to:',
+      options: [
+        'Subsidize consumer goods',
+        'Integrate infrastructure and logistics to spur manufacturing and urbanization',
+        'Replace SEZs entirely',
+        'Discourage FDI inflows',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Industrial corridors coordinate multi-modal transport, power, industrial parks, and urban amenities to reduce logistics costs, enhance agglomeration economies, and catalyze manufacturing and planned urbanization. They complement, not necessarily replace, SEZs. The objective is competitiveness, investment, and job creation, including FDI.',
+      difficulty: 'Medium',
+      hint: 'Think integrated infrastructure for industry and cities.',
+    },
+    {
+      level: 68,
+      mainsubject: 'Indian Economy',
+      question: '‘Make in India’ primarily aims to:',
+      options: [
+        'Promote only low-skill assembly jobs',
+        'Boost manufacturing share, innovation, and investment including FDI',
+        'Impose blanket import bans',
+        'Shift all services to manufacturing',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Make in India seeks to raise manufacturing’s share in GDP, attract domestic and foreign investments, foster innovation, and improve ease of doing business across priority sectors. It focuses on competitiveness, infrastructure, skills, and regulatory reforms rather than indiscriminate import bans or downgrading services.',
+      difficulty: 'Easy',
+      hint: 'Investment, innovation, and manufacturing competitiveness.',
+    },
+    {
+      level: 69,
+      mainsubject: 'Current Economic Issues',
+      question: 'GST in India is best described as:',
+      options: [
+        'Origin-based multi-point tax with cascading',
+        'Destination-based value-added tax subsuming multiple indirect taxes',
+        'Tax on income earned by firms',
+        'A customs duty on imports',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'GST is a destination-based value-added tax on the supply of goods and services, subsuming many central and state indirect taxes. It enables input tax credit across the value chain, reduces cascading, and is implemented as CGST, SGST/UTGST, and IGST depending on intra- or inter-state supplies.',
+      difficulty: 'Easy',
+      hint: 'Value-added, destination-based, with input tax credit.',
+    },
+    {
+      level: 70,
+      mainsubject: 'Indian Economy',
+      question: 'The FRBM framework in India primarily seeks to:',
+      options: [
+        'Fix nominal GDP growth',
+        'Ensure rules-based fiscal discipline and debt sustainability',
+        'Set the exchange rate band',
+        'Regulate bank lending rates',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The Fiscal Responsibility and Budget Management framework aims to institutionalize fiscal consolidation by setting targets for deficits and debt, enhancing transparency, and promoting intergenerational equity. It is not a tool for monetary or exchange rate policy.',
+      difficulty: 'Medium',
+      hint: 'Think rules for deficits and public debt.',
+    },
+    {
+      level: 71,
+      mainsubject: 'Indian Economy',
+      question:
+        'In poverty measurement, a key feature of the Tendulkar methodology was to:',
+      options: [
+        'Use only calorie norms without price adjustments',
+        'Shift to a uniform all-India poverty line ignoring prices',
+        'Incorporate broader consumption including health and education with price adjustments',
+        'Measure only urban poverty',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The Tendulkar Committee recommended poverty lines based on consumption expenditure that better reflected essential non-food spending (notably health and education), using state-specific price indices to adjust for cost-of-living differences. It moved beyond strictly calorie norms and covered both rural and urban areas.',
+      difficulty: 'Hard',
+      hint: 'Beyond calories: include essential non-food needs and prices.',
+    },
+    {
+      level: 72,
+      mainsubject: 'Indian Economy',
+      question: 'Disguised unemployment is most commonly found when:',
+      options: [
+        'Marginal productivity of an additional worker is close to zero',
+        'Workers are actively seeking jobs but cannot find any',
+        'High-wage sectors shed labor cyclically',
+        'There is friction due to job search',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Disguised unemployment occurs when more workers are employed than needed such that the marginal product of additional workers is near zero, typical in overmanned agriculture or informal family enterprises. It differs from open unemployment, cyclical layoffs, or frictional unemployment due to search and matching.',
+      difficulty: 'Medium',
+      hint: 'Too many workers sharing too little work.',
+    },
+    {
+      level: 73,
+      mainsubject: 'Indian Economy',
+      question:
+        'A significant characteristic of India’s informal sector is that it:',
+      options: [
+        'Provides formal contracts with social security',
+        'Has low productivity and limited access to formal finance',
+        'Is dominated by large corporations',
+        'Is fully captured in tax net',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The informal sector is characterized by small-scale enterprises, self-employment, absence of formal contracts, lower productivity, and limited access to formal credit and social security. Formalization efforts aim to improve productivity and protections through registration, digital payments, and access to finance.',
+      difficulty: 'Easy',
+      hint: 'Think small, unregistered, and low access to credit.',
+    },
+    {
+      level: 74,
+      mainsubject: 'Indian Economy',
+      question: 'Inclusive growth in India emphasizes:',
+      options: [
+        'Growth without concern for distribution',
+        'Only redistribution without growth',
+        'Broad-based, sustainable growth with access to opportunities and basic services',
+        'Short-term subsidies over long-term investment',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Inclusive growth seeks to ensure that economic expansion translates into widespread opportunities, decent work, and access to basic services (health, education, finance), especially for marginalized groups and regions. It balances efficiency and equity, focusing on productivity-enhancing investments rather than solely short-term transfers.',
+      difficulty: 'Easy',
+      hint: 'Growth that reaches and benefits many.',
+    },
+    {
+      level: 75,
+      mainsubject: 'Indian Economy',
+      question: 'Financial inclusion policies like PMJDY primarily aim to:',
+      options: [
+        'Eliminate all cash from circulation',
+        'Provide universal access to bank accounts, credit, insurance, and remittances',
+        'Fix interest rates for all loans',
+        'Privatize all public sector banks',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Financial inclusion initiatives such as Pradhan Mantri Jan-Dhan Yojana focus on universal access to basic bank accounts, affordable credit, micro-insurance, pension, and efficient remittances, often leveraging Aadhaar and digital payments. The goal is to integrate the unbanked into the formal financial system.',
+      difficulty: 'Medium',
+      hint: 'Access to accounts and basic financial services for all.',
+    },
+    {
+      level: 76,
+      mainsubject: 'Indian Economy',
+      question:
+        'Disinvestment differs from privatization because disinvestment:',
+      options: [
+        'Always transfers management control',
+        'Can be partial sale of government equity without ceding control',
+        'Applies only to loss-making firms',
+        'Is the same as strategic sale',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Disinvestment refers to the sale of government equity in public enterprises, which can be partial and may not involve transfer of management control. Privatization generally implies majority sale or strategic sale with transfer of control to private entities. Both can apply to a range of enterprises, not only loss-making ones.',
+      difficulty: 'Medium',
+      hint: 'Equity sale can be minority or majority—control matters.',
+    },
+    {
+      level: 77,
+      mainsubject: 'Indian Economy',
+      question: 'Public debt sustainability improves when:',
+      options: [
+        'Nominal GDP growth exceeds the effective interest rate on debt',
+        'Primary deficits persist at high levels',
+        'External borrowing rises rapidly in foreign currency',
+        'Inflation is zero with stagnant growth',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Debt dynamics are favorable when nominal GDP growth (g) exceeds the effective interest rate (r), and when the primary balance is close to zero or in surplus, helping stabilize or reduce the debt-to-GDP ratio. High primary deficits, rapid FX borrowing, or low growth can worsen sustainability and increase vulnerabilities.',
+      difficulty: 'Hard',
+      hint: 'Watch the g versus r gap and primary balance.',
+    },
+    {
+      level: 78,
+      mainsubject: 'Indian Economy',
+      question:
+        'A major constraint on India’s manufacturing competitiveness has been:',
+      options: [
+        'Excess electricity generation capacity',
+        'High logistics costs and infrastructure gaps',
+        'Abundant long-term risk capital',
+        'Over-supply of skilled labor',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Logistics costs, fragmented supply chains, and infrastructure bottlenecks (power, transport, warehousing) have historically raised production costs and reduced reliability, constraining scale and integration into global value chains. Addressing these through corridors, freight policies, and digital logistics can boost competitiveness.',
+      difficulty: 'Medium',
+      hint: 'Moving goods reliably and cheaply is key.',
+    },
+    {
+      level: 79,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'A distinctive feature of UPI-based digital payments in India is:',
+      options: [
+        'Closed-loop wallets only',
+        'Interoperable, real-time bank-to-bank transfers using virtual payment addresses',
+        'Settlement only at end of day',
+        'Charges that make small-value transactions unviable',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Unified Payments Interface enables interoperable, real-time bank-to-bank transfers using virtual payment addresses or QR codes, promoting low-cost, user-friendly digital payments at scale. It supports multiple apps and PSPs over shared rails, enhancing network effects and financial inclusion.',
+      difficulty: 'Easy',
+      hint: 'Think instant, interoperable, account-to-account.',
+    },
+    {
+      level: 80,
+      mainsubject: 'Current Economic Issues',
+      question: 'A commonly cited objective of demonetization (2016) was to:',
+      options: [
+        'Increase the money supply permanently',
+        'Curb black money, counterfeit currency, and promote digitization',
+        'Reduce financial inclusion',
+        'Peg the rupee to the dollar',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The stated objectives included curbing black money and counterfeit notes, disrupting terror financing, formalizing the economy, and encouraging digital payments. Its impacts varied across sectors and time, with short-term cash constraints and longer-term formalization and digitization effects debated by economists.',
+      difficulty: 'Medium',
+      hint: 'Targeted informality and counterfeit, nudged digital use.',
+    },
+    {
+      level: 81,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Which is a major irrigation project associated with Karnataka’s river basins?',
+      options: [
+        'Bhakra Nangal Dam',
+        'Tungabhadra Project',
+        'Hirakud Dam',
+        'Sardar Sarovar Project',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The Tungabhadra Project, on the Tungabhadra River (a Krishna tributary), is a significant irrigation and power project benefiting regions in Karnataka and Andhra Pradesh. Bhakra Nangal (Sutlej), Hirakud (Mahanadi), and Sardar Sarovar (Narmada) are in other states/river systems.',
+      difficulty: 'Easy',
+      hint: 'Think Krishna basin in south India.',
+    },
+    {
+      level: 82,
+      mainsubject: 'Karnataka Economy',
+      question: 'Karnataka is a leading producer of which plantation crop?',
+      options: ['Tea', 'Coffee', 'Rubber', 'Jute'],
+      correctAnswer: 2,
+      explanation:
+        'Karnataka is among India’s top coffee producers, especially in the districts of Kodagu, Chikkamagaluru, and Hassan. The agro-climatic conditions in the Western Ghats favor coffee plantations. Tea and jute are concentrated elsewhere, while rubber is more prominent in Kerala and the Northeast.',
+      difficulty: 'Easy',
+      hint: 'Think Western Ghats plantations.',
+    },
+    {
+      level: 83,
+      mainsubject: 'Karnataka Economy',
+      question: 'Bengaluru’s rise as an IT hub is best explained by:',
+      options: [
+        'Only low labor costs',
+        'A confluence of skilled talent, research institutions, policy support, and global connectivity',
+        'Abundant mineral resources',
+        'Proximity to major ports alone',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Bengaluru’s IT ecosystem grew from a foundation of engineering talent, premier institutions, public sector R&D legacy, software technology parks, entrepreneurial culture, and policy support, combined with global client linkages and venture capital. It is not driven by mineral resources or port proximity.',
+      difficulty: 'Medium',
+      hint: 'It’s an ecosystem story, not just cheap labor.',
+    },
+    {
+      level: 84,
+      mainsubject: 'Karnataka Economy',
+      question: 'Mysuru’s silk industry is renowned primarily due to:',
+      options: [
+        'Cotton weaving clusters',
+        'Mulberry sericulture and quality silk weaving traditions',
+        'Jute mills',
+        'Synthetic fiber production',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Mysuru’s silk heritage is rooted in mulberry sericulture, availability of skilled artisans, and traditional weaving techniques producing high-quality silk sarees and fabrics. It is distinct from cotton or jute clusters and synthetic fiber units.',
+      difficulty: 'Easy',
+      hint: 'Sericulture plus craftsmanship.',
+    },
+    {
+      level: 85,
+      mainsubject: 'Karnataka Economy',
+      question: 'Hubballi–Dharwad industrial base is commonly associated with:',
+      options: [
+        'Heavy shipbuilding',
+        'Foundry, engineering goods, and agro-processing',
+        'Only IT services',
+        'Crude oil refining',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Hubballi–Dharwad hosts diversified MSMEs in foundry and engineering goods, auto ancillaries, textiles, and agro-processing, leveraging connectivity within North Karnataka. It is not a center for shipbuilding or oil refining, and while services are present, it is not exclusively IT-focused.',
+      difficulty: 'Medium',
+      hint: 'Think MSME engineering and allied industries.',
+    },
+    {
+      level: 86,
+      mainsubject: 'Karnataka Economy',
+      question: 'Pavagada in Karnataka is noted for a large:',
+      options: [
+        'Aluminum smelter',
+        'Coal mine',
+        'Solar power park',
+        'Tea estate',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Pavagada hosts one of the world’s large solar parks, reflecting Karnataka’s push toward renewable energy capacity and diversified energy mix. It is not associated with coal mining, aluminum smelting, or tea cultivation.',
+      difficulty: 'Easy',
+      hint: 'Renewable energy hub in the state.',
+    },
+    {
+      level: 87,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Karnataka’s Gross State Value Added (GSVA) structure is characterized by:',
+      options: [
+        'Services contributing a significant share alongside growing industry',
+        'Primary sector dominance with minimal services',
+        'Exclusive dependence on mining',
+        'Negligible role of IT services',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Karnataka’s GSVA reflects a strong services sector—IT/ITeS, finance, real estate, trade, and transport—alongside a diversified industrial base in manufacturing and renewables. Agriculture remains important but not dominant. Mining is a limited contributor relative to services and manufacturing.',
+      difficulty: 'Medium',
+      hint: 'Services-led with diversified industry.',
+    },
+    {
+      level: 88,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'A notable governance reform that improved land record management in Karnataka is:',
+      options: [
+        'Bhoomi e-governance initiative',
+        'Rythu Bandhu',
+        'KALIA scheme',
+        'RERA',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Bhoomi is Karnataka’s e-governance project to computerize land records, improving transparency, access, and reducing disputes. Rythu Bandhu and KALIA are farmer support schemes from other states, while RERA regulates real estate across India but is not a land records digitization program.',
+      difficulty: 'Medium',
+      hint: 'Think digitization of land records.',
+    },
+    {
+      level: 89,
+      mainsubject: 'Current Economic Issues',
+      question: 'Globalization’s impact on India’s economy has included:',
+      options: [
+        'Lower trade openness and fewer technology transfers',
+        'Greater integration into global markets, services exports, and capital flows',
+        'Elimination of domestic entrepreneurship',
+        'Complete insulation from global shocks',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Post-liberalization, India increased trade and services exports (notably IT), attracted FDI and portfolio flows, integrated into value chains, and absorbed technology. However, greater integration also transmits global shocks. Domestic entrepreneurship has expanded, not disappeared.',
+      difficulty: 'Easy',
+      hint: 'More trade, capital, and tech linkages.',
+    },
+    {
+      level: 90,
+      mainsubject: 'Current Economic Issues',
+      question: 'A risk of rising global protectionism for India is:',
+      options: [
+        'Higher export market access',
+        'Trade diversion against Indian firms and supply chain disruptions',
+        'Automatic increase in FDI inflows',
+        'Guaranteed current account surplus',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Protectionist measures abroad can impose higher barriers on Indian exports, alter rules-of-origin, and disrupt supply chains, leading to trade diversion and uncertainty. This can dampen investment and competitiveness rather than guarantee better access or automatic surpluses.',
+      difficulty: 'Medium',
+      hint: 'Barriers abroad can reroute trade flows.',
+    },
+    {
+      level: 91,
+      mainsubject: 'Current Economic Issues',
+      question: 'A key policy challenge in building a digital economy is:',
+      options: [
+        'Ensuring universal high-speed access and digital literacy',
+        'Abolishing all cash immediately',
+        'Restricting competition among payment providers',
+        'Eliminating data privacy frameworks',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Expanding affordable broadband, last-mile connectivity, digital literacy, and trust (security and privacy) is essential for inclusive digital growth. A balanced regulatory approach fosters competition and innovation while protecting consumers and data. Eliminating cash or competition is counterproductive.',
+      difficulty: 'Medium',
+      hint: 'Access, skills, and trust are foundational.',
+    },
+    {
+      level: 92,
+      mainsubject: 'Current Economic Issues',
+      question: 'Compared to a V-shaped recovery, a K-shaped recovery implies:',
+      options: [
+        'Uniform rebound across sectors',
+        'Divergent outcomes with some sectors/households recovering strongly while others lag',
+        'A double-dip recession by definition',
+        'A prolonged flatline after a fall',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'A K-shaped recovery captures uneven post-shock trajectories—upper segments and certain sectors (e.g., tech, formal) bounce back or surge, while others (e.g., contact-intensive, informal) lag, widening disparities. It contrasts with a V-shaped broad-based quick rebound.',
+      difficulty: 'Medium',
+      hint: 'Different arms of the K move apart.',
+    },
+    {
+      level: 93,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'A common channel through which global supply shocks raise domestic inflation is:',
+      options: [
+        'Lower input costs',
+        'Stronger currency appreciation',
+        'Higher import prices transmitted via exchange rate pass-through',
+        'Falling freight costs',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'When global input or commodity prices rise and supply chains face bottlenecks, import prices increase. Exchange rate pass-through can amplify domestic prices, especially for tradables and energy, feeding into headline inflation. Freight and logistics disruptions often add to the pressure.',
+      difficulty: 'Hard',
+      hint: 'Imported inflation via costlier inputs and currency effects.',
+    },
+    {
+      level: 94,
+      mainsubject: 'Current Economic Issues',
+      question: 'A policy priority for the gig/platform economy should be to:',
+      options: [
+        'Exclude all platform workers from labor protections',
+        'Balance flexibility with social security and safety nets',
+        'Fix all contracts as permanent jobs',
+        'Ban algorithmic management tools',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Gig work offers flexibility and access to income but raises concerns about income volatility, social security, safety, and bargaining power. Policy can encourage portable benefits, minimum standards, dispute resolution, and transparency while preserving innovative work arrangements.',
+      difficulty: 'Medium',
+      hint: 'Flexibility plus floor of protections.',
+    },
+    {
+      level: 95,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'In the context of climate policy, a carbon pricing mechanism aims to:',
+      options: [
+        'Subsidize all fossil fuels',
+        'Internalize the social cost of emissions to incentivize low-carbon choices',
+        'Fix all electricity tariffs at one rate',
+        'Eliminate renewable energy certificates',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Carbon pricing—via a carbon tax or cap-and-trade—puts a price on emissions to internalize environmental externalities, nudging producers and consumers toward cleaner technologies and efficiency. It can be complemented by renewables support, standards, and just transition measures.',
+      difficulty: 'Medium',
+      hint: 'Make polluters face the cost of emissions.',
+    },
+    {
+      level: 96,
+      mainsubject: 'Basic Concepts',
+      question:
+        'Which component is NOT part of Gross Value Added (GVA) at basic prices?',
+      options: [
+        'Compensation of employees',
+        'Operating surplus/mixed income',
+        'Net indirect taxes',
+        'Depreciation',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'GVA at basic prices is the sum of compensation of employees, operating surplus/mixed income, and consumption of fixed capital (depreciation). Net indirect taxes (indirect taxes minus subsidies) convert GVA at basic prices to GDP at market prices; they are not part of GVA itself.',
+      difficulty: 'Hard',
+      hint: 'Think basic prices versus market prices.',
+    },
+    {
+      level: 97,
+      mainsubject: 'Basic Concepts',
+      question:
+        'Open market operations (OMOs) by the central bank primarily involve:',
+      options: [
+        'Buying and selling government securities to manage liquidity',
+        'Issuing new government bonds',
+        'Setting corporate bond yields directly',
+        'Changing direct tax rates',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'OMOs are the purchase and sale of government securities by the central bank in the open market to inject or absorb liquidity, influencing short-term interest rates and monetary conditions. Issuing bonds is a fiscal function; tax policy is unrelated.',
+      difficulty: 'Easy',
+      hint: 'Securities trades to add or drain liquidity.',
+    },
+    {
+      level: 98,
+      mainsubject: 'Basic Concepts',
+      question: 'Which is counted in national income?',
+      options: [
+        'Illegal production activities',
+        'Sale of second-hand goods without value addition',
+        'Value of government services like policing at imputed cost',
+        'Transfer payments like pensions',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'National income includes the value of final goods and services produced, including non-market government services valued at cost. Illegal activities are excluded in official accounts. Second-hand sales are excluded unless they involve new value-added services (e.g., dealer margins). Transfers do not reflect current production and are excluded.',
+      difficulty: 'Hard',
+      hint: 'Focus on current production of final services.',
+    },
+    {
+      level: 99,
+      mainsubject: 'Indian Economy',
+      question:
+        'Public–Private Partnership (PPP) models like BOT and HAM are primarily used in India for:',
+      options: [
+        'Short-term consumer subsidies',
+        'Infrastructure development combining public oversight with private investment',
+        'Only privatizing existing public enterprises',
+        'Issuing government bonds to the public',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'PPP models such as Build–Operate–Transfer (BOT) and Hybrid Annuity Model (HAM) are contractual arrangements where the private sector finances, builds, and operates infrastructure projects for a specified period, with risk-sharing between public and private partners. They are widely used in roads, ports, and urban infrastructure to leverage private efficiency and capital while retaining public oversight.',
+      difficulty: 'Medium',
+      hint: 'Think of roads, ports, and risk-sharing between government and private firms.',
+    },
+    {
+      level: 100,
+      mainsubject: 'Indian Economy',
+      question: "The term 'Twin Deficit' in the Indian economy refers to:",
+      options: [
+        'Fiscal deficit and current account deficit occurring simultaneously',
+        'Budget deficit and trade surplus',
+        'Revenue deficit and capital account surplus',
+        'Primary deficit and balance of payments surplus',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'A twin deficit situation arises when a country experiences both a fiscal deficit (government spending exceeding revenue) and a current account deficit (imports of goods, services, and transfers exceeding exports). Persistent twin deficits can signal macroeconomic imbalances and affect investor confidence.',
+      difficulty: 'Medium',
+      hint: 'Two gaps — one in the budget, one in external trade.',
+    },
+    {
+      level: 101,
+      mainsubject: 'Indian Economy',
+      question:
+        "Which of the following best describes 'Crowding Out' in fiscal policy?",
+      options: [
+        'Government borrowing reduces funds available for private investment',
+        'Government spending boosts private sector demand',
+        'Private investment displaces public investment',
+        'Foreign investment replaces domestic savings',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Crowding out occurs when increased government borrowing drives up interest rates, making it more expensive for the private sector to borrow and invest. This can partially offset the stimulative effect of fiscal expansion, especially in economies operating near full capacity.',
+      difficulty: 'Medium',
+      hint: 'Think of government borrowing pushing aside private borrowers.',
+    },
+    {
+      level: 102,
+      mainsubject: 'Current Economic Issues',
+      question:
+        "In the context of India's energy transition, 'Green Hydrogen' refers to hydrogen produced:",
+      options: [
+        'From natural gas with carbon capture',
+        'By electrolysis of water using renewable energy',
+        'From coal gasification',
+        'By reforming petroleum products',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Green hydrogen is produced by splitting water into hydrogen and oxygen using electricity generated from renewable sources like solar or wind. It is considered a clean fuel with potential applications in industry, transport, and energy storage, contributing to decarbonization goals.',
+      difficulty: 'Medium',
+      hint: 'No fossil fuels — only renewables power the process.',
+    },
+    {
+      level: 103,
+      mainsubject: 'Karnataka Economy',
+      question: "The 'Bhoochetana' programme in Karnataka was launched to:",
+      options: [
+        'Promote urban housing',
+        'Improve soil health and agricultural productivity',
+        'Develop IT parks',
+        'Expand mining operations',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Bhoochetana was a state-level initiative aimed at enhancing agricultural productivity by improving soil health through micronutrient management, farmer training, and adoption of best practices. It significantly increased yields in participating districts.',
+      difficulty: 'Easy',
+      hint: 'Healthy soil, better crops.',
+    },
+    {
+      level: 104,
+      mainsubject: 'Economics',
+      question:
+        'What is the main difference between Gross Domestic Product (GDP) and Gross National Product (GNP)?',
+      options: [
+        'GDP includes foreign investment while GNP excludes it',
+        'GDP measures production within domestic territory while GNP measures production by nationals anywhere',
+        'GDP is calculated annually while GNP is calculated quarterly',
+        'GDP includes services while GNP includes only goods',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**GDP (Gross Domestic Product)** measures the total value of all goods and services produced within a country's geographical boundaries, regardless of who produces them. **GNP (Gross National Product)** measures the total value of goods and services produced by a country's nationals, whether within the country or abroad. For example, if an Indian company operates in the US, its production contributes to US GDP but Indian GNP. The key difference is territorial vs ownership-based measurement. GNP = GDP + Net Factor Income from Abroad (NFIA).",
+      difficulty: 'Medium',
+      hint: "Focus on 'where' versus 'who' - domestic territory versus national ownership.",
+    },
+    {
+      level: 105,
+      mainsubject: 'Economics',
+      question:
+        'The Consumer Price Index (CPI) is primarily used to measure which economic phenomenon?',
+      options: [
+        'Economic growth rate',
+        'Inflation rate',
+        'Unemployment rate',
+        'Balance of payments',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Consumer Price Index (CPI)** is the primary measure of **inflation** in India. It tracks changes in the average price level of a basket of goods and services consumed by households over time. The CPI is calculated by taking price changes for each item in the predetermined basket and averaging them. In India, CPI is measured for different categories: CPI-Urban, CPI-Rural, and CPI-Combined. The Reserve Bank of India uses CPI as the key metric for monetary policy decisions, with an inflation target of 4% (+/- 2%). When CPI rises, it indicates inflation; when it falls, it indicates deflation.',
+      difficulty: 'Easy',
+      hint: 'Think about what happens when prices of everyday goods increase over time.',
+    },
+    {
+      level: 106,
+      mainsubject: 'Economics',
+      question:
+        'Which of the following is NOT a function of the Reserve Bank of India (RBI)?',
+      options: [
+        'Issuing currency notes',
+        'Regulating commercial banks',
+        'Formulating fiscal policy',
+        'Managing foreign exchange reserves',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Formulating fiscal policy** is NOT a function of RBI; it's the responsibility of the **Ministry of Finance, Government of India**. The RBI's main functions include: (1) **Monetary Authority** - formulating and implementing monetary policy; (2) **Regulator and Supervisor** of the financial system; (3) **Manager of Foreign Exchange** - managing forex reserves under FEMA; (4) **Issuer of Currency** - sole authority to issue banknotes; (5) **Developmental Role** - promoting banking habits and financial inclusion; (6) **Related Functions** - government's banker, banks' bank. Fiscal policy involves government spending, taxation, and borrowing decisions, which fall under the finance ministry's purview.",
+      difficulty: 'Medium',
+      hint: 'Remember the distinction between monetary policy (RBI) and fiscal policy (Government).',
+    },
+    {
+      level: 107,
+      mainsubject: 'Economics',
+      question:
+        'When the government increases its expenditure during a recession to boost economic activity, this is an example of:',
+      options: [
+        'Contractionary fiscal policy',
+        'Expansionary fiscal policy',
+        'Neutral fiscal policy',
+        'Automatic stabilizer',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Expansionary fiscal policy** involves increasing government spending and/or reducing taxes to stimulate economic growth during recessions. The logic is based on Keynesian economics: increased government expenditure creates demand, leading to higher production, employment, and income through the **multiplier effect**. Examples include infrastructure spending, employment schemes like MGNREGA, and stimulus packages. **Contractionary fiscal policy** does the opposite - reduces spending/increases taxes to cool an overheated economy. **Automatic stabilizers** are built-in mechanisms like unemployment benefits that activate automatically. The effectiveness depends on the fiscal multiplier and crowding-out effects.',
+      difficulty: 'Easy',
+      hint: "Consider what 'expansionary' means in terms of government involvement in the economy.",
+    },
+    {
+      level: 108,
+      mainsubject: 'Economics',
+      question:
+        "The term 'Base Year' in the context of calculating GDP refers to:",
+      options: [
+        'The year when GDP calculation methodology was first introduced',
+        'The reference year used for price comparisons in calculating real GDP',
+        'The year with the highest GDP growth rate',
+        "The first year of a country's independence",
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Base Year** is the reference year whose prices are used to calculate **Real GDP** (GDP at constant prices). It allows us to remove the effect of inflation and measure actual economic growth. For example, if 2011-12 is the base year, all GDP calculations use 2011-12 prices to value current production. India currently uses **2011-12 as the base year** for GDP calculations. The base year is typically updated every 10-15 years to reflect changing consumption patterns and new products/services. **Nominal GDP** uses current year prices, while **Real GDP** uses base year prices. The choice of base year can significantly impact growth rate calculations due to relative price changes over time.',
+      difficulty: 'Medium',
+      hint: 'Think about how economists separate real growth from price increases.',
+    },
+    {
+      level: 109,
+      mainsubject: 'Indian Economy',
+      question:
+        'NITI Aayog replaced which institution for economic planning in India?',
+      options: [
+        'Finance Commission',
+        'Planning Commission',
+        'Economic Advisory Council',
+        'National Development Council',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**NITI Aayog (National Institution for Transforming India)** replaced the **Planning Commission** in January 2015. The Planning Commission, established in 1950, was responsible for formulating Five Year Plans and centralized planning. However, it was criticized for its top-down approach and lack of flexibility. NITI Aayog represents a shift from 'government knows best' to 'government enables best.' Key differences: (1) **Structure**: CEO-led vs Chairman-led; (2) **Approach**: Cooperative federalism vs centralized planning; (3) **Role**: Think tank and policy advisor vs plan formulator; (4) **Flexibility**: Strategic partnerships vs rigid planning. NITI Aayog focuses on fostering cooperative federalism, strategic planning, and evidence-based policy making.",
+      difficulty: 'Easy',
+      hint: 'This change occurred in 2015 as part of governance reforms.',
+    },
+    {
+      level: 110,
+      mainsubject: 'Indian Economy',
+      question:
+        'Which Five Year Plan in India was terminated prematurely due to external factors?',
+      options: [
+        'Third Plan (1961-66)',
+        'Fourth Plan (1969-74)',
+        'Fifth Plan (1974-79)',
+        'Sixth Plan (1980-85)',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "The **Third Five Year Plan (1961-66)** was terminated prematurely due to external factors, specifically the **Indo-China War (1962)** and **Indo-Pakistan War (1965)**. These conflicts necessitated massive defense expenditure, diverting resources from planned development activities. The plan aimed at self-reliance and self-sustaining growth but faced severe resource constraints due to war expenses. This led to three **Annual Plans (1966-69)** instead of the Fourth Plan. The wars exposed India's economic vulnerabilities and led to a reassessment of development priorities. The period saw a shift in focus from heavy industrialization to agriculture and defense preparedness. This experience influenced subsequent planning approaches.",
+      difficulty: 'Hard',
+      hint: 'Consider the major military conflicts India faced during the 1960s.',
+    },
+    {
+      level: 111,
+      mainsubject: 'Indian Economy',
+      question:
+        'The Green Revolution in India was primarily associated with increased production of:',
+      options: [
+        'Cotton and jute',
+        'Wheat and rice',
+        'Sugarcane and tobacco',
+        'Pulses and oilseeds',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Green Revolution** (1960s-1970s) primarily increased production of **wheat and rice** through High Yielding Varieties (HYV) of seeds, chemical fertilizers, pesticides, and improved irrigation. Key features: (1) **Technology**: Introduction of dwarf varieties of wheat (Mexico) and rice (Philippines); (2) **Geography**: Initially concentrated in Punjab, Haryana, and western UP; (3) **Impact**: India achieved food self-sufficiency by the 1970s; (4) **Leadership**: Dr. M.S. Swaminathan is called the 'Father of Green Revolution' in India. However, it also led to environmental concerns, regional imbalances, and neglect of coarse cereals and pulses. The revolution transformed India from a food-deficit to food-surplus nation.",
+      difficulty: 'Easy',
+      hint: 'Think about the staple food crops that made India self-sufficient in food.',
+    },
+    {
+      level: 112,
+      mainsubject: 'Indian Economy',
+      question:
+        'Which scheme aims to provide 100 days of guaranteed wage employment to rural households?',
+      options: [
+        'Pradhan Mantri Gram Sadak Yojana',
+        'Mahatma Gandhi National Rural Employment Guarantee Act',
+        'Swarnajayanti Gram Swarozgar Yojana',
+        'National Rural Livelihood Mission',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**, enacted in 2005, guarantees **100 days of wage employment** per rural household per year. Key features: (1) **Legal Right**: First legislation to guarantee employment; (2) **Coverage**: Initially 200 districts, now covers all rural districts; (3) **Work**: Unskilled manual work on public works; (4) **Wages**: Minimum wages as per state norms; (5) **Priority**: Women (33% reservation), SC/ST; (6) **Works**: Water conservation, drought proofing, rural connectivity. It's the world's largest employment guarantee program, serving as both employment generation and social security measure. The scheme also promotes asset creation in rural areas and provides livelihood security.",
+      difficulty: 'Easy',
+      hint: "This is India's flagship rural employment guarantee program.",
+    },
+    {
+      level: 113,
+      mainsubject: 'Economics',
+      question:
+        'When the Reserve Bank of India increases the Cash Reserve Ratio (CRR), what is the immediate effect?',
+      options: [
+        'Increases money supply in the economy',
+        'Decreases money supply in the economy',
+        'Has no effect on money supply',
+        'Only affects government borrowing',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'When RBI **increases the Cash Reserve Ratio (CRR)**, it **decreases the money supply** in the economy. CRR is the percentage of deposits that commercial banks must keep with RBI as reserves. Current CRR is 4.5%. When CRR increases: (1) Banks must park more money with RBI; (2) Less money available for lending; (3) **Credit creation capacity reduces**; (4) Interest rates tend to rise; (5) Economic activity slows down. This is a **contractionary monetary policy** tool used to control inflation. Conversely, reducing CRR increases money supply by freeing up bank funds for lending. CRR changes are relatively rare compared to other monetary policy tools due to their immediate and significant impact on bank liquidity.',
+      difficulty: 'Medium',
+      hint: "Think about what happens to banks' lending capacity when they must keep more reserves.",
+    },
+    {
+      level: 114,
+      mainsubject: 'Indian Economy',
+      question:
+        'The Micro, Small and Medium Enterprises (MSME) sector is significant because it:',
+      options: [
+        'Contributes only to manufacturing output',
+        'Provides employment to about 11 crore people and contributes significantly to GDP',
+        'Only operates in urban areas',
+        'Is completely export-oriented',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **MSME sector** is crucial for Indian economy as it **employs about 11 crore people** (second largest after agriculture) and **contributes around 30% to GDP** and 45% to manufacturing output. Classification: **Micro** (investment up to ₹1 crore + turnover up to ₹5 crore), **Small** (investment up to ₹10 crore + turnover up to ₹50 crore), **Medium** (investment up to ₹50 crore + turnover up to ₹250 crore). Significance: (1) **Employment generation** in both urban and rural areas; (2) **Export contribution** (~45%); (3) **Regional development**; (4) **Innovation and entrepreneurship**; (5) **Supply chain support** to large industries. Government supports through schemes like MUDRA, Stand Up India, and various credit guarantee schemes.',
+      difficulty: 'Medium',
+      hint: 'Consider both employment generation and economic contribution aspects.',
+    },
+    {
+      level: 115,
+      mainsubject: 'Economics',
+      question: 'Deflation in an economy is characterized by:',
+      options: [
+        'Rising prices and falling demand',
+        'Falling prices and rising demand',
+        'Falling prices and potentially falling demand',
+        'Stable prices and fluctuating demand',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Deflation** is characterized by **falling prices and potentially falling demand**. It's a sustained decrease in the general price level of goods and services. Unlike disinflation (slower rate of price increase), deflation involves actual price decreases. Causes: (1) **Demand-side**: Reduced consumer spending, tight monetary policy; (2) **Supply-side**: Technological improvements, increased productivity. **Dangers of deflation**: (1) **Deflationary spiral**: Falling prices → delayed purchases → reduced demand → further price falls; (2) **Debt burden increases** in real terms; (3) **Investment decline**; (4) **Employment reduction**. Japan experienced severe deflation in the 1990s. Central banks typically combat deflation through expansionary monetary policy, including zero interest rates and quantitative easing.",
+      difficulty: 'Medium',
+      hint: 'Think about the self-reinforcing nature of falling prices on economic behavior.',
+    },
+    {
+      level: 116,
+      mainsubject: 'Indian Economy',
+      question:
+        'The Union Budget in India is typically presented in which month?',
+      options: ['January', 'February', 'March', 'April'],
+      correctAnswer: 2,
+      explanation:
+        'The **Union Budget** is typically presented in **February** (usually February 1st) each year. This timing was changed in 2017 from the earlier practice of presenting it in late February/early March. The budget covers the financial year from **April 1 to March 31**. The budget process involves: (1) **Pre-budget consultations** with stakeholders; (2) **Budget presentation** by Finance Minister in Lok Sabha; (3) **General discussion** in both houses; (4) **Detailed scrutiny** by Parliamentary committees; (5) **Passage** of Finance Bill and Appropriation Bills. The early presentation allows better implementation of budget proposals from the start of the financial year. **Railway Budget** was merged with General Budget in 2017.',
+      difficulty: 'Easy',
+      hint: 'This timing was changed in 2017 to allow better implementation from the financial year start.',
+    },
+    {
+      level: 117,
+      mainsubject: 'Economics',
+      question: 'Open Market Operations (OMO) conducted by RBI involve:',
+      options: [
+        'Buying and selling of foreign currency',
+        'Buying and selling of government securities',
+        'Setting interest rates for commercial banks',
+        'Regulating stock market operations',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Open Market Operations (OMO)** involve RBI's **buying and selling of government securities** in the open market to regulate money supply. Mechanism: (1) **Buying securities**: RBI purchases government bonds → injects money into banking system → increases money supply → expansionary policy; (2) **Selling securities**: RBI sells bonds → absorbs money from banks → decreases money supply → contractionary policy. OMO is the most flexible and frequently used monetary policy tool. Unlike CRR/SLR changes, OMO allows fine-tuning of liquidity. RBI also conducts **Reverse OMO** (selling securities to reduce excess liquidity) and **Operation Twist** (simultaneous purchase of long-term and sale of short-term securities to flatten yield curve).",
+      difficulty: 'Medium',
+      hint: 'Focus on how central banks can inject or absorb money from the banking system.',
+    },
+    {
+      level: 118,
+      mainsubject: 'Indian Economy',
+      question:
+        "The 'Hindu Rate of Growth' typically refers to India's average GDP growth rate during which period?",
+      options: ['1950-1980', '1980-1991', '1991-2000', '2000-2010'],
+      correctAnswer: 1,
+      explanation:
+        "The **'Hindu Rate of Growth'** refers to India's sluggish average GDP growth rate of approximately **3.5% per annum during 1950-1980**. This term was coined by economist **Raj Krishna** to describe the period of slow economic growth despite development planning. Characteristics: (1) **License Raj**: Excessive government controls and regulations; (2) **Import substitution**: Focus on self-reliance leading to inefficiency; (3) **Public sector dominance**: Limited private sector participation; (4) **Agricultural dependence**: Limited industrialization. The growth rate barely kept pace with population growth, resulting in minimal per capita income improvement. The 1991 **economic liberalization** ended this phase, leading to higher growth rates averaging 6-7% subsequently. The term highlighted the need for economic reforms.",
+      difficulty: 'Hard',
+      hint: 'This refers to the pre-liberalization era of slow growth in India.',
+    },
+    {
+      level: 119,
+      mainsubject: 'Indian Economy',
+      question:
+        'Which type of unemployment is most prevalent in Indian agriculture?',
+      options: [
+        'Structural unemployment',
+        'Cyclical unemployment',
+        'Disguised unemployment',
+        'Frictional unemployment',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Disguised unemployment** (also called hidden unemployment) is most prevalent in Indian agriculture. It occurs when more people are employed than actually needed for production. Key characteristics: (1) **Marginal productivity is zero**: Removing some workers doesn't reduce output; (2) **Invisible nature**: People appear employed but contribute little; (3) **Rural concentration**: Particularly in small landholdings; (4) **Family-based**: Joint family system masks unemployment. For example, if 5 people work on a farm that needs only 3, the extra 2 represent disguised unemployment. This differs from **structural unemployment** (skill mismatch), **cyclical unemployment** (economic cycles), and **frictional unemployment** (job transition periods). Solutions include rural industrialization, skill development, and agricultural modernization.",
+      difficulty: 'Medium',
+      hint: 'Think about situations where people appear to be working but their contribution is minimal.',
+    },
+    {
+      level: 120,
+      mainsubject: 'Indian Economy',
+      question: "The concept of 'Inclusive Growth' emphasizes:",
+      options: [
+        'High GDP growth rate only',
+        'Growth that benefits all sections of society',
+        'Growth only in the service sector',
+        'Growth only in urban areas',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Inclusive Growth** emphasizes **growth that benefits all sections of society**, ensuring equitable distribution of economic benefits. It goes beyond mere GDP growth to include: (1) **Broad-based participation**: Opportunities for all income groups, regions, and communities; (2) **Poverty reduction**: Direct impact on reducing absolute poverty; (3) **Employment generation**: Creating productive jobs, especially for the disadvantaged; (4) **Human development**: Improvements in health, education, and living standards; (5) **Regional balance**: Reducing urban-rural and inter-state disparities. India's approach includes schemes like MGNREGA, skill development programs, financial inclusion initiatives, and infrastructure development in backward regions. The concept gained prominence during the 11th Five Year Plan (2007-12), emphasizing that growth should be **inclusive, sustainable, and more rapid**.",
+      difficulty: 'Medium',
+      hint: 'Consider who should benefit from economic growth in an ideal scenario.',
+    },
+    {
+      level: 121,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "Bengaluru is known as the 'Silicon Valley of India' primarily due to:",
+      options: [
+        'Silicon chip manufacturing units',
+        'Large-scale mining of silicon',
+        'Concentration of IT and software companies',
+        'Research in semiconductor technology',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "Bengaluru earned the title **'Silicon Valley of India'** due to its **concentration of IT and software companies**, not silicon manufacturing. Evolution: (1) **1980s**: Establishment of public sector units like HAL, ISRO, DRDO created technical talent pool; (2) **1990s**: Economic liberalization attracted global IT companies; (3) **Factors for growth**: English-speaking workforce, pleasant climate, good educational institutions (IISc, IITs), government support; (4) **Major companies**: Infosys, Wipro, TCS, and global firms like IBM, Microsoft, Google. The city contributes significantly to India's IT exports (~35%) and employs lakhs in the technology sector. The ecosystem includes startups, R&D centers, and support services, making it India's technology capital.",
+      difficulty: 'Easy',
+      hint: 'The name comes from the famous technology hub in California, USA.',
+    },
+    {
+      level: 122,
+      mainsubject: 'Economics',
+      question: 'Stagflation is a situation characterized by:',
+      options: [
+        'High inflation and high economic growth',
+        'Low inflation and low economic growth',
+        'High inflation and low/stagnant economic growth',
+        'Deflation and high economic growth',
+      ],
+      correctAnswer: 3,
+      explanation:
+        '**Stagflation** is characterized by **high inflation combined with low or stagnant economic growth** and high unemployment. This presents a policy dilemma because: (1) **Fighting inflation** requires contractionary policies (higher interest rates, reduced spending); (2) **Fighting recession** requires expansionary policies (lower rates, increased spending); (3) **These are contradictory** approaches. Causes include **supply-side shocks** (oil price increases), structural issues, and inappropriate policy responses. Historical example: 1970s oil crisis led to global stagflation. **India experienced stagflation** in the 1970s with inflation above 20% and negative growth. Solutions involve **supply-side economics** - improving productivity, reducing structural bottlenecks, and careful monetary-fiscal coordination rather than demand management alone.',
+      difficulty: 'Hard',
+      hint: 'This combines the worst aspects of inflation and recession simultaneously.',
+    },
+    {
+      level: 123,
+      mainsubject: 'Indian Economy',
+      question: 'The Pradhan Mantri Jan Dhan Yojana (PMJDY) primarily aims at:',
+      options: [
+        'Providing free electricity to rural areas',
+        'Financial inclusion through bank account opening',
+        'Distributing free food grains',
+        'Building rural roads and infrastructure',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Pradhan Mantri Jan Dhan Yojana (PMJDY)**, launched in August 2014, is India's **financial inclusion program** aimed at providing banking services to the unbanked population. Key features: (1) **Zero balance accounts**: No minimum balance requirement; (2) **RuPay debit card**: Free with accident insurance; (3) **Overdraft facility**: Up to ₹10,000 after satisfactory operation; (4) **Life insurance**: ₹2 lakh under PMJJBY; (5) **Direct Benefit Transfer**: Facilitates subsidy transfers. **Impact**: Over 50 crore accounts opened, serving as foundation for other schemes like PM-KISAN, MGNREGA payments. The initiative follows the **JAM trinity** (Jan Dhan-Aadhaar-Mobile) for effective service delivery and reduced leakages in government transfers.",
+      difficulty: 'Easy',
+      hint: 'This scheme focuses on bringing the unbanked population into the formal banking system.',
+    },
+    {
+      level: 124,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "The Cauvery river basin is crucial for Karnataka's economy primarily because of:",
+      options: [
+        'Hydroelectric power generation only',
+        'Industrial water supply only',
+        'Agricultural irrigation and power generation',
+        'Tourism development only',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Cauvery river basin** is crucial for Karnataka's economy due to both **agricultural irrigation and power generation**. Agricultural importance: (1) **Irrigation**: Supports cultivation in districts like Mandya, Mysore, Chamarajanagar; (2) **Crops**: Rice, sugarcane, ragi, and other crops in the fertile delta region; (3) **Krishnaraja Sagar Dam**: Major irrigation project. **Power generation**: Multiple hydroelectric projects including KRS, Shivanasamudra, Shimsagar generate significant electricity. **Economic impact**: The basin supports sugar industries, rice mills, and rural livelihoods. However, **inter-state water disputes** with Tamil Nadu have created challenges. The river's economic importance led to the development of **Mandya as a sugar belt** and agricultural prosperity in southern Karnataka districts.",
+      difficulty: 'Medium',
+      hint: 'Consider both the agricultural and industrial benefits this river provides to Karnataka.',
+    },
+    {
+      level: 125,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'The Goods and Services Tax (GST) in India replaced how many indirect taxes?',
+      options: ['8 taxes', '12 taxes', '17 taxes', '25 taxes'],
+      correctAnswer: 3,
+      explanation:
+        "**GST replaced 17 indirect taxes** in India, creating 'One Nation, One Tax' system. **Central taxes replaced** (8): Central Excise Duty, Service Tax, Additional Customs Duty, Central Sales Tax, Excise Duty on Medicinal Products, Additional Excise Duty, Special Additional Duty on Customs. **State taxes replaced** (9): VAT/Sales Tax, Entertainment Tax, Luxury Tax, Entry Tax, Purchase Tax, Advertisement Tax, Taxes on lotteries/betting/gambling, State cesses and surcharges. **Benefits**: (1) **Elimination of cascading**: No tax on tax; (2) **Seamless credit**: Input tax credit across value chain; (3) **Increased compliance**: Technology-driven; (4) **Economic integration**: Removal of check posts. **Structure**: CGST, SGST, IGST with rates of 5%, 12%, 18%, 28%.",
+      difficulty: 'Medium',
+      hint: 'Count both central and state-level indirect taxes that were merged into GST.',
+    },
+    {
+      level: 126,
+      mainsubject: 'Economics',
+      question: "The term 'Fiscal Deficit' represents:",
+      options: [
+        'Total government debt',
+        "Difference between government's total expenditure and total receipts excluding borrowings",
+        'Difference between exports and imports',
+        'Shortage of foreign exchange reserves',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Fiscal Deficit** is the **difference between government's total expenditure and total receipts excluding borrowings**. Formula: Fiscal Deficit = Total Expenditure - Total Receipts (excluding borrowings). It indicates the amount government needs to borrow to meet its expenditure commitments. **Significance**: (1) **Borrowing requirement**: Shows government's financing needs; (2) **Economic health**: High deficit may indicate fiscal stress; (3) **Inflation pressure**: Excessive deficit can be inflationary; (4) **Crowding out**: May reduce private investment. **FRBM Act** mandates fiscal deficit to be **3% of GDP**. Other related concepts: **Revenue Deficit** (revenue expenditure exceeding revenue receipts), **Primary Deficit** (fiscal deficit minus interest payments). Fiscal deficit financing can be through market borrowings, treasury bills, or external loans.",
+      difficulty: 'Medium',
+      hint: 'This measures how much the government needs to borrow to balance its budget.',
+    },
+    {
+      level: 127,
+      mainsubject: 'Indian Economy',
+      question:
+        "Which sector contributes the highest share to India's GDP currently?",
+      options: [
+        'Agriculture and allied activities',
+        'Manufacturing',
+        'Services',
+        'Mining and quarrying',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Services sector** contributes the highest share to India's GDP (approximately **55-60%**). Sectoral composition evolution: **1950-51**: Agriculture ~55%, Industry ~15%, Services ~30%. **Current**: Agriculture ~15-18%, Industry ~25-30%, **Services ~55-60%**. **Service sector components**: (1) **IT-ITeS**: Software services, BPO; (2) **Financial services**: Banking, insurance; (3) **Trade**: Wholesale and retail; (4) **Transport and communication**; (5) **Real estate and business services**; (6) **Public administration**. This structural transformation reflects economic development, though **employment** remains concentrated in agriculture (~45%). The services-led growth model has made India a global hub for IT services, with companies like TCS, Infosys leading globally. However, concerns exist about jobless growth and need for manufacturing expansion.",
+      difficulty: 'Easy',
+      hint: "Consider India's transformation into a service-based economy, especially IT services.",
+    },
+    {
+      level: 128,
+      mainsubject: 'Current Economic Issues',
+      question: 'Demonetization in India (2016) primarily targeted:',
+      options: [
+        '₹50 and ₹100 notes',
+        '₹500 and ₹1000 notes',
+        '₹200 and ₹500 notes',
+        'All currency notes',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Demonetization (November 8, 2016)** targeted **₹500 and ₹1000 notes**, which constituted about 86% of currency in circulation. **Objectives**: (1) **Black money**: Eliminate unaccounted wealth; (2) **Counterfeit currency**: Remove fake notes; (3) **Terror financing**: Disrupt illegal funding; (4) **Cashless economy**: Promote digital payments. **Process**: Old notes became invalid, new ₹500 and ₹2000 notes introduced, exchange/deposit allowed till December 2016. **Immediate effects**: Cash shortage, reduced consumption, informal sector impact. **Long-term impacts**: (1) **Digital payments growth**: Significant increase in UPI, mobile wallets; (2) **Formalization**: Some shift to formal economy; (3) **GDP impact**: Short-term growth slowdown. The success in achieving stated objectives remains **debated among economists**.',
+      difficulty: 'Easy',
+      hint: 'These were the high-value currency notes that were suddenly made invalid.',
+    },
+    {
+      level: 129,
+      mainsubject: 'Economics',
+      question:
+        'The Statutory Liquidity Ratio (SLR) requires banks to maintain a certain percentage of their deposits in:',
+      options: [
+        'Cash with RBI',
+        'Government securities, cash, and gold',
+        'Foreign currency reserves',
+        'Corporate bonds and debentures',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Statutory Liquidity Ratio (SLR)** requires banks to maintain a certain percentage of their Net Demand and Time Liabilities (NDTL) in **government securities, cash, and gold**. Current SLR is **18%** (reduced from 23% in 2017). **Purpose**: (1) **Liquidity management**: Ensures banks have liquid assets; (2) **Government financing**: Creates captive market for government securities; (3) **Credit control**: Regulates bank lending capacity; (4) **Financial stability**: Provides buffer during crisis. **Components**: Government bonds/securities (major portion), cash in hand, gold reserves. Unlike CRR (kept with RBI earning no interest), SLR securities earn interest for banks. **Reduction in SLR** frees up bank funds for lending, supporting economic growth. It's a key monetary policy tool complementing CRR and repo rate.",
+      difficulty: 'Medium',
+      hint: 'Think about liquid assets that banks must hold as a safety buffer.',
+    },
+    {
+      level: 130,
+      mainsubject: 'Indian Economy',
+      question:
+        "The National Food Security Act, 2013 aims to provide subsidized food grains to what percentage of India's population?",
+      options: ['50%', '60%', '67%', '75%'],
+      correctAnswer: 3,
+      explanation:
+        "The **National Food Security Act (NFSA), 2013** aims to provide subsidized food grains to **67% of India's population** (75% rural + 50% urban). **Coverage**: About 81 crore people. **Entitlements**: (1) **Priority households**: 5 kg per person per month at ₹3/kg (rice), ₹2/kg (wheat), ₹1/kg (coarse grains); (2) **Antyodaya households**: 35 kg per household per month at same prices; (3) **Pregnant women and lactating mothers**: Free meals, maternity benefit of ₹6,000. **Implementation**: Through **Targeted Public Distribution System (TPDS)** using ration cards. **Challenges**: Identification of beneficiaries, leakages, storage losses, fiscal burden. The Act represents a **rights-based approach** to food security, moving from welfare to legal entitlement. It's the world's largest food security program.",
+      difficulty: 'Medium',
+      hint: "This act covers about two-thirds of India's population with subsidized food.",
+    },
+    {
+      level: 131,
+      mainsubject: 'Karnataka Economy',
+      question: 'The Mysore silk industry in Karnataka is significant because:',
+      options: [
+        "It's the largest silk producer in the world",
+        "Karnataka produces about 60% of India's silk",
+        'It only produces artificial silk',
+        "It's entirely export-oriented",
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Karnataka produces about 60% of India's silk**, making it the largest silk-producing state. **Types produced**: (1) **Mulberry silk**: Highest quality, mainly in Mysore, Kolar, Bangalore Rural; (2) **Tasar silk**: Wild silk variety; (3) **Eri silk**: Non-violent silk. **Mysore silk** is particularly renowned for its quality and traditional designs. **Economic significance**: (1) **Employment**: Provides livelihood to lakhs of farmers and weavers; (2) **Export earnings**: Significant foreign exchange through silk exports; (3) **Cultural heritage**: Traditional weaving techniques and designs; (4) **Value addition**: From cocoon production to finished products. **Challenges**: Competition from synthetic fabrics, need for modernization, market fluctuations. **Government support**: Through Karnataka Silk Industries Corporation (KSIC) and various development schemes.",
+      difficulty: 'Medium',
+      hint: "Karnataka dominates India's silk production, with Mysore being particularly famous.",
+    },
+    {
+      level: 132,
+      mainsubject: 'Economics',
+      question:
+        'The Phillips Curve traditionally shows the relationship between:',
+      options: [
+        'Inflation and GDP growth',
+        'Unemployment and inflation',
+        'Money supply and interest rates',
+        'Government spending and taxation',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Phillips Curve** shows the **inverse relationship between unemployment and inflation**. **Original concept** (A.W. Phillips, 1958): Lower unemployment leads to higher inflation and vice versa. **Logic**: (1) **Low unemployment** → tight labor market → higher wages → increased costs → inflation; (2) **High unemployment** → slack in labor market → wage pressure low → lower inflation. **Evolution**: (1) **1960s**: Stable trade-off observed; (2) **1970s**: Stagflation challenged the theory; (3) **Natural rate hypothesis**: Long-run Phillips curve is vertical; (4) **Expectations-augmented**: Incorporates inflation expectations. **Modern view**: Short-run trade-off exists, but long-run relationship is vertical at natural rate of unemployment. **Policy implications**: Central banks cannot permanently reduce unemployment by accepting higher inflation.',
+      difficulty: 'Hard',
+      hint: 'This curve explores the trade-off between two key macroeconomic variables.',
+    },
+    {
+      level: 133,
+      mainsubject: 'Indian Economy',
+      question: "The concept of 'Minimum Support Price' (MSP) is designed to:",
+      options: [
+        'Control food inflation',
+        'Provide guaranteed minimum income to farmers',
+        'Regulate export prices',
+        'Subsidize agricultural inputs',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Minimum Support Price (MSP)** is designed to **provide guaranteed minimum income to farmers** by ensuring remunerative prices for their crops. **Mechanism**: (1) **Price announcement**: Government declares MSP before sowing season; (2) **Procurement**: Government agencies like FCI purchase crops at MSP; (3) **Price floor**: Ensures farmers don't sell below MSP. **Coverage**: 23 crops including cereals (wheat, rice, bajra), pulses (chana, tur), oilseeds (groundnut, sunflower), commercial crops (cotton, sugarcane). **Calculation**: Based on **Swaminathan Committee** recommendations considering A2+FL costs (all costs + family labor). **Benefits**: Income security, production incentive, market stability. **Challenges**: Limited procurement, storage issues, regional variations in implementation. MSP aims to **double farmers' income** and ensure agricultural sustainability.",
+      difficulty: 'Medium',
+      hint: 'This policy ensures farmers get a fair price for their produce regardless of market conditions.',
+    },
+    {
+      level: 134,
+      mainsubject: 'Current Economic Issues',
+      question: 'Digital India initiative primarily focuses on:',
+      options: [
+        'Only improving internet connectivity',
+        'Transforming India into a digitally empowered society',
+        'Only promoting e-commerce',
+        'Only developing software industry',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Digital India** initiative aims at **transforming India into a digitally empowered society** and knowledge economy. **Three pillars**: (1) **Digital Infrastructure**: Broadband highways, mobile connectivity, public internet access; (2) **Digital Services**: Government services on demand, digital identity, financial inclusion; (3) **Digital Literacy**: Digital empowerment of citizens. **Key components**: (1) **Aadhaar**: Unique digital identity; (2) **JAM trinity**: Jan Dhan-Aadhaar-Mobile; (3) **e-Governance**: Online government services; (4) **Digital payments**: UPI, BHIM; (5) **Skill development**: Digital literacy programs. **Impact**: Reduced corruption, improved service delivery, financial inclusion growth. **Challenges**: Digital divide, cyber security, privacy concerns. The initiative represents a comprehensive approach to digitalization beyond just technology development.',
+      difficulty: 'Easy',
+      hint: 'This is a comprehensive program for digital transformation across all sectors.',
+    },
+    {
+      level: 135,
+      mainsubject: 'Indian Economy',
+      question:
+        "The term 'demographic dividend' in the Indian context refers to:",
+      options: [
+        'High birth rate leading to population growth',
+        'Large working-age population relative to dependents',
+        'Government policies for population control',
+        'Migration from rural to urban areas',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Demographic dividend** refers to the economic benefit arising from a **large working-age population (15-64 years) relative to dependents** (children and elderly). **India's situation**: About 65% population in working age, dependency ratio declining. **Potential benefits**: (1) **Higher savings**: More earners, fewer dependents; (2) **Increased investment**: Higher savings translate to investment; (3) **Economic growth**: Productive workforce drives growth; (4) **Innovation**: Young population brings dynamism. **Window of opportunity**: India's demographic dividend period is **2005-2055**. **Prerequisites for realization**: (1) **Skill development**: Education and training; (2) **Job creation**: Employment opportunities; (3) **Health**: Productive workforce needs good health. **Challenges**: If jobs aren't created, demographic dividend becomes demographic disaster. Countries like South Korea and China successfully leveraged their demographic dividends.",
+      difficulty: 'Medium',
+      hint: 'This refers to the economic advantage of having more workers than dependents.',
+    },
+    {
+      level: 136,
+      mainsubject: 'Karnataka Economy',
+      question: 'Hubli-Dharwad industrial region in Karnataka is known for:',
+      options: [
+        'Heavy steel production',
+        'Cotton textiles and engineering industries',
+        'Pharmaceutical manufacturing',
+        'Ship building industry',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Hubli-Dharwad** industrial region is known for **cotton textiles and engineering industries**. **Historical development**: Proximity to cotton-growing areas of North Karnataka made it a natural textile hub. **Major industries**: (1) **Textiles**: Cotton spinning, weaving mills, garment manufacturing; (2) **Engineering**: Machine tools, automotive components, agricultural equipment; (3) **Agro-processing**: Cotton ginning, oil processing; (4) **Small scale industries**: Handloom, powerloom cooperatives. **Advantages**: (1) **Raw material availability**: Cotton from surrounding districts; (2) **Transportation**: Railway junction connecting major cities; (3) **Skilled workforce**: Traditional expertise in textiles. **Companies**: Kirloskar Brothers, various textile mills. The region represents **industrial decentralization** from Bangalore, providing employment in North Karnataka and reducing regional imbalances.',
+      difficulty: 'Medium',
+      hint: "This region's industrial development is closely linked to North Karnataka's agricultural output.",
+    },
+    {
+      level: 137,
+      mainsubject: 'Economics',
+      question: "When RBI conducts 'Operation Twist', it simultaneously:",
+      options: [
+        'Buys and sells the same government securities',
+        'Buys long-term and sells short-term government securities',
+        'Increases both CRR and SLR',
+        'Decreases both repo and reverse repo rates',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Operation Twist** involves RBI **simultaneously buying long-term and selling short-term government securities** to influence the yield curve. **Objective**: Flatten the yield curve by reducing long-term interest rates while keeping short-term rates unchanged. **Mechanism**: (1) **Buying long-term bonds**: Increases their prices, reduces yields; (2) **Selling short-term bonds**: Reduces their prices, increases yields; (3) **Net effect**: Flatter yield curve. **Benefits**: (1) **Lower borrowing costs**: For government and corporates on long-term debt; (2) **Investment stimulus**: Cheaper long-term capital encourages investment; (3) **Neutral liquidity**: No net change in money supply. **First used by US Federal Reserve** in 1960s, **RBI adopted it in 2019** during economic slowdown. Unlike regular OMO, Operation Twist is liquidity-neutral but changes the term structure of interest rates.',
+      difficulty: 'Hard',
+      hint: 'This operation is named after its effect on the shape of the interest rate curve.',
+    },
+    {
+      level: 138,
+      mainsubject: 'Indian Economy',
+      question: 'The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) provides:',
+      options: [
+        'Free crop insurance to all farmers',
+        '₹6,000 per year direct cash transfer to eligible farmers',
+        'Free seeds and fertilizers',
+        'Guaranteed procurement at MSP',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**PM-KISAN** provides **₹6,000 per year direct cash transfer** to eligible small and marginal farmers. **Features**: (1) **Amount**: ₹6,000 annually in three installments of ₹2,000 each; (2) **Eligibility**: Small and marginal farmers with landholding up to 2 hectares; (3) **Transfer mode**: Direct to bank accounts using Aadhaar; (4) **Coverage**: About 12 crore farmers. **Objectives**: (1) **Income support**: Supplement farmers' income for input costs; (2) **Financial inclusion**: Encourage banking habits; (3) **Reduce input costs**: Help with seeds, fertilizers, equipment. **Implementation**: Uses **JAM trinity** (Jan Dhan-Aadhaar-Mobile) for transparent transfers. **Budget allocation**: About ₹75,000 crore annually. The scheme represents **universal basic income** concept for agriculture sector, providing predictable income support regardless of crop performance.",
+      difficulty: 'Easy',
+      hint: 'This is a direct cash transfer scheme specifically for farmers.',
+    },
+    {
+      level: 139,
+      mainsubject: 'Current Economic Issues',
+      question: 'Globalization has impacted the Indian economy through:',
+      options: [
+        'Only positive effects on all sectors',
+        'Increased trade, investment flows, and both opportunities and challenges',
+        'Only negative effects on domestic industries',
+        'No significant impact on employment',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Globalization has created **increased trade, investment flows, and both opportunities and challenges** for India. **Positive impacts**: (1) **Service exports**: IT, software services global leadership; (2) **FDI inflows**: Technology, capital, employment generation; (3) **Market access**: Indian companies expanding globally; (4) **Technology transfer**: Advanced technologies and best practices; (5) **Consumer choice**: Variety of products and services. **Challenges**: (1) **Import competition**: Domestic industries face pressure; (2) **Job displacement**: Traditional sectors affected; (3) **Income inequality**: Skilled vs unskilled wage gap; (4) **Financial volatility**: Exposure to global economic cycles. **Sectors benefited**: IT, pharmaceuticals, automobiles. **Sectors challenged**: Traditional textiles, small-scale industries. **Policy response**: Skill development, Make in India, PLI schemes to harness globalization benefits while protecting vulnerable sections.',
+      difficulty: 'Medium',
+      hint: 'Consider both the opportunities and challenges that global integration brings.',
+    },
+    {
+      level: 140,
+      mainsubject: 'Economics',
+      question: 'The Marginal Standing Facility (MSF) rate is typically:',
+      options: [
+        'Lower than the repo rate',
+        'Equal to the repo rate',
+        'Higher than the repo rate',
+        'Unrelated to the repo rate',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The **Marginal Standing Facility (MSF) rate** is typically **higher than the repo rate** (usually **repo rate + 0.25%**). **Purpose**: MSF is an emergency borrowing facility for banks when they face acute cash shortage. **Features**: (1) **Overnight borrowing**: Banks can borrow up to 1% of their NDTL; (2) **Collateral**: Banks can use government securities from their SLR portfolio; (3) **Penalty rate**: Higher rate discourages regular use; (4) **Last resort**: Used when other funding sources exhausted. **Policy corridor**: Bank Rate > MSF Rate > Repo Rate > Reverse Repo Rate. **Significance**: (1) **Liquidity management**: Provides safety valve for banks; (2) **Interest rate corridor**: Sets upper bound for overnight rates; (3) **Financial stability**: Prevents liquidity crisis. Introduced in 2011 as part of monetary policy framework reforms.',
+      difficulty: 'Hard',
+      hint: 'This is an emergency borrowing facility, so banks pay a penalty for using it.',
+    },
+    {
+      level: 141,
+      mainsubject: 'Indian Economy',
+      question:
+        'The Self Help Group (SHG) model in microfinance primarily helps in:',
+      options: [
+        'Large-scale industrial financing',
+        'Providing collateral-free credit to rural poor, especially women',
+        'Government bond investments',
+        'Stock market investments for rural people',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Self Help Group (SHG) model** provides **collateral-free credit to rural poor, especially women**. **Structure**: Groups of 10-20 women from similar economic backgrounds. **Process**: (1) **Formation**: Members save regularly (₹25-100 per month); (2) **Internal lending**: Members lend to each other from savings; (3) **Bank linkage**: After 6 months, banks provide credit (1:4 ratio typically); (4) **Graduation**: Successful groups get higher credit limits. **Benefits**: (1) **Financial inclusion**: Access to formal credit; (2) **Women empowerment**: 80%+ members are women; (3) **Social capital**: Collective decision-making; (4) **Livelihood support**: Microenterprises development. **Scale**: Over 1 crore SHGs with 11 crore members. **Challenges**: Over-indebtedness, group dynamics, limited business skills. The model has been globally recognized for poverty alleviation.',
+      difficulty: 'Medium',
+      hint: 'This model focuses on group-based lending to people without traditional collateral.',
+    },
+    {
+      level: 142,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Belgaum-Gokak industrial belt in Karnataka is primarily known for:',
+      options: [
+        'Iron and steel production',
+        'Sugar and textile industries',
+        'Software development',
+        'Pharmaceutical manufacturing',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Belgaum-Gokak industrial belt** is primarily known for **sugar and textile industries**. **Sugar industry**: (1) **Raw material**: Abundant sugarcane cultivation in the region; (2) **Cooperative model**: Strong cooperative sugar factories; (3) **Employment**: Significant rural employment generation; (4) **Processing**: From sugarcane to refined sugar and by-products. **Textile industry**: (1) **Cotton availability**: North Karnataka's cotton production; (2) **Traditional expertise**: Historical weaving communities; (3) **Handloom sector**: Significant handloom production. **Other industries**: Engineering units, agro-processing, small-scale industries. **Advantages**: (1) **Agricultural base**: Strong rural economy; (2) **Transportation**: Good connectivity; (3) **Cooperative structure**: Strong institutional framework. The region exemplifies **agro-based industrialization**, where agricultural raw materials support industrial development, creating rural-urban economic linkages.",
+      difficulty: 'Medium',
+      hint: "This belt's industries are closely tied to the agricultural produce of North Karnataka.",
+    },
+    {
+      level: 143,
+      mainsubject: 'Economics',
+      question: 'The Laffer Curve suggests that:',
+      options: [
+        'Higher tax rates always increase tax revenue',
+        'Lower tax rates always increase tax revenue',
+        "There's an optimal tax rate that maximizes revenue",
+        "Tax rates don't affect economic behavior",
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Laffer Curve** suggests there's an **optimal tax rate that maximizes government revenue**. **Concept**: Developed by Arthur Laffer, showing relationship between tax rates and tax revenue. **Logic**: (1) **0% tax rate**: No revenue; (2) **Low rates**: Higher rates increase revenue; (3) **Optimal point**: Maximum revenue achieved; (4) **High rates**: Further increases reduce revenue due to disincentive effects; (5) **100% tax rate**: No incentive to earn, zero revenue. **Mechanisms**: High taxes reduce work incentive, encourage tax avoidance/evasion, shift to informal economy. **Policy implications**: Sometimes reducing tax rates can increase total revenue by expanding the tax base. **Criticism**: Difficulty in determining optimal rate, empirical evidence mixed. **Supply-side economics** uses this concept to argue for lower tax rates to stimulate growth.",
+      difficulty: 'Hard',
+      hint: 'This curve shows there can be a point where lowering taxes actually increases revenue.',
+    },
+    {
+      level: 144,
+      mainsubject: 'Indian Economy',
+      question:
+        'The Public Distribution System (PDS) in India primarily distributes:',
+      options: [
+        'Free clothing and shelter',
+        'Subsidized food grains and essential commodities',
+        'Free healthcare and education',
+        'Employment opportunities',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Public Distribution System (PDS)** primarily distributes **subsidized food grains and essential commodities** through a network of Fair Price Shops (ration shops). **Commodities distributed**: (1) **Food grains**: Rice, wheat, coarse grains at subsidized rates; (2) **Essential items**: Sugar, edible oil, kerosene (in some states). **Evolution**: Started during WWII for urban areas, expanded post-independence. **Current system**: **Targeted PDS** since 1997 with categories - BPL, APL, Antyodaya. **Recent reforms**: (1) **NFSA 2013**: Rights-based approach; (2) **Technology**: Aadhaar-based authentication, digitization; (3) **One Nation One Ration Card**: Portability across states. **Challenges**: Leakages, identification errors, storage losses. **Benefits**: Food security, price stability for poor, nutrition support. PDS is world's largest food distribution network serving 80+ crore people.",
+      difficulty: 'Easy',
+      hint: 'This system ensures subsidized food grains reach the poor through ration shops.',
+    },
+    {
+      level: 145,
+      mainsubject: 'Current Economic Issues',
+      question: "The term 'Financial Inclusion' primarily aims to:",
+      options: [
+        'Increase government revenue through taxation',
+        'Provide access to financial services for all sections of society',
+        'Promote only digital banking',
+        'Reduce the number of bank branches',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Financial Inclusion** aims to **provide access to financial services for all sections of society** at affordable cost. **Components**: (1) **Banking services**: Savings, current accounts; (2) **Credit**: Formal credit at reasonable rates; (3) **Insurance**: Life, health, crop insurance; (4) **Remittances**: Money transfer services; (5) **Pension**: Retirement savings products. **India's approach**: (1) **PMJDY**: Bank account for every household; (2) **Business correspondents**: Banking services in remote areas; (3) **Technology**: Mobile banking, UPI, Aadhaar; (4) **Differential banks**: Payment banks, small finance banks. **Benefits**: Reduces dependency on informal credit, enables government transfers, promotes savings culture. **Challenges**: Last-mile connectivity, financial literacy, documentation issues. **Global recognition**: India's JAM trinity model studied worldwide for effective financial inclusion.",
+      difficulty: 'Easy',
+      hint: 'This initiative ensures everyone has access to basic banking and financial services.',
+    },
+    {
+      level: 146,
+      mainsubject: 'Economics',
+      question: "The concept of 'Crowding Out' in economics refers to:",
+      options: [
+        'Government spending reducing private investment',
+        'Private companies displacing government enterprises',
+        'Foreign investment replacing domestic investment',
+        'Rural workers migrating to urban areas',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '**Crowding Out** refers to **government spending reducing private investment** by competing for the same financial resources. **Mechanism**: (1) **Increased government borrowing** → higher demand for funds → **rising interest rates** → private investment becomes expensive → **reduction in private investment**. **Types**: (1) **Financial crowding out**: Through interest rate mechanism; (2) **Resource crowding out**: Government using scarce inputs; (3) **Psychological crowding out**: Reduced private sector confidence. **Empirical evidence**: Mixed results globally. **Mitigating factors**: (1) **Productive government spending**: Infrastructure investment can crowd in private investment; (2) **Unutilized resources**: During recession, crowding out is minimal; (3) **Monetary accommodation**: Central bank keeping rates low. **Policy implications**: Fiscal policy effectiveness depends on crowding out extent. **Complete crowding out** makes fiscal policy ineffective for demand management.',
+      difficulty: 'Hard',
+      hint: 'Consider what happens when government and private sector compete for the same financial resources.',
+    },
+    {
+      level: 147,
+      mainsubject: 'Indian Economy',
+      question: 'The Production Linked Incentive (PLI) scheme aims to:',
+      options: [
+        'Subsidize agricultural production',
+        'Boost domestic manufacturing and exports',
+        'Provide employment in service sector',
+        'Support traditional handicrafts',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Production Linked Incentive (PLI) scheme** aims to **boost domestic manufacturing and exports** by providing incentives based on incremental production. **Structure**: Companies receive incentives (4-6% of incremental turnover) for increasing production over base year. **Sectors covered**: Electronics, pharmaceuticals, automobiles, textiles, telecom, food processing, solar modules, advanced chemistry cell batteries, drones, etc. **Objectives**: (1) **Manufacturing boost**: Increase manufacturing contribution to GDP; (2) **Make in India**: Promote domestic production; (3) **Export competitiveness**: Global champions creation; (4) **Import substitution**: Reduce import dependence; (5) **Employment generation**: Direct and indirect jobs. **Investment**: ₹1.97 lakh crore outlay across sectors. **Expected outcomes**: Additional production worth ₹30 lakh crore, employment for 60 lakh people, exports of ₹17.5 lakh crore over 5 years.',
+      difficulty: 'Medium',
+      hint: 'This scheme links government incentives directly to production increases.',
+    },
+    {
+      level: 148,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Kalasa-Banduri project in Karnataka is primarily related to:',
+      options: [
+        'Industrial development',
+        'Water supply from Mahadayi river',
+        'Solar power generation',
+        'Mining operations',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Kalasa-Banduri project** is primarily related to **water supply from the Mahadayi river** to address North Karnataka's water scarcity. **Background**: Mahadayi river originates in Karnataka but flows mainly through Goa. **Project details**: (1) **Diversion**: Divert water through Kalasa and Banduri streams; (2) **Beneficiaries**: Dharwad, Belgaum, and Bagalkot districts; (3) **Purpose**: Drinking water supply to drought-prone areas. **Interstate dispute**: Goa opposes the project claiming environmental impact and reduced water flow. **Tribunal**: Mahadayi Water Disputes Tribunal constituted to resolve the issue. **Karnataka's position**: Legitimate right to use water originating in its territory for drinking purposes. **Economic importance**: Would benefit agriculture, industry, and domestic water supply in chronically water-scarce North Karnataka region, supporting regional development.",
+      difficulty: 'Hard',
+      hint: "This project involves an interstate water sharing dispute for North Karnataka's benefit.",
+    },
+    {
+      level: 149,
+      mainsubject: 'Economics',
+      question: "The term 'Quantitative Easing' refers to:",
+      options: [
+        'Reducing the quantity of currency in circulation',
+        'Central bank purchasing long-term securities to inject money into the economy',
+        'Increasing bank reserve requirements',
+        'Government reducing public expenditure',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Quantitative Easing (QE)** refers to **central bank purchasing long-term securities to inject money into the economy** when conventional monetary policy becomes ineffective. **Mechanism**: (1) **Large-scale purchases**: Government bonds, corporate bonds, sometimes stocks; (2) **Money creation**: Central bank creates new money electronically; (3) **Liquidity injection**: Increases bank reserves and money supply; (4) **Interest rate impact**: Lowers long-term interest rates. **When used**: When policy rates near zero (zero lower bound) but more stimulus needed. **Examples**: US Fed (2008 crisis), ECB (European debt crisis), Bank of Japan. **Risks**: (1) **Asset bubbles**: Excessive money may inflate asset prices; (2) **Inflation**: Potential inflationary pressure; (3) **Currency depreciation**: Increased money supply affects exchange rates. **India's experience**: Limited QE-like measures, preference for conventional tools.",
+      difficulty: 'Hard',
+      hint: "This is an unconventional monetary policy tool used when normal methods aren't enough.",
+    },
+    {
+      level: 150,
+      mainsubject: 'Indian Economy',
+      question: "The term 'Double Cropping' in Indian agriculture refers to:",
+      options: [
+        'Growing two different crops in the same field',
+        'Growing two crops in a year on the same land',
+        'Using two types of seeds for the same crop',
+        'Harvesting crops twice in the same season',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Double Cropping** refers to **growing two crops in a year on the same land**, maximizing land utilization and farmer income. **Patterns**: (1) **Kharif-Rabi**: Summer rice followed by winter wheat; (2) **Rabi-Zaid**: Winter wheat followed by summer fodder/vegetables; (3) **Sequential cropping**: Different crops in succession. **Requirements**: (1) **Irrigation**: Assured water supply essential; (2) **Suitable climate**: Temperature and rainfall patterns; (3) **Quality seeds**: Fast-maturing varieties; (4) **Soil fertility**: Adequate nutrients for multiple crops. **Benefits**: (1) **Higher income**: Two harvests per year; (2) **Food security**: Increased production; (3) **Employment**: Extended agricultural activities. **Challenges**: Soil exhaustion, water stress, pest buildup. **Regions**: Common in irrigated areas like Punjab, Haryana, parts of UP, coastal regions.',
+      difficulty: 'Medium',
+      hint: 'This practice maximizes the use of farmland by growing multiple crops annually.',
+    },
+    {
+      level: 151,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'The Digital Economy in India has been promoted through initiatives like:',
+      options: [
+        'Only UPI payments',
+        'JAM trinity, UPI, e-governance, and digital literacy programs',
+        'Only Aadhaar registration',
+        'Only mobile manufacturing',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "India's **Digital Economy** promotion involves comprehensive initiatives: **JAM trinity, UPI, e-governance, and digital literacy programs**. **Key components**: (1) **JAM Trinity**: Jan Dhan (banking), Aadhaar (identity), Mobile (connectivity) enabling direct transfers; (2) **UPI**: Unified Payments Interface revolutionizing digital payments; (3) **e-Governance**: Services like DigiLocker, e-Hospital, e-Courts; (4) **Digital literacy**: Programs like Digital Saksharta Abhiyan. **Other initiatives**: (1) **Digital India**: Comprehensive digitalization; (2) **GeM**: Government e-Marketplace; (3) **ONDC**: Open Network for Digital Commerce; (4) **Startup India**: Digital innovation support. **Impact**: Digital payments growth (UPI transactions crossed ₹10 lakh crore monthly), improved governance efficiency, financial inclusion expansion. **Challenges**: Digital divide, cyber security, privacy concerns. The ecosystem approach ensures multiple touchpoints for digital adoption.",
+      difficulty: 'Easy',
+      hint: "India's digital economy promotion involves multiple interconnected initiatives working together.",
+    },
+    {
+      level: 152,
+      mainsubject: 'Economics',
+      question: "The concept of 'Liquidity Trap' occurs when:",
+      options: [
+        'Banks have excess liquidity but refuse to lend',
+        'Interest rates are very low but monetary policy becomes ineffective',
+        'Government spending exceeds revenue by large margins',
+        'Foreign exchange reserves become insufficient',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "A **Liquidity Trap** occurs when **interest rates are very low (near zero) but monetary policy becomes ineffective** in stimulating economic activity. **Characteristics**: (1) **Zero lower bound**: Interest rates cannot go below zero (traditionally); (2) **Money demand becomes infinitely elastic**: People prefer holding cash over bonds; (3) **Investment unresponsive**: Even low rates don't encourage investment; (4) **Monetary policy ineffective**: Further money supply increases don't stimulate economy. **Causes**: Deflationary expectations, high uncertainty, balance sheet problems. **Examples**: Japan (1990s-2000s), US post-2008 crisis. **Solutions**: (1) **Fiscal policy**: Government spending becomes crucial; (2) **Unconventional monetary policy**: QE, negative interest rates; (3) **Forward guidance**: Central bank communication about future policy. **Keynesian insight**: Markets don't always self-correct, government intervention necessary.",
+      difficulty: 'Hard',
+      hint: 'This situation makes traditional monetary policy tools ineffective despite low interest rates.',
+    },
+    {
+      level: 153,
+      mainsubject: 'Indian Economy',
+      question: 'The Pradhan Mantri Fasal Bima Yojana (PMFBY) is designed to:',
+      options: [
+        'Provide direct income support to farmers',
+        'Offer crop insurance coverage against natural calamities',
+        'Supply free seeds and fertilizers',
+        'Guarantee minimum selling price for crops',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Pradhan Mantri Fasal Bima Yojana (PMFBY)** is designed to **offer crop insurance coverage against natural calamities** and yield losses. **Features**: (1) **Premium**: Very low for farmers (2% for Kharif, 1.5% for Rabi crops); (2) **Coverage**: Natural calamities, pests, diseases; (3) **Technology**: Satellite imagery, weather stations for assessment; (4) **Claims**: Based on area yield approach. **Coverage types**: (1) **Prevented sowing**: Due to adverse weather; (2) **Standing crop**: Mid-season losses; (3) **Harvest losses**: Post-harvest up to 14 days; (4) **Localized risks**: Hailstorm, landslide for individual farmers. **Benefits**: Risk mitigation, income stability, agricultural credit flow improvement. **Challenges**: Delayed claim settlements, awareness issues, coverage gaps. The scheme replaced earlier insurance schemes with better coverage and lower premiums, aiming to cover 50% of gross cropped area.',
+      difficulty: 'Medium',
+      hint: 'This scheme protects farmers from crop losses due to various risks and calamities.',
+    },
+    {
+      level: 154,
+      mainsubject: 'Economics',
+      question: "The 'Ease of Doing Business' ranking measures:",
+      options: [
+        'Only tax rates in different countries',
+        'Regulatory environment and procedures for business operations',
+        'Only labor laws in countries',
+        'Environmental regulations only',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Ease of Doing Business** ranking measures the **regulatory environment and procedures for business operations** across countries. **World Bank parameters** (10 indicators): (1) **Starting a business**: Time, cost, procedures; (2) **Dealing with construction permits**; (3) **Getting electricity**; (4) **Registering property**; (5) **Getting credit**: Legal framework, credit information; (6) **Protecting minority investors**; (7) **Paying taxes**: Time, rates, procedures; (8) **Trading across borders**: Import/export procedures; (9) **Enforcing contracts**: Legal system efficiency; (10) **Resolving insolvency**: Recovery rates, time. **India's performance**: Improved from 142nd (2014) to 63rd (2020) rank. **Reforms**: Single-window clearances, online procedures, GST implementation, bankruptcy code. **Significance**: Attracts FDI, promotes entrepreneurship, indicates reform progress. **Criticism**: May not capture all aspects of business environment.",
+      difficulty: 'Medium',
+      hint: "This ranking evaluates how business-friendly a country's regulatory environment is.",
+    },
+    {
+      level: 155,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Information Technology Investment Region (ITIR) in Karnataka is planned around:',
+      options: ['Mysore city', 'Hubli-Dharwad', 'Bangalore', 'Mangalore'],
+      correctAnswer: 3,
+      explanation:
+        "The **Information Technology Investment Region (ITIR)** in Karnataka is planned around **Bangalore** to create a world-class IT ecosystem. **Concept**: ITIR is a special economic zone model focusing on IT/ITeS sector development. **Bangalore ITIR features**: (1) **Area**: Encompasses Bangalore and surrounding areas including Hosur (Tamil Nadu); (2) **Infrastructure**: World-class connectivity, utilities, housing; (3) **Facilities**: R&D centers, incubation facilities, skill development centers; (4) **Integration**: Seamless connectivity between various IT parks and areas. **Benefits**: (1) **Ecosystem development**: Complete IT value chain; (2) **Global competitiveness**: Attracting multinational companies; (3) **Employment generation**: High-skilled job creation; (4) **Economic growth**: Revenue generation and exports. **Challenges**: Land acquisition, environmental clearances, coordination between states. The ITIR model aims to replicate Silicon Valley's integrated ecosystem in India.",
+      difficulty: 'Medium',
+      hint: "This IT region is planned around Karnataka's already established technology capital.",
+    },
+    {
+      level: 156,
+      mainsubject: 'Indian Economy',
+      question: 'The New Economic Policy of 1991 is characterized by:',
+      options: [
+        'Increased government control over the economy',
+        'Liberalization, Privatization, and Globalization (LPG)',
+        'Complete nationalization of banks',
+        'Elimination of private sector',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **New Economic Policy of 1991** is characterized by **Liberalization, Privatization, and Globalization (LPG)** reforms. **Background**: Balance of payments crisis, depleted forex reserves forced reforms. **Liberalization**: (1) **Industrial licensing**: Abolished for most industries; (2) **Price controls**: Reduced government price setting; (3) **Trade policy**: Import liberalization, tariff reduction. **Privatization**: (1) **Disinvestment**: Selling government stakes in PSUs; (2) **Private sector**: Allowed in previously reserved areas; (3) **Strategic sale**: Complete privatization of some PSUs. **Globalization**: (1) **FDI liberalization**: Increased foreign investment limits; (2) **Technology transfer**: Easier technology imports; (3) **Export promotion**: New export-import policy. **Architect**: Dr. Manmohan Singh (Finance Minister). **Results**: Higher growth rates, integration with global economy, emergence as IT superpower, improved living standards.',
+      difficulty: 'Easy',
+      hint: 'These 1991 reforms moved India from a controlled to a market-oriented economy.',
+    },
+    {
+      level: 157,
+      mainsubject: 'Economics',
+      question: 'The Gini Coefficient is used to measure:',
+      options: [
+        'Economic growth rate',
+        'Inflation rate',
+        'Income inequality',
+        'Unemployment rate',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Gini Coefficient** measures **income inequality** within a population. **Scale**: Ranges from 0 to 1 (or 0 to 100). **Interpretation**: (1) **0 (perfect equality)**: Everyone has equal income; (2) **1 (perfect inequality)**: One person has all income, others have none; (3) **Typical range**: Most countries between 0.25-0.65. **Calculation**: Based on Lorenz curve showing cumulative income distribution. **India's Gini**: Approximately 0.35-0.37, indicating moderate inequality. **Global comparison**: Lower than US (0.41), Brazil (0.53), but higher than most European countries. **Limitations**: (1) **Same coefficient**: Different distributions can have same Gini; (2) **Doesn't capture**: Wealth inequality, regional variations; (3) **Data quality**: Depends on survey accuracy. **Policy relevance**: Helps design redistributive policies, monitor inclusive growth progress.",
+      difficulty: 'Medium',
+      hint: 'This statistical measure tells us how evenly or unevenly income is distributed in society.',
+    },
+    {
+      level: 158,
+      mainsubject: 'Indian Economy',
+      question: 'The Atal Pension Yojana (APY) is targeted at:',
+      options: [
+        'Government employees only',
+        'Organized sector workers',
+        'Unorganized sector workers',
+        'Senior citizens above 60 years',
+      ],
+      correctAnswer: 3,
+      explanation:
+        '**Atal Pension Yojana (APY)** is targeted at **unorganized sector workers** to provide old-age income security. **Eligibility**: (1) **Age**: 18-40 years; (2) **Sector**: Primarily unorganized sector workers; (3) **Account**: Savings bank account with Aadhaar. **Features**: (1) **Guaranteed pension**: ₹1,000 to ₹5,000 per month from age 60; (2) **Contributions**: Based on age of joining and desired pension; (3) **Government co-contribution**: For eligible subscribers (income up to ₹2 lakh); (4) **Spouse benefit**: Pension continues to spouse, then return of corpus. **Significance**: Addresses old-age poverty in unorganized sector where EPF/EPS coverage is limited. **Enrollment**: Over 5 crore subscribers. **Implementation**: Through banks and post offices. APY complements other social security schemes like PMJJBY (insurance) and PMSBY (accident insurance) under the **social security trinity**.',
+      difficulty: 'Medium',
+      hint: 'This pension scheme fills the social security gap for workers outside the organized sector.',
+    },
+    {
+      level: 159,
+      mainsubject: 'Karnataka Economy',
+      question: 'The Upper Krishna Project in Karnataka primarily benefits:',
+      options: [
+        'Only Bangalore city',
+        'North Karnataka districts through irrigation',
+        'Coastal Karnataka industries',
+        'Only power generation',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Upper Krishna Project (UKP)** primarily benefits **North Karnataka districts through irrigation** from the Krishna river. **Scope**: Multi-purpose project covering Belgaum, Bagalkot, Bijapur, Gulbarga, and Raichur districts. **Components**: (1) **Irrigation**: Extensive canal network providing water to drought-prone areas; (2) **Power generation**: Hydroelectric plants at Almatti, Narayanpur; (3) **Drinking water**: Supply to towns and villages. **Economic impact**: (1) **Agricultural transformation**: Converting dry land to irrigated agriculture; (2) **Crop diversification**: From drought-resistant to commercial crops; (3) **Rural development**: Improved farm incomes and employment. **Inter-state issues**: Water sharing disputes with Andhra Pradesh and Telangana under Krishna Water Disputes Tribunal. **Phases**: UKP Stage-I completed, Stage-II under implementation. The project represents Karnataka's efforts to develop chronically backward North Karnataka region.",
+      difficulty: 'Medium',
+      hint: 'This major irrigation project transforms the drought-prone northern districts of Karnataka.',
+    },
+    {
+      level: 160,
+      mainsubject: 'Economics',
+      question: "The concept of 'Core Inflation' excludes:",
+      options: [
+        'Housing and clothing prices',
+        'Food and fuel prices',
+        'Transportation costs',
+        'Healthcare expenses',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Core Inflation** excludes **food and fuel prices** from the overall inflation calculation to capture underlying inflationary trends. **Rationale**: (1) **Volatility**: Food and fuel prices are highly volatile due to seasonal factors, weather, global commodity prices; (2) **Supply shocks**: Temporary disruptions don't reflect underlying economic conditions; (3) **Policy focus**: Central banks need to see persistent inflation trends. **Calculation**: CPI excluding food and fuel components. **Uses**: (1) **Monetary policy**: RBI considers core inflation for policy decisions; (2) **Trend analysis**: Better indicator of demand-side inflation; (3) **International comparison**: Standard practice globally. **India's context**: Food has high weight in CPI (~46%), making core inflation significantly different from headline inflation. **Limitations**: Food inflation affects majority of population, cannot be ignored in policy-making. **Alternative measures**: Trimmed mean, weighted median inflation.",
+      difficulty: 'Medium',
+      hint: 'This inflation measure focuses on the stable, underlying price trends by removing volatile components.',
+    },
+    {
+      level: 161,
+      mainsubject: 'Indian Economy',
+      question: 'The Swachh Bharat Mission aims to achieve:',
+      options: [
+        '100% literacy rate',
+        'Open Defecation Free (ODF) India',
+        'Complete employment generation',
+        'Total financial inclusion',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Swachh Bharat Mission** aims to achieve **Open Defecation Free (ODF) India** and improve sanitation and hygiene. **Components**: (1) **Swachh Bharat Mission (Gramin)**: Rural sanitation, individual household latrines; (2) **Swachh Bharat Mission (Urban)**: City sanitation, waste management. **Targets**: (1) **ODF status**: Eliminate open defecation; (2) **Toilet construction**: Individual household toilets; (3) **Waste management**: Solid and liquid waste management systems; (4) **Behavior change**: Hygiene awareness and practices. **Economic benefits**: (1) **Health improvements**: Reduced waterborne diseases; (2) **Healthcare savings**: Lower medical expenses; (3) **Productivity gains**: Reduced illness-related work loss; (4) **Tourism**: Cleaner destinations. **Achievement**: India declared ODF in 2019, though sustainability remains a challenge. **Budget**: Significant government investment in rural and urban sanitation infrastructure.',
+      difficulty: 'Easy',
+      hint: 'This mission focuses on sanitation and cleanliness, particularly eliminating a major public health issue.',
+    },
+    {
+      level: 162,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Visvesvaraya Iron and Steel Plant (VISL) in Karnataka is located in:',
+      options: ['Bangalore', 'Mysore', 'Bhadravati', 'Hubli'],
+      correctAnswer: 3,
+      explanation:
+        "The **Visvesvaraya Iron and Steel Plant (VISL)** is located in **Bhadravati**, Shimoga district, Karnataka. **Background**: Established in 1923 by **Sir M. Visvesvaraya** as Mysore Iron Works, later expanded into integrated steel plant. **Significance**: (1) **First integrated steel plant** in India in private sector (then Mysore state); (2) **Raw materials**: Iron ore from Kemmanagundi hills, charcoal from nearby forests; (3) **Pioneering role**: Demonstrated India's industrial capabilities. **Current status**: Now a **government enterprise** under Karnataka government ownership. **Challenges**: (1) **Technology obsolescence**: Old equipment affecting efficiency; (2) **Competition**: From modern integrated steel plants; (3) **Raw material costs**: Transportation from distant sources. **Economic role**: Provides employment in backward Malnad region, supports local ancillary industries. Named after the **'Father of Modern Karnataka'**, Sir M. Visvesvaraya.",
+      difficulty: 'Medium',
+      hint: "This historic steel plant is named after Karnataka's most famous engineer and statesman.",
+    },
+    {
+      level: 163,
+      mainsubject: 'Current Economic Issues',
+      question: "The concept of 'Atmanirbhar Bharat' emphasizes:",
+      options: [
+        'Complete isolation from global economy',
+        'Self-reliance while remaining globally integrated',
+        'Only promoting exports',
+        'Banning all foreign investments',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Atmanirbhar Bharat** emphasizes **self-reliance while remaining globally integrated**, not isolation. **Philosophy**: 'Local for Global' - strengthening domestic capabilities to serve global markets. **Five pillars**: (1) **Economy**: Size and structure suited for 21st century; (2) **Infrastructure**: Modern, efficient infrastructure; (3) **Technology**: Tech-driven system and governance; (4) **Vibrant demography**: Young, skilled workforce; (5) **Demand**: Strong domestic market. **Strategies**: (1) **Manufacturing**: PLI schemes, Make in India; (2) **Innovation**: R&D investment, startups; (3) **Supply chains**: Reducing critical import dependencies; (4) **Skill development**: Enhancing human capital. **Sectors focus**: Electronics, pharmaceuticals, renewable energy, defense, agriculture. **Global integration**: Through exports, technology partnerships, responsible globalization. The approach seeks **competitive self-reliance**, not protectionism.",
+      difficulty: 'Easy',
+      hint: 'This policy aims for strength through self-reliance while engaging with the world economy.',
+    },
+    {
+      level: 164,
+      mainsubject: 'Economics',
+      question: 'The Harrod-Domar growth model emphasizes the importance of:',
+      options: [
+        'Government regulation only',
+        'Investment and savings for economic growth',
+        'Population growth only',
+        'Natural resources only',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Harrod-Domar growth model** emphasizes **investment and savings for economic growth**. **Key equation**: Growth rate = Savings rate ÷ Capital-output ratio. **Assumptions**: (1) **Fixed proportions**: Capital and labor used in fixed ratios; (2) **Savings drive investment**: All savings translate to investment; (3) **Capital accumulation**: Key to growth. **Implications**: (1) **Higher savings**: Lead to higher growth; (2) **Capital formation**: Essential for development; (3) **Investment efficiency**: Lower capital-output ratio better. **Policy relevance**: Influenced early development planning in India and other developing countries. **Limitations**: (1) **Ignores technological progress**; (2) **Unrealistic assumptions**: Fixed coefficients, full employment; (3) **Knife-edge problem**: Unstable equilibrium. **Modern view**: Growth depends on multiple factors including technology, institutions, human capital, not just physical capital accumulation.',
+      difficulty: 'Hard',
+      hint: 'This classic growth model focuses on the role of capital accumulation in economic development.',
+    },
+    {
+      level: 165,
+      mainsubject: 'Indian Economy',
+      question:
+        'The National Rural Health Mission (NRHM) was later expanded and renamed as:',
+      options: [
+        'Ayushman Bharat',
+        'National Health Mission (NHM)',
+        'Pradhan Mantri Jan Arogya Yojana',
+        'National Health Policy',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **National Rural Health Mission (NRHM)** was expanded and renamed as **National Health Mission (NHM)** in 2013. **Evolution**: (1) **NRHM (2005)**: Focused on rural health infrastructure; (2) **NUHM (2013)**: National Urban Health Mission added; (3) **NHM (2013)**: Umbrella mission combining rural and urban components. **Objectives**: (1) **Universal access**: Healthcare for all; (2) **Equity**: Reducing rural-urban, rich-poor health gaps; (3) **Quality**: Improved healthcare standards; (4) **Accountability**: Community participation and monitoring. **Key interventions**: (1) **Infrastructure**: Sub-centers, PHCs, CHCs strengthening; (2) **Human resources**: ASHA workers, ANMs, doctors; (3) **Institutional delivery**: JSY scheme; (4) **Disease control**: National disease control programs. **Later developments**: Ayushman Bharat (2018) provides additional health insurance coverage, building on NHM foundation.',
+      difficulty: 'Medium',
+      hint: 'The original rural-focused mission was expanded to include urban areas under a new name.',
+    },
+    {
+      level: 166,
+      mainsubject: 'Current Economic Issues',
+      question: "The term 'K-shaped recovery' describes:",
+      options: [
+        'Uniform recovery across all sectors',
+        'Different sectors/groups recovering at different rates, creating divergence',
+        'Very slow recovery for everyone',
+        'Complete economic collapse',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**K-shaped recovery** describes **different sectors/groups recovering at different rates, creating divergence** - some flourish while others struggle. **Shape explanation**: Like the letter 'K', the recovery splits into different directions. **Post-COVID example**: (1) **Upper arm (beneficiaries)**: Technology companies, digital services, wealthy individuals, large corporations; (2) **Lower arm (losers)**: Small businesses, hospitality, informal workers, low-income groups. **Factors causing divergence**: (1) **Digital divide**: Tech-savvy vs traditional sectors; (2) **Policy support**: Large companies access better financing; (3) **Work-from-home**: Services vs manufacturing/retail; (4) **Asset ownership**: Rich benefit from asset price inflation. **Implications**: Increases inequality, requires targeted policy interventions for affected sectors. **India's experience**: IT sector boomed while MSMEs, tourism, informal sector struggled during COVID-19 pandemic.",
+      difficulty: 'Medium',
+      hint: 'This recovery pattern creates winners and losers, with paths diverging like the letter K.',
+    },
+    {
+      level: 167,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Kolar Gold Fields (KGF) in Karnataka were historically significant for:',
+      options: [
+        'Iron ore mining',
+        'Coal production',
+        'Gold mining and extraction',
+        'Copper mining',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Kolar Gold Fields (KGF)** were historically significant for **gold mining and extraction**. **Historical importance**: (1) **World's second deepest mines**: Reached depths of over 3,000 meters; (2) **Colonial era**: Major gold producer during British rule; (3) **Technology**: First in Asia to use electricity (1902); (4) **Employment**: Provided jobs to thousands of miners. **Economic significance**: (1) **Revenue generation**: Significant contribution to state and central revenues; (2) **Foreign exchange**: Gold exports earned valuable forex; (3) **Industrial development**: Supporting industries grew around mining. **Closure**: Mines closed in **2001** due to depletion and economic unviability. **Legacy**: (1) **Infrastructure**: Railway connections, township development; (2) **Skills**: Technical expertise in mining; (3) **Cultural heritage**: Unique mining community culture. **Current status**: Efforts for revival through exploration of deeper levels and tourism development.",
+      difficulty: 'Easy',
+      hint: "This region was once famous for extracting a precious metal that's now used as a store of value.",
+    },
+    {
+      level: 168,
+      mainsubject: 'Economics',
+      question: "The concept of 'Helicopter Money' refers to:",
+      options: [
+        'Distributing cash directly to citizens',
+        'Airlifting currency to remote areas',
+        'Foreign aid distribution',
+        'Emergency funding for disasters',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '**Helicopter Money** refers to **distributing cash directly to citizens** as an unconventional monetary policy tool. **Concept**: Coined by economist **Milton Friedman**, describing central bank directly giving money to people rather than through banking system. **Mechanism**: (1) **Direct transfer**: Central bank creates money and gives to government for distribution; (2) **No borrowing**: Unlike fiscal spending, no government debt creation; (3) **Permanent increase**: Money supply expansion without corresponding asset purchase. **Rationale**: (1) **Liquidity trap**: When conventional monetary policy fails; (2) **Direct stimulus**: Immediate consumption boost; (3) **Psychological impact**: Confidence building. **Examples**: Japan considered it, some countries implemented during COVID-19. **Risks**: (1) **Inflation**: Direct money creation can be highly inflationary; (2) **Moral hazard**: Expectations of future distributions; (3) **Central bank independence**: Political pressure concerns. **India**: No formal helicopter money, but direct transfers like PM-KISAN have similar effects.',
+      difficulty: 'Hard',
+      hint: 'This unconventional policy involves directly giving money to people, as if dropped from the sky.',
+    },
+    {
+      level: 169,
+      mainsubject: 'Indian Economy',
+      question: 'The Goods and Services Tax Network (GSTN) serves as:',
+      options: [
+        'A tax collection agency',
+        'The IT backbone for GST implementation',
+        'A dispute resolution body',
+        'A rate-setting authority',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Goods and Services Tax Network (GSTN)** serves as **the IT backbone for GST implementation** in India. **Functions**: (1) **Common portal**: Single interface for taxpayers across India; (2) **Return processing**: Handling millions of monthly returns; (3) **Data management**: Storing and processing vast transaction data; (4) **System integration**: Connecting central and state tax systems; (5) **Compliance monitoring**: Tracking tax payments and refunds. **Structure**: Non-profit, non-government company with 49% government stake. **Technical features**: (1) **Cloud-based**: Scalable architecture; (2) **Security**: Robust data protection; (3) **APIs**: Integration with accounting software; (4) **Analytics**: Business intelligence and insights. **Challenges**: Initial technical glitches, high traffic handling, system stability. **Significance**: Enables 'One Nation, One Tax, One Platform' vision, facilitates ease of doing business, reduces compliance costs for businesses.",
+      difficulty: 'Medium',
+      hint: 'This organization provides the technology infrastructure that makes GST operations possible.',
+    },
+    {
+      level: 170,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'The Bangalore-Mysore Infrastructure Corridor (BMIC) is designed to:',
+      options: [
+        'Connect only IT companies',
+        'Create an integrated industrial and urban development belt',
+        'Build only transportation links',
+        'Develop only agricultural markets',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Bangalore-Mysore Infrastructure Corridor (BMIC)** is designed to **create an integrated industrial and urban development belt** connecting Bangalore and Mysore. **Scope**: 111 km corridor with multiple industrial nodes and satellite towns. **Components**: (1) **Industrial parks**: Manufacturing and IT/ITeS zones; (2) **Transportation**: Expressway, metro connectivity, logistics hubs; (3) **Urban infrastructure**: Planned townships, utilities; (4) **Social infrastructure**: Educational institutions, healthcare facilities. **Economic objectives**: (1) **Decongestion**: Reduce pressure on Bangalore; (2) **Balanced development**: Spread economic activities; (3) **Investment attraction**: World-class infrastructure for industries; (4) **Employment generation**: Both skilled and semi-skilled jobs. **Implementation**: Public-private partnership model. **Expected outcomes**: Industrial growth, urban development, improved connectivity, regional economic balance. The corridor represents Karnataka's vision for planned industrial and urban development.",
+      difficulty: 'Medium',
+      hint: "This corridor aims to create a connected zone of development between Karnataka's two major cities.",
+    },
+    {
+      level: 171,
+      mainsubject: 'Economics',
+      question: "The concept of 'Moral Hazard' in banking refers to:",
+      options: [
+        'Banks charging high interest rates',
+        'Banks taking excessive risks expecting government bailout',
+        'Banks refusing loans to poor customers',
+        'Banks investing only in government securities',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Moral Hazard** in banking refers to **banks taking excessive risks expecting government bailout** if they fail. **Mechanism**: When banks believe they're 'too big to fail,' they may engage in risky behavior knowing the government will rescue them to prevent systemic crisis. **Examples**: (1) **Risky lending**: To borrowers with poor creditworthiness; (2) **Speculative investments**: High-risk, high-reward activities; (3) **Leverage**: Excessive borrowing to amplify returns. **Consequences**: (1) **Systemic risk**: Individual bank failures can trigger broader crisis; (2) **Taxpayer burden**: Bailout costs borne by public; (3) **Market distortion**: Unfair advantage to large banks. **Solutions**: (1) **Regulation**: Capital adequacy norms, prudential guidelines; (2) **Supervision**: Regular monitoring by central bank; (3) **Resolution frameworks**: Prompt corrective action, bankruptcy procedures. **Global examples**: 2008 financial crisis demonstrated moral hazard consequences.",
+      difficulty: 'Hard',
+      hint: 'This problem occurs when banks feel protected from the consequences of their risky decisions.',
+    },
+    {
+      level: 172,
+      mainsubject: 'Indian Economy',
+      question: 'The Pradhan Mantri Mudra Yojana (PMMY) provides loans up to:',
+      options: ['₹5 lakh', '₹10 lakh', '₹15 lakh', '₹20 lakh'],
+      correctAnswer: 2,
+      explanation:
+        '**Pradhan Mantri Mudra Yojana (PMMY)** provides loans **up to ₹10 lakh** to micro and small enterprises. **Categories**: (1) **Shishu**: Up to ₹50,000 (for starting business); (2) **Kishore**: ₹50,001 to ₹5 lakh (for growth); (3) **Tarun**: ₹5,00,001 to ₹10 lakh (for expansion). **Target beneficiaries**: Micro enterprises, small traders, artisans, self-help groups, women entrepreneurs, truck operators, food service units. **Features**: (1) **Collateral-free**: No security required; (2) **Flexible terms**: Suitable repayment schedules; (3) **Multiple channels**: Banks, NBFCs, MFIs. **Impact**: Over 34 crore loans sanctioned worth ₹18+ lakh crore since 2015. **Sectors supported**: Manufacturing, trading, services, agriculture-allied activities. **Significance**: Formalizes micro-credit sector, promotes entrepreneurship, generates employment. **Challenges**: Recovery rates, over-indebtedness concerns, need for handholding support.',
+      difficulty: 'Easy',
+      hint: 'This scheme supports micro and small businesses with collateral-free loans up to a specific limit.',
+    },
+    {
+      level: 173,
+      mainsubject: 'Economics',
+      question:
+        'Which of the following best defines Gross Domestic Product (GDP) at market prices?',
+      options: [
+        "The value of all final goods and services produced within a country's borders at constant prices",
+        "The value of all final goods and services produced within a country's borders at current prices",
+        'The total income earned by residents including net factor income from abroad',
+        'The GDP minus depreciation',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'GDP at market prices is the sum of the gross values added of all resident producers at current market prices, plus taxes less subsidies on products. From NCERT Macroeconomics, it measures domestic production without adjusting for inflation, distinguishing it from real GDP (constant prices) and GNP (includes net foreign income). This concept links to national income accounting, where GDP is a key aggregate, and inflation affects nominal GDP growth.',
+      difficulty: 'Easy',
+      hint: 'It uses current year prices for valuation.',
+    },
+    {
+      level: 174,
+      mainsubject: 'Economics',
+      question: 'What is the primary difference between GDP and GNP?',
+      options: [
+        'GDP includes depreciation, while GNP does not',
+        'GNP includes net factor income from abroad, while GDP does not',
+        'GDP is at constant prices, GNP at current prices',
+        'GNP subtracts indirect taxes, GDP does not',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'GNP = GDP + Net Factor Income from Abroad, capturing the total income of residents including earnings from overseas. NCERT explains GNP reflects national output, useful for open economies, while GDP focuses on territorial production. This ties to globalization impacts and deflation scenarios where foreign income might stabilize GNP.',
+      difficulty: 'Easy',
+      hint: 'Think about income from foreign sources.',
+    },
+    {
+      level: 175,
+      mainsubject: 'Economics',
+      question: 'Inflation is best described as:',
+      options: [
+        'A sustained decrease in the general price level',
+        'A one-time increase in prices due to a specific event',
+        'A sustained increase in the general price level',
+        'A decrease in purchasing power due to currency devaluation only',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'Inflation involves a persistent rise in prices, reducing purchasing power, often measured by WPI or CPI. From NCERT, causes include demand-pull (excess demand) or cost-push (rising costs), contrasting deflation (falling prices). Links to monetary policy tools like CRR to control money supply and fiscal measures like taxation to curb demand.',
+      difficulty: 'Easy',
+      hint: 'It erodes the value of money over time.',
+    },
+    {
+      level: 176,
+      mainsubject: 'Economics',
+      question:
+        'Which tool is used by the RBI to directly control the money supply?',
+      options: [
+        'Changing government spending',
+        'Adjusting tax rates',
+        'Open Market Operations (OMO)',
+        'Altering export duties',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "OMO involves buying/selling government securities to expand/contract money supply. NCERT Macroeconomics details RBI's role in monetary policy, distinguishing from fiscal tools (government spending/taxation). This affects inflation (selling securities reduces supply) and links to banking reserves like CRR.",
+      difficulty: 'Medium',
+      hint: 'Involves trading securities in the market.',
+    },
+    {
+      level: 177,
+      mainsubject: 'Economics',
+      question: 'Deflation can be caused by:',
+      options: [
+        'Excess aggregate demand',
+        'Increase in money supply',
+        'Tight monetary policy leading to reduced spending',
+        'Rising production costs',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "Deflation occurs with falling prices, often from reduced demand via tight policy (high interest rates). NCERT contrasts with inflation, noting deflation's risks like delayed consumption. Ties to RBI's bank rate increases and fiscal austerity, impacting GDP growth negatively.",
+      difficulty: 'Medium',
+      hint: 'Opposite of what causes inflation.',
+    },
+    {
+      level: 178,
+      mainsubject: 'Economics',
+      question: 'The Cash Reserve Ratio (CRR) is:',
+      options: [
+        'The minimum reserve banks must hold with RBI',
+        'The rate at which RBI lends to banks',
+        'The ratio of government spending to taxation',
+        'The measure of national income excluding depreciation',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "CRR is the percentage of deposits banks keep with RBI, controlling liquidity. From NCERT, it's a monetary tool to manage inflation/deflation, linking to banking system stability and money multiplier. Unlike fiscal policy, it's RBI-managed.",
+      difficulty: 'Easy',
+      hint: 'A reserve requirement for banks.',
+    },
+    {
+      level: 179,
+      mainsubject: 'Economics',
+      question: 'Fiscal Policy primarily involves:',
+      options: [
+        "RBI's control over interest rates",
+        "Government's revenue and expenditure decisions",
+        'Regulation of foreign exchange',
+        'Setting reserve ratios for banks',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Fiscal policy uses taxation and spending to influence economy, per NCERT. It affects aggregate demand, contrasting monetary policy (RBI tools). Examples: deficit spending during deflation to boost GDP, taxation to control inflation.',
+      difficulty: 'Easy',
+      hint: 'Managed by the government, not the central bank.',
+    },
+    {
+      level: 180,
+      mainsubject: 'Economics',
+      question: 'Net National Product (NNP) is calculated as:',
+      options: [
+        'GNP minus depreciation',
+        'GDP plus net exports',
+        'GNP plus indirect taxes',
+        'GDP minus net factor income from abroad',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'NNP = GNP - Depreciation, accounting for capital wear. NCERT links to sustainable income, differing from GDP (domestic, no foreign income) and GNP. Relevant for poverty measurement and fiscal planning.',
+      difficulty: 'Medium',
+      hint: 'Accounts for capital consumption.',
+    },
+    {
+      level: 181,
+      mainsubject: 'Economics',
+      question: 'The Bank Rate is:',
+      options: [
+        'The rate at which commercial banks lend to customers',
+        'The rate at which RBI lends to commercial banks',
+        'The reserve ratio for deposits',
+        'The inflation target set by government',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Bank Rate is RBI's lending rate to banks, influencing credit. NCERT Macroeconomics explains its role in monetary policy to control inflation (raise rate) or deflation (lower). Ties to RBI's banking oversight.",
+      difficulty: 'Easy',
+      hint: 'A key monetary policy instrument.',
+    },
+    {
+      level: 182,
+      mainsubject: 'Economics',
+      question:
+        'Which of the following is a component of national income accounting?',
+      options: [
+        'Intermediate goods value',
+        'Final consumption expenditure',
+        'Stock market indices',
+        'Foreign currency reserves',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'National income includes final consumption, investment, government spending, net exports. NCERT stresses avoiding double-counting intermediates. Links to GDP calculation and inflation adjustments for real income.',
+      difficulty: 'Medium',
+      hint: 'Part of the expenditure method.',
+    },
+    {
+      level: 183,
+      mainsubject: 'Economics',
+      question: 'The GDP Deflator is used to measure:',
+      options: [
+        'Changes in the general price level across the economy',
+        'Consumer price changes only',
+        'Wholesale price changes',
+        'Export price fluctuations',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "GDP Deflator = Nominal GDP / Real GDP * 100, capturing broad inflation. NCERT notes it's a comprehensive index, unlike CPI (consumer-focused) or WPI. Links to deflation (deflator <100) and fiscal policy adjustments for real growth.",
+      difficulty: 'Medium',
+      hint: 'A broad inflation indicator using GDP data.',
+    },
+    {
+      level: 184,
+      mainsubject: 'Economics',
+      question: 'Demand-pull inflation occurs when:',
+      options: [
+        'Production costs rise',
+        'Aggregate demand exceeds aggregate supply',
+        'Money supply decreases',
+        'Taxes are increased',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Caused by excess demand, pushing prices up. NCERT contrasts with cost-push (rising inputs). Ties to monetary policy (RBI raises CRR) and fiscal tools (higher taxes to reduce demand), impacting GNP growth.',
+      difficulty: 'Easy',
+      hint: 'Related to excess buying power.',
+    },
+    {
+      level: 185,
+      mainsubject: 'Economics',
+      question: 'Which is not a function of the RBI?',
+      options: [
+        'Issuing currency',
+        'Controlling credit',
+        'Managing government spending',
+        'Banker to banks',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "RBI handles monetary functions like currency issue and credit control via OMO/CRR. Government spending is fiscal policy (Ministry of Finance). NCERT distinguishes, linking RBI's role to inflation control and banking stability.",
+      difficulty: 'Easy',
+      hint: "It's a fiscal tool.",
+    },
+    {
+      level: 186,
+      mainsubject: 'Economics',
+      question: 'Real GNP accounts for:',
+      options: [
+        'Inflation adjustments',
+        'Depreciation only',
+        'Net exports',
+        'Indirect taxes',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Real GNP uses constant prices to adjust for inflation/deflation. NCERT explains it shows true growth, unlike nominal (current prices). Links to national income and globalization (foreign income adjusted).',
+      difficulty: 'Medium',
+      hint: 'Eliminates price effects.',
+    },
+    {
+      level: 187,
+      mainsubject: 'Economics',
+      question: 'Statutory Liquidity Ratio (SLR) requires banks to:',
+      options: [
+        'Hold assets in liquid form',
+        'Lend to priority sectors',
+        'Maintain reserves with RBI',
+        'Set interest rates',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "SLR mandates holding government securities/cash/gold. NCERT/RBI sources note it's a monetary tool for liquidity control, complementing CRR. Impacts inflation and ties to fiscal borrowing.",
+      difficulty: 'Easy',
+      hint: 'Involves liquid assets like securities.',
+    },
+    {
+      level: 188,
+      mainsubject: 'Economics',
+      question: 'Expansionary fiscal policy is used during:',
+      options: [
+        'High inflation',
+        'Economic recession',
+        'Budget surplus',
+        'High employment',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Involves increased spending/lower taxes to boost demand. NCERT links to deflation/recession recovery, contrasting contractionary policy for inflation. Ties to public finance deficits.',
+      difficulty: 'Medium',
+      hint: 'To stimulate growth.',
+    },
+    {
+      level: 189,
+      mainsubject: 'Economics',
+      question: 'The money multiplier effect is influenced by:',
+      options: [
+        'CRR and SLR',
+        'Government taxation',
+        'Export policies',
+        'Stock market trends',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Money multiplier = 1 / (CRR + excess reserves ratio). NCERT explains RBI uses reserves to control credit creation, linking to inflation and banking system.',
+      difficulty: 'Medium',
+      hint: 'Related to reserve requirements.',
+    },
+    {
+      level: 190,
+      mainsubject: 'Economics',
+      question: 'Hyperinflation is characterized by:',
+      options: [
+        'Moderate price rise',
+        'Extremely rapid price increases',
+        'Falling prices',
+        'Stable prices',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Prices rise >50% monthly, eroding currency value. NCERT discusses causes like excessive money supply, contrasting mild inflation. Ties to monetary policy failures.',
+      difficulty: 'Easy',
+      hint: 'Extreme form of inflation.',
+    },
+    {
+      level: 191,
+      mainsubject: 'Economics',
+      question: 'Personal Disposable Income is:',
+      options: [
+        'National income minus taxes',
+        'GNP plus transfers minus taxes',
+        'GDP at factor cost',
+        'NNP minus depreciation',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'PDI = Personal Income - Direct Taxes. NCERT links to consumption/savings, affected by fiscal taxation. Ties to inequality and poverty measures.',
+      difficulty: 'Medium',
+      hint: 'What households can spend/save.',
+    },
+    {
+      level: 192,
+      mainsubject: 'Economics',
+      question: 'Reverse Repo Rate is:',
+      options: [
+        'Rate at which RBI borrows from banks',
+        'Rate at which banks borrow from RBI',
+        'Reserve ratio',
+        'Inflation target',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "RBI pays banks for parking funds, absorbing liquidity. NCERT/RBI explain it's for inflation control, below repo rate. Links to monetary policy toolkit.",
+      difficulty: 'Easy',
+      hint: 'Opposite of repo.',
+    },
+    {
+      level: 193,
+      mainsubject: 'Economics',
+      question: 'Stagflation combines:',
+      options: [
+        'High growth and low inflation',
+        'Stagnation and inflation',
+        'Deflation and unemployment',
+        'Boom and low unemployment',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'High inflation with slow growth/unemployment. NCERT notes policy challenges (monetary tightens inflation but worsens stagnation). Ties to fiscal stimulus.',
+      difficulty: 'Medium',
+      hint: 'Worst of both worlds.',
+    },
+    {
+      level: 194,
+      mainsubject: 'Economics',
+      question: 'Factor cost in GDP calculation excludes:',
+      options: ['Indirect taxes', 'Wages and rents', 'Profits', 'Depreciation'],
+      correctAnswer: 1,
+      explanation:
+        'GDP at factor cost = GDP at market price - indirect taxes + subsidies. NCERT distinguishes from market price. Links to national income and taxation in public finance.',
+      difficulty: 'Easy',
+      hint: 'Related to production costs.',
+    },
+    {
+      level: 195,
+      mainsubject: 'Economics',
+      question: 'Monetary policy aims to control:',
+      options: [
+        'Government budgets',
+        'Money supply and interest rates',
+        'Tax rates',
+        'Infrastructure spending',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'RBI uses tools like bank rate/CRR for stability. NCERT contrasts with fiscal policy. Impacts inflation/deflation and GDP.',
+      difficulty: 'Easy',
+      hint: 'Central bank domain.',
+    },
+    {
+      level: 196,
+      mainsubject: 'Economics',
+      question: 'The Phillips Curve shows trade-off between:',
+      options: [
+        'Growth and inequality',
+        'Inflation and unemployment',
+        'Deficit and debt',
+        'Exports and imports',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Inverse relation: low unemployment with high inflation. NCERT discusses in policy context, linking to monetary/fiscal balances for employment.',
+      difficulty: 'Medium',
+      hint: 'Employment vs. prices.',
+    },
+    {
+      level: 197,
+      mainsubject: 'Economics',
+      question: 'Net Factor Income from Abroad is positive when:',
+      options: [
+        'Inflows exceed outflows',
+        'Outflows exceed inflows',
+        'No foreign income',
+        'Depreciation is high',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'NFIA = Income from abroad - payments abroad. NCERT links to GNP > GDP in such cases, relevant for globalization and remittances.',
+      difficulty: 'Easy',
+      hint: 'Net positive foreign earnings.',
+    },
+    {
+      level: 198,
+      mainsubject: 'Indian Economy',
+      question: 'The First Five-Year Plan (1951-56) primarily focused on:',
+      options: [
+        'Heavy industrialization',
+        'Agricultural development and irrigation',
+        'Service sector expansion',
+        'Export promotion',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Aimed at post-partition recovery, emphasizing agriculture to achieve food self-sufficiency. From NCERT and Ramesh Singh, it addressed poverty/unemployment via rural development, contrasting Second Plan's industry focus. Linked to NITI Aayog's later sustainable agriculture emphasis.",
+      difficulty: 'Easy',
+      hint: 'Addressed food shortages.',
+    },
+    {
+      level: 199,
+      mainsubject: 'Indian Economy',
+      question: 'NITI Aayog was established to replace:',
+      options: ['Finance Commission', 'Planning Commission', 'RBI', 'SEBI'],
+      correctAnswer: 2,
+      explanation:
+        'In 2015, for cooperative federalism and think-tank role. NCERT notes it promotes SDGs, linking to economic planning and inequality reduction through state involvement.',
+      difficulty: 'Easy',
+      hint: 'Old planning body.',
+    },
+    {
+      level: 200,
+      mainsubject: 'Indian Economy',
+      question: 'The Green Revolution in India was primarily associated with:',
+      options: [
+        'High-yielding varieties of wheat and rice',
+        'Industrial machinery',
+        'Service sector growth',
+        'Export reforms',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Introduced in 1960s for food security, boosting production. NCERT/World Bank highlight impacts on agriculture, rural development, but also inequality in non-irrigated areas.',
+      difficulty: 'Easy',
+      hint: 'Crop productivity boost.',
+    },
+    {
+      level: 201,
+      mainsubject: 'Indian Economy',
+      question:
+        "MSMEs contribute approximately what percentage to India's GDP?",
+      options: ['10%', '20%', '30%', '40%'],
+      correctAnswer: 3,
+      explanation:
+        '~30%, per IBEF/Statista, with 45% exports. Links to industrial growth, employment (113 million jobs), and reforms like GST for formalization.',
+      difficulty: 'Medium',
+      hint: 'Backbone of economy.',
+    },
+    {
+      level: 202,
+      mainsubject: 'Indian Economy',
+      question: 'Fiscal deficit is the difference between:',
+      options: [
+        'Revenue receipts and capital receipts',
+        'Total expenditure and total receipts excluding borrowings',
+        'Tax revenue and non-tax revenue',
+        'Government debt and assets',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Indicates borrowing needs. Union Budget data show India's target ~4.4% for 2025-26. NCERT ties to public finance, inflation (via money printing), and policy tools.",
+      difficulty: 'Medium',
+      hint: 'Borrowing indicator.',
+    },
+    {
+      level: 203,
+      mainsubject: 'Indian Economy',
+      question: 'MGNREGA aims to provide:',
+      options: [
+        'Urban employment',
+        '100 days of wage employment in rural areas',
+        'Skill training for MSMEs',
+        'Agricultural subsidies',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'For rural unemployment/poverty alleviation. NCERT links to inequality reduction, complementing agriculture schemes like Green Revolution.',
+      difficulty: 'Easy',
+      hint: 'Rural job guarantee.',
+    },
+    {
+      level: 204,
+      mainsubject: 'Indian Economy',
+      question: 'The Second Five-Year Plan adopted the:',
+      options: [
+        'Mahalanobis model for heavy industries',
+        'Gandhian model for rural development',
+        'Export-led growth model',
+        'Service sector focus',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "Emphasized capital goods for self-reliance. NCERT contrasts with First Plan's agriculture, impacting industrial growth and unemployment.",
+      difficulty: 'Medium',
+      hint: 'Heavy industry model.',
+    },
+    {
+      level: 205,
+      mainsubject: 'Indian Economy',
+      question: 'Poverty headcount ratio in India (2022-23) is estimated at:',
+      options: [
+        'Around 28% at $3.65/day',
+        '50% at $2.15/day',
+        '10% at $1.90/day',
+        '40% at $5/day',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Per World Bank/PIB, down from 61.8% in 2011-12. Links to unemployment schemes and inequality measures like Gini index.',
+      difficulty: 'Medium',
+      hint: 'Recent decline due to schemes.',
+    },
+    {
+      level: 206,
+      mainsubject: 'Indian Economy',
+      question: 'The Eleventh Five-Year Plan focused on:',
+      options: [
+        'Inclusive growth',
+        'Heavy industrialization',
+        'Agricultural self-sufficiency',
+        'Export promotion',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "For faster, more inclusive development. NCERT ties to poverty/inequality reduction, influencing NITI Aayog's strategies.",
+      difficulty: 'Easy',
+      hint: 'Equity in growth.',
+    },
+    {
+      level: 207,
+      mainsubject: 'Indian Economy',
+      question:
+        'Which scheme promotes rural development through infrastructure?',
+      options: [
+        'PMGSY',
+        'Make in India',
+        'Digital India',
+        'Atal Pension Yojana',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Pradhan Mantri Gram Sadak Yojana for roads. NCERT links to agriculture productivity and poverty alleviation.',
+      difficulty: 'Easy',
+      hint: 'Rural roads.',
+    },
+    {
+      level: 208,
+      mainsubject: 'Indian Economy',
+      question: 'Industrial Policy Resolution 1956 reserved sectors for:',
+      options: [
+        'Private sector',
+        'Public sector',
+        'Foreign investment',
+        'MSMEs only',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'For state control in key industries. Ramesh Singh/NCERT discuss its role in growth, pre-1991 reforms.',
+      difficulty: 'Medium',
+      hint: 'Public dominance.',
+    },
+    {
+      level: 209,
+      mainsubject: 'Indian Economy',
+      question: 'FRBM Act targets fiscal discipline through:',
+      options: [
+        'Reducing revenue deficit',
+        'Increasing taxes',
+        'Export incentives',
+        'Monetary easing',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Fiscal Responsibility and Budget Management for deficit control. Links to public finance and debt sustainability.',
+      difficulty: 'Medium',
+      hint: 'Deficit reduction law.',
+    },
+    {
+      level: 210,
+      mainsubject: 'Indian Economy',
+      question: 'Unemployment in India is measured by:',
+      options: [
+        'NSSO surveys',
+        'Census only',
+        'GDP growth rates',
+        'Inflation indices',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'National Sample Survey Office for types like seasonal/structural. NCERT ties to poverty and schemes like MGNREGA.',
+      difficulty: 'Easy',
+      hint: 'Survey-based.',
+    },
+    {
+      level: 211,
+      mainsubject: 'Indian Economy',
+      question: 'The Eighth Five-Year Plan introduced:',
+      options: [
+        'Liberalization elements',
+        'Heavy industry focus',
+        'Agriculture priority',
+        'Export controls',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Post-1991 reforms for market orientation. NCERT links to globalization and MSME growth.',
+      difficulty: 'Medium',
+      hint: 'Reform era start.',
+    },
+    {
+      level: 212,
+      mainsubject: 'Indian Economy',
+      question: 'Gini coefficient measures:',
+      options: [
+        'Income inequality',
+        'Poverty levels',
+        'Unemployment rates',
+        'Inflation',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "0 (equality) to 1 (inequality). World Inequality Lab shows India's rise, linking to planning and poverty schemes.",
+      difficulty: 'Easy',
+      hint: 'Inequality index.',
+    },
+    {
+      level: 213,
+      mainsubject: 'Indian Economy',
+      question: 'National Food Security Mission aims at:',
+      options: [
+        'Increasing production of rice, wheat, pulses',
+        'Export promotion',
+        'Industrial subsidies',
+        'Urban housing',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'For food security, building on Green Revolution. NCERT ties to rural development and poverty reduction.',
+      difficulty: 'Easy',
+      hint: 'Crop output boost.',
+    },
+    {
+      level: 214,
+      mainsubject: 'Indian Economy',
+      question: 'Make in India initiative focuses on:',
+      options: [
+        'Manufacturing growth',
+        'Agricultural exports',
+        'Service sector',
+        'Fiscal reforms',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'To attract FDI and jobs. Links to MSMEs (~50% manufacturing output) and industrial hubs.',
+      difficulty: 'Easy',
+      hint: 'Manufacturing push.',
+    },
+    {
+      level: 215,
+      mainsubject: 'Indian Economy',
+      question: 'Progressive taxation helps reduce:',
+      options: ['Inflation', 'Inequality', 'Unemployment', 'Deficits'],
+      correctAnswer: 2,
+      explanation:
+        'Higher rates on rich for redistribution. NCERT/Vision IAS link to public finance and poverty alleviation.',
+      difficulty: 'Medium',
+      hint: 'Redistributive tool.',
+    },
+    {
+      level: 216,
+      mainsubject: 'Indian Economy',
+      question: 'The Third Five-Year Plan emphasized:',
+      options: [
+        'Self-reliance in food and defense',
+        'Rural electrification',
+        'IT development',
+        'Privatization',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Amid wars, focused on agriculture/industry balance. NCERT ties to planning evolution.',
+      difficulty: 'Medium',
+      hint: 'Defense and food.',
+    },
+    {
+      level: 217,
+      mainsubject: 'Indian Economy',
+      question: 'Multidimensional Poverty Index includes:',
+      options: [
+        'Health, education, living standards',
+        'Income only',
+        'Employment only',
+        'GDP per capita',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'NITI Aayog/Drishti IAS measure for holistic poverty. Links to inequality and rural schemes.',
+      difficulty: 'Easy',
+      hint: 'Beyond income.',
+    },
+    {
+      level: 218,
+      mainsubject: 'Indian Economy',
+      question: 'SEZs in India promote:',
+      options: [
+        'Exports and FDI',
+        'Agricultural subsidies',
+        'Public sector units',
+        'Rural employment',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Special Economic Zones for growth. Ties to industrialization and globalization impacts.',
+      difficulty: 'Easy',
+      hint: 'Export zones.',
+    },
+    {
+      level: 219,
+      mainsubject: 'Indian Economy',
+      question: 'Revenue deficit occurs when:',
+      options: [
+        'Revenue expenditure > revenue receipts',
+        'Capital expenditure > capital receipts',
+        'Total expenditure = total receipts',
+        'Debt increases',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Indicates borrowing for current spending. Public finance concept, per Budget data, affecting fiscal health.',
+      difficulty: 'Medium',
+      hint: 'Revenue imbalance.',
+    },
+    {
+      level: 220,
+      mainsubject: 'Indian Economy',
+      question: 'Structural unemployment is caused by:',
+      options: [
+        'Skill mismatches',
+        'Seasonal factors',
+        'Cyclical downturns',
+        'Frictional transitions',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Due to economic shifts. NCERT links to inequality and MSME job creation needs.',
+      difficulty: 'Medium',
+      hint: 'Skill gaps.',
+    },
+    {
+      level: 221,
+      mainsubject: 'Indian Economy',
+      question: 'The Twelfth Five-Year Plan aimed for:',
+      options: [
+        'Sustainable inclusive growth',
+        'Heavy industry',
+        'Agriculture only',
+        'Defense spending',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Faster, sustainable development. Last plan before NITI Aayog, tying to poverty reduction.',
+      difficulty: 'Easy',
+      hint: 'Sustainability focus.',
+    },
+    {
+      level: 222,
+      mainsubject: 'Indian Economy',
+      question: 'Direct taxes include:',
+      options: ['Income tax', 'GST', 'Excise duty', 'Customs duty'],
+      correctAnswer: 1,
+      explanation:
+        'Progressive, on individuals/firms. Public finance tool for inequality reduction.',
+      difficulty: 'Easy',
+      hint: 'Personal burden.',
+    },
+    {
+      level: 223,
+      mainsubject: 'Indian Economy',
+      question: 'Rashtriya Krishi Vikas Yojana supports:',
+      options: [
+        'Agricultural development',
+        'Industrial clusters',
+        'Urban infrastructure',
+        'Export financing',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'State-specific agri plans. Links to rural development and Green Revolution legacy.',
+      difficulty: 'Medium',
+      hint: 'Agri scheme.',
+    },
+    {
+      level: 224,
+      mainsubject: 'Indian Economy',
+      question: 'Disguised unemployment is common in:',
+      options: ['Agriculture', 'IT sector', 'Manufacturing', 'Services'],
+      correctAnswer: 1,
+      explanation:
+        'More workers than needed. NCERT ties to poverty and need for MSME jobs.',
+      difficulty: 'Easy',
+      hint: 'Hidden in farms.',
+    },
+    {
+      level: 225,
+      mainsubject: 'Indian Economy',
+      question: "NITI Aayog's Aspirational Districts Programme targets:",
+      options: [
+        'Backward districts for development',
+        'Urban metros',
+        'Export hubs',
+        'Industrial parks',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'For inclusive growth in health/education. Links to inequality and planning.',
+      difficulty: 'Easy',
+      hint: 'Underdeveloped areas.',
+    },
+    {
+      level: 226,
+      mainsubject: 'Indian Economy',
+      question: 'Primary deficit excludes:',
+      options: [
+        'Interest payments',
+        'Revenue expenditure',
+        'Capital receipts',
+        'Tax revenue',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Fiscal deficit minus interest. Indicates core borrowing, per Budget analysis.',
+      difficulty: 'Medium',
+      hint: 'Non-interest deficit.',
+    },
+    {
+      level: 227,
+      mainsubject: 'Indian Economy',
+      question: 'The Lorenz Curve is used to represent:',
+      options: [
+        'Income distribution',
+        'Inflation trends',
+        'GDP growth',
+        'Unemployment rates',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'For inequality visualization. Ties to Gini and poverty measures.',
+      difficulty: 'Medium',
+      hint: 'Inequality graph.',
+    },
+    {
+      level: 228,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "Which irrigation project is key to Karnataka's agriculture in the Krishna basin?",
+      options: [
+        'Upper Krishna Project',
+        'Sardar Sarovar Dam',
+        'Bhakra Nangal',
+        'Tehri Dam',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Irrigates drought-prone areas, boosting crops like paddy/sugarcane (~6.47 lakh ha). State surveys note ~16% GSDP from agriculture, linking to rural development and inequality reduction.',
+      difficulty: 'Easy',
+      hint: 'Krishna river named.',
+    },
+    {
+      level: 229,
+      mainsubject: 'Karnataka Economy',
+      question: "Bengaluru contributes what share to India's IT exports?",
+      options: ['Around 40%', '10%', '20%', '60%'],
+      correctAnswer: 1,
+      explanation:
+        '~38-40%, as Silicon Valley. IBEF links to economic reforms and ~38% state GSDP from services.',
+      difficulty: 'Medium',
+      hint: 'IT hub dominance.',
+    },
+    {
+      level: 230,
+      mainsubject: 'Karnataka Economy',
+      question: 'Mysuru is famous for:',
+      options: [
+        'Silk industry (KSIC)',
+        'Auto manufacturing',
+        'Textile mills',
+        'Pharma hubs',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Karnataka Silk Industries Corporation produces pure silk. Ties to industrial hubs and reforms for export.',
+      difficulty: 'Easy',
+      hint: 'Silk sarees.',
+    },
+    {
+      level: 231,
+      mainsubject: 'Karnataka Economy',
+      question: 'Hubballi-Dharwad is known as:',
+      options: [
+        'Engineering and auto hub',
+        'IT park',
+        'Silk center',
+        'Agri market',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Over 1000 SMEs in allied industries. Links to state industrial policy for growth.',
+      difficulty: 'Easy',
+      hint: 'Twin city industries.',
+    },
+    {
+      level: 232,
+      mainsubject: 'Karnataka Economy',
+      question: "Karnataka's Industrial Policy 2025-30 aims for:",
+      options: [
+        'Competitiveness and jobs',
+        'Agriculture only',
+        'Tourism focus',
+        'Mining expansion',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'To attract investment, per state docs. Ties to IT reforms and hubs like Bengaluru.',
+      difficulty: 'Medium',
+      hint: 'New policy goals.',
+    },
+    {
+      level: 233,
+      mainsubject: 'Karnataka Economy',
+      question: 'Tungabhadra Project benefits:',
+      options: [
+        'Irrigation in central Karnataka',
+        'Power only',
+        'Urban water',
+        'Export zones',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Multi-purpose for agri and power. State water policy links to sustainable agriculture.',
+      difficulty: 'Easy',
+      hint: 'River project.',
+    },
+    {
+      level: 234,
+      mainsubject: 'Karnataka Economy',
+      question: "Karnataka's IT sector growth post-1991 is due to:",
+      options: [
+        'Liberalization and SEZs',
+        'Agriculture subsidies',
+        'Mining reforms',
+        'Rural schemes',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Attracted FDI, per Economist Impact (~$54.6bn 2019-24). Links to economic reforms.',
+      difficulty: 'Medium',
+      hint: 'Reform-driven.',
+    },
+    {
+      level: 235,
+      mainsubject: 'Karnataka Economy',
+      question: 'Major crops in Karnataka include:',
+      options: [
+        'Ragi, coffee, silk cocoon',
+        'Wheat, barley',
+        'Tea, rubber',
+        'Cotton, jute',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Diverse agri, ~15-16% GSDP. Ties to irrigation projects for productivity.',
+      difficulty: 'Easy',
+      hint: 'State-specific.',
+    },
+    {
+      level: 236,
+      mainsubject: 'Karnataka Economy',
+      question: 'Electronic Manufacturing Clusters in Karnataka are in:',
+      options: [
+        'Mysuru, Dharwad, Bengaluru',
+        'Mangaluru only',
+        'Belagavi',
+        'Kalaburagi',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'For tech growth, per Invest Karnataka. Links to industrial hubs.',
+      difficulty: 'Medium',
+      hint: 'Tech clusters.',
+    },
+    {
+      level: 237,
+      mainsubject: 'Karnataka Economy',
+      question: 'Kalyana Karnataka development focuses on:',
+      options: [
+        'Irrigation and infrastructure',
+        'IT only',
+        'Mining',
+        'Tourism',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Rs. 1,787 crores for projects, per state reports. Ties to rural equity.',
+      difficulty: 'Easy',
+      hint: 'Backward region.',
+    },
+    {
+      level: 238,
+      mainsubject: 'Karnataka Economy',
+      question: 'KSIC is associated with:',
+      options: ['Silk production', 'IT services', 'Auto parts', 'Pharma'],
+      correctAnswer: 1,
+      explanation:
+        'Government enterprise for Mysuru silk. Links to traditional industries.',
+      difficulty: 'Easy',
+      hint: 'Silk corp.',
+    },
+    {
+      level: 239,
+      mainsubject: 'Karnataka Economy',
+      question: "Karnataka's GSDP growth outpaces national average due to:",
+      options: [
+        'IT and manufacturing',
+        'Agriculture alone',
+        'Mining exports',
+        'Tourism revenue',
+      ],
+      correctAnswer: 1,
+      explanation: 'Per HFS Research, aiming $50bn IT future. Ties to reforms.',
+      difficulty: 'Medium',
+      hint: 'Sector-driven.',
+    },
+    {
+      level: 240,
+      mainsubject: 'Karnataka Economy',
+      question: 'ACIWRM in Karnataka focuses on:',
+      options: [
+        'Integrated water management',
+        'IT policy',
+        'Silk exports',
+        'Auto hubs',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Advanced Centre for water resources, for irrigation efficiency. Links to agri projects.',
+      difficulty: 'Medium',
+      hint: 'Water body.',
+    },
+    {
+      level: 241,
+      mainsubject: 'Karnataka Economy',
+      question: 'Mangaluru is an emerging hub for:',
+      options: [
+        'Petrochemicals and ports',
+        'Silk',
+        'Engineering',
+        'Coffee only',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Industrial port city. Ties to state economy diversification.',
+      difficulty: 'Easy',
+      hint: 'Coastal industry.',
+    },
+    {
+      level: 242,
+      mainsubject: 'Karnataka Economy',
+      question: 'State Water Policy 2022 emphasizes:',
+      options: [
+        'Efficient irrigation/agri use',
+        'Urban development',
+        'Export taxes',
+        'MSME loans',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'As major water user is agriculture. Links to sustainability.',
+      difficulty: 'Medium',
+      hint: 'Water efficiency.',
+    },
+    {
+      level: 243,
+      mainsubject: 'Karnataka Economy',
+      question: "Belagavi's economy includes:",
+      options: [
+        'Sugar and textiles',
+        'IT parks',
+        'Silk farms',
+        'Auto clusters',
+      ],
+      correctAnswer: 1,
+      explanation: 'Agro-based industries. Ties to rural development.',
+      difficulty: 'Easy',
+      hint: 'Northern agri.',
+    },
+    {
+      level: 244,
+      mainsubject: 'Karnataka Economy',
+      question: 'Karnataka aims for how many GCCs by 2030?',
+      options: ['500', '100', '200', '1000'],
+      correctAnswer: 1,
+      explanation:
+        'Global Capability Centers for IT growth, per state vision. Links to $50bn target.',
+      difficulty: 'Medium',
+      hint: 'IT ambition.',
+    },
+    {
+      level: 245,
+      mainsubject: 'Karnataka Economy',
+      question: 'CADA in Karnataka handles:',
+      options: [
+        'Irrigation management',
+        'IT regulations',
+        'Silk quality',
+        'Auto exports',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Command Area Development Authority for water/land. Ties to agri projects.',
+      difficulty: 'Easy',
+      hint: 'Irrigation wing.',
+    },
+    {
+      level: 246,
+      mainsubject: 'Karnataka Economy',
+      question: "Post-1991, Karnataka's tier-II cities developed:",
+      options: [
+        'SEZs and IT parks',
+        'Mining sites',
+        'Agri cooperatives',
+        'Tourism zones',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Like Mysuru/Hubballi. Links to reforms and decentralization.',
+      difficulty: 'Medium',
+      hint: 'Lower tier growth.',
+    },
+    {
+      level: 247,
+      mainsubject: 'Karnataka Economy',
+      question: 'KISWRMIP aims to:',
+      options: [
+        'Improve water efficiency',
+        'Boost silk production',
+        'Develop auto industry',
+        'Promote tourism',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Karnataka Integrated Sustainable Water Resources Management Investment Program. Ties to irrigation and agri.',
+      difficulty: 'Medium',
+      hint: 'Water program.',
+    },
+    {
+      level: 248,
+      mainsubject: 'Current Economic Issues',
+      question: 'GST in India primarily unified:',
+      options: [
+        'Indirect taxes',
+        'Direct taxes',
+        'Corporate taxes',
+        'Property taxes',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'One-nation-one-tax, replacing VAT/excise. IMF notes positive macroeconomic impact, though initial compliance burdens for MSMEs. Links to public finance revenue (~67% from 18% slab).',
+      difficulty: 'Easy',
+      hint: 'Tax unification.',
+    },
+    {
+      level: 249,
+      mainsubject: 'Current Economic Issues',
+      question: 'Demonetization 2016 aimed to curb:',
+      options: [
+        'Black money and counterfeits',
+        'Inflation directly',
+        'Unemployment',
+        'Fiscal deficits',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Invalidated 86% currency. Studies show short-term GDP dip (0.5-1%), but long-term digital/formalization benefits. Balanced: positive on tax base, negative on informal sector.',
+      difficulty: 'Easy',
+      hint: 'Cash-related evils.',
+    },
+    {
+      level: 250,
+      mainsubject: 'Current Economic Issues',
+      question: 'Post-demonetization, digital transactions surged due to:',
+      options: [
+        'UPI and POS growth',
+        'Cash abundance',
+        'Lower taxes',
+        'Export incentives',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Cash scarcity boosted adoption. Academic papers note 50% increase in taxpayers, linking to digital economy formalization.',
+      difficulty: 'Medium',
+      hint: 'Cashless push.',
+    },
+    {
+      level: 251,
+      mainsubject: 'Current Economic Issues',
+      question: "Globalization increased India's:",
+      options: [
+        'FDI and trade',
+        'Agricultural subsidies',
+        'Public sector jobs',
+        'Inflation rates',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Post-1991, trade rose to 63% GDP share. Positive: jobs/exports; challenges: inequality rise, per Vajiram analyses.',
+      difficulty: 'Easy',
+      hint: 'International integration.',
+    },
+    {
+      level: 252,
+      mainsubject: 'Current Economic Issues',
+      question: 'GST impact on compliance:',
+      options: [
+        'Increased, with wider tax base',
+        'Decreased due to complexity',
+        'No change',
+        'Only affected exports',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '50% more taxpayers, per IMF. Links to economic formalization and MSME challenges initially.',
+      difficulty: 'Medium',
+      hint: 'Formalization effect.',
+    },
+    {
+      level: 253,
+      mainsubject: 'Current Economic Issues',
+      question: "Demonetization's short-term effect on GDP was:",
+      options: [
+        'Dip of 1-2%',
+        'Immediate growth',
+        'No impact',
+        'Permanent decline',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Due to cash crunch. CEPR/Harvard studies balanced with long-term anti-corruption gains.',
+      difficulty: 'Medium',
+      hint: 'Temporary slowdown.',
+    },
+    {
+      level: 254,
+      mainsubject: 'Current Economic Issues',
+      question: 'Digital India initiative post-2016 focused on:',
+      options: [
+        'Broadband and e-services',
+        'Cash economy',
+        'Import substitution',
+        'Heavy industry',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "Complementing demonetization for inclusion. Ties to globalization's tech push.",
+      difficulty: 'Easy',
+      hint: 'E-governance.',
+    },
+    {
+      level: 255,
+      mainsubject: 'Current Economic Issues',
+      question: "Globalization's challenge in India is:",
+      options: [
+        'Rising inequality',
+        'Decreased FDI',
+        'Lower exports',
+        'Reduced jobs',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Income gaps widened, per World Inequality Lab. Balanced: growth benefits but need for inclusive policies.',
+      difficulty: 'Medium',
+      hint: 'Equity issue.',
+    },
+    {
+      level: 256,
+      mainsubject: 'Current Economic Issues',
+      question: 'GST reduced interstate:',
+      options: [
+        'Trade barriers',
+        'Income taxes',
+        'Unemployment',
+        'Inflation directly',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '20% drop in travel time. Positive for logistics, linking to economic efficiency.',
+      difficulty: 'Easy',
+      hint: 'Border ease.',
+    },
+    {
+      level: 257,
+      mainsubject: 'Current Economic Issues',
+      question: 'Demonetization boosted:',
+      options: [
+        'Digital financial services',
+        'Cash hoarding',
+        'Black market growth',
+        'Fiscal deficits',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Faster adoption of POS/mobile payments. ScienceDirect notes turning point for digital economy.',
+      difficulty: 'Easy',
+      hint: 'Fintech rise.',
+    },
+    {
+      level: 258,
+      mainsubject: 'Current Economic Issues',
+      question: 'UPI transactions post-demonetization:',
+      options: [
+        'Surged exponentially',
+        'Declined',
+        'Remained stable',
+        'Were banned',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'From scarcity-driven shift. Links to digital inclusion and globalization.',
+      difficulty: 'Medium',
+      hint: 'Payment boom.',
+    },
+    {
+      level: 259,
+      mainsubject: 'Current Economic Issues',
+      question: "Globalization led to India's trade value rise from:",
+      options: [
+        '$1.25bn to $630bn (2003-04)',
+        '$100bn to $200bn',
+        '$500bn to $1tn',
+        '$10bn to $50bn',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Broad-based integration. Wikipedia notes impacts on economy and jobs.',
+      difficulty: 'Medium',
+      hint: 'Trade explosion.',
+    },
+    {
+      level: 260,
+      mainsubject: 'Current Economic Issues',
+      question: 'Criticism of GST includes:',
+      options: [
+        'Initial compliance burdens',
+        'Too low rates',
+        'No impact on revenue',
+        'Only benefits large firms',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'For SMEs, but overall positive on growth. Reuters balances with macroeconomic gains.',
+      difficulty: 'Medium',
+      hint: 'Startup hurdles.',
+    },
+    {
+      level: 261,
+      mainsubject: 'Current Economic Issues',
+      question: "Demonetization's impact on informal sector:",
+      options: [
+        'Negative, with sales drop',
+        'Positive growth',
+        'No change',
+        'Export boost',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '~20% lower sales, per VoxDev. Balanced with formalization long-term.',
+      difficulty: 'Medium',
+      hint: 'Cash-dependent hit.',
+    },
+    {
+      level: 262,
+      mainsubject: 'Current Economic Issues',
+      question: 'Digital economy growth in India is driven by:',
+      options: [
+        'Demonetization and reforms',
+        'Agriculture tech',
+        'Mining digitalization',
+        'Tourism apps',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Post-2016 surge in e-payments. EconStor notes opportunity for leapfrog.',
+      difficulty: 'Easy',
+      hint: 'Policy catalyst.',
+    },
+    {
+      level: 263,
+      mainsubject: 'Current Economic Issues',
+      question: "Globalization enhanced India's:",
+      options: [
+        'Competitiveness and tech',
+        'Isolation',
+        'Subsidy dependence',
+        'Public sector dominance',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Through FDI/jobs. Emerald notes profound influence on policies.',
+      difficulty: 'Easy',
+      hint: 'Global edge.',
+    },
+    {
+      level: 264,
+      mainsubject: 'Current Economic Issues',
+      question: 'GST 2.0 reforms (2025) aim to:',
+      options: [
+        'Simplify slabs, cheaper goods',
+        'Increase rates',
+        'Abolish GST',
+        'Focus on direct taxes',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "For consumer benefits. YouTube/Reuters discuss tax cuts' impact.",
+      difficulty: 'Medium',
+      hint: 'Reform update.',
+    },
+    {
+      level: 265,
+      mainsubject: 'Current Economic Issues',
+      question: 'Post-demonetization, consumer spending via digital:',
+      options: [
+        'Increased in long run',
+        'Permanently decreased',
+        'Unaffected',
+        'Shifted to cash',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Despite initial dip. Oxford/RFS study notes no long-term change for high-cash users.',
+      difficulty: 'Medium',
+      hint: 'Sustained shift.',
+    },
+    {
+      level: 266,
+      mainsubject: 'Current Economic Issues',
+      question: "Globalization's positive impact includes:",
+      options: [
+        'Higher living standards',
+        'Increased poverty',
+        'Lower growth',
+        'Reduced trade',
+      ],
+      correctAnswer: 1,
+      explanation:
+        "Via economic integration. BYJU's notes employment rise, though inequality debates persist.",
+      difficulty: 'Easy',
+      hint: 'Standard uplift.',
+    },
+    {
+      level: 267,
+      mainsubject: 'Current Economic Issues',
+      question: "GST revenue's effect on growth:",
+      options: [
+        'Positive short/long run',
+        'Negative overall',
+        'Only short run',
+        'Irrelevant',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Per Taylor & Francis, boosts economy. Links to public finance.',
+      difficulty: 'Medium',
+      hint: 'Growth link.',
+    },
+    {
+      level: 268,
+      mainsubject: 'Current Economic Issues',
+      question: 'Demonetization reduced currency circulation by:',
+      options: ['75-86%', '10%', '50%', '100%'],
+      correctAnswer: 1,
+      explanation: 'Overnight shock. CEPR quantifies impacts on economy.',
+      difficulty: 'Easy',
+      hint: 'Major cut.',
+    },
+    {
+      level: 269,
+      mainsubject: 'Current Economic Issues',
+      question: 'Digital payments post-2016 fared:',
+      options: [
+        'Spiked then stabilized',
+        'Declined permanently',
+        'No spike',
+        'Banned',
+      ],
+      correctAnswer: 1,
+      explanation: 'Due to remonetization. CIO notes industry growth.',
+      difficulty: 'Medium',
+      hint: 'Temporary boom.',
+    },
+    {
+      level: 270,
+      mainsubject: 'Current Economic Issues',
+      question: "Globalization's SEZ impact:",
+      options: ['Job creation', 'Job loss', 'No jobs', 'Only imports'],
+      correctAnswer: 1,
+      explanation: 'For exports/FDI. Ties to industrial growth.',
+      difficulty: 'Easy',
+      hint: 'Zone benefits.',
+    },
+    {
+      level: 271,
+      mainsubject: 'Current Economic Issues',
+      question: 'GST on macroeconomy:',
+      options: [
+        'Improved collection/efficiency',
+        'Worsened deficits',
+        'Increased inflation',
+        'Decreased exports',
+      ],
+      correctAnswer: 1,
+      explanation: '50% taxpayer rise. F&D/IMF highlight positives.',
+      difficulty: 'Medium',
+      hint: 'Tax gains.',
+    },
+    {
+      level: 272,
+      mainsubject: 'Current Economic Issues',
+      question: 'The long-term impact of Demonetization 2016 included:',
+      options: [
+        'Permanent elimination of black money',
+        'Increased digital transactions and tax base',
+        'No change in GDP growth',
+        'Decrease in informal sector employment only',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Boosted digitalization (UPI) and added taxpayers, per Economic Surveys and studies. Evidence leans toward short-term GDP dip (1-2%) but long-term formalization; links to GST for further revenue gains and globalization's digital push.",
+      difficulty: 'Medium',
+      hint: 'Promoted cashless economy.',
+    },
+    {
+      level: 273,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: GDP measures the total value of goods and services produced within a country in a given year.\nStatement II: GNP includes income earned by citizens abroad but excludes income earned by foreigners within the country.\nStatement III: Net National Product (NNP) is calculated by deducting depreciation from GNP.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'All three statements are correct. GDP measures production within domestic territory, GNP accounts for net income from abroad, and NNP = GNP – depreciation.',
+      difficulty: 'Medium',
+      hint: 'Think about the relationship between GDP, GNP, and NNP.',
+    },
+    {
+      level: 274,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: Inflation reduces the purchasing power of money.\nStatement II: Deflation occurs when the general price level continuously rises.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Only Statement I is correct. Inflation lowers purchasing power, but deflation is when prices fall, not rise.',
+      difficulty: 'Easy',
+      hint: 'Compare inflation (price rise) with deflation (price fall).',
+    },
+    {
+      level: 275,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: Demand-pull inflation is caused by excess aggregate demand.\nStatement II: Cost-push inflation results from rising production costs.\nStatement III: Hyperinflation is a moderate rise in prices over time.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Statements I and II are correct. Demand-pull occurs when demand exceeds supply, and cost-push from input cost rises. Hyperinflation is extreme (>50% monthly), not moderate.',
+      difficulty: 'Medium',
+      hint: 'Recall types of inflation and their severity.',
+    },
+    {
+      level: 276,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: Open Market Operations involve RBI buying/selling securities to control money supply.\nStatement II: CRR is the rate at which RBI lends to banks.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "Only I is correct. OMO adjusts liquidity; CRR is reserve requirement, not lending rate (that's Bank Rate).",
+      difficulty: 'Easy',
+      hint: "Distinguish RBI's quantitative tools.",
+    },
+    {
+      level: 277,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: Fiscal policy involves government spending and taxation.\nStatement II: Monetary policy is managed by the RBI using tools like repo rate.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Both are correct. Fiscal by government for demand influence; monetary by RBI for money supply.',
+      difficulty: 'Easy',
+      hint: 'Policy managers and tools.',
+    },
+    {
+      level: 278,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: Real GDP adjusts for inflation using constant prices.\nStatement II: Nominal GDP uses current prices without adjustment.\nStatement III: GNP = GDP - Net Factor Income from Abroad.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Real vs. nominal distinction; GNP = GDP + NFIA, not minus.',
+      difficulty: 'Medium',
+      hint: 'Price adjustments and foreign income.',
+    },
+    {
+      level: 279,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: Deflation increases purchasing power but can lead to economic stagnation.\nStatement II: Stagflation is high inflation with high growth.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Only I correct. Deflation risks delays; stagflation is inflation + stagnation/unemployment.',
+      difficulty: 'Medium',
+      hint: 'Economic risks of price falls.',
+    },
+    {
+      level: 280,
+      mainsubject: 'Economics',
+      question:
+        "Consider the following statements:\nStatement I: Bank Rate is RBI's lending rate to banks.\nStatement II: SLR requires banks to hold liquid assets.\nStatement III: Reverse Repo Rate is higher than Repo Rate.",
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Bank Rate for long-term; SLR for liquidity; Reverse Repo lower than Repo.',
+      difficulty: 'Medium',
+      hint: 'RBI rates hierarchy.',
+    },
+    {
+      level: 281,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: NNP = GNP - Depreciation.\nStatement II: NDP = GDP - Depreciation.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Net accounts subtract capital wear.',
+      difficulty: 'Easy',
+      hint: 'Net vs. Gross aggregates.',
+    },
+    {
+      level: 282,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: Phillips Curve shows inverse relation between inflation and unemployment.\nStatement II: Money multiplier = 1 / CRR.\nStatement III: Expansionary fiscal policy reduces deficits.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Phillips trade-off; multiplier simplified; expansionary increases deficits.',
+      difficulty: 'Medium',
+      hint: 'Policy effects on budgets.',
+    },
+    {
+      level: 283,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: GDP Deflator measures broad price changes.\nStatement II: CPI focuses on wholesale prices.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Only I correct. Deflator uses GDP; CPI consumer, WPI wholesale.',
+      difficulty: 'Easy',
+      hint: 'Inflation indices focus.',
+    },
+    {
+      level: 284,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: RBI acts as banker to government.\nStatement II: Qualitative tools include moral suasion.\nStatement III: Fiscal policy controls money supply.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. RBI functions; qualitative non-quantitative; fiscal demand, monetary supply.',
+      difficulty: 'Medium',
+      hint: 'Policy domains.',
+    },
+    {
+      level: 285,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: Personal Disposable Income = Personal Income - Direct Taxes.\nStatement II: Factor cost excludes indirect taxes.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'Both correct. PDI for spending; factor cost production view.',
+      difficulty: 'Medium',
+      hint: 'Income adjustments.',
+    },
+    {
+      level: 286,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: Tight monetary policy combats inflation.\nStatement II: Loose fiscal policy during recession boosts demand.\nStatement III: Deflation always benefits economy.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Tight raises rates; loose spending; deflation risks stagnation.',
+      difficulty: 'Medium',
+      hint: 'Policy responses to cycles.',
+    },
+    {
+      level: 287,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: Net Factor Income from Abroad can be negative.\nStatement II: GNP better for closed economies.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Only I correct. NFIA negative if outflows > inflows; GNP for open economies.',
+      difficulty: 'Easy',
+      hint: 'Open vs. closed.',
+    },
+    {
+      level: 288,
+      mainsubject: 'Economics',
+      question:
+        'Consider the following statements:\nStatement I: Expenditure method sums consumption, investment, government spending, net exports.\nStatement II: Income method sums wages, rents, interests, profits.\nStatement III: Value added method avoids double-counting intermediates.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation: 'All correct. Three GDP methods per NCERT.',
+      difficulty: 'Medium',
+      hint: 'GDP calculation approaches.',
+    },
+    {
+      level: 289,
+      mainsubject: 'Economics',
+      question:
+        'Statement I: RBI regulates foreign exchange.\nStatement II: Commercial banks create credit through fractional reserves.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. RBI FOREX; banks via deposits/loans.',
+      difficulty: 'Easy',
+      hint: 'Banking functions.',
+    },
+    {
+      level: 290,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: First Five-Year Plan focused on agriculture.\nStatement II: Second Plan emphasized heavy industries.\nStatement III: Third Plan achieved self-reliance in food.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. First agri/irrigation; Second Mahalanobis model; Third aimed but wars disrupted.',
+      difficulty: 'Medium',
+      hint: 'Plan priorities.',
+    },
+    {
+      level: 291,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: NITI Aayog replaced Planning Commission in 2015.\nStatement II: It promotes competitive federalism.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Shift to think-tank; indices for states.',
+      difficulty: 'Easy',
+      hint: 'Modern planning body.',
+    },
+    {
+      level: 292,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: Green Revolution introduced HYV seeds in 1960s.\nStatement II: It led to uniform regional development.\nStatement III: Focused on wheat and rice.',
+      options: [
+        'Only I and III are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only II is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and III correct. HYV boosted output; uneven, Punjab/Haryana benefited more.',
+      difficulty: 'Medium',
+      hint: 'Regional disparities.',
+    },
+    {
+      level: 293,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: MSMEs contribute ~30% to GDP.\nStatement II: They employ over 100 million.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. ~30% GDP, 111 million jobs.',
+      difficulty: 'Easy',
+      hint: 'SME role.',
+    },
+    {
+      level: 294,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: Fiscal deficit indicates borrowing needs.\nStatement II: Revenue deficit > revenue receipts - expenditure.\nStatement III: FRBM targets fiscal discipline.',
+      options: [
+        'Only I and III are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and III correct. Deficit borrowing; revenue expenditure > receipts; FRBM limits.',
+      difficulty: 'Medium',
+      hint: 'Deficit definitions.',
+    },
+    {
+      level: 295,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: MGNREGA provides 100 days rural employment.\nStatement II: It addresses urban unemployment.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation: 'Only I correct. Rural focus; urban separate schemes.',
+      difficulty: 'Easy',
+      hint: 'Scheme scope.',
+    },
+    {
+      level: 296,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: Eleventh Plan focused on inclusive growth.\nStatement II: Twelfth Plan aimed sustainable development.\nStatement III: Planning Commission formulated all plans.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Eleventh inclusive; Twelfth sustainable; NITI replaced post-2014.',
+      difficulty: 'Medium',
+      hint: 'Plan themes and body change.',
+    },
+    {
+      level: 297,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: Gini coefficient measures inequality.\nStatement II: Lorenz Curve represents income distribution.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Gini 0-1; Lorenz graphical.',
+      difficulty: 'Easy',
+      hint: 'Inequality tools.',
+    },
+    {
+      level: 298,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: PMGSY builds rural roads.\nStatement II: NFSA provides food security.\nStatement III: SEZs promote agriculture.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. PMGSY infrastructure; NFSA subsidies; SEZs exports/industry.',
+      difficulty: 'Medium',
+      hint: 'Scheme focuses.',
+    },
+    {
+      level: 299,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: Industrial Policy 1956 reserved public sector.\nStatement II: 1991 reforms liberalized economy.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. 1956 state control; 1991 LPG.',
+      difficulty: 'Easy',
+      hint: 'Policy shifts.',
+    },
+    {
+      level: 300,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: Disguised unemployment common in agriculture.\nStatement II: Structural unemployment from skill mismatch.\nStatement III: Frictional unemployment is long-term.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Disguised excess labor; structural shifts; frictional transitional.',
+      difficulty: 'Medium',
+      hint: 'Unemployment types.',
+    },
+    {
+      level: 301,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: Make in India promotes manufacturing.\nStatement II: It targets FDI and jobs.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Manufacturing hub; investment attraction.',
+      difficulty: 'Easy',
+      hint: 'Initiative goals.',
+    },
+    {
+      level: 302,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: Progressive taxation reduces inequality.\nStatement II: Direct taxes on income.\nStatement III: Indirect taxes progressive.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Progressive higher rates; direct personal; indirect regressive.',
+      difficulty: 'Medium',
+      hint: 'Tax nature.',
+    },
+    {
+      level: 303,
+      mainsubject: 'Indian Economy',
+      question:
+        'Statement I: Multidimensional Poverty Index includes health, education.\nStatement II: It measures income only.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation: 'Only I correct. MPI holistic; beyond income.',
+      difficulty: 'Easy',
+      hint: 'Poverty dimensions.',
+    },
+    {
+      level: 304,
+      mainsubject: 'Indian Economy',
+      question:
+        'Consider the following statements:\nStatement I: Eighth Plan introduced liberalization.\nStatement II: Primary deficit excludes interest.\nStatement III: Aspirational Districts by NITI Aayog.',
+      options: [
+        'Only I and III are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only II is correct',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'All correct. Eighth post-1991; primary non-interest; districts backward focus.',
+      difficulty: 'Medium',
+      hint: 'Reforms and measures.',
+    },
+    {
+      level: 305,
+      mainsubject: 'Karnataka Economy',
+      question:
+        "Consider the following statements:\nStatement I: Agriculture occupies 64.6% of Karnataka's land.\nStatement II: Irrigation covers 34% of cropped area.\nStatement III: Coffee is a major crop.",
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'All correct. Land use; irrigation limited; coffee leading producer.',
+      difficulty: 'Medium',
+      hint: 'Agri stats.',
+    },
+    {
+      level: 306,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Statement I: Upper Krishna Project irrigates drought areas.\nStatement II: It is in Cauvery basin.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation: 'Only I correct. Krishna basin project.',
+      difficulty: 'Easy',
+      hint: 'River basin.',
+    },
+    {
+      level: 307,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Consider the following statements:\nStatement I: Bengaluru contributes ~40% IT exports.\nStatement II: Mysuru known for silk.\nStatement III: Hubballi-Dharwad auto hub.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 3,
+      explanation: 'All correct. IT dominance; KSIC silk; engineering/auto.',
+      difficulty: 'Medium',
+      hint: 'Hub specialties.',
+    },
+    {
+      level: 308,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Statement I: Post-1991 reforms boosted IT.\nStatement II: GSDP growth outpaces national.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Liberalization FDI; higher growth.',
+      difficulty: 'Easy',
+      hint: 'Reform impacts.',
+    },
+    {
+      level: 309,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Consider the following statements:\nStatement I: Tungabhadra Project for irrigation/power.\nStatement II: Ragi major crop.\nStatement III: Mangaluru petrochemical hub.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation: 'All correct. Multi-purpose; ragi staple; coastal industry.',
+      difficulty: 'Medium',
+      hint: 'Regional features.',
+    },
+    {
+      level: 310,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Statement I: Kalyana Karnataka focuses backward development.\nStatement II: It emphasizes IT only.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'Only I correct. Infrastructure/irrigation; not IT exclusive.',
+      difficulty: 'Easy',
+      hint: 'Regional equity.',
+    },
+    {
+      level: 311,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Consider the following statements:\nStatement I: Electronic clusters in Mysuru, Dharwad.\nStatement II: Water Policy 2022 for efficiency.\nStatement III: Belagavi sugar/textiles.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'All correct. Tech clusters; policy agri use; northern agro.',
+      difficulty: 'Medium',
+      hint: 'State initiatives.',
+    },
+    {
+      level: 312,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Statement I: Aims 500 GCCs by 2030.\nStatement II: ACIWRM for water management.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. IT ambition; advanced center irrigation.',
+      difficulty: 'Medium',
+      hint: 'Future targets.',
+    },
+    {
+      level: 313,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Consider the following statements:\nStatement I: Tier-II cities developed SEZs post-1991.\nStatement II: KISWRMIP improves water resources.\nStatement III: CADA handles irrigation.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'All correct. Decentralization; sustainable program; command area.',
+      difficulty: 'Medium',
+      hint: 'Development bodies.',
+    },
+    {
+      level: 314,
+      mainsubject: 'Karnataka Economy',
+      question:
+        'Statement I: Agriculture vital, 16% GSDP.\nStatement II: Intelligent farming uses AI/drones.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. GSDP share; tech integration.',
+      difficulty: 'Easy',
+      hint: 'Modern agri.',
+    },
+    {
+      level: 315,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Consider the following statements:\nStatement I: GST unified indirect taxes.\nStatement II: It increased compliance burdens initially.\nStatement III: Reduced interstate barriers.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation: 'All correct. One tax; startup hurdles; logistics ease.',
+      difficulty: 'Medium',
+      hint: 'GST pros/cons.',
+    },
+    {
+      level: 316,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Statement I: Demonetization curbed black money.\nStatement II: Caused short-term GDP dip.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Aim achieved partially; 1-2% slowdown.',
+      difficulty: 'Easy',
+      hint: 'Immediate effects.',
+    },
+    {
+      level: 317,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Consider the following statements:\nStatement I: Digital transactions surged post-demonetization.\nStatement II: UPI growth key.\nStatement III: No long-term formalization.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Surge in digital; UPI boom; long-term formalization benefits.',
+      difficulty: 'Medium',
+      hint: 'Digital shift.',
+    },
+    {
+      level: 318,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Statement I: Globalization increased FDI/trade.\nStatement II: Widened inequality.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Trade rise; gaps increased.',
+      difficulty: 'Easy',
+      hint: 'Global pros/cons.',
+    },
+    {
+      level: 319,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Consider the following statements:\nStatement I: GST boosted tax base.\nStatement II: Demonetization hit informal sector.\nStatement III: Both preceded COVID impacts.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'All correct. More taxpayers; sales drop; pre-pandemic shocks.',
+      difficulty: 'Medium',
+      hint: 'Reform timelines.',
+    },
+    {
+      level: 320,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Statement I: GST simplified slabs in 2025 reforms.\nStatement II: Aimed cheaper goods.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. GST 2.0 consumer benefits.',
+      difficulty: 'Medium',
+      hint: 'Recent updates.',
+    },
+    {
+      level: 321,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Consider the following statements:\nStatement I: Demonetization reduced currency 86%.\nStatement II: Boosted fintech.\nStatement III: Permanent black money elimination.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only III is correct',
+      ],
+      correctAnswer: 1,
+      explanation: 'I and II correct. Major cut; fintech rise; partial curb.',
+      difficulty: 'Medium',
+      hint: 'Partial successes.',
+    },
+    {
+      level: 322,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Statement I: Globalization enhanced competitiveness.\nStatement II: SEZs job creation.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Tech/jobs; export zones.',
+      difficulty: 'Easy',
+      hint: 'Integration benefits.',
+    },
+    {
+      level: 323,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Consider the following statements:\nStatement I: Digital India e-services post-2016.\nStatement II: Consumer spending shifted digital long-term.\nStatement III: No impact on macroeconomy.',
+      options: [
+        'Only I and II are correct',
+        'Only II and III are correct',
+        'All three statements are correct',
+        'Only I is correct',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'I and II correct. Governance push; sustained shift; positive impacts.',
+      difficulty: 'Medium',
+      hint: 'Digital legacy.',
+    },
+    {
+      level: 324,
+      mainsubject: 'Current Economic Issues',
+      question:
+        'Statement I: GST positive on growth.\nStatement II: Demonetization voter dynamics affected.',
+      options: [
+        'Both statements are correct',
+        'Only Statement I is correct',
+        'Only Statement II is correct',
+        'Both are incorrect',
+      ],
+      correctAnswer: 1,
+      explanation: 'Both correct. Efficiency gains; political impacts.',
+      difficulty: 'Medium',
+      hint: 'Broader effects.',
     },
   ],
   Science: [
@@ -8196,2256 +13332,2261 @@ export const QUIZ_DATA = {
       difficulty: 'Hard',
       hint: 'This is often considered the most important judgment in the history of the Indian Supreme Court.',
     },
-        {
-      "level": 103,
-      "mainsubject": "Culture & Society",
-      "question": "Which classical dance form originated in Kerala?",
-      "options": [
-        "Bharatanatyam",
-        "Kathakali",
-        "Odissi",
-        "Kuchipudi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Kathakali is a classical dance form that originated in Kerala, known for its elaborate costumes, facial makeup, and strong facial expressions. It combines dance, drama, and music with themes from Hindu epics like Ramayana and Mahabharata. Kerala also has another classical dance form called Mohiniyattam, known for its graceful, feminine movements.",
-      "difficulty": "Easy",
-      "hint": "Think about the southern state known for backwaters"
+    {
+      level: 103,
+      mainsubject: 'Culture & Society',
+      question: 'Which classical dance form originated in Kerala?',
+      options: ['Bharatanatyam', 'Kathakali', 'Odissi', 'Kuchipudi'],
+      correctAnswer: 2,
+      explanation:
+        'Kathakali is a classical dance form that originated in Kerala, known for its elaborate costumes, facial makeup, and strong facial expressions. It combines dance, drama, and music with themes from Hindu epics like Ramayana and Mahabharata. Kerala also has another classical dance form called Mohiniyattam, known for its graceful, feminine movements.',
+      difficulty: 'Easy',
+      hint: 'Think about the southern state known for backwaters',
     },
     {
-      "level": 104,
-      "mainsubject": "Culture & Society",
-      "question": "Who was the pioneer of the Vachana movement in Karnataka?",
-      "options": [
-        "Kuvempu",
-        "Basavanna",
-        "Bendre",
-        "Pampa"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Basavanna (12th century) was the central figure and pioneer of the Veerashaiva movement and Vachana literature. He was a social reformer who questioned orthodox religious practices and promoted equality. The Vachana movement was a socio-religious reform movement that used simple Kannada poetry to criticize social inequalities and promote inclusive spirituality. Other prominent Vachana poets included Allama Prabhu and Akka Mahadevi.",
-      "difficulty": "Medium",
-      "hint": "He was a 12th-century social reformer and philosopher"
+      level: 104,
+      mainsubject: 'Culture & Society',
+      question: 'Who was the pioneer of the Vachana movement in Karnataka?',
+      options: ['Kuvempu', 'Basavanna', 'Bendre', 'Pampa'],
+      correctAnswer: 2,
+      explanation:
+        'Basavanna (12th century) was the central figure and pioneer of the Veerashaiva movement and Vachana literature. He was a social reformer who questioned orthodox religious practices and promoted equality. The Vachana movement was a socio-religious reform movement that used simple Kannada poetry to criticize social inequalities and promote inclusive spirituality. Other prominent Vachana poets included Allama Prabhu and Akka Mahadevi.',
+      difficulty: 'Medium',
+      hint: 'He was a 12th-century social reformer and philosopher',
     },
     {
-      "level": 105,
-      "mainsubject": "Culture & Society",
-      "question": "Which UNESCO World Heritage site in Karnataka represents the Hoysala architectural style?",
-      "options": [
-        "Hampi",
-        "Pattadakal",
-        "Belur-Halebidu",
-        "Aihole"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The Hoysala temples of Belur, Halebidu, and Somanathapura were inscribed as UNESCO World Heritage Sites in 2023. These temples showcase the pinnacle of Hoysala architecture with intricate stone carvings, star-shaped layouts, and soapstone sculptures. The Chennakesava Temple at Belur and Hoysaleswara Temple at Halebidu represent the finest examples of this architectural style that flourished in the 12th-13th centuries.",
-      "difficulty": "Medium",
-      "hint": "These temples are famous for intricate stone carvings"
+      level: 105,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which UNESCO World Heritage site in Karnataka represents the Hoysala architectural style?',
+      options: ['Hampi', 'Pattadakal', 'Belur-Halebidu', 'Aihole'],
+      correctAnswer: 3,
+      explanation:
+        'The Hoysala temples of Belur, Halebidu, and Somanathapura were inscribed as UNESCO World Heritage Sites in 2023. These temples showcase the pinnacle of Hoysala architecture with intricate stone carvings, star-shaped layouts, and soapstone sculptures. The Chennakesava Temple at Belur and Hoysaleswara Temple at Halebidu represent the finest examples of this architectural style that flourished in the 12th-13th centuries.',
+      difficulty: 'Medium',
+      hint: 'These temples are famous for intricate stone carvings',
     },
     {
-      "level": 106,
-      "mainsubject": "Culture & Society",
-      "question": "The Ajanta Caves primarily represent which form of Buddhist architecture?",
-      "options": [
-        "Stupas",
-        "Viharas and Chaityas",
-        "Pillared halls",
-        "Monolithic temples"
+      level: 106,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Ajanta Caves primarily represent which form of Buddhist architecture?',
+      options: [
+        'Stupas',
+        'Viharas and Chaityas',
+        'Pillared halls',
+        'Monolithic temples',
       ],
-      "correctAnswer": 2,
-      "explanation": "The Ajanta Caves primarily consist of Viharas (monasteries) and Chaityas (prayer halls) representing Buddhist rock-cut architecture. Built between 2nd century BCE and 6th century CE, these caves contain some of the finest examples of ancient Indian art. The caves served as residence for Buddhist monks and places for prayer and meditation. They are famous for their frescoes depicting Jataka tales and the life of Buddha.",
-      "difficulty": "Medium",
-      "hint": "These are residential and prayer structures for monks"
+      correctAnswer: 2,
+      explanation:
+        'The Ajanta Caves primarily consist of Viharas (monasteries) and Chaityas (prayer halls) representing Buddhist rock-cut architecture. Built between 2nd century BCE and 6th century CE, these caves contain some of the finest examples of ancient Indian art. The caves served as residence for Buddhist monks and places for prayer and meditation. They are famous for their frescoes depicting Jataka tales and the life of Buddha.',
+      difficulty: 'Medium',
+      hint: 'These are residential and prayer structures for monks',
     },
     {
-      "level": 107,
-      "mainsubject": "Culture & Society",
-      "question": "Which architectural style is characterized by curvilinear shikharas and is found in North India?",
-      "options": [
-        "Vesara",
-        "Dravida",
-        "Nagara",
-        "Indo-Islamic"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Nagara style temple architecture is characterized by curvilinear shikharas (towers) that curve inward to a point at the top. This style is prevalent in North India and includes temples built on elevated platforms without boundary walls. Examples include the Sun Temple at Konark and Kandariya Mahadeva Temple at Khajuraho. The style originated during the Gupta period and features elaborate sculptural decoration.",
-      "difficulty": "Medium",
-      "hint": "This style has beehive-shaped towers"
+      level: 107,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which architectural style is characterized by curvilinear shikharas and is found in North India?',
+      options: ['Vesara', 'Dravida', 'Nagara', 'Indo-Islamic'],
+      correctAnswer: 3,
+      explanation:
+        'Nagara style temple architecture is characterized by curvilinear shikharas (towers) that curve inward to a point at the top. This style is prevalent in North India and includes temples built on elevated platforms without boundary walls. Examples include the Sun Temple at Konark and Kandariya Mahadeva Temple at Khajuraho. The style originated during the Gupta period and features elaborate sculptural decoration.',
+      difficulty: 'Medium',
+      hint: 'This style has beehive-shaped towers',
     },
     {
-      "level": 108,
-      "mainsubject": "Culture & Society",
-      "question": "Yakshagana is a traditional dance-drama form primarily performed in which region of Karnataka?",
-      "options": [
-        "North Karnataka",
-        "South Karnataka",
-        "Coastal Karnataka",
-        "Central Karnataka"
+      level: 108,
+      mainsubject: 'Culture & Society',
+      question:
+        'Yakshagana is a traditional dance-drama form primarily performed in which region of Karnataka?',
+      options: [
+        'North Karnataka',
+        'South Karnataka',
+        'Coastal Karnataka',
+        'Central Karnataka',
       ],
-      "correctAnswer": 3,
-      "explanation": "Yakshagana is a traditional folk dance-drama form popular in Coastal Karnataka, particularly in Dakshina Kannada, Udupi, and Uttara Kannada districts. It combines dance, music, dialogue, costume, and makeup. The term means 'song of the celestials' and performances are usually held in open-air theaters during the dry season. There are two main styles: Tenkuthittu (southern) and Badaguthittu (northern coastal style).",
-      "difficulty": "Easy",
-      "hint": "Think about the region near the Arabian Sea"
+      correctAnswer: 3,
+      explanation:
+        "Yakshagana is a traditional folk dance-drama form popular in Coastal Karnataka, particularly in Dakshina Kannada, Udupi, and Uttara Kannada districts. It combines dance, music, dialogue, costume, and makeup. The term means 'song of the celestials' and performances are usually held in open-air theaters during the dry season. There are two main styles: Tenkuthittu (southern) and Badaguthittu (northern coastal style).",
+      difficulty: 'Easy',
+      hint: 'Think about the region near the Arabian Sea',
     },
     {
-      "level": 109,
-      "mainsubject": "Culture & Society",
-      "question": "Which Kannada poet was awarded the first Jnanpith Award for Kannada literature?",
-      "options": [
-        "D.R. Bendre",
-        "Kuvempu",
-        "U.R. Ananthamurthy",
-        "Girish Karnad"
+      level: 109,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which Kannada poet was awarded the first Jnanpith Award for Kannada literature?',
+      options: [
+        'D.R. Bendre',
+        'Kuvempu',
+        'U.R. Ananthamurthy',
+        'Girish Karnad',
       ],
-      "correctAnswer": 2,
-      "explanation": "Kuvempu (Kuppali Venkatappa Puttappa) was the first Kannada writer to receive the Jnanpith Award in 1967 for his epic work 'Sri Ramayana Darshanam'. He was also known as 'Rashtrakavi' and promoted the philosophy of 'Vishwa Manava' (Universal Humanism). His other notable works include 'Kanooru Heggadati' and various poetry collections. He served as Vice-Chancellor of Mysore University and was instrumental in promoting Kannada as a medium of higher education.",
-      "difficulty": "Medium",
-      "hint": "He wrote 'Sri Ramayana Darshanam'"
+      correctAnswer: 2,
+      explanation:
+        "Kuvempu (Kuppali Venkatappa Puttappa) was the first Kannada writer to receive the Jnanpith Award in 1967 for his epic work 'Sri Ramayana Darshanam'. He was also known as 'Rashtrakavi' and promoted the philosophy of 'Vishwa Manava' (Universal Humanism). His other notable works include 'Kanooru Heggadati' and various poetry collections. He served as Vice-Chancellor of Mysore University and was instrumental in promoting Kannada as a medium of higher education.",
+      difficulty: 'Medium',
+      hint: "He wrote 'Sri Ramayana Darshanam'",
     },
     {
-      "level": 110,
-      "mainsubject": "Culture & Society",
-      "question": "The Dollu Kunitha folk dance of Karnataka is associated with the worship of which deity?",
-      "options": [
-        "Lord Krishna",
-        "Lord Beeralingeshwara",
-        "Lord Ganesha",
-        "Goddess Durga"
+      level: 110,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Dollu Kunitha folk dance of Karnataka is associated with the worship of which deity?',
+      options: [
+        'Lord Krishna',
+        'Lord Beeralingeshwara',
+        'Lord Ganesha',
+        'Goddess Durga',
       ],
-      "correctAnswer": 2,
-      "explanation": "Dollu Kunitha is a traditional drum dance associated with the worship of Sree Beeralingeshwara, considered a form of Lord Shiva. It originated in the rituals of the Kuruba Gowda community of North Karnataka. The dance symbolizes Shiva's fierce dance (Bhairava Tandava) when upset. Performers carry heavy drums (Dollu) and dance in circular formations with high energy, requiring great stamina and endurance.",
-      "difficulty": "Medium",
-      "hint": "This deity is considered a form of Lord Shiva"
+      correctAnswer: 2,
+      explanation:
+        "Dollu Kunitha is a traditional drum dance associated with the worship of Sree Beeralingeshwara, considered a form of Lord Shiva. It originated in the rituals of the Kuruba Gowda community of North Karnataka. The dance symbolizes Shiva's fierce dance (Bhairava Tandava) when upset. Performers carry heavy drums (Dollu) and dance in circular formations with high energy, requiring great stamina and endurance.",
+      difficulty: 'Medium',
+      hint: 'This deity is considered a form of Lord Shiva',
     },
     {
-      "level": 111,
-      "mainsubject": "Culture & Society",
-      "question": "Which statement about the Women's Reservation Act, 2023 is correct?",
-      "options": [
-        "It reserves 25% seats for women",
-        "It applies only to Lok Sabha",
-        "It reserves 33% seats for women in Parliament and State Assemblies",
-        "It has no provisions for SC/ST women"
+      level: 111,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which statement about the Women's Reservation Act, 2023 is correct?",
+      options: [
+        'It reserves 25% seats for women',
+        'It applies only to Lok Sabha',
+        'It reserves 33% seats for women in Parliament and State Assemblies',
+        'It has no provisions for SC/ST women',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Women's Reservation Act, 2023 reserves 33% of seats for women in both Parliament (Lok Sabha) and State Legislative Assemblies. It includes provisions for SC, ST, and OBC women within this quota through a rotational system. The Act is temporary for 15 years and aims to address gender inequality while ensuring representation from diverse backgrounds. This legislation represents a significant step toward women's political empowerment in India.",
-      "difficulty": "Hard",
-      "hint": "Think about the one-third reservation"
+      correctAnswer: 3,
+      explanation:
+        "The Women's Reservation Act, 2023 reserves 33% of seats for women in both Parliament (Lok Sabha) and State Legislative Assemblies. It includes provisions for SC, ST, and OBC women within this quota through a rotational system. The Act is temporary for 15 years and aims to address gender inequality while ensuring representation from diverse backgrounds. This legislation represents a significant step toward women's political empowerment in India.",
+      difficulty: 'Hard',
+      hint: 'Think about the one-third reservation',
     },
     {
-      "level": 112,
-      "mainsubject": "Culture & Society",
-      "question": "The Indo-Islamic architecture in India is best exemplified by which structure?",
-      "options": [
-        "Sun Temple, Konark",
-        "Taj Mahal",
-        "Brihadeeswarar Temple",
-        "Ajanta Caves"
+      level: 112,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Indo-Islamic architecture in India is best exemplified by which structure?',
+      options: [
+        'Sun Temple, Konark',
+        'Taj Mahal',
+        'Brihadeeswarar Temple',
+        'Ajanta Caves',
       ],
-      "correctAnswer": 2,
-      "explanation": "The Taj Mahal is considered the finest example of Indo-Islamic architecture, built by Mughal emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal (1631-1648). It combines Persian, Turkish, and Indian architectural elements with features like the central dome, four minarets, geometric patterns, and extensive use of white marble inlaid with precious stones. Indo-Islamic architecture represents the fusion of Islamic architectural traditions with local Indian elements.",
-      "difficulty": "Easy",
-      "hint": "This monument is called the 'Crown of Palaces'"
+      correctAnswer: 2,
+      explanation:
+        'The Taj Mahal is considered the finest example of Indo-Islamic architecture, built by Mughal emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal (1631-1648). It combines Persian, Turkish, and Indian architectural elements with features like the central dome, four minarets, geometric patterns, and extensive use of white marble inlaid with precious stones. Indo-Islamic architecture represents the fusion of Islamic architectural traditions with local Indian elements.',
+      difficulty: 'Easy',
+      hint: "This monument is called the 'Crown of Palaces'",
     },
     {
-      "level": 113,
-      "mainsubject": "Culture & Society",
-      "question": "Which folk dance of Karnataka involves the use of brass instruments held in pairs?",
-      "options": [
-        "Dollu Kunitha",
-        "Kamsale",
-        "Pata Kunitha",
-        "Somana Kunitha"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Kamsale is a religious folk dance where performers hold brass instruments called 'Kamsale' in pairs, one in each hand. It is performed by followers of Mahadeshwara, a 15th-century Sidda saint, mainly by the Kuruba community. The dance is performed as a religious offering with devotional songs and involves rhythmic movements creating musical sounds with the brass cymbals. It's popular in regions around Male Mahadeshwara Hills.",
-      "difficulty": "Medium",
-      "hint": "The dance gets its name from the musical instrument used"
+      level: 113,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which folk dance of Karnataka involves the use of brass instruments held in pairs?',
+      options: ['Dollu Kunitha', 'Kamsale', 'Pata Kunitha', 'Somana Kunitha'],
+      correctAnswer: 2,
+      explanation:
+        "Kamsale is a religious folk dance where performers hold brass instruments called 'Kamsale' in pairs, one in each hand. It is performed by followers of Mahadeshwara, a 15th-century Sidda saint, mainly by the Kuruba community. The dance is performed as a religious offering with devotional songs and involves rhythmic movements creating musical sounds with the brass cymbals. It's popular in regions around Male Mahadeshwara Hills.",
+      difficulty: 'Medium',
+      hint: 'The dance gets its name from the musical instrument used',
     },
     {
-      "level": 114,
-      "mainsubject": "Culture & Society",
-      "question": "The Vesara style of temple architecture is a synthesis of which two styles?",
-      "options": [
-        "Buddhist and Jain",
-        "Nagara and Dravida",
-        "Indo-Islamic and Hindu",
-        "Gupta and Mauryan"
+      level: 114,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Vesara style of temple architecture is a synthesis of which two styles?',
+      options: [
+        'Buddhist and Jain',
+        'Nagara and Dravida',
+        'Indo-Islamic and Hindu',
+        'Gupta and Mauryan',
       ],
-      "correctAnswer": 2,
-      "explanation": "Vesara style is a hybrid architectural style that combines elements from both Nagara (North Indian) and Dravida (South Indian) temple architecture. It developed under the Chalukyas and reached its pinnacle during the Hoysala period in Karnataka. Vesara temples feature star-shaped layouts, stepped pyramidal towers, and intricate sculptural decoration. The style represents a harmonious fusion of northern curvilinear elements with southern structural features.",
-      "difficulty": "Medium",
-      "hint": "It's a fusion of North and South Indian styles"
+      correctAnswer: 2,
+      explanation:
+        'Vesara style is a hybrid architectural style that combines elements from both Nagara (North Indian) and Dravida (South Indian) temple architecture. It developed under the Chalukyas and reached its pinnacle during the Hoysala period in Karnataka. Vesara temples feature star-shaped layouts, stepped pyramidal towers, and intricate sculptural decoration. The style represents a harmonious fusion of northern curvilinear elements with southern structural features.',
+      difficulty: 'Medium',
+      hint: "It's a fusion of North and South Indian styles",
     },
     {
-      "level": 115,
-      "mainsubject": "Culture & Society",
-      "question": "D.R. Bendre, the renowned Kannada poet, was awarded the Jnanpith Award for which work?",
-      "options": [
-        "Gari",
-        "Naku Tanti",
-        "Krishna",
-        "Sakhya"
-      ],
-      "correctAnswer": 2,
-      "explanation": "D.R. Bendre was awarded the Jnanpith Award in 1973 for his poetry collection 'Naaku Tanti' (Four Strings), published in 1964. Bendre was a pioneering poet of Kannada's Navodaya movement and is considered the greatest Kannada lyric poet of the 20th century. He was known for his original use of Dharwad Kannada and his charismatic personality earned him the title 'Varakavi' (boon-gifted poet-seer). His poetry spans almost 70 years and represents continuous engagement with 'Kavyodyoga' or 'The High Yoga of Poetry'.",
-      "difficulty": "Hard",
-      "hint": "The title means 'Four Strings'"
+      level: 115,
+      mainsubject: 'Culture & Society',
+      question:
+        'D.R. Bendre, the renowned Kannada poet, was awarded the Jnanpith Award for which work?',
+      options: ['Gari', 'Naku Tanti', 'Krishna', 'Sakhya'],
+      correctAnswer: 2,
+      explanation:
+        "D.R. Bendre was awarded the Jnanpith Award in 1973 for his poetry collection 'Naaku Tanti' (Four Strings), published in 1964. Bendre was a pioneering poet of Kannada's Navodaya movement and is considered the greatest Kannada lyric poet of the 20th century. He was known for his original use of Dharwad Kannada and his charismatic personality earned him the title 'Varakavi' (boon-gifted poet-seer). His poetry spans almost 70 years and represents continuous engagement with 'Kavyodyoga' or 'The High Yoga of Poetry'.",
+      difficulty: 'Hard',
+      hint: "The title means 'Four Strings'",
     },
     {
-      "level": 116,
-      "mainsubject": "Culture & Society",
-      "question": "Which UNESCO World Heritage Site represents the earliest Buddhist architecture in India?",
-      "options": [
-        "Ellora Caves",
-        "Ajanta Caves",
-        "Sanchi Stupa",
-        "Nalanda University"
+      level: 116,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which UNESCO World Heritage Site represents the earliest Buddhist architecture in India?',
+      options: [
+        'Ellora Caves',
+        'Ajanta Caves',
+        'Sanchi Stupa',
+        'Nalanda University',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Sanchi Stupa complex, particularly the Great Stupa, represents one of the earliest and most important examples of Buddhist architecture in India. Originally built by Emperor Ashoka in the 3rd century BCE and later expanded during the Shunga, Satavahana, and Gupta periods, it features the classic stupa design with a hemispherical dome, circumambulatory path, and four ornately carved toranas (gateways) depicting scenes from Buddha's life and Jataka tales.",
-      "difficulty": "Medium",
-      "hint": "This site has the famous ornate gateways called toranas"
+      correctAnswer: 3,
+      explanation:
+        "The Sanchi Stupa complex, particularly the Great Stupa, represents one of the earliest and most important examples of Buddhist architecture in India. Originally built by Emperor Ashoka in the 3rd century BCE and later expanded during the Shunga, Satavahana, and Gupta periods, it features the classic stupa design with a hemispherical dome, circumambulatory path, and four ornately carved toranas (gateways) depicting scenes from Buddha's life and Jataka tales.",
+      difficulty: 'Medium',
+      hint: 'This site has the famous ornate gateways called toranas',
     },
     {
-      "level": 117,
-      "mainsubject": "Culture & Society",
-      "question": "The term 'Vachana' in Kannada literature literally means:",
-      "options": [
-        "Poetry",
-        "Words or utterances",
-        "Philosophy",
-        "Devotion"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The term 'Vachana' literally means 'words' or 'utterances' in Kannada. Vachanas are prose-like poems that represent simple yet profound expressions of philosophical ideas, spiritual experiences, and social criticisms. They were composed in spoken dialect of the time, making them accessible to a wider audience. The Vachana movement used this literary form as a tool for social reform, spiritual enlightenment, and challenging orthodox religious practices during the 12th century.",
-      "difficulty": "Easy",
-      "hint": "It refers to spoken expressions"
+      level: 117,
+      mainsubject: 'Culture & Society',
+      question: "The term 'Vachana' in Kannada literature literally means:",
+      options: ['Poetry', 'Words or utterances', 'Philosophy', 'Devotion'],
+      correctAnswer: 2,
+      explanation:
+        "The term 'Vachana' literally means 'words' or 'utterances' in Kannada. Vachanas are prose-like poems that represent simple yet profound expressions of philosophical ideas, spiritual experiences, and social criticisms. They were composed in spoken dialect of the time, making them accessible to a wider audience. The Vachana movement used this literary form as a tool for social reform, spiritual enlightenment, and challenging orthodox religious practices during the 12th century.",
+      difficulty: 'Easy',
+      hint: 'It refers to spoken expressions',
     },
     {
-      "level": 118,
-      "mainsubject": "Culture & Society",
-      "question": "Which classical dance form is known for its 'sculpturesque poses' and originated in Tamil Nadu?",
-      "options": [
-        "Bharatanatyam",
-        "Kuchipudi",
-        "Kathak",
-        "Odissi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Bharatanatyam, originating from Tamil Nadu, is known for its sculpturesque poses, expressive hand gestures (mudras), and devotional themes. It is considered the oldest classical dance form and is characterized by fixed upper torso, bent legs, sophisticated footwork, and a sophisticated vocabulary of sign language based on gestures of hands, eyes, and face muscles. The dance form has its roots in the ancient Natya Shastra and was traditionally performed in temples.",
-      "difficulty": "Easy",
-      "hint": "This is the oldest classical dance form of India"
+      level: 118,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which classical dance form is known for its 'sculpturesque poses' and originated in Tamil Nadu?",
+      options: ['Bharatanatyam', 'Kuchipudi', 'Kathak', 'Odissi'],
+      correctAnswer: 1,
+      explanation:
+        'Bharatanatyam, originating from Tamil Nadu, is known for its sculpturesque poses, expressive hand gestures (mudras), and devotional themes. It is considered the oldest classical dance form and is characterized by fixed upper torso, bent legs, sophisticated footwork, and a sophisticated vocabulary of sign language based on gestures of hands, eyes, and face muscles. The dance form has its roots in the ancient Natya Shastra and was traditionally performed in temples.',
+      difficulty: 'Easy',
+      hint: 'This is the oldest classical dance form of India',
     },
     {
-      "level": 119,
-      "mainsubject": "Culture & Society",
-      "question": "The Pattadakal Group of Monuments represents which dynasty's architectural achievements?",
-      "options": [
-        "Hoysala",
-        "Vijayanagara",
-        "Chalukya",
-        "Rashtrakuta"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The Pattadakal Group of Monuments represents the architectural achievements of the Chalukya dynasty (7th-8th centuries). This UNESCO World Heritage Site comprises nine Hindu temples and one Jain temple built in the Badami Chalukya style, which blends influences from northern and southern India. The site served as a ceremonial center where Chalukya kings were crowned. The Virupaksha Temple, built to commemorate Vikramaditya II's victory over the Pallavas, is the most prominent structure.",
-      "difficulty": "Medium",
-      "hint": "This dynasty ruled from Badami"
+      level: 119,
+      mainsubject: 'Culture & Society',
+      question:
+        "The Pattadakal Group of Monuments represents which dynasty's architectural achievements?",
+      options: ['Hoysala', 'Vijayanagara', 'Chalukya', 'Rashtrakuta'],
+      correctAnswer: 3,
+      explanation:
+        "The Pattadakal Group of Monuments represents the architectural achievements of the Chalukya dynasty (7th-8th centuries). This UNESCO World Heritage Site comprises nine Hindu temples and one Jain temple built in the Badami Chalukya style, which blends influences from northern and southern India. The site served as a ceremonial center where Chalukya kings were crowned. The Virupaksha Temple, built to commemorate Vikramaditya II's victory over the Pallavas, is the most prominent structure.",
+      difficulty: 'Medium',
+      hint: 'This dynasty ruled from Badami',
     },
     {
-      "level": 120,
-      "mainsubject": "Culture & Society",
-      "question": "Which social reform was central to the Vachana movement in Karnataka?",
-      "options": [
+      level: 120,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which social reform was central to the Vachana movement in Karnataka?',
+      options: [
         "Women's education",
-        "Abolition of caste system",
-        "Economic equality",
-        "Political representation"
+        'Abolition of caste system',
+        'Economic equality',
+        'Political representation',
       ],
-      "correctAnswer": 2,
-      "explanation": "The abolition of the caste system was central to the Vachana movement. Led by Basavanna and other Sharanas, the movement strongly criticized caste discrimination and promoted social equality. The Vachana poets used their writings to challenge orthodox brahmanical practices, ritual hierarchies, and caste-based discrimination. They emphasized 'Kayaka' (work as worship) and promoted the concept that devotion to God was more important than birth-based social status.",
-      "difficulty": "Medium",
-      "hint": "The movement strongly opposed birth-based social hierarchy"
+      correctAnswer: 2,
+      explanation:
+        "The abolition of the caste system was central to the Vachana movement. Led by Basavanna and other Sharanas, the movement strongly criticized caste discrimination and promoted social equality. The Vachana poets used their writings to challenge orthodox brahmanical practices, ritual hierarchies, and caste-based discrimination. They emphasized 'Kayaka' (work as worship) and promoted the concept that devotion to God was more important than birth-based social status.",
+      difficulty: 'Medium',
+      hint: 'The movement strongly opposed birth-based social hierarchy',
     },
     {
-      "level": 121,
-      "mainsubject": "Culture & Society",
-      "question": "The Elephanta Caves are primarily dedicated to which Hindu deity?",
-      "options": [
-        "Vishnu",
-        "Shiva",
-        "Brahma",
-        "Ganesha"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Elephanta Caves, located on Elephanta Island in Mumbai Harbour, are primarily dedicated to Lord Shiva. Built mainly in the 5th-6th centuries, these rock-cut temples feature magnificent sculptures of Shiva in various forms. The most famous sculpture is the Trimurti (three-headed Shiva) representing Shiva as creator, preserver, and destroyer. The caves showcase the excellence of ancient Indian rock-cut architecture and sculpture.",
-      "difficulty": "Easy",
-      "hint": "The famous Trimurti sculpture is found here"
+      level: 121,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Elephanta Caves are primarily dedicated to which Hindu deity?',
+      options: ['Vishnu', 'Shiva', 'Brahma', 'Ganesha'],
+      correctAnswer: 2,
+      explanation:
+        'The Elephanta Caves, located on Elephanta Island in Mumbai Harbour, are primarily dedicated to Lord Shiva. Built mainly in the 5th-6th centuries, these rock-cut temples feature magnificent sculptures of Shiva in various forms. The most famous sculpture is the Trimurti (three-headed Shiva) representing Shiva as creator, preserver, and destroyer. The caves showcase the excellence of ancient Indian rock-cut architecture and sculpture.',
+      difficulty: 'Easy',
+      hint: 'The famous Trimurti sculpture is found here',
     },
     {
-      "level": 122,
-      "mainsubject": "Culture & Society",
-      "question": "Kathak classical dance primarily originated from which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Bihar"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Kathak originated from Uttar Pradesh, particularly flourishing in the royal courts of Lucknow and Faizabad during the Mughal era (16th-17th centuries). The name 'Kathak' comes from 'Katha' meaning stories, as performers were originally storytellers (Kathakars) who narrated tales from Hindu epics. The dance form received significant patronage from Mughal rulers like Emperor Akbar and incorporated Persian and Islamic cultural influences while retaining its core Indian elements.",
-      "difficulty": "Medium",
-      "hint": "This state was the center of Mughal culture"
+      level: 122,
+      mainsubject: 'Culture & Society',
+      question:
+        'Kathak classical dance primarily originated from which Indian state?',
+      options: ['Rajasthan', 'Uttar Pradesh', 'Madhya Pradesh', 'Bihar'],
+      correctAnswer: 2,
+      explanation:
+        "Kathak originated from Uttar Pradesh, particularly flourishing in the royal courts of Lucknow and Faizabad during the Mughal era (16th-17th centuries). The name 'Kathak' comes from 'Katha' meaning stories, as performers were originally storytellers (Kathakars) who narrated tales from Hindu epics. The dance form received significant patronage from Mughal rulers like Emperor Akbar and incorporated Persian and Islamic cultural influences while retaining its core Indian elements.",
+      difficulty: 'Medium',
+      hint: 'This state was the center of Mughal culture',
     },
     {
-      "level": 123,
-      "mainsubject": "Culture & Society",
-      "question": "Which architectural feature is characteristic of Dravida style temples?",
-      "options": [
-        "Curvilinear shikhara",
-        "Pyramidal gopuram",
-        "Flat rooftops",
-        "Circular layout"
+      level: 123,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which architectural feature is characteristic of Dravida style temples?',
+      options: [
+        'Curvilinear shikhara',
+        'Pyramidal gopuram',
+        'Flat rooftops',
+        'Circular layout',
       ],
-      "correctAnswer": 2,
-      "explanation": "Pyramidal gopurams (towering gateways) are characteristic features of Dravida style temples found in South India. These temples also feature pyramidal vimanas (towers over the sanctum) with multiple stories, each smaller than the one below. Other characteristics include elaborate boundary walls, pillared mandapas, and extensive sculptural decoration. The style evolved under dynasties like the Pallavas, Cholas, and Pandyas, with examples including the Brihadeeswarar Temple at Thanjavur.",
-      "difficulty": "Medium",
-      "hint": "These are towering entrance gateways"
+      correctAnswer: 2,
+      explanation:
+        'Pyramidal gopurams (towering gateways) are characteristic features of Dravida style temples found in South India. These temples also feature pyramidal vimanas (towers over the sanctum) with multiple stories, each smaller than the one below. Other characteristics include elaborate boundary walls, pillared mandapas, and extensive sculptural decoration. The style evolved under dynasties like the Pallavas, Cholas, and Pandyas, with examples including the Brihadeeswarar Temple at Thanjavur.',
+      difficulty: 'Medium',
+      hint: 'These are towering entrance gateways',
     },
     {
-      "level": 124,
-      "mainsubject": "Culture & Society",
-      "question": "Akka Mahadevi was a prominent figure in which literary movement?",
-      "options": [
-        "Navodaya movement",
-        "Navya movement",
-        "Vachana movement",
-        "Bandaya movement"
+      level: 124,
+      mainsubject: 'Culture & Society',
+      question:
+        'Akka Mahadevi was a prominent figure in which literary movement?',
+      options: [
+        'Navodaya movement',
+        'Navya movement',
+        'Vachana movement',
+        'Bandaya movement',
       ],
-      "correctAnswer": 3,
-      "explanation": "Akka Mahadevi was a prominent 12th-century saint-poet and one of the leading figures of the Vachana movement along with Basavanna and Allama Prabhu. She was known for her mystical poetry expressing devotion to Lord Shiva (whom she called Chennamallikarjuna). Her vachanas dealt with themes of spiritual love, social reform, and women's liberation. She challenged social conventions and is remembered as one of the earliest feminist voices in Kannada literature.",
-      "difficulty": "Medium",
-      "hint": "She was a contemporary of Basavanna"
+      correctAnswer: 3,
+      explanation:
+        "Akka Mahadevi was a prominent 12th-century saint-poet and one of the leading figures of the Vachana movement along with Basavanna and Allama Prabhu. She was known for her mystical poetry expressing devotion to Lord Shiva (whom she called Chennamallikarjuna). Her vachanas dealt with themes of spiritual love, social reform, and women's liberation. She challenged social conventions and is remembered as one of the earliest feminist voices in Kannada literature.",
+      difficulty: 'Medium',
+      hint: 'She was a contemporary of Basavanna',
     },
     {
-      "level": 125,
-      "mainsubject": "Culture & Society",
-      "question": "The Gateway of India in Mumbai represents which architectural style?",
-      "options": [
-        "Gothic Revival",
-        "Neo-classical",
-        "Indo-Saracenic",
-        "Art Deco"
+      level: 125,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Gateway of India in Mumbai represents which architectural style?',
+      options: [
+        'Gothic Revival',
+        'Neo-classical',
+        'Indo-Saracenic',
+        'Art Deco',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Gateway of India represents Indo-Saracenic architecture, a fusion of Indian, Islamic, and European architectural styles that emerged during the British colonial period. Built in 1924 and designed by George Wittet, it commemorates the visit of King George V and Queen Mary to India in 1911. The monument features Islamic architectural elements like pointed arches and domes combined with Indian decorative motifs, standing as a prime example of colonial architectural synthesis.",
-      "difficulty": "Medium",
-      "hint": "This style combines Indian, Islamic, and European elements"
+      correctAnswer: 3,
+      explanation:
+        'The Gateway of India represents Indo-Saracenic architecture, a fusion of Indian, Islamic, and European architectural styles that emerged during the British colonial period. Built in 1924 and designed by George Wittet, it commemorates the visit of King George V and Queen Mary to India in 1911. The monument features Islamic architectural elements like pointed arches and domes combined with Indian decorative motifs, standing as a prime example of colonial architectural synthesis.',
+      difficulty: 'Medium',
+      hint: 'This style combines Indian, Islamic, and European elements',
     },
     {
-      "level": 126,
-      "mainsubject": "Culture & Society",
-      "question": "Which Hoysala king was instrumental in the construction of Belur and Halebidu temples?",
-      "options": [
-        "Vishnuvardhana",
-        "Veera Ballala II",
-        "Narasimha I",
-        "Someshwara"
+      level: 126,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which Hoysala king was instrumental in the construction of Belur and Halebidu temples?',
+      options: [
+        'Vishnuvardhana',
+        'Veera Ballala II',
+        'Narasimha I',
+        'Someshwara',
       ],
-      "correctAnswer": 1,
-      "explanation": "King Vishnuvardhana (c. 1108-1152 CE) was instrumental in the construction of the magnificent temples at Belur and Halebidu. He commissioned the Chennakesava Temple at Belur to commemorate his victory over the Cholas. The Hoysaleswara Temple at Halebidu was also built during his reign and named after him, with twin shrines dedicated to 'Hoysaleswara' and 'Shantaleswara' (after his queen Shantala Devi). Under his patronage, Hoysala architecture reached its zenith.",
-      "difficulty": "Hard",
-      "hint": "He converted from Jainism to Vaishnavism"
+      correctAnswer: 1,
+      explanation:
+        "King Vishnuvardhana (c. 1108-1152 CE) was instrumental in the construction of the magnificent temples at Belur and Halebidu. He commissioned the Chennakesava Temple at Belur to commemorate his victory over the Cholas. The Hoysaleswara Temple at Halebidu was also built during his reign and named after him, with twin shrines dedicated to 'Hoysaleswara' and 'Shantaleswara' (after his queen Shantala Devi). Under his patronage, Hoysala architecture reached its zenith.",
+      difficulty: 'Hard',
+      hint: 'He converted from Jainism to Vaishnavism',
     },
     {
-      "level": 127,
-      "mainsubject": "Culture & Society",
-      "question": "The reservation policy for women in Panchayati Raj institutions was introduced through which constitutional amendment?",
-      "options": [
-        "71st Amendment",
-        "72nd Amendment",
-        "73rd Amendment",
-        "74th Amendment"
+      level: 127,
+      mainsubject: 'Culture & Society',
+      question:
+        'The reservation policy for women in Panchayati Raj institutions was introduced through which constitutional amendment?',
+      options: [
+        '71st Amendment',
+        '72nd Amendment',
+        '73rd Amendment',
+        '74th Amendment',
       ],
-      "correctAnswer": 3,
-      "explanation": "The 73rd Constitutional Amendment Act of 1992 introduced mandatory reservation of 33% seats for women in Panchayati Raj institutions (rural local governance). The 74th Amendment similarly provided for women's reservation in urban local bodies. These amendments were landmark legislations that significantly enhanced women's political participation at the grassroots level and served as a precursor to demands for reservation in higher legislative bodies.",
-      "difficulty": "Medium",
-      "hint": "This amendment deals with Panchayati Raj"
+      correctAnswer: 3,
+      explanation:
+        "The 73rd Constitutional Amendment Act of 1992 introduced mandatory reservation of 33% seats for women in Panchayati Raj institutions (rural local governance). The 74th Amendment similarly provided for women's reservation in urban local bodies. These amendments were landmark legislations that significantly enhanced women's political participation at the grassroots level and served as a precursor to demands for reservation in higher legislative bodies.",
+      difficulty: 'Medium',
+      hint: 'This amendment deals with Panchayati Raj',
     },
     {
-      "level": 128,
-      "mainsubject": "Culture & Society",
-      "question": "Manipuri classical dance is primarily associated with which religious tradition?",
-      "options": [
-        "Shaivism",
-        "Vaishnavism",
-        "Shaktism",
-        "Buddhism"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Manipuri classical dance is primarily associated with Vaishnavism and devotion to Lord Krishna. The dance form features soft, graceful movements with themes predominantly drawn from Krishna Leela and Radha-Krishna stories. The most famous Manipuri dance is Ras Lila, depicting the divine love of Radha and Krishna. The dance style is characterized by its spiritual content, subtle expressions, and lack of sharp movements, reflecting the gentle devotional tradition of Vaishnavism in Manipur.",
-      "difficulty": "Medium",
-      "hint": "This tradition worships Lord Krishna"
+      level: 128,
+      mainsubject: 'Culture & Society',
+      question:
+        'Manipuri classical dance is primarily associated with which religious tradition?',
+      options: ['Shaivism', 'Vaishnavism', 'Shaktism', 'Buddhism'],
+      correctAnswer: 2,
+      explanation:
+        'Manipuri classical dance is primarily associated with Vaishnavism and devotion to Lord Krishna. The dance form features soft, graceful movements with themes predominantly drawn from Krishna Leela and Radha-Krishna stories. The most famous Manipuri dance is Ras Lila, depicting the divine love of Radha and Krishna. The dance style is characterized by its spiritual content, subtle expressions, and lack of sharp movements, reflecting the gentle devotional tradition of Vaishnavism in Manipur.',
+      difficulty: 'Medium',
+      hint: 'This tradition worships Lord Krishna',
     },
     {
-      "level": 129,
-      "mainsubject": "Culture & Society",
-      "question": "Which cave complex represents the synthesis of Buddhist, Hindu, and Jain architectural traditions?",
-      "options": [
-        "Ajanta",
-        "Ellora",
-        "Elephanta",
-        "Karla"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Ellora Caves represent the synthesis of Buddhist, Hindu, and Jain architectural traditions, spanning from the 5th to 13th centuries CE. The complex has 34 caves: 12 Buddhist (5th-7th centuries), 17 Hindu (6th-8th centuries), and 5 Jain (8th-13th centuries). The site illustrates the religious tolerance of ancient India and features the magnificent Kailasa Temple, a monolithic structure carved from a single rock. This diversity makes Ellora unique in demonstrating the coexistence of different religious traditions.",
-      "difficulty": "Medium",
-      "hint": "This site has the famous Kailasa Temple"
+      level: 129,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which cave complex represents the synthesis of Buddhist, Hindu, and Jain architectural traditions?',
+      options: ['Ajanta', 'Ellora', 'Elephanta', 'Karla'],
+      correctAnswer: 2,
+      explanation:
+        'Ellora Caves represent the synthesis of Buddhist, Hindu, and Jain architectural traditions, spanning from the 5th to 13th centuries CE. The complex has 34 caves: 12 Buddhist (5th-7th centuries), 17 Hindu (6th-8th centuries), and 5 Jain (8th-13th centuries). The site illustrates the religious tolerance of ancient India and features the magnificent Kailasa Temple, a monolithic structure carved from a single rock. This diversity makes Ellora unique in demonstrating the coexistence of different religious traditions.',
+      difficulty: 'Medium',
+      hint: 'This site has the famous Kailasa Temple',
     },
     {
-      "level": 130,
-      "mainsubject": "Culture & Society",
-      "question": "The philosophy of 'Vishwa Manava' was promoted by which Kannada literary figure?",
-      "options": [
-        "Basavanna",
-        "Kuvempu",
-        "D.R. Bendre",
-        "Pampa"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'Vishwa Manava' (Universal Humanism) was the philosophical concept promoted by Kuvempu. This philosophy emphasizes that all human beings belong to a single global family beyond barriers of caste, religion, and nationality. Kuvempu believed in unity, equality, and universal brotherhood. His literary works, particularly 'Sri Ramayana Darshanam,' reflect this humanistic ideology that transcends narrow social boundaries and promotes inclusive thinking.",
-      "difficulty": "Medium",
-      "hint": "This philosophy promotes universal brotherhood"
+      level: 130,
+      mainsubject: 'Culture & Society',
+      question:
+        "The philosophy of 'Vishwa Manava' was promoted by which Kannada literary figure?",
+      options: ['Basavanna', 'Kuvempu', 'D.R. Bendre', 'Pampa'],
+      correctAnswer: 2,
+      explanation:
+        "'Vishwa Manava' (Universal Humanism) was the philosophical concept promoted by Kuvempu. This philosophy emphasizes that all human beings belong to a single global family beyond barriers of caste, religion, and nationality. Kuvempu believed in unity, equality, and universal brotherhood. His literary works, particularly 'Sri Ramayana Darshanam,' reflect this humanistic ideology that transcends narrow social boundaries and promotes inclusive thinking.",
+      difficulty: 'Medium',
+      hint: 'This philosophy promotes universal brotherhood',
     },
     {
-      "level": 131,
-      "mainsubject": "Culture & Society",
-      "question": "Sattriya classical dance originated in which Indian state?",
-      "options": [
-        "West Bengal",
-        "Assam",
-        "Tripura",
-        "Meghalaya"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Sattriya classical dance originated in Assam and is based on the Bhakti movement. It was created by the great Vaishnavite saint Srimanta Sankaradeva in the 15th century as part of the cultural and religious reform in Assam. The dance form is performed in Satras (Vaishnavite monasteries) and emphasizes devotional themes related to Lord Krishna. It was recognized as a classical dance form by the Sangeet Natak Akademi in 2000, making it the eighth classical dance of India.",
-      "difficulty": "Medium",
-      "hint": "This state is known for tea gardens and Brahmaputra river"
+      level: 131,
+      mainsubject: 'Culture & Society',
+      question: 'Sattriya classical dance originated in which Indian state?',
+      options: ['West Bengal', 'Assam', 'Tripura', 'Meghalaya'],
+      correctAnswer: 2,
+      explanation:
+        'Sattriya classical dance originated in Assam and is based on the Bhakti movement. It was created by the great Vaishnavite saint Srimanta Sankaradeva in the 15th century as part of the cultural and religious reform in Assam. The dance form is performed in Satras (Vaishnavite monasteries) and emphasizes devotional themes related to Lord Krishna. It was recognized as a classical dance form by the Sangeet Natak Akademi in 2000, making it the eighth classical dance of India.',
+      difficulty: 'Medium',
+      hint: 'This state is known for tea gardens and Brahmaputra river',
     },
     {
-      "level": 132,
-      "mainsubject": "Culture & Society",
-      "question": "The colonial-era Victoria Memorial in Kolkata was designed by which architect?",
-      "options": [
-        "Edwin Lutyens",
-        "Herbert Baker",
-        "William Emerson",
-        "George Wittet"
+      level: 132,
+      mainsubject: 'Culture & Society',
+      question:
+        'The colonial-era Victoria Memorial in Kolkata was designed by which architect?',
+      options: [
+        'Edwin Lutyens',
+        'Herbert Baker',
+        'William Emerson',
+        'George Wittet',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Victoria Memorial in Kolkata was designed by British architect William Emerson, with contributions from Vincent Esch. Completed in 1921, it was proposed by Lord Curzon as a memorial to Queen Victoria, Empress of India. The structure combines British and Mughal architectural elements, inspired by the Taj Mahal. Built with white Makrana marble, it features a central dome 184 feet tall supported by four smaller domes, representing the grandeur of British colonial architecture in India.",
-      "difficulty": "Hard",
-      "hint": "He also designed the Crawford Market in Mumbai"
+      correctAnswer: 3,
+      explanation:
+        'The Victoria Memorial in Kolkata was designed by British architect William Emerson, with contributions from Vincent Esch. Completed in 1921, it was proposed by Lord Curzon as a memorial to Queen Victoria, Empress of India. The structure combines British and Mughal architectural elements, inspired by the Taj Mahal. Built with white Makrana marble, it features a central dome 184 feet tall supported by four smaller domes, representing the grandeur of British colonial architecture in India.',
+      difficulty: 'Hard',
+      hint: 'He also designed the Crawford Market in Mumbai',
     },
     {
-      "level": 133,
-      "mainsubject": "Culture & Society",
-      "question": "Which folk dance of Karnataka uses bamboo poles as props?",
-      "options": [
-        "Dollu Kunitha",
-        "Pata Kunitha",
-        "Kamsale",
-        "Somana Kunitha"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Pata Kunitha uses bamboo poles measuring 10-12 feet as props, known as 'Pata,' hence the name. The poles are colorfully decorated with multi-colored ribbons, and dancers perform with high energy while balancing these tall bamboo poles. This dance is specific to the Mysore region of Karnataka and requires great skill and coordination. The performance involves rhythmic movements and formations that showcase the dancers' agility and balance.",
-      "difficulty": "Easy",
-      "hint": "The name comes from the bamboo pole used"
+      level: 133,
+      mainsubject: 'Culture & Society',
+      question: 'Which folk dance of Karnataka uses bamboo poles as props?',
+      options: ['Dollu Kunitha', 'Pata Kunitha', 'Kamsale', 'Somana Kunitha'],
+      correctAnswer: 2,
+      explanation:
+        "Pata Kunitha uses bamboo poles measuring 10-12 feet as props, known as 'Pata,' hence the name. The poles are colorfully decorated with multi-colored ribbons, and dancers perform with high energy while balancing these tall bamboo poles. This dance is specific to the Mysore region of Karnataka and requires great skill and coordination. The performance involves rhythmic movements and formations that showcase the dancers' agility and balance.",
+      difficulty: 'Easy',
+      hint: 'The name comes from the bamboo pole used',
     },
     {
-      "level": 134,
-      "mainsubject": "Culture & Society",
-      "question": "The Hampi monuments primarily represent which architectural style?",
-      "options": [
-        "Hoysala",
-        "Vijayanagara",
-        "Chalukya",
-        "Chola"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Hampi represents Vijayanagara architecture, a vibrant combination of Chalukya, Hoysala, Pandya, and Chola styles that prospered during the Vijayanagara Empire (14th-16th centuries). The architectural style features ornate pillared Kalyanamantapas (marriage halls), Vasanthamantapas (open pillared halls), and Rajagopuras (towers). The Vittala Temple with its musical pillars and stone chariot is the most famous example. This UNESCO World Heritage Site showcases the empire's grandeur before its fall in 1565.",
-      "difficulty": "Easy",
-      "hint": "This empire's capital was at Hampi"
+      level: 134,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Hampi monuments primarily represent which architectural style?',
+      options: ['Hoysala', 'Vijayanagara', 'Chalukya', 'Chola'],
+      correctAnswer: 2,
+      explanation:
+        "Hampi represents Vijayanagara architecture, a vibrant combination of Chalukya, Hoysala, Pandya, and Chola styles that prospered during the Vijayanagara Empire (14th-16th centuries). The architectural style features ornate pillared Kalyanamantapas (marriage halls), Vasanthamantapas (open pillared halls), and Rajagopuras (towers). The Vittala Temple with its musical pillars and stone chariot is the most famous example. This UNESCO World Heritage Site showcases the empire's grandeur before its fall in 1565.",
+      difficulty: 'Easy',
+      hint: "This empire's capital was at Hampi",
     },
     {
-      "level": 135,
-      "mainsubject": "Culture & Society",
-      "question": "Which social issue is primarily addressed by the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act?",
-      "options": [
-        "Economic inequality",
-        "Educational backwardness",
-        "Caste-based discrimination",
-        "Political underrepresentation"
+      level: 135,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which social issue is primarily addressed by the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act?',
+      options: [
+        'Economic inequality',
+        'Educational backwardness',
+        'Caste-based discrimination',
+        'Political underrepresentation',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, primarily addresses caste-based discrimination and violence against Dalits and Adivasis. The Act provides legal protection against various forms of atrocities including social boycott, physical violence, sexual assault, and economic exploitation. It establishes special courts for speedy trials and includes provisions for rehabilitation of victims. The Act recognizes that ordinary legal provisions are insufficient to address the systemic discrimination faced by these communities.",
-      "difficulty": "Medium",
-      "hint": "This Act deals with violence against marginalized communities"
+      correctAnswer: 3,
+      explanation:
+        'The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, primarily addresses caste-based discrimination and violence against Dalits and Adivasis. The Act provides legal protection against various forms of atrocities including social boycott, physical violence, sexual assault, and economic exploitation. It establishes special courts for speedy trials and includes provisions for rehabilitation of victims. The Act recognizes that ordinary legal provisions are insufficient to address the systemic discrimination faced by these communities.',
+      difficulty: 'Medium',
+      hint: 'This Act deals with violence against marginalized communities',
     },
     {
-      "level": 136,
-      "mainsubject": "Culture & Society",
-      "question": "Kuchipudi classical dance originated in which Indian state?",
-      "options": [
-        "Karnataka",
-        "Tamil Nadu",
-        "Andhra Pradesh",
-        "Telangana"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Kuchipudi classical dance originated in Andhra Pradesh, specifically in the village of Kuchipudi in Krishna district. This dance form combines classical dance with drama and music, often including dialogue delivery and group performances. Traditionally performed by men who played both male and female roles, it now includes women dancers. Kuchipudi is known for its graceful movements, intricate footwork, and the unique technique of dancing on a brass plate (tarangam).",
-      "difficulty": "Easy",
-      "hint": "This state is known as the 'Rice Bowl of India'"
+      level: 136,
+      mainsubject: 'Culture & Society',
+      question: 'Kuchipudi classical dance originated in which Indian state?',
+      options: ['Karnataka', 'Tamil Nadu', 'Andhra Pradesh', 'Telangana'],
+      correctAnswer: 3,
+      explanation:
+        'Kuchipudi classical dance originated in Andhra Pradesh, specifically in the village of Kuchipudi in Krishna district. This dance form combines classical dance with drama and music, often including dialogue delivery and group performances. Traditionally performed by men who played both male and female roles, it now includes women dancers. Kuchipudi is known for its graceful movements, intricate footwork, and the unique technique of dancing on a brass plate (tarangam).',
+      difficulty: 'Easy',
+      hint: "This state is known as the 'Rice Bowl of India'",
     },
     {
-      "level": 137,
-      "mainsubject": "Culture & Society",
-      "question": "The concept of 'Kayaka' was central to which philosophical movement?",
-      "options": [
-        "Advaita Vedanta",
-        "Vachana movement",
-        "Bhakti movement",
-        "Arya Samaj"
+      level: 137,
+      mainsubject: 'Culture & Society',
+      question:
+        "The concept of 'Kayaka' was central to which philosophical movement?",
+      options: [
+        'Advaita Vedanta',
+        'Vachana movement',
+        'Bhakti movement',
+        'Arya Samaj',
       ],
-      "correctAnswer": 2,
-      "explanation": "'Kayaka' (work as worship) was a central concept of the Vachana movement led by Basavanna. This philosophy emphasized that honest labor and productive work are forms of devotion to God, challenging the traditional caste-based division of labor and the supremacy of ritualistic practices. Kayaka promoted dignity of labor regardless of caste and established that spiritual merit comes from sincere work rather than birth or ritual observance, making it a revolutionary social reform concept.",
-      "difficulty": "Medium",
-      "hint": "This concept means 'work as worship'"
+      correctAnswer: 2,
+      explanation:
+        "'Kayaka' (work as worship) was a central concept of the Vachana movement led by Basavanna. This philosophy emphasized that honest labor and productive work are forms of devotion to God, challenging the traditional caste-based division of labor and the supremacy of ritualistic practices. Kayaka promoted dignity of labor regardless of caste and established that spiritual merit comes from sincere work rather than birth or ritual observance, making it a revolutionary social reform concept.",
+      difficulty: 'Medium',
+      hint: "This concept means 'work as worship'",
     },
     {
-      "level": 138,
-      "mainsubject": "Culture & Society",
-      "question": "Which UNESCO World Heritage site in Maharashtra represents Buddhist rock-cut architecture?",
-      "options": [
-        "Ajanta and Ellora Caves",
-        "Elephanta Caves",
-        "Lonar Crater",
-        "Chhatrapati Shivaji Terminus"
+      level: 138,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which UNESCO World Heritage site in Maharashtra represents Buddhist rock-cut architecture?',
+      options: [
+        'Ajanta and Ellora Caves',
+        'Elephanta Caves',
+        'Lonar Crater',
+        'Chhatrapati Shivaji Terminus',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Ajanta and Ellora Caves in Maharashtra represent the pinnacle of Buddhist rock-cut architecture. Ajanta (2nd century BCE - 6th century CE) consists of 30 caves with magnificent frescoes and sculptures depicting Buddhist themes. Ellora (5th-13th century CE) has 34 caves representing Buddhist, Hindu, and Jain traditions. Both sites showcase the evolution of rock-cut architecture and are renowned for their artistic and architectural excellence, making them UNESCO World Heritage Sites.",
-      "difficulty": "Easy",
-      "hint": "These caves are famous for their ancient paintings and sculptures"
+      correctAnswer: 1,
+      explanation:
+        'The Ajanta and Ellora Caves in Maharashtra represent the pinnacle of Buddhist rock-cut architecture. Ajanta (2nd century BCE - 6th century CE) consists of 30 caves with magnificent frescoes and sculptures depicting Buddhist themes. Ellora (5th-13th century CE) has 34 caves representing Buddhist, Hindu, and Jain traditions. Both sites showcase the evolution of rock-cut architecture and are renowned for their artistic and architectural excellence, making them UNESCO World Heritage Sites.',
+      difficulty: 'Easy',
+      hint: 'These caves are famous for their ancient paintings and sculptures',
     },
     {
-      "level": 139,
-      "mainsubject": "Culture & Society",
-      "question": "The term 'Rashtrakavi' was conferred upon which Kannada poet?",
-      "options": [
-        "D.R. Bendre",
-        "Kuvempu",
-        "Gopalakrishna Adiga",
-        "K.S. Narasimhaswamy"
+      level: 139,
+      mainsubject: 'Culture & Society',
+      question: "The term 'Rashtrakavi' was conferred upon which Kannada poet?",
+      options: [
+        'D.R. Bendre',
+        'Kuvempu',
+        'Gopalakrishna Adiga',
+        'K.S. Narasimhaswamy',
       ],
-      "correctAnswer": 2,
-      "explanation": "The title 'Rashtrakavi' (National Poet) was conferred upon Kuvempu in 1964, making him the first Kannada National Poet. This honor was given in recognition of his outstanding contribution to Kannada literature and his philosophy of universal humanism. Kuvempu's works transcended regional boundaries and promoted unity among all humanity. His epic 'Sri Ramayana Darshanam' and other literary works established him as a towering figure in Indian literature, worthy of this national recognition.",
-      "difficulty": "Medium",
-      "hint": "This title means 'National Poet'"
+      correctAnswer: 2,
+      explanation:
+        "The title 'Rashtrakavi' (National Poet) was conferred upon Kuvempu in 1964, making him the first Kannada National Poet. This honor was given in recognition of his outstanding contribution to Kannada literature and his philosophy of universal humanism. Kuvempu's works transcended regional boundaries and promoted unity among all humanity. His epic 'Sri Ramayana Darshanam' and other literary works established him as a towering figure in Indian literature, worthy of this national recognition.",
+      difficulty: 'Medium',
+      hint: "This title means 'National Poet'",
     },
     {
-      "level": 140,
-      "mainsubject": "Culture & Society",
-      "question": "Somana Kunitha folk dance is characterized by the use of:",
-      "options": [
-        "Brass instruments",
-        "Bamboo poles",
-        "Large masks",
-        "Decorated drums"
+      level: 140,
+      mainsubject: 'Culture & Society',
+      question: 'Somana Kunitha folk dance is characterized by the use of:',
+      options: [
+        'Brass instruments',
+        'Bamboo poles',
+        'Large masks',
+        'Decorated drums',
       ],
-      "correctAnswer": 3,
-      "explanation": "Somana Kunitha is characterized by the use of large masks worn by dancers during performances. This traditional dance was performed as part of ritualistic worship in temples during festivals and is associated with the worship of local village deities. The huge masks are the most striking aspect of this dance form, creating a dramatic visual impact. Somana Kunitha is prevalent in parts of Southern Karnataka including Mysore, Hassan, and Mandya districts.",
-      "difficulty": "Medium",
-      "hint": "This dance creates dramatic visual impact through face coverings"
+      correctAnswer: 3,
+      explanation:
+        'Somana Kunitha is characterized by the use of large masks worn by dancers during performances. This traditional dance was performed as part of ritualistic worship in temples during festivals and is associated with the worship of local village deities. The huge masks are the most striking aspect of this dance form, creating a dramatic visual impact. Somana Kunitha is prevalent in parts of Southern Karnataka including Mysore, Hassan, and Mandya districts.',
+      difficulty: 'Medium',
+      hint: 'This dance creates dramatic visual impact through face coverings',
     },
     {
-      "level": 141,
-      "mainsubject": "Culture & Society",
-      "question": "The colonial architecture style that combines European and Mughal elements is known as:",
-      "options": [
-        "Gothic Revival",
-        "Neo-classical",
-        "Indo-Saracenic",
-        "Victorian"
+      level: 141,
+      mainsubject: 'Culture & Society',
+      question:
+        'The colonial architecture style that combines European and Mughal elements is known as:',
+      options: [
+        'Gothic Revival',
+        'Neo-classical',
+        'Indo-Saracenic',
+        'Victorian',
       ],
-      "correctAnswer": 3,
-      "explanation": "Indo-Saracenic architecture is the colonial style that combines European and Mughal elements. This style emerged during the British Raj and represents a fusion of Indian, Islamic, and European architectural traditions. It features domes, arches, minarets, and decorative elements from Mughal architecture combined with European structural techniques. Notable examples include the Gateway of India, Chhatrapati Shivaji Terminus (formerly Victoria Terminus), and various government buildings constructed during the colonial period.",
-      "difficulty": "Medium",
-      "hint": "This style is a fusion of multiple architectural traditions"
+      correctAnswer: 3,
+      explanation:
+        'Indo-Saracenic architecture is the colonial style that combines European and Mughal elements. This style emerged during the British Raj and represents a fusion of Indian, Islamic, and European architectural traditions. It features domes, arches, minarets, and decorative elements from Mughal architecture combined with European structural techniques. Notable examples include the Gateway of India, Chhatrapati Shivaji Terminus (formerly Victoria Terminus), and various government buildings constructed during the colonial period.',
+      difficulty: 'Medium',
+      hint: 'This style is a fusion of multiple architectural traditions',
     },
     {
-      "level": 142,
-      "mainsubject": "Culture & Society",
-      "question": "Odissi classical dance originated in which Indian state?",
-      "options": [
-        "West Bengal",
-        "Odisha",
-        "Jharkhand",
-        "Bihar"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Odissi classical dance originated in Odisha and is one of the eight recognized classical dance forms of India. It is characterized by fluid torso movements, sculptural poses inspired by temple sculptures, and tribhangi (three-bend pose of the body). The dance form has its roots in the temple traditions of Odisha and was traditionally performed by Maharis (temple dancers) and later by Gotipuas (boy dancers). Odissi depicts stories from Hindu mythology, particularly those related to Lord Krishna and Jagannath.",
-      "difficulty": "Easy",
-      "hint": "This state is famous for the Jagannath Temple"
+      level: 142,
+      mainsubject: 'Culture & Society',
+      question: 'Odissi classical dance originated in which Indian state?',
+      options: ['West Bengal', 'Odisha', 'Jharkhand', 'Bihar'],
+      correctAnswer: 2,
+      explanation:
+        'Odissi classical dance originated in Odisha and is one of the eight recognized classical dance forms of India. It is characterized by fluid torso movements, sculptural poses inspired by temple sculptures, and tribhangi (three-bend pose of the body). The dance form has its roots in the temple traditions of Odisha and was traditionally performed by Maharis (temple dancers) and later by Gotipuas (boy dancers). Odissi depicts stories from Hindu mythology, particularly those related to Lord Krishna and Jagannath.',
+      difficulty: 'Easy',
+      hint: 'This state is famous for the Jagannath Temple',
     },
     {
-      "level": 143,
-      "mainsubject": "Culture & Society",
-      "question": "Which emperor was instrumental in the spread of Buddhist architecture in India?",
-      "options": [
-        "Chandragupta Maurya",
-        "Ashoka",
-        "Harsha",
-        "Kanishka"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Emperor Ashoka (273-236 BCE) was instrumental in the spread of Buddhist architecture in India. After his conversion to Buddhism following the Kalinga War, Ashoka patronized Buddhism extensively and commissioned numerous stupas, pillars, and monasteries throughout his empire. He is credited with building 84,000 stupas, including the original structure of the Great Stupa at Sanchi. His rock and pillar edicts spread Buddhist principles, and his architectural patronage established the foundation of Buddhist art and architecture in India.",
-      "difficulty": "Easy",
-      "hint": "This emperor converted to Buddhism after the Kalinga War"
+      level: 143,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which emperor was instrumental in the spread of Buddhist architecture in India?',
+      options: ['Chandragupta Maurya', 'Ashoka', 'Harsha', 'Kanishka'],
+      correctAnswer: 2,
+      explanation:
+        'Emperor Ashoka (273-236 BCE) was instrumental in the spread of Buddhist architecture in India. After his conversion to Buddhism following the Kalinga War, Ashoka patronized Buddhism extensively and commissioned numerous stupas, pillars, and monasteries throughout his empire. He is credited with building 84,000 stupas, including the original structure of the Great Stupa at Sanchi. His rock and pillar edicts spread Buddhist principles, and his architectural patronage established the foundation of Buddhist art and architecture in India.',
+      difficulty: 'Easy',
+      hint: 'This emperor converted to Buddhism after the Kalinga War',
     },
     {
-      "level": 144,
-      "mainsubject": "Culture & Society",
-      "question": "The literary work 'Kanooru Heggadati' was written by which Kannada author?",
-      "options": [
-        "D.R. Bendre",
-        "Kuvempu",
-        "Masti Venkatesha Iyengar",
-        "T.R. Subba Rao"
+      level: 144,
+      mainsubject: 'Culture & Society',
+      question:
+        "The literary work 'Kanooru Heggadati' was written by which Kannada author?",
+      options: [
+        'D.R. Bendre',
+        'Kuvempu',
+        'Masti Venkatesha Iyengar',
+        'T.R. Subba Rao',
       ],
-      "correctAnswer": 2,
-      "explanation": "'Kanooru Heggadati' (The Outcast of the Village) is a famous novel written by Kuvempu, published in 1951. This work is considered one of the greatest novels in Kannada literature and deals with themes of social reform, caste discrimination, and human dignity. The novel portrays the struggle of an untouchable woman and her fight for social acceptance and equality. It reflects Kuvempu's philosophy of universal humanism and his commitment to social justice.",
-      "difficulty": "Hard",
-      "hint": "This novel deals with caste discrimination"
+      correctAnswer: 2,
+      explanation:
+        "'Kanooru Heggadati' (The Outcast of the Village) is a famous novel written by Kuvempu, published in 1951. This work is considered one of the greatest novels in Kannada literature and deals with themes of social reform, caste discrimination, and human dignity. The novel portrays the struggle of an untouchable woman and her fight for social acceptance and equality. It reflects Kuvempu's philosophy of universal humanism and his commitment to social justice.",
+      difficulty: 'Hard',
+      hint: 'This novel deals with caste discrimination',
     },
     {
-      "level": 145,
-      "mainsubject": "Culture & Society",
-      "question": "The Mahabalipuram monuments were built during which dynasty?",
-      "options": [
-        "Chola",
-        "Pallava",
-        "Pandya",
-        "Chera"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Mahabalipuram (Mamallapuram) monuments were built during the Pallava dynasty in the 7th and 8th centuries CE. These UNESCO World Heritage Sites include rathas (chariot-shaped temples), mandapas (rock-cut temples), rock reliefs including the giant 'Descent of the Ganges,' and the famous Shore Temple. The architectural style influenced temple construction throughout South India and Southeast Asia, demonstrating the Pallavas' significant contribution to Dravidian architecture.",
-      "difficulty": "Medium",
-      "hint": "This dynasty had their capital at Kanchipuram"
+      level: 145,
+      mainsubject: 'Culture & Society',
+      question: 'The Mahabalipuram monuments were built during which dynasty?',
+      options: ['Chola', 'Pallava', 'Pandya', 'Chera'],
+      correctAnswer: 2,
+      explanation:
+        "The Mahabalipuram (Mamallapuram) monuments were built during the Pallava dynasty in the 7th and 8th centuries CE. These UNESCO World Heritage Sites include rathas (chariot-shaped temples), mandapas (rock-cut temples), rock reliefs including the giant 'Descent of the Ganges,' and the famous Shore Temple. The architectural style influenced temple construction throughout South India and Southeast Asia, demonstrating the Pallavas' significant contribution to Dravidian architecture.",
+      difficulty: 'Medium',
+      hint: 'This dynasty had their capital at Kanchipuram',
     },
     {
-      "level": 146,
-      "mainsubject": "Culture & Society",
-      "question": "Which social movement in India focuses specifically on the rights of Dalits?",
-      "options": [
-        "Chipko Movement",
-        "Self-Respect Movement",
-        "Dalit Panthers",
-        "Telangana Movement"
+      level: 146,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which social movement in India focuses specifically on the rights of Dalits?',
+      options: [
+        'Chipko Movement',
+        'Self-Respect Movement',
+        'Dalit Panthers',
+        'Telangana Movement',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Dalit Panthers movement, founded in 1972 by Namdeo Dhasal, J.V. Pawar, and Arjun Dangle in Maharashtra, specifically focused on Dalit rights and empowerment. Inspired by the Black Panthers movement in the United States, it aimed to organize Dalits against caste-based oppression and discrimination. The movement used literature, activism, and political organization to raise awareness about Dalit issues and fight for social justice, dignity, and equal rights.",
-      "difficulty": "Medium",
-      "hint": "This movement was inspired by a similar movement in the United States"
+      correctAnswer: 3,
+      explanation:
+        'The Dalit Panthers movement, founded in 1972 by Namdeo Dhasal, J.V. Pawar, and Arjun Dangle in Maharashtra, specifically focused on Dalit rights and empowerment. Inspired by the Black Panthers movement in the United States, it aimed to organize Dalits against caste-based oppression and discrimination. The movement used literature, activism, and political organization to raise awareness about Dalit issues and fight for social justice, dignity, and equal rights.',
+      difficulty: 'Medium',
+      hint: 'This movement was inspired by a similar movement in the United States',
     },
     {
-      "level": 147,
-      "mainsubject": "Culture & Society",
-      "question": "The Chhatrapati Shivaji Terminus in Mumbai represents which architectural style?",
-      "options": [
-        "Gothic Revival",
-        "Indo-Saracenic",
-        "Neo-classical",
-        "Art Deco"
+      level: 147,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Chhatrapati Shivaji Terminus in Mumbai represents which architectural style?',
+      options: [
+        'Gothic Revival',
+        'Indo-Saracenic',
+        'Neo-classical',
+        'Art Deco',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Chhatrapati Shivaji Terminus (formerly Victoria Terminus) represents Gothic Revival architecture, a Victorian-era architectural style. Built in 1888 and designed by Frederick William Stevens, it features pointed arches, ribbed vaults, flying buttresses, and ornate stone carvings characteristic of Gothic architecture. This UNESCO World Heritage Site blends Gothic Revival with traditional Indian architectural elements, making it an outstanding example of Victorian Gothic Revival architecture adapted to Indian conditions.",
-      "difficulty": "Medium",
-      "hint": "This style is characterized by pointed arches and ribbed vaults"
+      correctAnswer: 1,
+      explanation:
+        'The Chhatrapati Shivaji Terminus (formerly Victoria Terminus) represents Gothic Revival architecture, a Victorian-era architectural style. Built in 1888 and designed by Frederick William Stevens, it features pointed arches, ribbed vaults, flying buttresses, and ornate stone carvings characteristic of Gothic architecture. This UNESCO World Heritage Site blends Gothic Revival with traditional Indian architectural elements, making it an outstanding example of Victorian Gothic Revival architecture adapted to Indian conditions.',
+      difficulty: 'Medium',
+      hint: 'This style is characterized by pointed arches and ribbed vaults',
     },
     {
-      "level": 148,
-      "mainsubject": "Culture & Society",
-      "question": "Which classical dance form is known for its 'lasya' aspect emphasizing grace and elegance?",
-      "options": [
-        "Kathak",
-        "Mohiniyattam",
-        "Bharatanatyam",
-        "Kuchipudi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Mohiniyattam, the classical dance form from Kerala, is particularly known for its 'lasya' aspect, emphasizing grace, elegance, and feminine charm. The name 'Mohiniyattam' means 'dance of the enchantress,' referring to the feminine aspect of Lord Vishnu as Mohini. This dance form is characterized by slow, graceful, swaying movements and expressive eye gestures. It focuses on the softer, more subtle expressions of Indian classical dance, making it distinct from other more vigorous forms.",
-      "difficulty": "Medium",
-      "hint": "This dance represents the feminine aspect of divinity"
+      level: 148,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which classical dance form is known for its 'lasya' aspect emphasizing grace and elegance?",
+      options: ['Kathak', 'Mohiniyattam', 'Bharatanatyam', 'Kuchipudi'],
+      correctAnswer: 2,
+      explanation:
+        "Mohiniyattam, the classical dance form from Kerala, is particularly known for its 'lasya' aspect, emphasizing grace, elegance, and feminine charm. The name 'Mohiniyattam' means 'dance of the enchantress,' referring to the feminine aspect of Lord Vishnu as Mohini. This dance form is characterized by slow, graceful, swaying movements and expressive eye gestures. It focuses on the softer, more subtle expressions of Indian classical dance, making it distinct from other more vigorous forms.",
+      difficulty: 'Medium',
+      hint: 'This dance represents the feminine aspect of divinity',
     },
     {
-      "level": 149,
-      "mainsubject": "Culture & Society",
-      "question": "The Sun Temple at Konark represents which architectural style?",
-      "options": [
-        "Nagara",
-        "Dravida",
-        "Vesara",
-        "Indo-Islamic"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Sun Temple at Konark represents the Nagara style of temple architecture. Built in the 13th century during the reign of King Narasimhadeva I of the Eastern Ganga dynasty, it is designed as a colossal chariot of the sun god Surya with 24 intricately carved stone wheels and seven horses. The temple showcases the finest example of Kalinga architecture, a regional variant of the Nagara style, with its towering shikhara and elaborate sculptural decoration.",
-      "difficulty": "Medium",
-      "hint": "This temple is designed as a chariot"
+      level: 149,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Sun Temple at Konark represents which architectural style?',
+      options: ['Nagara', 'Dravida', 'Vesara', 'Indo-Islamic'],
+      correctAnswer: 1,
+      explanation:
+        'The Sun Temple at Konark represents the Nagara style of temple architecture. Built in the 13th century during the reign of King Narasimhadeva I of the Eastern Ganga dynasty, it is designed as a colossal chariot of the sun god Surya with 24 intricately carved stone wheels and seven horses. The temple showcases the finest example of Kalinga architecture, a regional variant of the Nagara style, with its towering shikhara and elaborate sculptural decoration.',
+      difficulty: 'Medium',
+      hint: 'This temple is designed as a chariot',
     },
     {
-      "level": 150,
-      "mainsubject": "Culture & Society",
-      "question": "Allama Prabhu was associated with which literary and spiritual movement?",
-      "options": [
-        "Bhakti movement",
-        "Vachana movement",
-        "Sufi movement",
-        "Tantra movement"
+      level: 150,
+      mainsubject: 'Culture & Society',
+      question:
+        'Allama Prabhu was associated with which literary and spiritual movement?',
+      options: [
+        'Bhakti movement',
+        'Vachana movement',
+        'Sufi movement',
+        'Tantra movement',
       ],
-      "correctAnswer": 2,
-      "explanation": "Allama Prabhu was a prominent 12th-century mystic and poet associated with the Vachana movement in Karnataka. Along with Basavanna and Akka Mahadevi, he was one of the trinity of the Veerashaiva movement. Known for his profound philosophical insights and mystical poetry, Allama Prabhu served as the spiritual head (prabhu) of the Anubhava Mantapa, an academy of mystics, saints, and philosophers. His vachanas dealt with advanced spiritual concepts and metaphysical questions.",
-      "difficulty": "Medium",
-      "hint": "He was the spiritual head of Anubhava Mantapa"
+      correctAnswer: 2,
+      explanation:
+        'Allama Prabhu was a prominent 12th-century mystic and poet associated with the Vachana movement in Karnataka. Along with Basavanna and Akka Mahadevi, he was one of the trinity of the Veerashaiva movement. Known for his profound philosophical insights and mystical poetry, Allama Prabhu served as the spiritual head (prabhu) of the Anubhava Mantapa, an academy of mystics, saints, and philosophers. His vachanas dealt with advanced spiritual concepts and metaphysical questions.',
+      difficulty: 'Medium',
+      hint: 'He was the spiritual head of Anubhava Mantapa',
     },
     {
-      "level": 151,
-      "mainsubject": "Culture & Society",
-      "question": "The concept of 'reservations' in the Indian Constitution was primarily inspired by which principle?",
-      "options": [
-        "Economic efficiency",
-        "Social justice",
-        "Political stability",
-        "Administrative convenience"
+      level: 151,
+      mainsubject: 'Culture & Society',
+      question:
+        "The concept of 'reservations' in the Indian Constitution was primarily inspired by which principle?",
+      options: [
+        'Economic efficiency',
+        'Social justice',
+        'Political stability',
+        'Administrative convenience',
       ],
-      "correctAnswer": 2,
-      "explanation": "The concept of reservations in the Indian Constitution was primarily inspired by the principle of social justice. The founding fathers recognized that centuries of discrimination and social exclusion had created deep inequalities, particularly for Scheduled Castes, Scheduled Tribes, and other backward classes. Reservations were designed as a temporary measure to provide equal opportunities and compensate for historical injustices, ensuring substantive equality rather than just formal equality.",
-      "difficulty": "Easy",
-      "hint": "This principle aims to correct historical wrongs"
+      correctAnswer: 2,
+      explanation:
+        'The concept of reservations in the Indian Constitution was primarily inspired by the principle of social justice. The founding fathers recognized that centuries of discrimination and social exclusion had created deep inequalities, particularly for Scheduled Castes, Scheduled Tribes, and other backward classes. Reservations were designed as a temporary measure to provide equal opportunities and compensate for historical injustices, ensuring substantive equality rather than just formal equality.',
+      difficulty: 'Easy',
+      hint: 'This principle aims to correct historical wrongs',
     },
     {
-      "level": 152,
-      "mainsubject": "Culture & Society",
-      "question": "Which architectural element is unique to Buddhist stupas?",
-      "options": [
-        "Shikhara",
-        "Gopuram",
-        "Harmika and Yasti",
-        "Mandapa"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Harmika (square railing) and Yasti (central mast) are architectural elements unique to Buddhist stupas. The harmika is a square railing at the top of the stupa's dome, representing the abode of gods, while the yasti is the central mast that passes through the stupa, symbolizing the cosmic axis. Together with the chattra (umbrella-like structure), these elements distinguish stupas from other religious architectural forms and carry deep Buddhist symbolism representing the path to enlightenment.",
-      "difficulty": "Hard",
-      "hint": "These elements are found at the top of the stupa"
+      level: 152,
+      mainsubject: 'Culture & Society',
+      question: 'Which architectural element is unique to Buddhist stupas?',
+      options: ['Shikhara', 'Gopuram', 'Harmika and Yasti', 'Mandapa'],
+      correctAnswer: 3,
+      explanation:
+        "Harmika (square railing) and Yasti (central mast) are architectural elements unique to Buddhist stupas. The harmika is a square railing at the top of the stupa's dome, representing the abode of gods, while the yasti is the central mast that passes through the stupa, symbolizing the cosmic axis. Together with the chattra (umbrella-like structure), these elements distinguish stupas from other religious architectural forms and carry deep Buddhist symbolism representing the path to enlightenment.",
+      difficulty: 'Hard',
+      hint: 'These elements are found at the top of the stupa',
     },
     {
-      "level": 153,
-      "mainsubject": "Culture & Society",
-      "question": "The Natya Shastra, which forms the foundation of Indian classical dances, was written by:",
-      "options": [
-        "Bharata Muni",
-        "Panini",
-        "Kalidasa",
-        "Abhinavagupta"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Natya Shastra, which forms the foundation of Indian classical dances, was written by Bharata Muni between 2nd century BCE and 2nd century CE. This comprehensive treatise on performing arts covers dance, music, and drama, defining the theory and practice of Indian classical dance forms. It describes the nine rasas (emotions), mudras (hand gestures), and various aspects of stage craft. All eight classical dance forms of India trace their theoretical foundation to this ancient text.",
-      "difficulty": "Medium",
-      "hint": "This ancient sage codified the rules of performing arts"
+      level: 153,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Natya Shastra, which forms the foundation of Indian classical dances, was written by:',
+      options: ['Bharata Muni', 'Panini', 'Kalidasa', 'Abhinavagupta'],
+      correctAnswer: 1,
+      explanation:
+        'The Natya Shastra, which forms the foundation of Indian classical dances, was written by Bharata Muni between 2nd century BCE and 2nd century CE. This comprehensive treatise on performing arts covers dance, music, and drama, defining the theory and practice of Indian classical dance forms. It describes the nine rasas (emotions), mudras (hand gestures), and various aspects of stage craft. All eight classical dance forms of India trace their theoretical foundation to this ancient text.',
+      difficulty: 'Medium',
+      hint: 'This ancient sage codified the rules of performing arts',
     },
     {
-      "level": 154,
-      "mainsubject": "Culture & Society",
-      "question": "Which Karnataka folk art form involves storytelling through painted scrolls?",
-      "options": [
-        "Yakshagana",
-        "Chittara",
-        "Leather puppetry",
-        "Channapatna toys"
+      level: 154,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which Karnataka folk art form involves storytelling through painted scrolls?',
+      options: [
+        'Yakshagana',
+        'Chittara',
+        'Leather puppetry',
+        'Channapatna toys',
       ],
-      "correctAnswer": 3,
-      "explanation": "Leather puppetry (Togalu Gombeyata) in Karnataka involves storytelling through painted leather puppets, though not scrolls per se. However, Chittara is the folk art form that involves painted decorative patterns. The closest answer relating to painted storytelling would be the traditional leather puppet shows where stories from epics are narrated using painted leather puppets. These performances combine visual art with narrative, maintaining the oral tradition of storytelling in Karnataka's rural communities.",
-      "difficulty": "Hard",
-      "hint": "This art form uses painted figures to tell stories"
+      correctAnswer: 3,
+      explanation:
+        "Leather puppetry (Togalu Gombeyata) in Karnataka involves storytelling through painted leather puppets, though not scrolls per se. However, Chittara is the folk art form that involves painted decorative patterns. The closest answer relating to painted storytelling would be the traditional leather puppet shows where stories from epics are narrated using painted leather puppets. These performances combine visual art with narrative, maintaining the oral tradition of storytelling in Karnataka's rural communities.",
+      difficulty: 'Hard',
+      hint: 'This art form uses painted figures to tell stories',
     },
     {
-      "level": 155,
-      "mainsubject": "Culture & Society",
-      "question": "The Great Living Chola Temples are examples of which architectural style?",
-      "options": [
-        "Nagara",
-        "Dravida",
-        "Vesara",
-        "Indo-Islamic"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Great Living Chola Temples represent the pinnacle of Dravida architectural style. These UNESCO World Heritage Sites include the Brihadisvara Temple at Thanjavur, Brihadisvara Temple at Gangaikondacholisvaram, and Airavatesvara Temple at Darasuram. Built during the 11th and 12th centuries under the Chola dynasty, they showcase the finest examples of Dravidian architecture with their towering vimanas, elaborate sculptures, and sophisticated bronze work.",
-      "difficulty": "Medium",
-      "hint": "These temples were built by the Chola dynasty"
+      level: 155,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Great Living Chola Temples are examples of which architectural style?',
+      options: ['Nagara', 'Dravida', 'Vesara', 'Indo-Islamic'],
+      correctAnswer: 2,
+      explanation:
+        'The Great Living Chola Temples represent the pinnacle of Dravida architectural style. These UNESCO World Heritage Sites include the Brihadisvara Temple at Thanjavur, Brihadisvara Temple at Gangaikondacholisvaram, and Airavatesvara Temple at Darasuram. Built during the 11th and 12th centuries under the Chola dynasty, they showcase the finest examples of Dravidian architecture with their towering vimanas, elaborate sculptures, and sophisticated bronze work.',
+      difficulty: 'Medium',
+      hint: 'These temples were built by the Chola dynasty',
     },
     {
-      "level": 156,
-      "mainsubject": "Culture & Society",
-      "question": "Which social reformer was known as the 'Father of the Indian Renaissance'?",
-      "options": [
-        "Raja Ram Mohan Roy",
-        "Ishwar Chandra Vidyasagar",
-        "Dayananda Saraswati",
-        "Jyotirao Phule"
+      level: 156,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which social reformer was known as the 'Father of the Indian Renaissance'?",
+      options: [
+        'Raja Ram Mohan Roy',
+        'Ishwar Chandra Vidyasagar',
+        'Dayananda Saraswati',
+        'Jyotirao Phule',
       ],
-      "correctAnswer": 1,
-      "explanation": "Raja Ram Mohan Roy (1772-1833) is known as the 'Father of the Indian Renaissance' for his pioneering role in social and educational reforms. He founded the Brahmo Samaj, advocated for the abolition of sati, promoted women's education, and fought against social evils like child marriage and the caste system. His efforts to modernize Indian society while preserving its cultural heritage earned him this title. He was instrumental in bringing Western education and rational thinking to India.",
-      "difficulty": "Easy",
-      "hint": "He founded the Brahmo Samaj"
+      correctAnswer: 1,
+      explanation:
+        "Raja Ram Mohan Roy (1772-1833) is known as the 'Father of the Indian Renaissance' for his pioneering role in social and educational reforms. He founded the Brahmo Samaj, advocated for the abolition of sati, promoted women's education, and fought against social evils like child marriage and the caste system. His efforts to modernize Indian society while preserving its cultural heritage earned him this title. He was instrumental in bringing Western education and rational thinking to India.",
+      difficulty: 'Easy',
+      hint: 'He founded the Brahmo Samaj',
     },
     {
-      "level": 157,
-      "mainsubject": "Culture & Society",
-      "question": "The Badami Caves represent which period of Indian architecture?",
-      "options": [
-        "Gupta period",
-        "Mauryan period",
-        "Chalukya period",
-        "Pallava period"
+      level: 157,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Badami Caves represent which period of Indian architecture?',
+      options: [
+        'Gupta period',
+        'Mauryan period',
+        'Chalukya period',
+        'Pallava period',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Badami Caves represent the Chalukya period of Indian architecture (6th-8th centuries CE). These four rock-cut caves in Karnataka were carved during the rule of the Chalukyas of Vatapi (Badami). The caves showcase a blend of Nagara and Dravida styles, featuring Hindu, Jain, and Buddhist themes. They are significant for their architectural innovations and sculptural excellence, representing the early development of Deccan architecture under Chalukya patronage.",
-      "difficulty": "Medium",
-      "hint": "These caves are located in Karnataka"
+      correctAnswer: 3,
+      explanation:
+        'The Badami Caves represent the Chalukya period of Indian architecture (6th-8th centuries CE). These four rock-cut caves in Karnataka were carved during the rule of the Chalukyas of Vatapi (Badami). The caves showcase a blend of Nagara and Dravida styles, featuring Hindu, Jain, and Buddhist themes. They are significant for their architectural innovations and sculptural excellence, representing the early development of Deccan architecture under Chalukya patronage.',
+      difficulty: 'Medium',
+      hint: 'These caves are located in Karnataka',
     },
     {
-      "level": 158,
-      "mainsubject": "Culture & Society",
-      "question": "The Women's Reservation Bill aims to provide what percentage of reservation for women in legislatures?",
-      "options": [
-        "25%",
-        "30%",
-        "33%",
-        "50%"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The Women's Reservation Bill (now Act, 2023) aims to provide 33% reservation for women in the Lok Sabha and State Legislative Assemblies. This legislation also ensures that within this quota, seats are reserved for women belonging to Scheduled Castes and Scheduled Tribes in proportion to their population. The Act includes a rotational system to ensure women from diverse constituencies get opportunities and is initially implemented for a period of 15 years.",
-      "difficulty": "Easy",
-      "hint": "This is the same percentage as in Panchayati Raj institutions"
+      level: 158,
+      mainsubject: 'Culture & Society',
+      question:
+        "The Women's Reservation Bill aims to provide what percentage of reservation for women in legislatures?",
+      options: ['25%', '30%', '33%', '50%'],
+      correctAnswer: 3,
+      explanation:
+        "The Women's Reservation Bill (now Act, 2023) aims to provide 33% reservation for women in the Lok Sabha and State Legislative Assemblies. This legislation also ensures that within this quota, seats are reserved for women belonging to Scheduled Castes and Scheduled Tribes in proportion to their population. The Act includes a rotational system to ensure women from diverse constituencies get opportunities and is initially implemented for a period of 15 years.",
+      difficulty: 'Easy',
+      hint: 'This is the same percentage as in Panchayati Raj institutions',
     },
     {
-      "level": 159,
-      "mainsubject": "Culture & Society",
-      "question": "Khajuraho temples are famous for which aspect of temple architecture?",
-      "options": [
-        "Astronomical alignment",
-        "Erotic sculptures",
-        "Musical pillars",
-        "Underground chambers"
+      level: 159,
+      mainsubject: 'Culture & Society',
+      question:
+        'Khajuraho temples are famous for which aspect of temple architecture?',
+      options: [
+        'Astronomical alignment',
+        'Erotic sculptures',
+        'Musical pillars',
+        'Underground chambers',
       ],
-      "correctAnswer": 2,
-      "explanation": "Khajuraho temples are famous for their erotic sculptures, which form part of a comprehensive sculptural program depicting various aspects of human life. Built during the Chandela dynasty (9th-12th centuries), these Nagara style temples showcase not only erotic art but also religious, social, and cultural themes. The erotic sculptures represent the tantric philosophy and the celebration of life in all its forms. These UNESCO World Heritage Sites are considered masterpieces of Indian temple architecture.",
-      "difficulty": "Easy",
-      "hint": "These sculptures depict various aspects of human life"
+      correctAnswer: 2,
+      explanation:
+        'Khajuraho temples are famous for their erotic sculptures, which form part of a comprehensive sculptural program depicting various aspects of human life. Built during the Chandela dynasty (9th-12th centuries), these Nagara style temples showcase not only erotic art but also religious, social, and cultural themes. The erotic sculptures represent the tantric philosophy and the celebration of life in all its forms. These UNESCO World Heritage Sites are considered masterpieces of Indian temple architecture.',
+      difficulty: 'Easy',
+      hint: 'These sculptures depict various aspects of human life',
     },
     {
-      "level": 160,
-      "mainsubject": "Culture & Society",
-      "question": "Which movement in Karnataka promoted the use of Kannada in administration and education?",
-      "options": [
-        "Gokak Chaluvali",
-        "Kaveri Movement",
-        "Unification Movement",
-        "Ekikarana Movement"
+      level: 160,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which movement in Karnataka promoted the use of Kannada in administration and education?',
+      options: [
+        'Gokak Chaluvali',
+        'Kaveri Movement',
+        'Unification Movement',
+        'Ekikarana Movement',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Gokak Chaluvali (Gokak Movement) in Karnataka promoted the use of Kannada in administration and education. Named after the Gokak Committee report of 1981, this movement demanded the implementation of Kannada as the medium of instruction in schools and its greater use in government administration. The movement saw massive participation from people across Karnataka and led to significant policy changes promoting the Kannada language in various spheres of public life.",
-      "difficulty": "Medium",
-      "hint": "This movement was named after a committee report"
+      correctAnswer: 1,
+      explanation:
+        'The Gokak Chaluvali (Gokak Movement) in Karnataka promoted the use of Kannada in administration and education. Named after the Gokak Committee report of 1981, this movement demanded the implementation of Kannada as the medium of instruction in schools and its greater use in government administration. The movement saw massive participation from people across Karnataka and led to significant policy changes promoting the Kannada language in various spheres of public life.',
+      difficulty: 'Medium',
+      hint: 'This movement was named after a committee report',
     },
     {
-      "level": 161,
-      "mainsubject": "Culture & Society",
-      "question": "The architectural style of Fatehpur Sikri represents which period?",
-      "options": [
-        "Delhi Sultanate",
-        "Mughal",
-        "Vijayanagara",
-        "Maratha"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Fatehpur Sikri represents Mughal architecture of the late 16th century. Built by Emperor Akbar as his capital (1571-1585), it showcases the synthesis of Indian, Persian, and Islamic architectural elements. The complex includes the Jama Masjid with its impressive Buland Darwaza, the Panch Mahal palace, and the Tomb of Salim Chishti. This UNESCO World Heritage Site demonstrates the architectural innovations of the early Mughal period and Akbar's syncretic approach to culture.",
-      "difficulty": "Medium",
-      "hint": "This was built by Emperor Akbar"
+      level: 161,
+      mainsubject: 'Culture & Society',
+      question:
+        'The architectural style of Fatehpur Sikri represents which period?',
+      options: ['Delhi Sultanate', 'Mughal', 'Vijayanagara', 'Maratha'],
+      correctAnswer: 2,
+      explanation:
+        "Fatehpur Sikri represents Mughal architecture of the late 16th century. Built by Emperor Akbar as his capital (1571-1585), it showcases the synthesis of Indian, Persian, and Islamic architectural elements. The complex includes the Jama Masjid with its impressive Buland Darwaza, the Panch Mahal palace, and the Tomb of Salim Chishti. This UNESCO World Heritage Site demonstrates the architectural innovations of the early Mughal period and Akbar's syncretic approach to culture.",
+      difficulty: 'Medium',
+      hint: 'This was built by Emperor Akbar',
     },
     {
-      "level": 162,
-      "mainsubject": "Culture & Society",
-      "question": "Which constitutional provision deals with the protection of interests of minorities?",
-      "options": [
-        "Article 29-30",
-        "Article 25-28",
-        "Article 14-18",
-        "Article 19-22"
+      level: 162,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which constitutional provision deals with the protection of interests of minorities?',
+      options: [
+        'Article 29-30',
+        'Article 25-28',
+        'Article 14-18',
+        'Article 19-22',
       ],
-      "correctAnswer": 1,
-      "explanation": "Articles 29-30 of the Indian Constitution deal with the protection of interests of minorities. Article 29 protects the interests of minorities by ensuring the right of any section of citizens to conserve their distinct language, script, or culture. Article 30 gives minorities the right to establish and administer educational institutions of their choice. These provisions are part of the Cultural and Educational Rights and aim to preserve the diversity and plurality of Indian society.",
-      "difficulty": "Medium",
-      "hint": "These articles fall under Cultural and Educational Rights"
+      correctAnswer: 1,
+      explanation:
+        'Articles 29-30 of the Indian Constitution deal with the protection of interests of minorities. Article 29 protects the interests of minorities by ensuring the right of any section of citizens to conserve their distinct language, script, or culture. Article 30 gives minorities the right to establish and administer educational institutions of their choice. These provisions are part of the Cultural and Educational Rights and aim to preserve the diversity and plurality of Indian society.',
+      difficulty: 'Medium',
+      hint: 'These articles fall under Cultural and Educational Rights',
     },
     {
-      "level": 163,
-      "mainsubject": "Culture & Society",
-      "question": "The Lingaraj Temple in Bhubaneswar represents which architectural style?",
-      "options": [
-        "Kalinga",
-        "Dravida",
-        "Vesara",
-        "Gupta"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Lingaraj Temple in Bhubaneswar represents the Kalinga architectural style, a regional variant of the Nagara style. Built in the 11th century during the reign of King Jajati Keshari, it is dedicated to Lord Shiva. The temple features the characteristic Kalinga elements including the tall curvilinear shikhara (deula), the jagamohana (assembly hall), and intricate sculptural decoration. It represents the mature phase of Odishan temple architecture and is considered one of the finest examples of Kalinga style.",
-      "difficulty": "Medium",
-      "hint": "This style is specific to Odisha"
+      level: 163,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Lingaraj Temple in Bhubaneswar represents which architectural style?',
+      options: ['Kalinga', 'Dravida', 'Vesara', 'Gupta'],
+      correctAnswer: 1,
+      explanation:
+        'The Lingaraj Temple in Bhubaneswar represents the Kalinga architectural style, a regional variant of the Nagara style. Built in the 11th century during the reign of King Jajati Keshari, it is dedicated to Lord Shiva. The temple features the characteristic Kalinga elements including the tall curvilinear shikhara (deula), the jagamohana (assembly hall), and intricate sculptural decoration. It represents the mature phase of Odishan temple architecture and is considered one of the finest examples of Kalinga style.',
+      difficulty: 'Medium',
+      hint: 'This style is specific to Odisha',
     },
     {
-      "level": 164,
-      "mainsubject": "Culture & Society",
-      "question": "Pampa, known as the first poet of Kannada literature, wrote which famous work?",
-      "options": [
-        "Vikramarjuna Vijaya",
-        "Adipurana",
-        "Both A and B",
-        "Jaimini Bharata"
+      level: 164,
+      mainsubject: 'Culture & Society',
+      question:
+        'Pampa, known as the first poet of Kannada literature, wrote which famous work?',
+      options: [
+        'Vikramarjuna Vijaya',
+        'Adipurana',
+        'Both A and B',
+        'Jaimini Bharata',
       ],
-      "correctAnswer": 3,
-      "explanation": "Pampa (902-975 CE), known as the 'Adikavi' (first poet) of Kannada literature, wrote both 'Vikramarjuna Vijaya' (also known as Pampa Bharata) and 'Adipurana.' The Vikramarjuna Vijaya is based on the Mahabharata, focusing on Arjuna's story, while Adipurana deals with the life of the first Jain Tirthankara, Rishabhanatha. Pampa is considered one of the 'ratnatraya' (three gems) of ancient Kannada literature along with Ponna and Ranna.",
-      "difficulty": "Hard",
-      "hint": "He is called 'Adikavi' of Kannada"
+      correctAnswer: 3,
+      explanation:
+        "Pampa (902-975 CE), known as the 'Adikavi' (first poet) of Kannada literature, wrote both 'Vikramarjuna Vijaya' (also known as Pampa Bharata) and 'Adipurana.' The Vikramarjuna Vijaya is based on the Mahabharata, focusing on Arjuna's story, while Adipurana deals with the life of the first Jain Tirthankara, Rishabhanatha. Pampa is considered one of the 'ratnatraya' (three gems) of ancient Kannada literature along with Ponna and Ranna.",
+      difficulty: 'Hard',
+      hint: "He is called 'Adikavi' of Kannada",
     },
     {
-      "level": 165,
-      "mainsubject": "Culture & Society",
-      "question": "The Konark Sun Temple is designed in the form of a:",
-      "options": [
-        "Lotus",
-        "Chariot",
-        "Mountain",
-        "Tree"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Konark Sun Temple is designed in the form of a colossal chariot dedicated to the sun god Surya. The temple has 24 intricately carved stone wheels representing the 24 hours of a day, and is pulled by seven horses representing the days of the week. This 13th-century architectural marvel in Odisha symbolizes the passage of time and Surya's journey across the sky. The wheels are not merely decorative but also function as sundials, showing the precise time of day.",
-      "difficulty": "Easy",
-      "hint": "This represents Surya's vehicle"
+      level: 165,
+      mainsubject: 'Culture & Society',
+      question: 'The Konark Sun Temple is designed in the form of a:',
+      options: ['Lotus', 'Chariot', 'Mountain', 'Tree'],
+      correctAnswer: 2,
+      explanation:
+        "The Konark Sun Temple is designed in the form of a colossal chariot dedicated to the sun god Surya. The temple has 24 intricately carved stone wheels representing the 24 hours of a day, and is pulled by seven horses representing the days of the week. This 13th-century architectural marvel in Odisha symbolizes the passage of time and Surya's journey across the sky. The wheels are not merely decorative but also function as sundials, showing the precise time of day.",
+      difficulty: 'Easy',
+      hint: "This represents Surya's vehicle",
     },
     {
-      "level": 166,
-      "mainsubject": "Culture & Society",
-      "question": "Which social reform movement was led by Jyotirao Phule in Maharashtra?",
-      "options": [
-        "Prarthana Samaj",
-        "Satyashodhak Samaj",
-        "Arya Samaj",
-        "Brahmo Samaj"
+      level: 166,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which social reform movement was led by Jyotirao Phule in Maharashtra?',
+      options: [
+        'Prarthana Samaj',
+        'Satyashodhak Samaj',
+        'Arya Samaj',
+        'Brahmo Samaj',
       ],
-      "correctAnswer": 2,
-      "explanation": "Jyotirao Phule led the Satyashodhak Samaj (Truth-seekers' Society) founded in 1873 in Maharashtra. This social reform movement aimed to achieve equal rights for people from lower castes and worked against Brahmanical orthodoxy. Phule advocated for education of women and lower castes, opposed caste-based discrimination, and promoted rational thinking. The movement played a significant role in creating social awareness and laid the foundation for later social reform movements in Maharashtra.",
-      "difficulty": "Medium",
-      "hint": "This society was founded to seek truth and equality"
+      correctAnswer: 2,
+      explanation:
+        "Jyotirao Phule led the Satyashodhak Samaj (Truth-seekers' Society) founded in 1873 in Maharashtra. This social reform movement aimed to achieve equal rights for people from lower castes and worked against Brahmanical orthodoxy. Phule advocated for education of women and lower castes, opposed caste-based discrimination, and promoted rational thinking. The movement played a significant role in creating social awareness and laid the foundation for later social reform movements in Maharashtra.",
+      difficulty: 'Medium',
+      hint: 'This society was founded to seek truth and equality',
     },
     {
-      "level": 167,
-      "mainsubject": "Culture & Society",
-      "question": "The Brihadeeswarar Temple at Thanjavur was built during which dynasty?",
-      "options": [
-        "Pallava",
-        "Chola",
-        "Pandya",
-        "Chera"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Brihadeeswarar Temple at Thanjavur was built during the Chola dynasty by Raja Raja Chola I and completed in 1010 CE. This UNESCO World Heritage Site is one of the largest temples in India and represents the pinnacle of Dravidian architecture. The temple is famous for its massive vimana (tower) reaching 216 feet, the huge Nandi statue, and the architectural feat of its construction without using any binding material. It demonstrates the Cholas' architectural genius and devotional fervor.",
-      "difficulty": "Easy",
-      "hint": "This dynasty was known for maritime trade"
+      level: 167,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Brihadeeswarar Temple at Thanjavur was built during which dynasty?',
+      options: ['Pallava', 'Chola', 'Pandya', 'Chera'],
+      correctAnswer: 2,
+      explanation:
+        "The Brihadeeswarar Temple at Thanjavur was built during the Chola dynasty by Raja Raja Chola I and completed in 1010 CE. This UNESCO World Heritage Site is one of the largest temples in India and represents the pinnacle of Dravidian architecture. The temple is famous for its massive vimana (tower) reaching 216 feet, the huge Nandi statue, and the architectural feat of its construction without using any binding material. It demonstrates the Cholas' architectural genius and devotional fervor.",
+      difficulty: 'Easy',
+      hint: 'This dynasty was known for maritime trade',
     },
     {
-      "level": 168,
-      "mainsubject": "Culture & Society",
-      "question": "Which Article of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
-      "options": [
-        "Article 14",
-        "Article 15",
-        "Article 16",
-        "Article 17"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Article 15 of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth. This article ensures that the State cannot discriminate against any citizen and also prevents discrimination in places of public accommodation. However, it allows for special provisions for women, children, and socially and educationally backward classes. Article 15 is a cornerstone of equality and non-discrimination in the Indian Constitution.",
-      "difficulty": "Medium",
-      "hint": "This article deals with prohibition of discrimination"
+      level: 168,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which Article of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?',
+      options: ['Article 14', 'Article 15', 'Article 16', 'Article 17'],
+      correctAnswer: 2,
+      explanation:
+        'Article 15 of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth. This article ensures that the State cannot discriminate against any citizen and also prevents discrimination in places of public accommodation. However, it allows for special provisions for women, children, and socially and educationally backward classes. Article 15 is a cornerstone of equality and non-discrimination in the Indian Constitution.',
+      difficulty: 'Medium',
+      hint: 'This article deals with prohibition of discrimination',
     },
     {
-      "level": 169,
-      "mainsubject": "Culture & Society",
-      "question": "The Kailasa Temple at Ellora is dedicated to which Hindu deity?",
-      "options": [
-        "Vishnu",
-        "Shiva",
-        "Brahma",
-        "Devi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Kailasa Temple at Ellora is dedicated to Lord Shiva and represents Mount Kailash, his abode. This 8th-century monolithic temple carved from a single rock is considered one of the most remarkable architectural achievements in the world. Built during the Rashtrakuta period, it features intricate sculptures depicting Shiva in various forms, scenes from Hindu epics, and elaborate architectural details. The temple complex includes the main shrine, Nandi mandapa, and various subsidiary shrines.",
-      "difficulty": "Easy",
-      "hint": "This temple represents the abode of this deity"
+      level: 169,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Kailasa Temple at Ellora is dedicated to which Hindu deity?',
+      options: ['Vishnu', 'Shiva', 'Brahma', 'Devi'],
+      correctAnswer: 2,
+      explanation:
+        'The Kailasa Temple at Ellora is dedicated to Lord Shiva and represents Mount Kailash, his abode. This 8th-century monolithic temple carved from a single rock is considered one of the most remarkable architectural achievements in the world. Built during the Rashtrakuta period, it features intricate sculptures depicting Shiva in various forms, scenes from Hindu epics, and elaborate architectural details. The temple complex includes the main shrine, Nandi mandapa, and various subsidiary shrines.',
+      difficulty: 'Easy',
+      hint: 'This temple represents the abode of this deity',
     },
     {
-      "level": 170,
-      "mainsubject": "Culture & Society",
-      "question": "The Anubhava Mantapa was an academy of mystics established during which movement?",
-      "options": [
-        "Bhakti movement",
-        "Vachana movement",
-        "Sufi movement",
-        "Advaita movement"
+      level: 170,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Anubhava Mantapa was an academy of mystics established during which movement?',
+      options: [
+        'Bhakti movement',
+        'Vachana movement',
+        'Sufi movement',
+        'Advaita movement',
       ],
-      "correctAnswer": 2,
-      "explanation": "Anubhava Mantapa was an academy of mystics, saints, and philosophers established during the Vachana movement in 12th century Karnataka. It was founded by Basavanna and served as a platform for spiritual discussions and social reform. Allama Prabhu served as its spiritual head, and it attracted saints like Akka Mahadevi and other Sharanas. The Mantapa functioned as a parliament of mystics where questions of religion, philosophy, and social reform were discussed through the medium of vachanas.",
-      "difficulty": "Medium",
-      "hint": "This was a parliament of mystics"
+      correctAnswer: 2,
+      explanation:
+        'Anubhava Mantapa was an academy of mystics, saints, and philosophers established during the Vachana movement in 12th century Karnataka. It was founded by Basavanna and served as a platform for spiritual discussions and social reform. Allama Prabhu served as its spiritual head, and it attracted saints like Akka Mahadevi and other Sharanas. The Mantapa functioned as a parliament of mystics where questions of religion, philosophy, and social reform were discussed through the medium of vachanas.',
+      difficulty: 'Medium',
+      hint: 'This was a parliament of mystics',
     },
     {
-      "level": 171,
-      "mainsubject": "Culture & Society",
-      "question": "Which classical dance form is known for its martial arts elements?",
-      "options": [
-        "Kathakali",
-        "Kalarippayattu",
-        "Kuchipudi",
-        "Manipuri"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Kathakali is known for incorporating martial arts elements in its training and performance. This classical dance-drama from Kerala requires extensive physical training similar to martial arts, including rigorous exercises for flexibility, stamina, and muscle control. The dance form draws from Kalarippayattu (Kerala's martial art) for its physical training methods. Kathakali performers undergo years of training to master the complex choreography, facial expressions, and the physical demands of the elaborate costumes.",
-      "difficulty": "Medium",
-      "hint": "This Kerala dance form requires martial arts training"
+      level: 171,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which classical dance form is known for its martial arts elements?',
+      options: ['Kathakali', 'Kalarippayattu', 'Kuchipudi', 'Manipuri'],
+      correctAnswer: 1,
+      explanation:
+        "Kathakali is known for incorporating martial arts elements in its training and performance. This classical dance-drama from Kerala requires extensive physical training similar to martial arts, including rigorous exercises for flexibility, stamina, and muscle control. The dance form draws from Kalarippayattu (Kerala's martial art) for its physical training methods. Kathakali performers undergo years of training to master the complex choreography, facial expressions, and the physical demands of the elaborate costumes.",
+      difficulty: 'Medium',
+      hint: 'This Kerala dance form requires martial arts training',
     },
     {
-      "level": 172,
-      "mainsubject": "Culture & Society",
-      "question": "The Vidhana Soudha in Bangalore represents which architectural style?",
-      "options": [
-        "Neo-Dravidian",
-        "Indo-Saracenic",
-        "Gothic Revival",
-        "Modernist"
+      level: 172,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Vidhana Soudha in Bangalore represents which architectural style?',
+      options: [
+        'Neo-Dravidian',
+        'Indo-Saracenic',
+        'Gothic Revival',
+        'Modernist',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Vidhana Soudha in Bangalore represents Neo-Dravidian architecture combined with Indo-Saracenic elements. Completed in 1956 and designed by Kengal Hanumanthaiah, it serves as the seat of the Karnataka State Legislature. The building incorporates traditional South Indian architectural elements like pillared halls, courtyards, and decorative features while using modern construction techniques. It's often called the 'Taj Mahal of South India' for its grandeur and architectural significance.",
-      "difficulty": "Medium",
-      "hint": "This style revives traditional South Indian elements"
+      correctAnswer: 1,
+      explanation:
+        "The Vidhana Soudha in Bangalore represents Neo-Dravidian architecture combined with Indo-Saracenic elements. Completed in 1956 and designed by Kengal Hanumanthaiah, it serves as the seat of the Karnataka State Legislature. The building incorporates traditional South Indian architectural elements like pillared halls, courtyards, and decorative features while using modern construction techniques. It's often called the 'Taj Mahal of South India' for its grandeur and architectural significance.",
+      difficulty: 'Medium',
+      hint: 'This style revives traditional South Indian elements',
     },
     {
-      "level": 173,
-      "mainsubject": "Culture & Society",
-      "question": "Dr. B.R. Ambedkar is known as the father of which important document?",
-      "options": [
-        "Indian Constitution",
-        "Hindu Code Bill",
-        "Government of India Act",
-        "Poona Pact"
+      level: 173,
+      mainsubject: 'Culture & Society',
+      question:
+        'Dr. B.R. Ambedkar is known as the father of which important document?',
+      options: [
+        'Indian Constitution',
+        'Hindu Code Bill',
+        'Government of India Act',
+        'Poona Pact',
       ],
-      "correctAnswer": 1,
-      "explanation": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' for his pivotal role as the Chairman of the Drafting Committee of the Constituent Assembly. He played a crucial role in framing the Constitution, ensuring provisions for equality, justice, and protection of minorities and marginalized communities. His legal expertise and commitment to social justice shaped many fundamental rights and directive principles in the Constitution, making it a document that promotes equality and human dignity.",
-      "difficulty": "Easy",
-      "hint": "He chaired the Drafting Committee"
+      correctAnswer: 1,
+      explanation:
+        "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' for his pivotal role as the Chairman of the Drafting Committee of the Constituent Assembly. He played a crucial role in framing the Constitution, ensuring provisions for equality, justice, and protection of minorities and marginalized communities. His legal expertise and commitment to social justice shaped many fundamental rights and directive principles in the Constitution, making it a document that promotes equality and human dignity.",
+      difficulty: 'Easy',
+      hint: 'He chaired the Drafting Committee',
     },
     {
-      "level": 174,
-      "mainsubject": "Culture & Society",
-      "question": "The Chennakesava Temple at Belur took how many years to complete?",
-      "options": [
-        "50 years",
-        "75 years",
-        "103 years",
-        "150 years"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The Chennakesava Temple at Belur took 103 years to complete. Construction began during the reign of King Vishnuvardhana in the early 12th century and continued through successive generations of Hoysala rulers. This extended construction period allowed for the incredibly intricate and detailed stone carvings that make the temple one of the finest examples of Hoysala architecture. The long construction period also explains the temple's architectural perfection and the unique sculptural details that cover its walls.",
-      "difficulty": "Hard",
-      "hint": "It took more than a century to build"
+      level: 174,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Chennakesava Temple at Belur took how many years to complete?',
+      options: ['50 years', '75 years', '103 years', '150 years'],
+      correctAnswer: 3,
+      explanation:
+        "The Chennakesava Temple at Belur took 103 years to complete. Construction began during the reign of King Vishnuvardhana in the early 12th century and continued through successive generations of Hoysala rulers. This extended construction period allowed for the incredibly intricate and detailed stone carvings that make the temple one of the finest examples of Hoysala architecture. The long construction period also explains the temple's architectural perfection and the unique sculptural details that cover its walls.",
+      difficulty: 'Hard',
+      hint: 'It took more than a century to build',
     },
     {
-      "level": 175,
-      "mainsubject": "Culture & Society",
-      "question": "Which UNESCO World Heritage site showcases the coexistence of three major religions?",
-      "options": [
-        "Ajanta Caves",
-        "Ellora Caves",
-        "Elephanta Caves",
-        "Sanchi Stupa"
+      level: 175,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which UNESCO World Heritage site showcases the coexistence of three major religions?',
+      options: [
+        'Ajanta Caves',
+        'Ellora Caves',
+        'Elephanta Caves',
+        'Sanchi Stupa',
       ],
-      "correctAnswer": 2,
-      "explanation": "Ellora Caves showcase the coexistence of three major religions - Buddhism, Hinduism, and Jainism. The 34 caves were carved between the 5th and 13th centuries and represent the religious tolerance of ancient India. The complex includes 12 Buddhist caves (5th-7th centuries), 17 Hindu caves (6th-8th centuries), and 5 Jain caves (8th-13th centuries). This unique representation of religious diversity in a single site makes Ellora exceptional in demonstrating India's pluralistic spiritual heritage.",
-      "difficulty": "Easy",
-      "hint": "This site has Buddhist, Hindu, and Jain caves"
+      correctAnswer: 2,
+      explanation:
+        "Ellora Caves showcase the coexistence of three major religions - Buddhism, Hinduism, and Jainism. The 34 caves were carved between the 5th and 13th centuries and represent the religious tolerance of ancient India. The complex includes 12 Buddhist caves (5th-7th centuries), 17 Hindu caves (6th-8th centuries), and 5 Jain caves (8th-13th centuries). This unique representation of religious diversity in a single site makes Ellora exceptional in demonstrating India's pluralistic spiritual heritage.",
+      difficulty: 'Easy',
+      hint: 'This site has Buddhist, Hindu, and Jain caves',
     },
     {
-      "level": 176,
-      "mainsubject": "Culture & Society",
-      "question": "The Self-Respect Movement was primarily associated with which region of India?",
-      "options": [
-        "Tamil Nadu",
-        "Kerala",
-        "Andhra Pradesh",
-        "Karnataka"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Self-Respect Movement was primarily associated with Tamil Nadu and was led by E.V. Ramasamy (Periyar). Founded in 1925, this movement aimed to achieve social equality and self-respect for non-Brahmins, particularly those from lower castes. The movement advocated rational thinking, opposed caste-based discrimination, promoted women's rights, and encouraged education for all sections of society. It had a significant impact on Tamil Nadu's social and political landscape.",
-      "difficulty": "Medium",
-      "hint": "This movement was led by Periyar"
+      level: 176,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Self-Respect Movement was primarily associated with which region of India?',
+      options: ['Tamil Nadu', 'Kerala', 'Andhra Pradesh', 'Karnataka'],
+      correctAnswer: 1,
+      explanation:
+        "The Self-Respect Movement was primarily associated with Tamil Nadu and was led by E.V. Ramasamy (Periyar). Founded in 1925, this movement aimed to achieve social equality and self-respect for non-Brahmins, particularly those from lower castes. The movement advocated rational thinking, opposed caste-based discrimination, promoted women's rights, and encouraged education for all sections of society. It had a significant impact on Tamil Nadu's social and political landscape.",
+      difficulty: 'Medium',
+      hint: 'This movement was led by Periyar',
     },
     {
-      "level": 177,
-      "mainsubject": "Culture & Society",
-      "question": "Which Kannada literary work is considered the first novel in the language?",
-      "options": [
-        "Indira Bai",
-        "Suryakanta",
-        "Indulekha",
-        "Muddana"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Indira Bai' by Gulvadi Venkata Rao, published in 1899, is considered the first novel in Kannada literature. This work marked the beginning of modern Kannada prose fiction and dealt with social issues of the time. The novel addressed themes of social reform, education, and women's empowerment, reflecting the influence of the social reform movements of the late 19th century. It established the foundation for the development of the novel as a literary form in Kannada.",
-      "difficulty": "Hard",
-      "hint": "This 1899 work began modern Kannada fiction"
+      level: 177,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which Kannada literary work is considered the first novel in the language?',
+      options: ['Indira Bai', 'Suryakanta', 'Indulekha', 'Muddana'],
+      correctAnswer: 1,
+      explanation:
+        "'Indira Bai' by Gulvadi Venkata Rao, published in 1899, is considered the first novel in Kannada literature. This work marked the beginning of modern Kannada prose fiction and dealt with social issues of the time. The novel addressed themes of social reform, education, and women's empowerment, reflecting the influence of the social reform movements of the late 19th century. It established the foundation for the development of the novel as a literary form in Kannada.",
+      difficulty: 'Hard',
+      hint: 'This 1899 work began modern Kannada fiction',
     },
     {
-      "level": 178,
-      "mainsubject": "Culture & Society",
-      "question": "The Group of Monuments at Hampi was the capital of which empire?",
-      "options": [
-        "Bahmani Sultanate",
-        "Vijayanagara Empire",
-        "Mysore Kingdom",
-        "Maratha Empire"
+      level: 178,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Group of Monuments at Hampi was the capital of which empire?',
+      options: [
+        'Bahmani Sultanate',
+        'Vijayanagara Empire',
+        'Mysore Kingdom',
+        'Maratha Empire',
       ],
-      "correctAnswer": 2,
-      "explanation": "The Group of Monuments at Hampi was the capital of the Vijayanagara Empire from the 14th to 16th centuries. This UNESCO World Heritage Site contains the ruins of the last great Hindu kingdom in South India, which was destroyed in 1565 by the Deccan sultanates. The monuments showcase Vijayanagara architecture with temples, palaces, market streets, and fortifications. The Vitthala Temple with its musical pillars and stone chariot is the most famous structure representing the empire's architectural achievements.",
-      "difficulty": "Easy",
-      "hint": "This empire was the last great Hindu kingdom of South India"
+      correctAnswer: 2,
+      explanation:
+        "The Group of Monuments at Hampi was the capital of the Vijayanagara Empire from the 14th to 16th centuries. This UNESCO World Heritage Site contains the ruins of the last great Hindu kingdom in South India, which was destroyed in 1565 by the Deccan sultanates. The monuments showcase Vijayanagara architecture with temples, palaces, market streets, and fortifications. The Vitthala Temple with its musical pillars and stone chariot is the most famous structure representing the empire's architectural achievements.",
+      difficulty: 'Easy',
+      hint: 'This empire was the last great Hindu kingdom of South India',
     },
     {
-      "level": 179,
-      "mainsubject": "Culture & Society",
-      "question": "Which fundamental right allows citizens to practice and propagate their religion?",
-      "options": [
-        "Right to Freedom",
-        "Right to Equality",
-        "Right to Freedom of Religion",
-        "Cultural and Educational Rights"
+      level: 179,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which fundamental right allows citizens to practice and propagate their religion?',
+      options: [
+        'Right to Freedom',
+        'Right to Equality',
+        'Right to Freedom of Religion',
+        'Cultural and Educational Rights',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Right to Freedom of Religion (Articles 25-28) allows citizens to practice and propagate their religion. Article 25 specifically guarantees the freedom of conscience and the right to freely profess, practice, and propagate religion. Article 26 provides the right to manage religious affairs, Article 27 prohibits taxation for promoting any religion, and Article 28 deals with freedom from religious instruction in educational institutions. These provisions ensure religious liberty and secular governance.",
-      "difficulty": "Easy",
-      "hint": "Articles 25-28 deal with this right"
+      correctAnswer: 3,
+      explanation:
+        'The Right to Freedom of Religion (Articles 25-28) allows citizens to practice and propagate their religion. Article 25 specifically guarantees the freedom of conscience and the right to freely profess, practice, and propagate religion. Article 26 provides the right to manage religious affairs, Article 27 prohibits taxation for promoting any religion, and Article 28 deals with freedom from religious instruction in educational institutions. These provisions ensure religious liberty and secular governance.',
+      difficulty: 'Easy',
+      hint: 'Articles 25-28 deal with this right',
     },
     {
-      "level": 180,
-      "mainsubject": "Culture & Society",
-      "question": "The 'Ganga-Jamuni Tehzeeb' refers to which cultural synthesis?",
-      "options": [
-        "Hindu-Buddhist",
-        "Hindu-Islamic",
-        "Buddhist-Jain",
-        "Christian-Hindu"
+      level: 180,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Ganga-Jamuni Tehzeeb' refers to which cultural synthesis?",
+      options: [
+        'Hindu-Buddhist',
+        'Hindu-Islamic',
+        'Buddhist-Jain',
+        'Christian-Hindu',
       ],
-      "correctAnswer": 2,
-      "explanation": "'Ganga-Jamuni Tehzeeb' refers to the Hindu-Islamic cultural synthesis that developed in North India, particularly in the Gangetic plains where the Ganga and Yamuna (Jamuna) rivers flow. This composite culture represents the harmonious blending of Hindu and Islamic traditions in art, architecture, music, literature, language, and social customs. It reflects the cultural integration that occurred over centuries of coexistence, creating a unique Indo-Islamic civilization that enriched both traditions.",
-      "difficulty": "Medium",
-      "hint": "This synthesis is named after two sacred rivers"
+      correctAnswer: 2,
+      explanation:
+        "'Ganga-Jamuni Tehzeeb' refers to the Hindu-Islamic cultural synthesis that developed in North India, particularly in the Gangetic plains where the Ganga and Yamuna (Jamuna) rivers flow. This composite culture represents the harmonious blending of Hindu and Islamic traditions in art, architecture, music, literature, language, and social customs. It reflects the cultural integration that occurred over centuries of coexistence, creating a unique Indo-Islamic civilization that enriched both traditions.",
+      difficulty: 'Medium',
+      hint: 'This synthesis is named after two sacred rivers',
     },
     {
-      "level": 181,
-      "mainsubject": "Culture & Society",
-      "question": "Purandara Dasa is considered the father of which musical tradition?",
-      "options": [
-        "Hindustani music",
-        "Carnatic music",
-        "Dhrupad",
-        "Thumri"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Purandara Dasa (1484-1564) is considered the father of Carnatic music. This saint-composer from Karnataka systematized the method of Carnatic music instruction, created the basic lesson structure (sarali varisai, janta varisai, etc.), and composed numerous devotional songs in Kannada. He established the pedagogy of Carnatic music that is still followed today and is credited with composing over 475,000 songs, though only a few hundred survive. His contributions laid the foundation for the systematic teaching and learning of South Indian classical music.",
-      "difficulty": "Medium",
-      "hint": "He systematized South Indian classical music"
+      level: 181,
+      mainsubject: 'Culture & Society',
+      question:
+        'Purandara Dasa is considered the father of which musical tradition?',
+      options: ['Hindustani music', 'Carnatic music', 'Dhrupad', 'Thumri'],
+      correctAnswer: 2,
+      explanation:
+        'Purandara Dasa (1484-1564) is considered the father of Carnatic music. This saint-composer from Karnataka systematized the method of Carnatic music instruction, created the basic lesson structure (sarali varisai, janta varisai, etc.), and composed numerous devotional songs in Kannada. He established the pedagogy of Carnatic music that is still followed today and is credited with composing over 475,000 songs, though only a few hundred survive. His contributions laid the foundation for the systematic teaching and learning of South Indian classical music.',
+      difficulty: 'Medium',
+      hint: 'He systematized South Indian classical music',
     },
     {
-      "level": 182,
-      "mainsubject": "Culture & Society",
-      "question": "The Mandal Commission Report primarily dealt with which social issue?",
-      "options": [
+      level: 182,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Mandal Commission Report primarily dealt with which social issue?',
+      options: [
         "Women's rights",
-        "Minority rights",
-        "OBC reservation",
-        "Tribal welfare"
+        'Minority rights',
+        'OBC reservation',
+        'Tribal welfare',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Mandal Commission Report, submitted in 1980 by the Socially and Educationally Backward Classes Commission headed by B.P. Mandal, primarily dealt with OBC (Other Backward Classes) reservation. The report recommended 27% reservation for OBCs in government jobs and educational institutions. Its implementation in 1990 led to significant social and political changes, expanding the scope of affirmative action beyond SCs and STs to include a broader section of socially and educationally backward communities.",
-      "difficulty": "Medium",
-      "hint": "This report expanded reservation beyond SC/ST"
+      correctAnswer: 3,
+      explanation:
+        'The Mandal Commission Report, submitted in 1980 by the Socially and Educationally Backward Classes Commission headed by B.P. Mandal, primarily dealt with OBC (Other Backward Classes) reservation. The report recommended 27% reservation for OBCs in government jobs and educational institutions. Its implementation in 1990 led to significant social and political changes, expanding the scope of affirmative action beyond SCs and STs to include a broader section of socially and educationally backward communities.',
+      difficulty: 'Medium',
+      hint: 'This report expanded reservation beyond SC/ST',
     },
     {
-      "level": 183,
-      "mainsubject": "Culture & Society",
-      "question": "The Red Fort in Delhi represents which architectural style?",
-      "options": [
-        "Mughal",
-        "Indo-Islamic",
-        "Persian",
-        "All of the above"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The Red Fort (Lal Qila) in Delhi represents all these architectural styles - Mughal, Indo-Islamic, and Persian - as they are interconnected. Built by Shah Jahan (1638-1648), it showcases Mughal architecture, which is essentially a synthesis of Indo-Islamic elements with Persian influences. The fort features characteristic Mughal elements like red sandstone construction, Persian gardens (charbagh), intricate inlay work, and the fusion of Indian craftsmanship with Islamic architectural principles and Persian aesthetic sensibilities.",
-      "difficulty": "Medium",
-      "hint": "Mughal architecture combines multiple influences"
+      level: 183,
+      mainsubject: 'Culture & Society',
+      question: 'The Red Fort in Delhi represents which architectural style?',
+      options: ['Mughal', 'Indo-Islamic', 'Persian', 'All of the above'],
+      correctAnswer: 4,
+      explanation:
+        'The Red Fort (Lal Qila) in Delhi represents all these architectural styles - Mughal, Indo-Islamic, and Persian - as they are interconnected. Built by Shah Jahan (1638-1648), it showcases Mughal architecture, which is essentially a synthesis of Indo-Islamic elements with Persian influences. The fort features characteristic Mughal elements like red sandstone construction, Persian gardens (charbagh), intricate inlay work, and the fusion of Indian craftsmanship with Islamic architectural principles and Persian aesthetic sensibilities.',
+      difficulty: 'Medium',
+      hint: 'Mughal architecture combines multiple influences',
     },
     {
-      "level": 184,
-      "mainsubject": "Culture & Society",
-      "question": "Which social reformer was known for founding the Widow Remarriage Association?",
-      "options": [
-        "Ishwar Chandra Vidyasagar",
-        "Dayananda Saraswati",
-        "Keshab Chandra Sen",
-        "Raja Ram Mohan Roy"
+      level: 184,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which social reformer was known for founding the Widow Remarriage Association?',
+      options: [
+        'Ishwar Chandra Vidyasagar',
+        'Dayananda Saraswati',
+        'Keshab Chandra Sen',
+        'Raja Ram Mohan Roy',
       ],
-      "correctAnswer": 1,
-      "explanation": "Ishwar Chandra Vidyasagar founded the Widow Remarriage Association and was instrumental in the passage of the Widow Remarriage Act of 1856. A social reformer, educationist, and writer from Bengal, Vidyasagar campaigned vigorously for widow remarriage, women's education, and against child marriage. He used ancient Sanskrit texts to argue that widow remarriage was sanctioned by Hindu scriptures, thus challenging orthodox Hindu society while staying within the framework of traditional texts.",
-      "difficulty": "Medium",
-      "hint": "He was known for his work on widow remarriage"
+      correctAnswer: 1,
+      explanation:
+        "Ishwar Chandra Vidyasagar founded the Widow Remarriage Association and was instrumental in the passage of the Widow Remarriage Act of 1856. A social reformer, educationist, and writer from Bengal, Vidyasagar campaigned vigorously for widow remarriage, women's education, and against child marriage. He used ancient Sanskrit texts to argue that widow remarriage was sanctioned by Hindu scriptures, thus challenging orthodox Hindu society while staying within the framework of traditional texts.",
+      difficulty: 'Medium',
+      hint: 'He was known for his work on widow remarriage',
     },
     {
-      "level": 185,
-      "mainsubject": "Culture & Society",
-      "question": "The Jataka tales, depicted in Buddhist art, primarily narrate stories about:",
-      "options": [
+      level: 185,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Jataka tales, depicted in Buddhist art, primarily narrate stories about:',
+      options: [
         "Buddha's teachings",
         "Buddha's previous births",
-        "Buddhist monks",
-        "Buddhist kingdoms"
+        'Buddhist monks',
+        'Buddhist kingdoms',
       ],
-      "correctAnswer": 2,
-      "explanation": "The Jataka tales primarily narrate stories about Buddha's previous births and the moral lessons from his various incarnations before attaining enlightenment. These stories, numbering over 500, depict the Bodhisattva's journey through different lives as animals, humans, and divine beings, emphasizing virtues like compassion, wisdom, and self-sacrifice. Jataka tales are extensively depicted in Buddhist art, including the famous frescoes at Ajanta Caves, and serve both as entertainment and moral instruction.",
-      "difficulty": "Easy",
-      "hint": "These stories show Buddha's journey across many lives"
+      correctAnswer: 2,
+      explanation:
+        "The Jataka tales primarily narrate stories about Buddha's previous births and the moral lessons from his various incarnations before attaining enlightenment. These stories, numbering over 500, depict the Bodhisattva's journey through different lives as animals, humans, and divine beings, emphasizing virtues like compassion, wisdom, and self-sacrifice. Jataka tales are extensively depicted in Buddhist art, including the famous frescoes at Ajanta Caves, and serve both as entertainment and moral instruction.",
+      difficulty: 'Easy',
+      hint: "These stories show Buddha's journey across many lives",
     },
     {
-      "level": 186,
-      "mainsubject": "Culture & Society",
-      "question": "The concept of 'Sarvodaya' was associated with which leader?",
-      "options": [
-        "Mahatma Gandhi",
-        "Jawaharlal Nehru",
-        "Vinoba Bhave",
-        "Jayaprakash Narayan"
+      level: 186,
+      mainsubject: 'Culture & Society',
+      question: "The concept of 'Sarvodaya' was associated with which leader?",
+      options: [
+        'Mahatma Gandhi',
+        'Jawaharlal Nehru',
+        'Vinoba Bhave',
+        'Jayaprakash Narayan',
       ],
-      "correctAnswer": 1,
-      "explanation": "'Sarvodaya' (welfare of all) was a concept associated with Mahatma Gandhi, though it was later actively promoted by Vinoba Bhave and Jayaprakash Narayan. Gandhi adapted this term from John Ruskin's 'Unto This Last' and used it to describe his vision of an ideal society based on truth, non-violence, and social justice. The Sarvodaya movement aimed at the upliftment of all sections of society, particularly the weakest, and emphasized moral and spiritual transformation alongside socio-economic development.",
-      "difficulty": "Medium",
-      "hint": "This concept means 'welfare of all'"
+      correctAnswer: 1,
+      explanation:
+        "'Sarvodaya' (welfare of all) was a concept associated with Mahatma Gandhi, though it was later actively promoted by Vinoba Bhave and Jayaprakash Narayan. Gandhi adapted this term from John Ruskin's 'Unto This Last' and used it to describe his vision of an ideal society based on truth, non-violence, and social justice. The Sarvodaya movement aimed at the upliftment of all sections of society, particularly the weakest, and emphasized moral and spiritual transformation alongside socio-economic development.",
+      difficulty: 'Medium',
+      hint: "This concept means 'welfare of all'",
     },
     {
-      "level": 187,
-      "mainsubject": "Culture & Society",
-      "question": "Which temple architecture style is characterized by star-shaped ground plans?",
-      "options": [
-        "Nagara",
-        "Dravida",
-        "Vesara",
-        "Kalinga"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Vesara temple architecture style is characterized by star-shaped ground plans, particularly seen in Hoysala temples. This unique stellate (star-shaped) plan creates multiple angles and projections, allowing for elaborate sculptural decoration on the exterior walls. The Hoysala temples at Belur, Halebidu, and Somnathpura are prime examples of this architectural innovation. The star-shaped design not only enhances the aesthetic appeal but also provides more surface area for intricate stone carvings that are the hallmark of Hoysala architecture.",
-      "difficulty": "Medium",
-      "hint": "This style is especially seen in Hoysala temples"
+      level: 187,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which temple architecture style is characterized by star-shaped ground plans?',
+      options: ['Nagara', 'Dravida', 'Vesara', 'Kalinga'],
+      correctAnswer: 3,
+      explanation:
+        'Vesara temple architecture style is characterized by star-shaped ground plans, particularly seen in Hoysala temples. This unique stellate (star-shaped) plan creates multiple angles and projections, allowing for elaborate sculptural decoration on the exterior walls. The Hoysala temples at Belur, Halebidu, and Somnathpura are prime examples of this architectural innovation. The star-shaped design not only enhances the aesthetic appeal but also provides more surface area for intricate stone carvings that are the hallmark of Hoysala architecture.',
+      difficulty: 'Medium',
+      hint: 'This style is especially seen in Hoysala temples',
     },
     {
-      "level": 188,
-      "mainsubject": "Culture & Society",
-      "question": "The Chipko Movement was primarily concerned with:",
-      "options": [
-        "Forest conservation",
+      level: 188,
+      mainsubject: 'Culture & Society',
+      question: 'The Chipko Movement was primarily concerned with:',
+      options: [
+        'Forest conservation',
         "Women's rights",
-        "Tribal rights",
-        "Water conservation"
+        'Tribal rights',
+        'Water conservation',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Chipko Movement was primarily concerned with forest conservation and the protection of trees from indiscriminate felling. Started in the 1970s in the hill regions of Uttarakhand (then part of Uttar Pradesh), this environmental movement involved villagers, particularly women, hugging trees to prevent their cutting. Led by activists like Sunderlal Bahuguna and Chandi Prasad Bhatt, the movement highlighted the ecological importance of forests and the rights of local communities over forest resources.",
-      "difficulty": "Easy",
-      "hint": "People hugged trees to save them"
+      correctAnswer: 1,
+      explanation:
+        'The Chipko Movement was primarily concerned with forest conservation and the protection of trees from indiscriminate felling. Started in the 1970s in the hill regions of Uttarakhand (then part of Uttar Pradesh), this environmental movement involved villagers, particularly women, hugging trees to prevent their cutting. Led by activists like Sunderlal Bahuguna and Chandi Prasad Bhatt, the movement highlighted the ecological importance of forests and the rights of local communities over forest resources.',
+      difficulty: 'Easy',
+      hint: 'People hugged trees to save them',
     },
     {
-      "level": 189,
-      "mainsubject": "Culture & Society",
-      "question": "Which Jain Tirthankara is associated with the concept of Ahimsa?",
-      "options": [
-        "Rishabhanatha",
-        "Mahavira",
-        "Parsva",
-        "All of the above"
-      ],
-      "correctAnswer": 4,
-      "explanation": "All Jain Tirthankaras are associated with the concept of Ahimsa (non-violence), which is the fundamental principle of Jainism. However, Mahavira (24th Tirthankara) is most prominently known for systematizing and emphasizing Ahimsa. Parsva (23rd Tirthankara) also preached non-violence, and Rishabhanatha (1st Tirthankara) is traditionally credited with establishing the principle. Ahimsa in Jainism extends to all living beings and forms the core of Jain ethics and philosophy.",
-      "difficulty": "Medium",
-      "hint": "Ahimsa is central to all Jain teachings"
+      level: 189,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which Jain Tirthankara is associated with the concept of Ahimsa?',
+      options: ['Rishabhanatha', 'Mahavira', 'Parsva', 'All of the above'],
+      correctAnswer: 4,
+      explanation:
+        'All Jain Tirthankaras are associated with the concept of Ahimsa (non-violence), which is the fundamental principle of Jainism. However, Mahavira (24th Tirthankara) is most prominently known for systematizing and emphasizing Ahimsa. Parsva (23rd Tirthankara) also preached non-violence, and Rishabhanatha (1st Tirthankara) is traditionally credited with establishing the principle. Ahimsa in Jainism extends to all living beings and forms the core of Jain ethics and philosophy.',
+      difficulty: 'Medium',
+      hint: 'Ahimsa is central to all Jain teachings',
     },
     {
-      "level": 190,
-      "mainsubject": "Culture & Society",
-      "question": "The Asiatic Society was founded by which British scholar?",
-      "options": [
-        "William Jones",
-        "Max Mueller",
-        "James Prinsep",
-        "Alexander Cunningham"
+      level: 190,
+      mainsubject: 'Culture & Society',
+      question: 'The Asiatic Society was founded by which British scholar?',
+      options: [
+        'William Jones',
+        'Max Mueller',
+        'James Prinsep',
+        'Alexander Cunningham',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Asiatic Society was founded by Sir William Jones in 1784 in Calcutta (now Kolkata). Also known as the Asiatic Society of Bengal, it was established to promote Oriental research and the study of Asian cultures, languages, and history. Jones, a linguist and jurist, made significant contributions to understanding Sanskrit and Indian culture. The society played a crucial role in documenting and preserving Indian heritage and was instrumental in the development of Indology as an academic discipline.",
-      "difficulty": "Medium",
-      "hint": "He was a linguist who studied Sanskrit"
+      correctAnswer: 1,
+      explanation:
+        'The Asiatic Society was founded by Sir William Jones in 1784 in Calcutta (now Kolkata). Also known as the Asiatic Society of Bengal, it was established to promote Oriental research and the study of Asian cultures, languages, and history. Jones, a linguist and jurist, made significant contributions to understanding Sanskrit and Indian culture. The society played a crucial role in documenting and preserving Indian heritage and was instrumental in the development of Indology as an academic discipline.',
+      difficulty: 'Medium',
+      hint: 'He was a linguist who studied Sanskrit',
     },
     {
-      "level": 191,
-      "mainsubject": "Culture & Society",
-      "question": "The Somnath Temple is located in which Indian state?",
-      "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Madhya Pradesh"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Somnath Temple is located in Gujarat, on the western coast near Veraval. Dedicated to Lord Shiva, it is one of the twelve Jyotirlinga shrines and holds great religious significance in Hinduism. The temple has been destroyed and rebuilt several times throughout history. The current structure was reconstructed after India's independence and represents the resilience of Indian cultural and religious traditions. It stands as a symbol of faith and the continuity of Hindu temple architecture.",
-      "difficulty": "Easy",
-      "hint": "This temple is located on the western coast"
+      level: 191,
+      mainsubject: 'Culture & Society',
+      question: 'The Somnath Temple is located in which Indian state?',
+      options: ['Rajasthan', 'Gujarat', 'Maharashtra', 'Madhya Pradesh'],
+      correctAnswer: 2,
+      explanation:
+        "The Somnath Temple is located in Gujarat, on the western coast near Veraval. Dedicated to Lord Shiva, it is one of the twelve Jyotirlinga shrines and holds great religious significance in Hinduism. The temple has been destroyed and rebuilt several times throughout history. The current structure was reconstructed after India's independence and represents the resilience of Indian cultural and religious traditions. It stands as a symbol of faith and the continuity of Hindu temple architecture.",
+      difficulty: 'Easy',
+      hint: 'This temple is located on the western coast',
     },
     {
-      "level": 192,
-      "mainsubject": "Culture & Society",
-      "question": "Which Article of the Constitution abolishes untouchability?",
-      "options": [
-        "Article 15",
-        "Article 16",
-        "Article 17",
-        "Article 18"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form. It declares that 'untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of untouchability shall be an offense punishable in accordance with law. This article is a significant step toward ensuring dignity and equality for all citizens, particularly those who were historically discriminated against based on caste.",
-      "difficulty": "Easy",
-      "hint": "This article specifically deals with untouchability"
+      level: 192,
+      mainsubject: 'Culture & Society',
+      question: 'Which Article of the Constitution abolishes untouchability?',
+      options: ['Article 15', 'Article 16', 'Article 17', 'Article 18'],
+      correctAnswer: 3,
+      explanation:
+        "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form. It declares that 'untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of untouchability shall be an offense punishable in accordance with law. This article is a significant step toward ensuring dignity and equality for all citizens, particularly those who were historically discriminated against based on caste.",
+      difficulty: 'Easy',
+      hint: 'This article specifically deals with untouchability',
     },
     {
-      "level": 193,
-      "mainsubject": "Culture & Society",
-      "question": "The Thanjavur painting style originated during which period?",
-      "options": [
-        "Chola period",
-        "Vijayanagara period",
-        "Maratha period",
-        "British period"
+      level: 193,
+      mainsubject: 'Culture & Society',
+      question: 'The Thanjavur painting style originated during which period?',
+      options: [
+        'Chola period',
+        'Vijayanagara period',
+        'Maratha period',
+        'British period',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Thanjavur painting style originated during the Maratha period in the late 16th to early 18th centuries when the Marathas ruled Thanjavur under the Bhonsle dynasty. This classical South Indian painting style is characterized by rich colors, surface richness, compact composition, and the use of gold foil. The paintings typically depict Hindu gods and goddesses, saints, and mythological characters. The style combines Deccani, Vijayanagara, and European influences, creating a unique artistic tradition.",
-      "difficulty": "Hard",
-      "hint": "This style developed under the Bhonsle rulers"
+      correctAnswer: 3,
+      explanation:
+        'The Thanjavur painting style originated during the Maratha period in the late 16th to early 18th centuries when the Marathas ruled Thanjavur under the Bhonsle dynasty. This classical South Indian painting style is characterized by rich colors, surface richness, compact composition, and the use of gold foil. The paintings typically depict Hindu gods and goddesses, saints, and mythological characters. The style combines Deccani, Vijayanagara, and European influences, creating a unique artistic tradition.',
+      difficulty: 'Hard',
+      hint: 'This style developed under the Bhonsle rulers',
     },
     {
-      "level": 194,
-      "mainsubject": "Culture & Society",
-      "question": "Which movement aimed at the political unification of all Kannada-speaking areas?",
-      "options": [
-        "Gokak Chaluvali",
-        "Ekikarana Movement",
-        "Kaveri Protest",
-        "Cauvery Movement"
+      level: 194,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which movement aimed at the political unification of all Kannada-speaking areas?',
+      options: [
+        'Gokak Chaluvali',
+        'Ekikarana Movement',
+        'Kaveri Protest',
+        'Cauvery Movement',
       ],
-      "correctAnswer": 2,
-      "explanation": "The Ekikarana Movement (Unification Movement) aimed at the political unification of all Kannada-speaking areas into a single state. This movement, active from the early 20th century, sought to bring together Kannada-speaking regions scattered across different princely states and British provinces. The movement succeeded when Karnataka was formed in 1956 by uniting the Kannada-speaking areas from the erstwhile Mysore state, Bombay Presidency, Madras Presidency, and Hyderabad state. November 1st is celebrated as Karnataka Rajyotsava to commemorate this unification.",
-      "difficulty": "Medium",
-      "hint": "This movement led to the formation of Karnataka"
+      correctAnswer: 2,
+      explanation:
+        'The Ekikarana Movement (Unification Movement) aimed at the political unification of all Kannada-speaking areas into a single state. This movement, active from the early 20th century, sought to bring together Kannada-speaking regions scattered across different princely states and British provinces. The movement succeeded when Karnataka was formed in 1956 by uniting the Kannada-speaking areas from the erstwhile Mysore state, Bombay Presidency, Madras Presidency, and Hyderabad state. November 1st is celebrated as Karnataka Rajyotsava to commemorate this unification.',
+      difficulty: 'Medium',
+      hint: 'This movement led to the formation of Karnataka',
     },
     {
-      "level": 195,
-      "mainsubject": "Culture & Society",
-      "question": "The classical dance form Mohiniyattam is performed predominantly by:",
-      "options": [
-        "Male dancers",
-        "Female dancers",
-        "Both male and female dancers",
-        "Children only"
+      level: 195,
+      mainsubject: 'Culture & Society',
+      question:
+        'The classical dance form Mohiniyattam is performed predominantly by:',
+      options: [
+        'Male dancers',
+        'Female dancers',
+        'Both male and female dancers',
+        'Children only',
       ],
-      "correctAnswer": 2,
-      "explanation": "Mohiniyattam is performed predominantly by female dancers. This classical dance form from Kerala embodies the feminine aspect (lasya) of dance and is traditionally associated with women. The name 'Mohiniyattam' means 'dance of the enchantress,' referring to the feminine form (Mohini) that Lord Vishnu assumed. The dance emphasizes grace, elegance, and subtle expressions, making it particularly suited to feminine presentation, though contemporary practice may include male dancers in some contexts.",
-      "difficulty": "Easy",
-      "hint": "This dance represents feminine grace"
+      correctAnswer: 2,
+      explanation:
+        "Mohiniyattam is performed predominantly by female dancers. This classical dance form from Kerala embodies the feminine aspect (lasya) of dance and is traditionally associated with women. The name 'Mohiniyattam' means 'dance of the enchantress,' referring to the feminine form (Mohini) that Lord Vishnu assumed. The dance emphasizes grace, elegance, and subtle expressions, making it particularly suited to feminine presentation, though contemporary practice may include male dancers in some contexts.",
+      difficulty: 'Easy',
+      hint: 'This dance represents feminine grace',
     },
     {
-      "level": 196,
-      "mainsubject": "Culture & Society",
-      "question": "Which Sikh Guru compiled the Adi Granth?",
-      "options": [
-        "Guru Nanak",
-        "Guru Angad",
-        "Guru Arjan Dev",
-        "Guru Gobind Singh"
+      level: 196,
+      mainsubject: 'Culture & Society',
+      question: 'Which Sikh Guru compiled the Adi Granth?',
+      options: [
+        'Guru Nanak',
+        'Guru Angad',
+        'Guru Arjan Dev',
+        'Guru Gobind Singh',
       ],
-      "correctAnswer": 3,
-      "explanation": "Guru Arjan Dev, the fifth Sikh Guru, compiled the Adi Granth in 1604. This sacred scripture contained hymns of the first five Sikh Gurus along with selected writings of Hindu and Muslim saints like Kabir, Namdev, and others. The compilation was done at Amritsar and represented the inclusive philosophy of Sikhism. Later, Guru Gobind Singh added the hymns of Guru Tegh Bahadur, and this final version became known as the Guru Granth Sahib, the eternal Guru of the Sikhs.",
-      "difficulty": "Medium",
-      "hint": "He was the fifth Sikh Guru"
+      correctAnswer: 3,
+      explanation:
+        'Guru Arjan Dev, the fifth Sikh Guru, compiled the Adi Granth in 1604. This sacred scripture contained hymns of the first five Sikh Gurus along with selected writings of Hindu and Muslim saints like Kabir, Namdev, and others. The compilation was done at Amritsar and represented the inclusive philosophy of Sikhism. Later, Guru Gobind Singh added the hymns of Guru Tegh Bahadur, and this final version became known as the Guru Granth Sahib, the eternal Guru of the Sikhs.',
+      difficulty: 'Medium',
+      hint: 'He was the fifth Sikh Guru',
     },
     {
-      "level": 197,
-      "mainsubject": "Culture & Society",
-      "question": "The practice of Sati was abolished by which Act?",
-      "options": [
-        "Bengal Sati Regulation, 1829",
-        "Hindu Widow Remarriage Act, 1856",
-        "Age of Consent Act, 1891",
-        "Special Marriage Act, 1954"
+      level: 197,
+      mainsubject: 'Culture & Society',
+      question: 'The practice of Sati was abolished by which Act?',
+      options: [
+        'Bengal Sati Regulation, 1829',
+        'Hindu Widow Remarriage Act, 1856',
+        'Age of Consent Act, 1891',
+        'Special Marriage Act, 1954',
       ],
-      "correctAnswer": 1,
-      "explanation": "The practice of Sati was abolished by the Bengal Sati Regulation, 1829, enacted by Governor-General Lord William Bentinck. This legislation was the result of sustained campaign by social reformers, particularly Raja Ram Mohan Roy, who used scriptural arguments to prove that Sati was not mandated by Hindu religion. The Act declared the practice of Sati as illegal and punishable by courts as culpable homicide, marking a significant step in social reform during the colonial period.",
-      "difficulty": "Medium",
-      "hint": "This Act was passed by Lord William Bentinck"
+      correctAnswer: 1,
+      explanation:
+        'The practice of Sati was abolished by the Bengal Sati Regulation, 1829, enacted by Governor-General Lord William Bentinck. This legislation was the result of sustained campaign by social reformers, particularly Raja Ram Mohan Roy, who used scriptural arguments to prove that Sati was not mandated by Hindu religion. The Act declared the practice of Sati as illegal and punishable by courts as culpable homicide, marking a significant step in social reform during the colonial period.',
+      difficulty: 'Medium',
+      hint: 'This Act was passed by Lord William Bentinck',
     },
     {
-      "level": 198,
-      "mainsubject": "Culture & Society",
-      "question": "The Ajanta Caves primarily belong to which Buddhist school?",
-      "options": [
-        "Theravada and Mahayana",
-        "Hinayana only",
-        "Mahayana only",
-        "Vajrayana"
+      level: 198,
+      mainsubject: 'Culture & Society',
+      question: 'The Ajanta Caves primarily belong to which Buddhist school?',
+      options: [
+        'Theravada and Mahayana',
+        'Hinayana only',
+        'Mahayana only',
+        'Vajrayana',
       ],
-      "correctAnswer": 1,
-      "explanation": "The Ajanta Caves primarily belong to both Theravada (also called Hinayana) and Mahayana schools of Buddhism. The earlier caves (2nd-1st centuries BCE) were created by Theravada Buddhists and focus on the Buddha's life and teachings. The later caves (5th-6th centuries CE) were created during the Vakataka period by Mahayana Buddhists and include elaborate paintings and sculptures depicting Bodhisattvas and various Buddhist deities. This evolution reflects the transformation of Buddhist philosophy and artistic expression over time.",
-      "difficulty": "Medium",
-      "hint": "These caves show the evolution of Buddhist schools"
+      correctAnswer: 1,
+      explanation:
+        "The Ajanta Caves primarily belong to both Theravada (also called Hinayana) and Mahayana schools of Buddhism. The earlier caves (2nd-1st centuries BCE) were created by Theravada Buddhists and focus on the Buddha's life and teachings. The later caves (5th-6th centuries CE) were created during the Vakataka period by Mahayana Buddhists and include elaborate paintings and sculptures depicting Bodhisattvas and various Buddhist deities. This evolution reflects the transformation of Buddhist philosophy and artistic expression over time.",
+      difficulty: 'Medium',
+      hint: 'These caves show the evolution of Buddhist schools',
     },
     {
-      "level": 199,
-      "mainsubject": "Culture & Society",
-      "question": "Which Karnataka ruler was known for his patronage of arts and literature and called 'Abhinava Bharata'?",
-      "options": [
-        "Tipu Sultan",
-        "Krishnaraja Wodeyar IV",
-        "Hyder Ali",
-        "Chikka Devaraja Wodeyar"
+      level: 199,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which Karnataka ruler was known for his patronage of arts and literature and called 'Abhinava Bharata'?",
+      options: [
+        'Tipu Sultan',
+        'Krishnaraja Wodeyar IV',
+        'Hyder Ali',
+        'Chikka Devaraja Wodeyar',
       ],
-      "correctAnswer": 2,
-      "explanation": "Krishnaraja Wodeyar IV (1884-1940), the Maharaja of Mysore, was known for his patronage of arts and literature and was called 'Abhinava Bharata' (Modern India). He was a great patron of music, arts, and literature, and under his rule, Mysore became a center of cultural renaissance. He supported the Kannada language and literature, established educational institutions, and promoted various art forms. His court attracted musicians, artists, and scholars from across India, making Mysore a cultural hub in South India.",
-      "difficulty": "Hard",
-      "hint": "He was called 'Modern India' for his progressive outlook"
+      correctAnswer: 2,
+      explanation:
+        "Krishnaraja Wodeyar IV (1884-1940), the Maharaja of Mysore, was known for his patronage of arts and literature and was called 'Abhinava Bharata' (Modern India). He was a great patron of music, arts, and literature, and under his rule, Mysore became a center of cultural renaissance. He supported the Kannada language and literature, established educational institutions, and promoted various art forms. His court attracted musicians, artists, and scholars from across India, making Mysore a cultural hub in South India.",
+      difficulty: 'Hard',
+      hint: "He was called 'Modern India' for his progressive outlook",
     },
     {
-      "level": 200,
-      "mainsubject": "Culture & Society",
-      "question": "The Buddhist concept of 'Middle Path' refers to:",
-      "options": [
-        "A moderate approach to meditation",
-        "The path between extreme asceticism and indulgence",
-        "The middle section of Buddhist scriptures",
-        "A geographical route"
+      level: 200,
+      mainsubject: 'Culture & Society',
+      question: "The Buddhist concept of 'Middle Path' refers to:",
+      options: [
+        'A moderate approach to meditation',
+        'The path between extreme asceticism and indulgence',
+        'The middle section of Buddhist scriptures',
+        'A geographical route',
       ],
-      "correctAnswer": 2,
-      "explanation": "The Buddhist concept of 'Middle Path' (Madhyama Pratipad) refers to the path between extreme asceticism and sensual indulgence. Buddha discovered this approach after experiencing both extreme luxury as a prince and severe austerities as an ascetic, finding that neither led to enlightenment. The Middle Path advocates moderation in all aspects of life and is embodied in the Noble Eightfold Path, which provides a balanced approach to spiritual development without falling into extremes of self-mortification or self-indulgence.",
-      "difficulty": "Medium",
-      "hint": "Buddha found this path after rejecting extremes"
+      correctAnswer: 2,
+      explanation:
+        "The Buddhist concept of 'Middle Path' (Madhyama Pratipad) refers to the path between extreme asceticism and sensual indulgence. Buddha discovered this approach after experiencing both extreme luxury as a prince and severe austerities as an ascetic, finding that neither led to enlightenment. The Middle Path advocates moderation in all aspects of life and is embodied in the Noble Eightfold Path, which provides a balanced approach to spiritual development without falling into extremes of self-mortification or self-indulgence.",
+      difficulty: 'Medium',
+      hint: 'Buddha found this path after rejecting extremes',
     },
     {
-      "level": 201,
-      "mainsubject": "Culture & Society",
-      "question": "Which social evil was the primary target of the Arya Samaj movement?",
-      "options": [
-        "Child marriage",
-        "Idol worship and caste system",
-        "Sati practice",
-        "Widow remarriage prohibition"
+      level: 201,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which social evil was the primary target of the Arya Samaj movement?',
+      options: [
+        'Child marriage',
+        'Idol worship and caste system',
+        'Sati practice',
+        'Widow remarriage prohibition',
       ],
-      "correctAnswer": 2,
-      "explanation": "Idol worship and the caste system were the primary targets of the Arya Samaj movement founded by Dayananda Saraswati in 1875. The movement advocated a return to the vedic religion and opposed idol worship, ritualistic practices, caste-based discrimination, and the authority of Brahmins as intermediaries. Arya Samaj promoted the slogan 'Back to the Vedas' and emphasized the worship of one formless God. The movement also supported education for all, women's rights, and social equality based on merit rather than birth.",
-      "difficulty": "Medium",
-      "hint": "This movement advocated 'Back to the Vedas'"
+      correctAnswer: 2,
+      explanation:
+        "Idol worship and the caste system were the primary targets of the Arya Samaj movement founded by Dayananda Saraswati in 1875. The movement advocated a return to the vedic religion and opposed idol worship, ritualistic practices, caste-based discrimination, and the authority of Brahmins as intermediaries. Arya Samaj promoted the slogan 'Back to the Vedas' and emphasized the worship of one formless God. The movement also supported education for all, women's rights, and social equality based on merit rather than birth.",
+      difficulty: 'Medium',
+      hint: "This movement advocated 'Back to the Vedas'",
     },
     {
-      "level": 202,
-      "mainsubject": "Culture & Society",
-      "question": "The Natyashastra describes how many types of classical dance?",
-      "options": [
-        "Four major types",
-        "Eight classical forms",
-        "General principles applicable to all",
-        "Twelve regional styles"
+      level: 202,
+      mainsubject: 'Culture & Society',
+      question: 'The Natyashastra describes how many types of classical dance?',
+      options: [
+        'Four major types',
+        'Eight classical forms',
+        'General principles applicable to all',
+        'Twelve regional styles',
       ],
-      "correctAnswer": 3,
-      "explanation": "The Natyashastra describes general principles applicable to all forms of classical dance rather than specifying a particular number of distinct dance types. This ancient treatise by Bharata Muni provides the theoretical foundation for Indian performing arts, including detailed descriptions of movements, expressions, rhythms, and emotions (rasas) that form the basis of all Indian classical dance forms. The eight classical dance forms recognized today (Bharatanatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniyattam, Odissi, Sattriya) all derive their principles from this foundational text.",
-      "difficulty": "Hard",
-      "hint": "This text provides universal principles for dance"
+      correctAnswer: 3,
+      explanation:
+        'The Natyashastra describes general principles applicable to all forms of classical dance rather than specifying a particular number of distinct dance types. This ancient treatise by Bharata Muni provides the theoretical foundation for Indian performing arts, including detailed descriptions of movements, expressions, rhythms, and emotions (rasas) that form the basis of all Indian classical dance forms. The eight classical dance forms recognized today (Bharatanatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniyattam, Odissi, Sattriya) all derive their principles from this foundational text.',
+      difficulty: 'Hard',
+      hint: 'This text provides universal principles for dance',
     },
-     {
-    "level": 203,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Navodaya' literary movement in Kannada literature, which marked a renaissance period, was heavily influenced by:",
-    "options": [
-      "French Surrealism",
-      "Russian Realism",
-      "English Romanticism",
-      "Latin American Magical Realism"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **Navodaya** (meaning 'renaissance' or 'new birth') movement in the early 20th century was profoundly influenced by **English Romanticism**. Writers like B. M. Srikantayya (B. M. Sri), considered the father of the movement, and Kuvempu drew inspiration from poets like Wordsworth, Shelley, and Keats. Their works emphasized emotion, nature, individualism, and a glorification of Karnataka's past. This was a shift from the older, more classical and religious forms of literature.",
-    "difficulty": "Hard",
-    "hint": "Think about the European literary movement that celebrated nature and emotion."
-  },
-  {
-    "level": 204,
-    "mainsubject": "Culture & Society",
-    "question": "What is 'Togalu Gombeyaata', a traditional art form from Karnataka?",
-    "options": [
-      "A form of ritualistic martial art",
-      "A vibrant folk dance performed during harvests",
-      "A type of string puppetry",
-      "An ancient form of leather shadow puppetry"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Togalu Gombeyaata** is a unique and ancient form of **leather shadow puppetry**. 'Togalu' means leather and 'Gombeyaata' means puppet dance. Artisans create intricate puppets from deer or goat skin, which are then colored and projected onto a backlit screen. The puppeteers narrate stories from epics like the Ramayana and Mahabharata, making it a complete audio-visual experience. It is one of the most cherished folk theatre forms of the region.",
-    "difficulty": "Medium",
-    "hint": "The name literally translates to 'leather puppet dance'."
-  },
-  {
-    "level": 205,
-    "mainsubject": "Culture & Society",
-    "question": "The Provisions of the Panchayats (Extension to Scheduled Areas) Act, 1996, or PESA, is a crucial law that aims to:",
-    "options": [
-      "Provide reservation for tribal communities in the Parliament.",
-      "Ensure self-governance through traditional Gram Sabhas for tribal populations.",
-      "Allocate special funds for the economic development of Scheduled Areas.",
-      "Create a separate judicial system for tribal communities."
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **PESA Act** is a landmark piece of legislation that legally recognizes the right of tribal communities in 'Scheduled Areas' to govern themselves through their own systems of self-government. It acknowledges the **Gram Sabha** (village assembly) as the ultimate authority on matters concerning their traditions, resources, and disputes. The act empowers them to manage community resources like land, water, and forests, thereby preserving their cultural identity and preventing exploitation.",
-    "difficulty": "Hard",
-    "hint": "This act empowers the Gram Sabha in tribal areas."
-  },
-  {
-    "level": 206,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Gharana' system is a distinctive feature of which form of Indian classical music?",
-    "options": [
-      "Carnatic Vocal",
-      "Hindustani Classical",
-      "Sopana Sangeetham",
-      "Rabindra Sangeet"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **Gharana** system is a cornerstone of **Hindustani classical music**. A gharana is a community of performers who share a distinct musical style that is passed down through generations in a guru-shishya parampara (teacher-disciple tradition). Each gharana, like the Gwalior, Agra, Kirana, and Jaipur gharanas, has its unique approach to raga interpretation, voice production, and rhythm. Carnatic music does not have a similar gharana system, focusing more on individual composer lineages.",
-    "difficulty": "Medium",
-    "hint": "This musical tradition is prevalent in North India."
-  },
-  {
-    "level": 207,
-    "mainsubject": "Culture & Society",
-    "question": "Kittur Rani Chennamma, a celebrated figure in Karnataka's history, led one of the earliest armed rebellions against whom?",
-    "options": [
-      "The Mughal Empire",
-      "The Maratha Confederacy",
-      "The British East India Company",
-      "The Nizam of Hyderabad"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Kittur Rani Chennamma** was the queen of the princely state of Kittur in Karnataka. In 1824, she led an armed rebellion against the **British East India Company** in defiance of the **Doctrine of Lapse**. This was three decades before the famous Revolt of 1857, making her one of the first Indian rulers to resist British rule. Her bravery and leadership have made her an icon of the Indian independence movement, especially in Karnataka.",
-    "difficulty": "Medium",
-    "hint": "Her rebellion was against the implementation of the Doctrine of Lapse."
-  },
-  {
-    "level": 208,
-    "mainsubject": "Culture & Society",
-    "question": "Which of the following has been accorded a Geographical Indication (GI) tag for its unique floral aroma and is famously associated with the city of Mysuru?",
-    "options": [
-      "Mysore Mallige (Jasmine)",
-      "Udupi Mallige (Jasmine)",
-      "Hadagali Mallige (Jasmine)",
-      "Bangalore Rose Onion"
-    ],
-    "correctAnswer": 1,
-    "explanation": "**Mysore Mallige** is the variety of jasmine that has received a GI tag for its distinct, long-lasting fragrance. It is grown primarily in and around the Mysuru district. The GI tag recognizes its unique qualities derived from the specific agro-climatic conditions of the region. While **Udupi Mallige** and **Hadagali Mallige** are also famous GI-tagged jasmine varieties from Karnataka, it is the Mysore Mallige that is most famously linked with the city of Mysuru.",
-    "difficulty": "Medium",
-    "hint": "This flower is integral to the cultural and religious life of the 'City of Palaces'."
-  },
-  {
-    "level": 209,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Sharia' law, often mentioned in discussions on religion and society, is the legal framework of which religion?",
-    "options": [
-      "Judaism",
-      "Christianity",
-      "Zoroastrianism",
-      "Islam"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Sharia** is the religious law forming part of the Islamic tradition. It is derived from the religious precepts of Islam, particularly the **Quran** (the holy book) and the **Hadith** (sayings and actions of the Prophet Muhammad). It provides guidance on all aspects of life, from rituals and worship to civil matters like marriage, inheritance, and contracts. Its application and interpretation vary significantly across different Muslim communities and countries.",
-    "difficulty": "Easy",
-    "hint": "This legal system is based on the teachings of the Quran."
-  },
-  {
-    "level": 210,
-    "mainsubject": "Culture & Society",
-    "question": "Which ancient Indian script is the ancestor of most modern Indian scripts, including Kannada, Devanagari, and Tamil?",
-    "options": [
-      "Kharosthi Script",
-      "Brahmi Script",
-      "Sharada Script",
-      "Grantha Script"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **Brahmi script** is the mother of almost all scripts used in India, Southeast Asia, and Tibet today. The Ashokan edicts from the 3rd century BCE were written in Brahmi, providing some of the earliest examples. Over centuries, Brahmi evolved into numerous regional variants, which then developed into the modern scripts we know today. **Kharosthi** was another ancient script used in the northwest, written from right to left, but it did not give rise to later Indian scripts.",
-    "difficulty": "Hard",
-    "hint": "The edicts of Emperor Ashoka were predominantly written in this script."
-  },
-  {
-    "level": 211,
-    "mainsubject": "Culture & Society",
-    "question": "Consider the following statements about 'Veeragase', a folk dance in Karnataka:\n1. It is a vigorous dance performed exclusively by women.\n2. The performance primarily depicts stories from the life of Lord Vishnu.\nWhich of the above statement(s) is/are correct?",
-    "options": [
-      "Only 1",
-      "Only 2",
-      "Both 1 and 2",
-      "Neither 1 nor 2"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Both statements are incorrect.** **Veeragase** is an intense and energetic folk dance performed by **men**, primarily during the months of Shravana and Kartika and at Dasara processions. The dance is performed in honor of **Lord Shiva** and narrates stories of the Hindu deity **Veerabhadra**. It is a highly ritualistic dance that involves dancers carrying swords and large wooden plaques with the figure of Veerabhadra.",
-    "difficulty": "Hard",
-    "hint": "This dance form is dedicated to Lord Shiva's fierce form, Veerabhadra."
-  },
-  {
-    "level": 212,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Nari Shakti Puraskar' is an annual award given by the Government of India to recognize:",
-    "options": [
-      "The highest-achieving female athletes.",
-      "Women scientists for their contribution to research.",
-      "Individuals and institutions for their outstanding work towards women's empowerment.",
-      "Female entrepreneurs in the startup ecosystem."
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **Nari Shakti Puraskar** (Woman Power Award) is India's highest civilian honor for women. It is conferred annually by the President of India on International Women's Day (March 8). The award recognizes the exceptional contributions of **individuals, groups, and institutions** in various fields that advance the cause of **women's empowerment**, challenge gender stereotypes, and create a positive impact on women's lives.",
-    "difficulty": "Medium",
-    "hint": "It is India's highest civilian honor specifically for contributions to women's empowerment."
-  },
-  {
-    "level": 213,
-    "mainsubject": "Culture & Society",
-    "question": "'Sankirtana', a ritual singing, drumming, and dancing art form, is an Intangible Cultural Heritage of Humanity recognized by UNESCO. It is native to which state?",
-    "options": [
-      "West Bengal",
-      "Assam",
-      "Manipur",
-      "Odisha"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Sankirtana** is a vibrant performing art indigenous to **Manipur**. It is central to the Vaishnava community of the state and is performed to narrate the life and deeds of Lord Krishna. The performances, which take place in temples and community spaces, bring together artists who sing, drum (on the Pung), and dance. It was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2013.",
-    "difficulty": "Very Hard",
-    "hint": "This state is also famous for its classical dance form which shares its name."
-  },
-  {
-    "level": 214,
-    "mainsubject": "Culture & Society",
-    "question": "The Ajanta and Ellora caves are both UNESCO World Heritage sites in Maharashtra, but they differ significantly. What is a key difference?",
-    "options": [
-      "Ajanta caves are structural temples, while Ellora caves are rock-cut.",
-      "Ajanta is exclusively Buddhist, while Ellora represents Buddhism, Hinduism, and Jainism.",
-      "Ajanta paintings are from the Mughal era, while Ellora's are from the Mauryan era.",
-      "Ellora caves have no sculptures, only paintings."
-    ],
-    "correctAnswer": 2,
-    "explanation": "The most significant difference is their religious scope. The **Ajanta caves** are a collection of rock-cut caves dedicated solely to **Buddhism**, famous for their exquisite mural paintings depicting Jataka tales. In contrast, the **Ellora caves** are a testament to religious harmony, featuring rock-cut monasteries and temples dedicated to all three major ancient Indian religions: **Buddhism, Hinduism, and Jainism**. Both sites are rock-cut, not structural.",
-    "difficulty": "Medium",
-    "hint": "One site represents a single religion, while the other showcases three."
-  },
-  {
-    "level": 215,
-    "mainsubject": "Culture & Society",
-    "question": "Who is the author of the monumental Kannada novel 'Parva', which retells the Mahabharata from a modern, sociological perspective?",
-    "options": [
-      "Kuvempu",
-      "U. R. Ananthamurthy",
-      "S. L. Bhyrappa",
-      "Girish Karnad"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**S. L. Bhyrappa**, one of modern India's most acclaimed novelists, is the author of **'Parva'**. The novel is celebrated for its realistic and humanistic portrayal of the characters of the Mahabharata, stripping away the divine elements to explore their psychological and ethical dilemmas. It's a cornerstone of modern Kannada literature. Kuvempu wrote 'Sri Ramayana Darshanam', and U.R. Ananthamurthy wrote 'Samskara'.",
-    "difficulty": "Medium",
-    "hint": "He is a contemporary novelist known for his deeply philosophical and character-driven works."
-  },
-  {
-    "level": 216,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Integrated Child Development Services' (ICDS) is a flagship government program that provides a package of services to:",
-    "options": [
-      "Secondary school students for skill development.",
-      "Juvenile offenders for rehabilitation.",
-      "Children up to 6 years of age, pregnant women, and lactating mothers.",
-      "Orphaned children for adoption services."
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **ICDS program**, operating through Anganwadi Centers, is one of the world's largest initiatives for early childhood development. It provides a comprehensive package of six services: **supplementary nutrition, immunization, health check-ups, referral services, pre-school non-formal education, and nutrition & health education**. These services are targeted at **children below 6 years, pregnant women, and lactating mothers** to combat malnutrition and improve health outcomes.",
-    "difficulty": "Medium",
-    "hint": "This program operates through Anganwadi centers."
-  },
-  {
-    "level": 217,
-    "mainsubject": "Culture & Society",
-    "question": "The Dadasaheb Phalke Award, India's highest honor in cinema, is presented annually by which organization?",
-    "options": [
-      "The Film and Television Institute of India (FTII)",
-      "The National Film Development Corporation (NFDC)",
-      "The Central Board of Film Certification (CBFC)",
-      "The Directorate of Film Festivals (under the Ministry of Information and Broadcasting)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The **Dadasaheb Phalke Award** is awarded for 'outstanding contribution to the growth and development of Indian cinema'. It is presented annually at the **National Film Awards** ceremony by the **Directorate of Film Festivals**, an organization set up by the Ministry of Information and Broadcasting. The award commemorates Dadasaheb Phalke, the 'father of Indian cinema', who directed India's first full-length feature film, 'Raja Harishchandra'.",
-    "difficulty": "Medium",
-    "hint": "It is presented as part of the National Film Awards ceremony."
-  },
-  {
-    "level": 218,
-    "mainsubject": "Culture & Society",
-    "question": "In the context of the Indian caste system, the term 'Scheduled Castes' was first officially used in:",
-    "options": [
-      "The Manusmriti",
-      "The Constitution of India, 1950",
-      "The Government of India Act, 1935",
-      "The Poona Pact, 1932"
-    ],
-    "correctAnswer": 3,
-    "explanation": "While the term 'Depressed Classes' was used earlier, the term **'Scheduled Castes'** was given legal and official status for the first time in the **Government of India Act, 1935**. This Act provided for a list or 'schedule' of castes that were entitled to special provisions, including political representation. This framework was later adopted and expanded in the **Constitution of India**.",
-    "difficulty": "Hard",
-    "hint": "This pre-independence British legislation provided a framework for the future Indian constitution."
-  },
-  {
-    "level": 219,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Lalitha Mahal' in Mysuru, known for its striking white architecture, was built in a style inspired by which famous European landmark?",
-    "options": [
-      "The Buckingham Palace, London",
-      "St. Paul's Cathedral, London",
-      "The Palace of Versailles, France",
-      "The Colosseum, Rome"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **Lalitha Mahal**, the second largest palace in Mysuru, was built in 1921 by Maharaja Krishnaraja Wodeyar IV. Its architecture, designed by E. W. Fritchley, was inspired by **St. Paul's Cathedral in London**, particularly its central dome. It was initially built to host the Viceroy of India and is now a luxury heritage hotel.",
-    "difficulty": "Hard",
-    "hint": "Think of a famous cathedral in London with a large dome."
-  },
-  {
-    "level": 220,
-    "mainsubject": "Culture & Society",
-    "question": "The philosophical school of 'Advaita Vedanta', which posits the non-dualistic reality of 'Brahman', was consolidated and popularized by which great philosopher?",
-    "options": [
-      "Ramanujacharya",
-      "Madhvacharya",
-      "Adi Shankaracharya",
-      "Basavanna"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Adi Shankaracharya**, an 8th-century philosopher, was the foremost exponent of **Advaita Vedanta**. His core teaching is 'Brahma Satyam, Jagan Mithya, Jivo Brahmaiva Naparah' (Brahman alone is real, the world is unreal, and the individual self is non-different from Brahman). In contrast, **Ramanujacharya** proposed **Vishishtadvaita** (qualified non-dualism), and **Madhvacharya** (from Karnataka) proposed **Dvaita** (dualism).",
-    "difficulty": "Medium",
-    "hint": "He established four major 'mathas' (monasteries) in the four corners of India."
-  },
-  {
-    "level": 221,
-    "mainsubject": "Culture & Society",
-    "question": "Which of the following is NOT a classical language of India?",
-    "options": [
-      "Sanskrit",
-      "Tamil",
-      "Pali",
-      "Kannada"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Currently, the Government of India has recognized six languages as 'Classical Languages': **Tamil** (2004), **Sanskrit** (2005), **Kannada** (2008), **Telugu** (2008), **Malayalam** (2013), and **Odia** (2014). **Pali**, an ancient Prakrit language in which the early Buddhist scriptures were written, does not have this official status, although it is of immense historical and literary importance.",
-    "difficulty": "Medium",
-    "hint": "The early Buddhist scriptures are written in this language, but it lacks the official 'classical' tag."
-  },
-  {
-    "level": 222,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Durga temple' at Aihole is architecturally significant for its:",
-    "options": [
-      "Towering Dravidian Vimana",
-      "Apsidal (semi-circular) plan, resembling a Buddhist Chaitya hall",
-      "Massive monolithic Nandi statue",
-      "Star-shaped platform, typical of Hoysala architecture"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The Durga temple at Aihole, a masterpiece of Chalukyan architecture, is unique for its **apsidal or semi-circular shape**. This design is reminiscent of earlier **Buddhist Chaitya halls**. It is not a star-shaped Hoysala design, nor does it have a towering Dravidian vimana (its tower is more of a nascent Nagara style). Its unusual plan makes it a key monument in the study of Indian temple evolution.",
-    "difficulty": "Very Hard",
-    "hint": "Its shape is similar to early Buddhist prayer halls."
-  },
-  {
-    "level": 223,
-    "mainsubject": "Culture & Society",
-    "question": "The Protection of Women from Domestic Violence Act, 2005, provides a broad definition of 'domestic violence'. It includes not only physical abuse but also:",
-    "options": [
-      "Only verbal abuse",
-      "Only economic abuse",
-      "Only emotional abuse",
-      "Verbal, emotional, sexual, and economic abuse"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The **Domestic Violence Act, 2005** is a civil law that provides a comprehensive definition of domestic violence. It goes beyond just physical harm to include **sexual abuse** (any conduct of a sexual nature), **verbal and emotional abuse** (insults, humiliation), and **economic abuse** (deprivation of financial resources, not paying maintenance). This broad definition helps protect women from all forms of abuse within a domestic relationship.",
-    "difficulty": "Medium",
-    "hint": "The act was designed to be comprehensive and cover all forms of abuse."
-  },
-  {
-    "level": 224,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Navagraha Jain Temple' at Varur near Hubballi, Karnataka, is famous for its:",
-    "options": [
-      "Ancient rock-cut caves",
-      "Intricate ivory carvings",
-      "61-foot tall monolithic statue of Parshvanatha",
-      "Unique circular architectural design"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The Navagraha Teertha is a major Jain pilgrimage center in Karnataka. Its main attraction is a colossal **61-foot monolithic statue of the 23rd Tirthankara, Shri Parshvanatha**. Weighing 185 tons, it is the tallest monolithic statue of Parshvanatha in India. The temple complex also includes smaller statues of the other Tirthankaras and the Navagrahas (nine celestial bodies).",
-    "difficulty": "Hard",
-    "hint": "Its main attraction is a colossal statue of the 23rd Tirthankara."
-  },
-  {
-    "level": 225,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Tanjore painting' style, known for its vibrant colors, gold foil work, and inlay of semi-precious stones, originated in which kingdom?",
-    "options": [
-      "Vijayanagara Empire",
-      "Hoysala Kingdom",
-      "Pandyan Kingdom",
-      "Maratha Kingdom of Thanjavur"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The iconic **Tanjore painting** style flourished in the South Indian city of Thanjavur (Tanjore) under the patronage of the **Maratha rulers** who governed the region from the 17th to the 19th century. While it has roots in earlier artistic traditions, it was during the Maratha period that it developed its characteristic features: rich colors, gilded relief work (gesso work), and inlay of glass beads or gems, typically depicting Hindu deities.",
-    "difficulty": "Hard",
-    "hint": "This art form flourished under Maratha rulers in a Tamil city."
-  },
-  {
-    "level": 226,
-    "mainsubject": "Culture & Society",
-    "question": "Article 46 of the Indian Constitution, a Directive Principle, directs the State to:",
-    "options": [
-      "Promote international peace and security.",
-      "Provide free and compulsory education for all children up to age 14.",
-      "Organize village panchayats.",
-      "Promote the educational and economic interests of Scheduled Castes, Scheduled Tribes, and other weaker sections."
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Article 46** is a crucial Directive Principle of State Policy that guides the government's actions towards social justice. It explicitly states that 'The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the **Scheduled Castes and the Scheduled Tribes**, and shall protect them from social injustice and all forms of exploitation.' This article forms the philosophical basis for many affirmative action policies.",
-    "difficulty": "Hard",
-    "hint": "This article is a cornerstone for policies related to the welfare of weaker sections."
-  },
-  {
-    "level": 227,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Ibrahim Rauza' in Vijayapura (Bijapur) is a mausoleum complex often called the 'Taj Mahal of the Deccan'. It is the tomb of:",
-    "options": [
-      "Mohammed Adil Shah",
-      "Yusuf Adil Shah",
-      "Ibrahim Adil Shah II",
-      "Ali Adil Shah I"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **Ibrahim Rauza** complex contains the tomb of **Ibrahim Adil Shah II**, the fifth king of the Adil Shahi dynasty, and his queen, Taj Sultana. It is renowned for its architectural symmetry and exquisite detail, with a tomb and a mosque facing each other on a raised platform. Its delicate and graceful design has earned it the comparison to the Taj Mahal. The tomb of Mohammed Adil Shah is the famous Gol Gumbaz.",
-    "difficulty": "Hard",
-    "hint": "The name of the ruler is in the name of the monument."
-  },
-  {
-    "level": 228,
-    "mainsubject": "Culture & Society",
-    "question": "In the context of women's empowerment, what are Self-Help Groups (SHGs)?",
-    "options": [
-      "Political lobbying groups for women's reservation.",
-      "Formal financial institutions like banks run by women.",
-      "Informal groups of women who pool savings and provide loans to members.",
-      "Government-run vocational training centers."
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Self-Help Groups (SHGs)** are typically small, informal associations of 10-20 women from similar socio-economic backgrounds. They come together to **save small amounts of money regularly**. This pooled money is then used to give out small loans to members in times of need. SHGs are a powerful tool for financial inclusion, poverty alleviation, and women's empowerment, as they build financial discipline, provide access to credit, and foster community support.",
-    "difficulty": "Easy",
-    "hint": "They are a key component of microfinance initiatives in India."
-  },
-  {
-    "level": 229,
-    "mainsubject": "Culture & Society",
-    "question": "Sangolli Rayanna, a revered freedom fighter from Karnataka, was the chief of the army of which kingdom?",
-    "options": [
-      "The Kingdom of Mysore",
-      "The Keladi Nayakas",
-      "The Kingdom of Kittur",
-      "The Western Ganga Dynasty"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Sangolli Rayanna** was the army chief or 'Senapati' of the **Kingdom of Kittur**, ruled by Rani Chennamma. After the Rani's arrest by the British, Rayanna continued the rebellion with guerrilla warfare, becoming a symbol of resistance and folk hero. He was eventually captured and executed by the British in 1831. His valor and sacrifice are celebrated in folk songs and theatre across Karnataka.",
-    "difficulty": "Medium",
-    "hint": "He fought alongside Rani Chennamma against the British."
-  },
-  {
-    "level": 230,
-    "mainsubject": "Culture & Society",
-    "question": "Which of these is NOT one of the 'Four Noble Truths' of Buddhism?",
-    "options": [
-      "The truth of suffering (Dukkha)",
-      "The truth of the cause of suffering (Samudāya)",
-      "The truth of the path to the cessation of suffering (Magga)",
-      "The truth of attaining eternal life in heaven (Svarga)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The Four Noble Truths form the foundation of Buddhist teachings. They are: 1) There is suffering (**Dukkha**). 2) There is a cause for suffering, which is craving and attachment (**Samudāya**). 3) There is an end to suffering (**Nirodha**). 4) There is a path to end suffering, the Noble Eightfold Path (**Magga**). The concept of attaining an eternal heaven is not a central tenet of the Four Noble Truths; the goal is Nirvana, the cessation of suffering and the cycle of rebirth.",
-    "difficulty": "Medium",
-    "hint": "The core of Buddhism is about understanding and ending suffering, not about an afterlife in heaven."
-  },
-  {
-    "level": 231,
-    "mainsubject": "Culture & Society",
-    "question": "The 'BandGala' or 'Jodhpuri Suit', a formal suit for men, is a cultural contribution from which Indian state?",
-    "options": [
-      "Punjab",
-      "Rajasthan",
-      "Gujarat",
-      "Uttar Pradesh"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **Bandhgala** (meaning 'closed neck') suit originated in the princely state of **Jodhpur, Rajasthan**, during the late 19th century. It is a blend of traditional Indian angarkha and Western formal wear. Also known as the Jodhpuri suit, it was popularized by the Maharaja of Jodhpur and has since become a globally recognized style of formal and semi-formal attire.",
-    "difficulty": "Easy",
-    "hint": "The alternative name of the suit points directly to its city of origin."
-  },
-  {
-    "level": 232,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006' is a landmark legislation that primarily aims to:",
-    "options": [
-      "Nationalize all forest land in India.",
-      "Grant ownership of forest land to private corporations for industrial use.",
-      "Recognize and vest forest rights and occupation in forest-dwelling communities.",
-      "Declare all forests as protected areas and prohibit human entry."
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **Forest Rights Act (FRA), 2006** is a historic law enacted to correct the 'historical injustice' done to forest-dwelling communities. Its primary objective is to **recognize and formalize the rights** of Scheduled Tribes and Other Traditional Forest Dwellers over the forest land they have been living on and cultivating for generations. It grants them rights to land ownership (individual rights) and the right to manage and use community forest resources (community rights).",
-    "difficulty": "Hard",
-    "hint": "This act seeks to correct the 'historical injustice' done to forest dwellers."
-  },
-  {
-    "level": 233,
-    "mainsubject": "Culture & Society",
-    "question": "The magnificent 'Gomateshwara statue' at Shravanabelagola was consecrated in 981 AD under the patronage of Chavundaraya, who was a minister and commander for which dynasty?",
-    "options": [
-      "Hoysala Dynasty",
-      "Rashtrakuta Dynasty",
-      "Kadamba Dynasty",
-      "Western Ganga Dynasty"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Chavundaraya** was a minister and commander in the court of the **Western Ganga Dynasty** of Talakad. He served King Rachamalla IV and commissioned the colossal monolithic statue of Gomateshwara (Bahubali) atop the Vindhyagiri Hill at Shravanabelagola. This masterpiece stands as a testament to the artistic and religious fervor of the Ganga period in Karnataka.",
-    "difficulty": "Hard",
-    "hint": "This dynasty ruled parts of southern Karnataka before the Hoysalas."
-  },
-  {
-    "level": 234,
-    "mainsubject": "Culture & Society",
-    "question": "Which of the following is an example of an 'Intangible Cultural Heritage' as defined by UNESCO?",
-    "options": [
-      "The Taj Mahal",
-      "The ritual theatre of 'Mudiyettu' in Kerala",
-      "The ruins of Hampi",
-      "The Great Wall of China"
-    ],
-    "correctAnswer": 2,
-    "explanation": "UNESCO's concept of **Intangible Cultural Heritage** refers to traditions, living expressions, and knowledge passed down from generation to generation. This includes performing arts, social practices, rituals, and traditional craftsmanship. **'Mudiyettu'**, a ritual theatre and dance drama from Kerala, is on this list. The Taj Mahal, Hampi, and the Great Wall are all examples of **Tangible Cultural Heritage**—physical, man-made sites.",
-    "difficulty": "Medium",
-    "hint": "Think about heritage that is performed or practiced, rather than built."
-  },
-  {
-    "level": 235,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Anubhava Mantapa' established by Basavanna in the 12th century is considered one of the world's earliest parliaments. What was its primary purpose?",
-    "options": [
-      "To collect taxes for the kingdom.",
-      "To serve as a military command center.",
-      "To be a spiritual academy and public assembly for discussing social and religious reforms.",
-      "To function as a court for criminal justice."
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **Anubhava Mantapa** ('hall of spiritual experience') was a revolutionary institution established in Basavakalyan by Basavanna and other Sharanas. It served as a **public assembly and spiritual academy** where mystics, saints, and philosophers from all walks of life, including women and people from lower castes, gathered to discuss theology, social reforms, and personal spiritual experiences. It promoted democratic ideals and social equality, making it a unique institution for its time.",
-    "difficulty": "Medium",
-    "hint": "It was a 'hall of spiritual experience' for social reformers."
-  },
-  {
-    "level": 236,
-    "mainsubject": "Culture & Society",
-    "question": "The term 'Fourth Estate' is often used to refer to which pillar of modern society?",
-    "options": [
-      "The Judiciary",
-      "The Executive",
-      "The Legislature",
-      "The Press (Media)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The term **'Fourth Estate'** refers to the **press and news media**. The traditional three estates of the realm are the legislature, the executive, and the judiciary. The press is called the 'fourth estate' because of its significant indirect influence on society and politics. It plays a crucial role as a watchdog, holding the other three estates accountable and informing the public, thereby upholding democracy.",
-    "difficulty": "Easy",
-    "hint": "It acts as a watchdog for the other three pillars of democracy."
-  },
-  {
-    "level": 237,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Chittara' art is a unique form of traditional mural and floor painting practiced by the women of which community in Karnataka?",
-    "options": [
-      "The Kodava community in Kodagu",
-      "The Deevaru community in the Malenadu region",
-      "The Lambani community across Karnataka",
-      "The Siddi community in Uttara Kannada"
-    ],
-    "correctAnswer": 2,
-    "explanation": "**Chittara art** is an intricate folk art form practiced by the women of the **Deevaru community**, primarily in the Shivamogga and Sagara regions of Malenadu, Karnataka. These paintings are made on the walls and floors of their homes using natural materials like rice paste, red earth, and charcoal. The designs are geometric and symbolic, representing aspects of their daily life, nature, and rituals.",
-    "difficulty": "Very Hard",
-    "hint": "This art form is from the Malenadu region and uses natural pigments."
-  },
-  {
-    "level": 238,
-    "mainsubject": "Culture & Society",
-    "question": "The 'National Commission for Protection of Child Rights' (NCPCR) is a statutory body established to:",
-    "options": [
-      "Provide mid-day meals in schools.",
-      "Run adoption agencies across the country.",
-      "Ensure that all laws and policies are in consonance with the child rights perspective.",
-      "Conduct board examinations for Class 10 and 12."
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **NCPCR** was set up in 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. Its primary mandate is to **protect, promote, and defend child rights** in the country. It reviews legal safeguards, inquires into complaints of violations of child rights, and recommends policy changes to ensure that all laws and government programs align with the principles of child rights as enshrined in the Constitution and the UN Convention on the Rights of the Child.",
-    "difficulty": "Medium",
-    "hint": "Its role is to be a watchdog for child rights."
-  },
-  {
-    "level": 239,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Warli Painting' is a traditional art form characterized by its use of basic geometric shapes like circles, triangles, and squares. It belongs to which state?",
-    "options": [
-      "Rajasthan",
-      "Bihar",
-      "Maharashtra",
-      "Kerala"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Warli painting** is the traditional art of the Warli tribe, who live in the mountainous and coastal regions of **Maharashtra** and Gujarat. These paintings use a very simple graphic vocabulary—a circle (sun, moon), a triangle (mountains, trees), and a square (sacred enclosure)—to depict scenes of social life, hunting, farming, and festivals. They are traditionally painted on mud walls with a white pigment made from rice paste.",
-    "difficulty": "Medium",
-    "hint": "This tribal art form comes from the state whose capital is Mumbai."
-  },
-  {
-    "level": 240,
-    "mainsubject": "Culture & Society",
-    "question": "Which article of the Indian Constitution empowers the President to establish a 'Commission to investigate the conditions of backward classes'?",
-    "options": [
-      "Article 338",
-      "Article 340",
-      "Article 341",
-      "Article 356"
-    ],
-    "correctAnswer": 2,
-    "explanation": "**Article 340** of the Constitution provides the power to the President to appoint a Commission to investigate the conditions of socially and educationally backward classes (SEBCs) and the difficulties under which they labor and to make recommendations to improve their condition. The **Mandal Commission** was appointed under this very article. Article 338 deals with the National Commission for SCs, and Article 341 empowers the President to specify the SCs.",
-    "difficulty": "Hard",
-    "hint": "The Mandal Commission was appointed under this article."
-  },
-  {
-    "level": 241,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Bidriware' is a famous metal handicraft known for its striking silver inlay work on a blackened alloy. It gets its name from its place of origin, which is:",
-    "options": [
-      "Bidar, Karnataka",
-      "Bijapur, Karnataka",
-      "Bellary, Karnataka",
-      "Belgaum, Karnataka"
-    ],
-    "correctAnswer": 1,
-    "explanation": "**Bidriware** is a renowned metal craft that originated in the city of **Bidar, Karnataka**, during the Bahmani Sultanate in the 14th century. The craft involves casting an alloy of zinc and copper, which is then inlaid with intricate designs using pure silver wire or sheets. The final step involves treating the artifact with soil from the Bidar fort, which has special properties that turn the alloy a lustrous black while leaving the silver inlay sparkling.",
-    "difficulty": "Easy",
-    "hint": "The name of the craft is the same as its city of origin."
-  },
-  {
-    "level": 242,
-    "mainsubject": "Culture & Society",
-    "question": "The Hindu Widows' Remarriage Act, which legalized the remarriage of Hindu widows, was passed in 1856 largely due to the efforts of which social reformer?",
-    "options": [
-      "Raja Ram Mohan Roy",
-      "Swami Vivekananda",
-      "Dayananda Saraswati",
-      "Ishwar Chandra Vidyasagar"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Ishwar Chandra Vidyasagar**, a great scholar and reformer from Bengal, was the key figure behind the Hindu Widows' Remarriage Act, 1856. He launched a powerful campaign, citing scriptural evidence and humanitarian principles to argue for the right of widows to remarry, a practice that was forbidden at the time. While Raja Ram Mohan Roy was instrumental in the abolition of Sati, Vidyasagar championed the cause of widow remarriage.",
-    "difficulty": "Medium",
-    "hint": "He was a great scholar and reformer from Bengal."
-  },
-  {
-    "level": 243,
-    "mainsubject": "Culture & Society",
-    "question": "Which of the following is a key feature of the 'Dravidian' style of temple architecture, as seen in the Brihadeeswarar Temple?",
-    "options": [
-      "A curvilinear shikhara that tapers towards the top.",
-      "A pyramidal vimana consisting of stepped storeys.",
-      "The absence of a boundary wall or gateway.",
-      "The use of a raised platform or 'jagati' as the base."
-    ],
-    "correctAnswer": 2,
-    "explanation": "A defining feature of the **Dravidian style** is the **vimana**, the tower over the main sanctum, which is **pyramidal** in shape and consists of multiple diminishing storeys ('talas'). The Brihadeeswarar Temple in Thanjavur is a perfect example. In contrast, the North Indian 'Nagara' style has a curvilinear tower called a 'shikhara'. Dravidian temples are also characterized by enclosed courtyards and monumental gateways called 'gopurams'.",
-    "difficulty": "Hard",
-    "hint": "The tower over the sanctum is shaped like a pyramid with multiple levels."
-  },
-  {
-    "level": 244,
-    "mainsubject": "Culture & Society",
-    "question": "U. R. Ananthamurthy, a Jnanpith awardee from Karnataka, was a leading figure in which literary movement that focused on existentialism and modern sensibilities?",
-    "options": [
-      "Navodaya (Renaissance)",
-      "Pragathisheela (Progressive)",
-      "Dalita (Dalit)",
-      "Navya (Modernist)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**U. R. Ananthamurthy** was a pioneer of the **Navya (Modernist)** movement in Kannada literature. This movement, which emerged in the 1950s, was influenced by European modernism and existentialist philosophy. Navya writers like Ananthamurthy ('Samskara') and Girish Karnad explored themes of alienation, psychological conflict, and the individual's search for identity in a rapidly changing society, using complex narratives and symbolism.",
-    "difficulty": "Hard",
-    "hint": "His novel 'Samskara' is a classic of this modernist movement."
-  },
-  {
-    "level": 245,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Juvenile Justice (Care and Protection of Children) Act, 2015' defines a 'child' as any person below the age of:",
-    "options": [
-      "14 years",
-      "16 years",
-      "18 years",
-      "21 years"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The **Juvenile Justice Act, 2015** defines a 'child' as a person who has not completed **eighteen years of age**. The Act deals with two categories of children: 'child in conflict with law' and 'child in need of care and protection'. A significant amendment in the 2015 Act allows for juveniles between 16 and 18 years of age, who have committed heinous crimes, to be tried as adults under certain circumstances, following a preliminary assessment.",
-    "difficulty": "Easy",
-    "hint": "This age is the internationally recognized standard for childhood."
-  },
-  {
-    "level": 246,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Madhubani Painting', characterized by its intricate line drawings and bright colors, is a traditional folk art from which Indian state?",
-    "options": [
-      "Odisha",
-      "West Bengal",
-      "Bihar",
-      "Uttar Pradesh"
-    ],
-    "correctAnswer": 3,
-    "explanation": "**Madhubani painting**, also known as Mithila art, is a famous style of folk painting that originated in the Mithila region of **Bihar**. Traditionally, it was done by women on the walls and floors of their homes during festivals and ceremonies. The paintings are known for their complex geometric patterns and depictions of nature and mythological figures. It is now a popular art form on paper and cloth as well.",
-    "difficulty": "Medium",
-    "hint": "This art form is also known as Mithila painting."
-  },
-  {
-    "level": 247,
-    "mainsubject": "Culture & Society",
-    "question": "What does the term 'Patriarchy' refer to in a sociological context?",
-    "options": [
-      "A society where the elderly are held in the highest regard.",
-      "A social system where men hold primary power and authority.",
-      "A system of inheritance where property passes through the female line.",
-      "A form of government ruled by religious leaders."
-    ],
-    "correctAnswer": 2,
-    "explanation": "**Patriarchy** is a social system in which **men hold primary power** and predominate in roles of political leadership, moral authority, social privilege, and control of property. In a patriarchal system, the father or eldest male is the head of the family, and descent and inheritance are traced through the male line. It is a key concept in sociology and feminist theory for analyzing gender inequality. The opposite system is 'Matriarchy'.",
-    "difficulty": "Easy",
-    "hint": "It is a social system where power is held by men."
-  },
-  {
-    "level": 248,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Kasuti' is a traditional form of intricate embroidery that has been granted a GI tag. It is a craft native to which state?",
-    "options": [
-      "Gujarat",
-      "Rajasthan",
-      "Punjab",
-      "Karnataka"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Kasuti embroidery** is a traditional craft from **Karnataka**, practiced mainly in districts like Dharwad, Hubballi, and Kalaburagi. It involves intricate hand-stitching on handloom sarees, typically Ilkal sarees. The embroidery is done without knots, so the design looks the same on both sides of the fabric. Common motifs include temple gopurams, chariots, palanquins, and animals, all created with great skill and precision.",
-    "difficulty": "Hard",
-    "hint": "This embroidery is often done on Ilkal sarees."
-  },
-  {
-    "level": 249,
-    "mainsubject": "Culture & Society",
-    "question": "Match the following Indian philosophical schools with their founders:\n(A) Samkhya        (1) Gautama\n(B) Yoga           (2) Jaimini\n(C) Nyaya          (3) Kapila\n(D) Mimamsa        (4) Patanjali",
-    "options": [
-      "A-3, B-4, C-1, D-2",
-      "A-4, B-3, C-2, D-1",
-      "A-1, B-2, C-3, D-4",
-      "A-3, B-1, C-4, D-2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct matches for these orthodox (astika) schools of Hindu philosophy are:\n- (A) **Samkhya**, a school of dualism, is attributed to the sage **Kapila**.\n- (B) **Yoga**, which focuses on meditation and liberation, was systematized by **Patanjali** in his Yoga Sutras.\n- (C) **Nyaya**, the school of logic, was founded by **Gautama**.\n- (D) **Purva Mimamsa**, which focuses on the exegesis of the Vedas, was founded by **Jaimini**.",
-    "difficulty": "Very Hard",
-    "hint": "Patanjali's Yoga Sutras are world-famous."
-  },
-  {
-    "level": 250,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Siddhis' of Karnataka are a unique ethnic group who are primarily descendants of:",
-    "options": [
-      "Merchants from ancient Rome",
-      "Bantu peoples from Southeast Africa",
-      "Mongol warriors from Central Asia",
-      "Tibetan refugees"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **Siddhis** of Karnataka are an ethnic community primarily descended from the **Bantu peoples of Southeast Africa**. Their ancestors were brought to India as slaves, merchants, or sailors by the Portuguese and Arabs, starting from as early as the 7th century. They are mainly found in the districts of Uttara Kannada, Belagavi, and Dharwad. They have retained some of their ancestral African traditions while also assimilating into the local culture, creating a unique syncretic identity.",
-    "difficulty": "Hard",
-    "hint": "This community has African roots."
-  },
-  {
-    "level": 251,
-    "mainsubject": "Culture & Society",
-    "question": "The 'Right of Children to Free and Compulsory Education (RTE) Act, 2009' makes education a fundamental right for every child in which age group?",
-    "options": [
-      "3 to 8 years",
-      "6 to 14 years",
-      "5 to 15 years",
-      "6 to 18 years"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The **RTE Act, 2009** operationalized the fundamental right to education enshrined in **Article 21-A** of the Constitution. It mandates free and compulsory education for every child in the age group of **6 to 14 years** in a neighborhood school till the completion of elementary education. The Act also specifies norms for teacher-pupil ratios, school infrastructure, and prohibits practices like donation fees and screening procedures for admission.",
-    "difficulty": "Easy",
-    "hint": "This right corresponds to Article 21-A of the Constitution."
-  },
-  {
-    "level": 252,
-    "mainsubject": "Culture & Society",
-    "question": "Consider the following statements:\n1. The Virupaksha Temple at Pattadakal is built in the Northern Nagara style.\n2. The Papanatha Temple at Pattadakal is built in the Southern Dravida style.\nWhich of the above statement(s) is/are correct?",
-    "options": [
-      "Only 1",
-      "Only 2",
-      "Both 1 and 2",
-      "Neither 1 nor 2"
-    ],
-    "correctAnswer": 4,
-    "explanation": "**Both statements are incorrect**, they are interchanged. The UNESCO World Heritage site of Pattadakal is famous for its fusion of architectural styles. The magnificent **Virupaksha Temple** is a classic example of the **Southern Dravida style**, built by Queen Lokamahadevi. The **Papanatha Temple**, on the other hand, shows a clear influence of the **Northern Nagara style**, though with some Dravidian elements mixed in, showcasing the experimental nature of Chalukyan architecture.",
-    "difficulty": "Very Hard",
-    "hint": "The statements have interchanged the styles of the two temples."
-  }
+    {
+      level: 203,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Navodaya' literary movement in Kannada literature, which marked a renaissance period, was heavily influenced by:",
+      options: [
+        'French Surrealism',
+        'Russian Realism',
+        'English Romanticism',
+        'Latin American Magical Realism',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Navodaya** (meaning 'renaissance' or 'new birth') movement in the early 20th century was profoundly influenced by **English Romanticism**. Writers like B. M. Srikantayya (B. M. Sri), considered the father of the movement, and Kuvempu drew inspiration from poets like Wordsworth, Shelley, and Keats. Their works emphasized emotion, nature, individualism, and a glorification of Karnataka's past. This was a shift from the older, more classical and religious forms of literature.",
+      difficulty: 'Hard',
+      hint: 'Think about the European literary movement that celebrated nature and emotion.',
+    },
+    {
+      level: 204,
+      mainsubject: 'Culture & Society',
+      question:
+        "What is 'Togalu Gombeyaata', a traditional art form from Karnataka?",
+      options: [
+        'A form of ritualistic martial art',
+        'A vibrant folk dance performed during harvests',
+        'A type of string puppetry',
+        'An ancient form of leather shadow puppetry',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "**Togalu Gombeyaata** is a unique and ancient form of **leather shadow puppetry**. 'Togalu' means leather and 'Gombeyaata' means puppet dance. Artisans create intricate puppets from deer or goat skin, which are then colored and projected onto a backlit screen. The puppeteers narrate stories from epics like the Ramayana and Mahabharata, making it a complete audio-visual experience. It is one of the most cherished folk theatre forms of the region.",
+      difficulty: 'Medium',
+      hint: "The name literally translates to 'leather puppet dance'.",
+    },
+    {
+      level: 205,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Provisions of the Panchayats (Extension to Scheduled Areas) Act, 1996, or PESA, is a crucial law that aims to:',
+      options: [
+        'Provide reservation for tribal communities in the Parliament.',
+        'Ensure self-governance through traditional Gram Sabhas for tribal populations.',
+        'Allocate special funds for the economic development of Scheduled Areas.',
+        'Create a separate judicial system for tribal communities.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **PESA Act** is a landmark piece of legislation that legally recognizes the right of tribal communities in 'Scheduled Areas' to govern themselves through their own systems of self-government. It acknowledges the **Gram Sabha** (village assembly) as the ultimate authority on matters concerning their traditions, resources, and disputes. The act empowers them to manage community resources like land, water, and forests, thereby preserving their cultural identity and preventing exploitation.",
+      difficulty: 'Hard',
+      hint: 'This act empowers the Gram Sabha in tribal areas.',
+    },
+    {
+      level: 206,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Gharana' system is a distinctive feature of which form of Indian classical music?",
+      options: [
+        'Carnatic Vocal',
+        'Hindustani Classical',
+        'Sopana Sangeetham',
+        'Rabindra Sangeet',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Gharana** system is a cornerstone of **Hindustani classical music**. A gharana is a community of performers who share a distinct musical style that is passed down through generations in a guru-shishya parampara (teacher-disciple tradition). Each gharana, like the Gwalior, Agra, Kirana, and Jaipur gharanas, has its unique approach to raga interpretation, voice production, and rhythm. Carnatic music does not have a similar gharana system, focusing more on individual composer lineages.',
+      difficulty: 'Medium',
+      hint: 'This musical tradition is prevalent in North India.',
+    },
+    {
+      level: 207,
+      mainsubject: 'Culture & Society',
+      question:
+        "Kittur Rani Chennamma, a celebrated figure in Karnataka's history, led one of the earliest armed rebellions against whom?",
+      options: [
+        'The Mughal Empire',
+        'The Maratha Confederacy',
+        'The British East India Company',
+        'The Nizam of Hyderabad',
+      ],
+      correctAnswer: 3,
+      explanation:
+        '**Kittur Rani Chennamma** was the queen of the princely state of Kittur in Karnataka. In 1824, she led an armed rebellion against the **British East India Company** in defiance of the **Doctrine of Lapse**. This was three decades before the famous Revolt of 1857, making her one of the first Indian rulers to resist British rule. Her bravery and leadership have made her an icon of the Indian independence movement, especially in Karnataka.',
+      difficulty: 'Medium',
+      hint: 'Her rebellion was against the implementation of the Doctrine of Lapse.',
+    },
+    {
+      level: 208,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which of the following has been accorded a Geographical Indication (GI) tag for its unique floral aroma and is famously associated with the city of Mysuru?',
+      options: [
+        'Mysore Mallige (Jasmine)',
+        'Udupi Mallige (Jasmine)',
+        'Hadagali Mallige (Jasmine)',
+        'Bangalore Rose Onion',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '**Mysore Mallige** is the variety of jasmine that has received a GI tag for its distinct, long-lasting fragrance. It is grown primarily in and around the Mysuru district. The GI tag recognizes its unique qualities derived from the specific agro-climatic conditions of the region. While **Udupi Mallige** and **Hadagali Mallige** are also famous GI-tagged jasmine varieties from Karnataka, it is the Mysore Mallige that is most famously linked with the city of Mysuru.',
+      difficulty: 'Medium',
+      hint: "This flower is integral to the cultural and religious life of the 'City of Palaces'.",
+    },
+    {
+      level: 209,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Sharia' law, often mentioned in discussions on religion and society, is the legal framework of which religion?",
+      options: ['Judaism', 'Christianity', 'Zoroastrianism', 'Islam'],
+      correctAnswer: 4,
+      explanation:
+        '**Sharia** is the religious law forming part of the Islamic tradition. It is derived from the religious precepts of Islam, particularly the **Quran** (the holy book) and the **Hadith** (sayings and actions of the Prophet Muhammad). It provides guidance on all aspects of life, from rituals and worship to civil matters like marriage, inheritance, and contracts. Its application and interpretation vary significantly across different Muslim communities and countries.',
+      difficulty: 'Easy',
+      hint: 'This legal system is based on the teachings of the Quran.',
+    },
+    {
+      level: 210,
+      mainsubject: 'Culture & Society',
+      question:
+        'Which ancient Indian script is the ancestor of most modern Indian scripts, including Kannada, Devanagari, and Tamil?',
+      options: [
+        'Kharosthi Script',
+        'Brahmi Script',
+        'Sharada Script',
+        'Grantha Script',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Brahmi script** is the mother of almost all scripts used in India, Southeast Asia, and Tibet today. The Ashokan edicts from the 3rd century BCE were written in Brahmi, providing some of the earliest examples. Over centuries, Brahmi evolved into numerous regional variants, which then developed into the modern scripts we know today. **Kharosthi** was another ancient script used in the northwest, written from right to left, but it did not give rise to later Indian scripts.',
+      difficulty: 'Hard',
+      hint: 'The edicts of Emperor Ashoka were predominantly written in this script.',
+    },
+    {
+      level: 211,
+      mainsubject: 'Culture & Society',
+      question:
+        "Consider the following statements about 'Veeragase', a folk dance in Karnataka:\n1. It is a vigorous dance performed exclusively by women.\n2. The performance primarily depicts stories from the life of Lord Vishnu.\nWhich of the above statement(s) is/are correct?",
+      options: ['Only 1', 'Only 2', 'Both 1 and 2', 'Neither 1 nor 2'],
+      correctAnswer: 4,
+      explanation:
+        '**Both statements are incorrect.** **Veeragase** is an intense and energetic folk dance performed by **men**, primarily during the months of Shravana and Kartika and at Dasara processions. The dance is performed in honor of **Lord Shiva** and narrates stories of the Hindu deity **Veerabhadra**. It is a highly ritualistic dance that involves dancers carrying swords and large wooden plaques with the figure of Veerabhadra.',
+      difficulty: 'Hard',
+      hint: "This dance form is dedicated to Lord Shiva's fierce form, Veerabhadra.",
+    },
+    {
+      level: 212,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Nari Shakti Puraskar' is an annual award given by the Government of India to recognize:",
+      options: [
+        'The highest-achieving female athletes.',
+        'Women scientists for their contribution to research.',
+        "Individuals and institutions for their outstanding work towards women's empowerment.",
+        'Female entrepreneurs in the startup ecosystem.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Nari Shakti Puraskar** (Woman Power Award) is India's highest civilian honor for women. It is conferred annually by the President of India on International Women's Day (March 8). The award recognizes the exceptional contributions of **individuals, groups, and institutions** in various fields that advance the cause of **women's empowerment**, challenge gender stereotypes, and create a positive impact on women's lives.",
+      difficulty: 'Medium',
+      hint: "It is India's highest civilian honor specifically for contributions to women's empowerment.",
+    },
+    {
+      level: 213,
+      mainsubject: 'Culture & Society',
+      question:
+        "'Sankirtana', a ritual singing, drumming, and dancing art form, is an Intangible Cultural Heritage of Humanity recognized by UNESCO. It is native to which state?",
+      options: ['West Bengal', 'Assam', 'Manipur', 'Odisha'],
+      correctAnswer: 3,
+      explanation:
+        "**Sankirtana** is a vibrant performing art indigenous to **Manipur**. It is central to the Vaishnava community of the state and is performed to narrate the life and deeds of Lord Krishna. The performances, which take place in temples and community spaces, bring together artists who sing, drum (on the Pung), and dance. It was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2013.",
+      difficulty: 'Very Hard',
+      hint: 'This state is also famous for its classical dance form which shares its name.',
+    },
+    {
+      level: 214,
+      mainsubject: 'Culture & Society',
+      question:
+        'The Ajanta and Ellora caves are both UNESCO World Heritage sites in Maharashtra, but they differ significantly. What is a key difference?',
+      options: [
+        'Ajanta caves are structural temples, while Ellora caves are rock-cut.',
+        'Ajanta is exclusively Buddhist, while Ellora represents Buddhism, Hinduism, and Jainism.',
+        "Ajanta paintings are from the Mughal era, while Ellora's are from the Mauryan era.",
+        'Ellora caves have no sculptures, only paintings.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The most significant difference is their religious scope. The **Ajanta caves** are a collection of rock-cut caves dedicated solely to **Buddhism**, famous for their exquisite mural paintings depicting Jataka tales. In contrast, the **Ellora caves** are a testament to religious harmony, featuring rock-cut monasteries and temples dedicated to all three major ancient Indian religions: **Buddhism, Hinduism, and Jainism**. Both sites are rock-cut, not structural.',
+      difficulty: 'Medium',
+      hint: 'One site represents a single religion, while the other showcases three.',
+    },
+    {
+      level: 215,
+      mainsubject: 'Culture & Society',
+      question:
+        "Who is the author of the monumental Kannada novel 'Parva', which retells the Mahabharata from a modern, sociological perspective?",
+      options: [
+        'Kuvempu',
+        'U. R. Ananthamurthy',
+        'S. L. Bhyrappa',
+        'Girish Karnad',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**S. L. Bhyrappa**, one of modern India's most acclaimed novelists, is the author of **'Parva'**. The novel is celebrated for its realistic and humanistic portrayal of the characters of the Mahabharata, stripping away the divine elements to explore their psychological and ethical dilemmas. It's a cornerstone of modern Kannada literature. Kuvempu wrote 'Sri Ramayana Darshanam', and U.R. Ananthamurthy wrote 'Samskara'.",
+      difficulty: 'Medium',
+      hint: 'He is a contemporary novelist known for his deeply philosophical and character-driven works.',
+    },
+    {
+      level: 216,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Integrated Child Development Services' (ICDS) is a flagship government program that provides a package of services to:",
+      options: [
+        'Secondary school students for skill development.',
+        'Juvenile offenders for rehabilitation.',
+        'Children up to 6 years of age, pregnant women, and lactating mothers.',
+        'Orphaned children for adoption services.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **ICDS program**, operating through Anganwadi Centers, is one of the world's largest initiatives for early childhood development. It provides a comprehensive package of six services: **supplementary nutrition, immunization, health check-ups, referral services, pre-school non-formal education, and nutrition & health education**. These services are targeted at **children below 6 years, pregnant women, and lactating mothers** to combat malnutrition and improve health outcomes.",
+      difficulty: 'Medium',
+      hint: 'This program operates through Anganwadi centers.',
+    },
+    {
+      level: 217,
+      mainsubject: 'Culture & Society',
+      question:
+        "The Dadasaheb Phalke Award, India's highest honor in cinema, is presented annually by which organization?",
+      options: [
+        'The Film and Television Institute of India (FTII)',
+        'The National Film Development Corporation (NFDC)',
+        'The Central Board of Film Certification (CBFC)',
+        'The Directorate of Film Festivals (under the Ministry of Information and Broadcasting)',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "The **Dadasaheb Phalke Award** is awarded for 'outstanding contribution to the growth and development of Indian cinema'. It is presented annually at the **National Film Awards** ceremony by the **Directorate of Film Festivals**, an organization set up by the Ministry of Information and Broadcasting. The award commemorates Dadasaheb Phalke, the 'father of Indian cinema', who directed India's first full-length feature film, 'Raja Harishchandra'.",
+      difficulty: 'Medium',
+      hint: 'It is presented as part of the National Film Awards ceremony.',
+    },
+    {
+      level: 218,
+      mainsubject: 'Culture & Society',
+      question:
+        "In the context of the Indian caste system, the term 'Scheduled Castes' was first officially used in:",
+      options: [
+        'The Manusmriti',
+        'The Constitution of India, 1950',
+        'The Government of India Act, 1935',
+        'The Poona Pact, 1932',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "While the term 'Depressed Classes' was used earlier, the term **'Scheduled Castes'** was given legal and official status for the first time in the **Government of India Act, 1935**. This Act provided for a list or 'schedule' of castes that were entitled to special provisions, including political representation. This framework was later adopted and expanded in the **Constitution of India**.",
+      difficulty: 'Hard',
+      hint: 'This pre-independence British legislation provided a framework for the future Indian constitution.',
+    },
+    {
+      level: 219,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Lalitha Mahal' in Mysuru, known for its striking white architecture, was built in a style inspired by which famous European landmark?",
+      options: [
+        'The Buckingham Palace, London',
+        "St. Paul's Cathedral, London",
+        'The Palace of Versailles, France',
+        'The Colosseum, Rome',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "The **Lalitha Mahal**, the second largest palace in Mysuru, was built in 1921 by Maharaja Krishnaraja Wodeyar IV. Its architecture, designed by E. W. Fritchley, was inspired by **St. Paul's Cathedral in London**, particularly its central dome. It was initially built to host the Viceroy of India and is now a luxury heritage hotel.",
+      difficulty: 'Hard',
+      hint: 'Think of a famous cathedral in London with a large dome.',
+    },
+    {
+      level: 220,
+      mainsubject: 'Culture & Society',
+      question:
+        "The philosophical school of 'Advaita Vedanta', which posits the non-dualistic reality of 'Brahman', was consolidated and popularized by which great philosopher?",
+      options: [
+        'Ramanujacharya',
+        'Madhvacharya',
+        'Adi Shankaracharya',
+        'Basavanna',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Adi Shankaracharya**, an 8th-century philosopher, was the foremost exponent of **Advaita Vedanta**. His core teaching is 'Brahma Satyam, Jagan Mithya, Jivo Brahmaiva Naparah' (Brahman alone is real, the world is unreal, and the individual self is non-different from Brahman). In contrast, **Ramanujacharya** proposed **Vishishtadvaita** (qualified non-dualism), and **Madhvacharya** (from Karnataka) proposed **Dvaita** (dualism).",
+      difficulty: 'Medium',
+      hint: "He established four major 'mathas' (monasteries) in the four corners of India.",
+    },
+    {
+      level: 221,
+      mainsubject: 'Culture & Society',
+      question: 'Which of the following is NOT a classical language of India?',
+      options: ['Sanskrit', 'Tamil', 'Pali', 'Kannada'],
+      correctAnswer: 3,
+      explanation:
+        "Currently, the Government of India has recognized six languages as 'Classical Languages': **Tamil** (2004), **Sanskrit** (2005), **Kannada** (2008), **Telugu** (2008), **Malayalam** (2013), and **Odia** (2014). **Pali**, an ancient Prakrit language in which the early Buddhist scriptures were written, does not have this official status, although it is of immense historical and literary importance.",
+      difficulty: 'Medium',
+      hint: "The early Buddhist scriptures are written in this language, but it lacks the official 'classical' tag.",
+    },
+    {
+      level: 222,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Durga temple' at Aihole is architecturally significant for its:",
+      options: [
+        'Towering Dravidian Vimana',
+        'Apsidal (semi-circular) plan, resembling a Buddhist Chaitya hall',
+        'Massive monolithic Nandi statue',
+        'Star-shaped platform, typical of Hoysala architecture',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The Durga temple at Aihole, a masterpiece of Chalukyan architecture, is unique for its **apsidal or semi-circular shape**. This design is reminiscent of earlier **Buddhist Chaitya halls**. It is not a star-shaped Hoysala design, nor does it have a towering Dravidian vimana (its tower is more of a nascent Nagara style). Its unusual plan makes it a key monument in the study of Indian temple evolution.',
+      difficulty: 'Very Hard',
+      hint: 'Its shape is similar to early Buddhist prayer halls.',
+    },
+    {
+      level: 223,
+      mainsubject: 'Culture & Society',
+      question:
+        "The Protection of Women from Domestic Violence Act, 2005, provides a broad definition of 'domestic violence'. It includes not only physical abuse but also:",
+      options: [
+        'Only verbal abuse',
+        'Only economic abuse',
+        'Only emotional abuse',
+        'Verbal, emotional, sexual, and economic abuse',
+      ],
+      correctAnswer: 4,
+      explanation:
+        'The **Domestic Violence Act, 2005** is a civil law that provides a comprehensive definition of domestic violence. It goes beyond just physical harm to include **sexual abuse** (any conduct of a sexual nature), **verbal and emotional abuse** (insults, humiliation), and **economic abuse** (deprivation of financial resources, not paying maintenance). This broad definition helps protect women from all forms of abuse within a domestic relationship.',
+      difficulty: 'Medium',
+      hint: 'The act was designed to be comprehensive and cover all forms of abuse.',
+    },
+    {
+      level: 224,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Navagraha Jain Temple' at Varur near Hubballi, Karnataka, is famous for its:",
+      options: [
+        'Ancient rock-cut caves',
+        'Intricate ivory carvings',
+        '61-foot tall monolithic statue of Parshvanatha',
+        'Unique circular architectural design',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The Navagraha Teertha is a major Jain pilgrimage center in Karnataka. Its main attraction is a colossal **61-foot monolithic statue of the 23rd Tirthankara, Shri Parshvanatha**. Weighing 185 tons, it is the tallest monolithic statue of Parshvanatha in India. The temple complex also includes smaller statues of the other Tirthankaras and the Navagrahas (nine celestial bodies).',
+      difficulty: 'Hard',
+      hint: 'Its main attraction is a colossal statue of the 23rd Tirthankara.',
+    },
+    {
+      level: 225,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Tanjore painting' style, known for its vibrant colors, gold foil work, and inlay of semi-precious stones, originated in which kingdom?",
+      options: [
+        'Vijayanagara Empire',
+        'Hoysala Kingdom',
+        'Pandyan Kingdom',
+        'Maratha Kingdom of Thanjavur',
+      ],
+      correctAnswer: 4,
+      explanation:
+        'The iconic **Tanjore painting** style flourished in the South Indian city of Thanjavur (Tanjore) under the patronage of the **Maratha rulers** who governed the region from the 17th to the 19th century. While it has roots in earlier artistic traditions, it was during the Maratha period that it developed its characteristic features: rich colors, gilded relief work (gesso work), and inlay of glass beads or gems, typically depicting Hindu deities.',
+      difficulty: 'Hard',
+      hint: 'This art form flourished under Maratha rulers in a Tamil city.',
+    },
+    {
+      level: 226,
+      mainsubject: 'Culture & Society',
+      question:
+        'Article 46 of the Indian Constitution, a Directive Principle, directs the State to:',
+      options: [
+        'Promote international peace and security.',
+        'Provide free and compulsory education for all children up to age 14.',
+        'Organize village panchayats.',
+        'Promote the educational and economic interests of Scheduled Castes, Scheduled Tribes, and other weaker sections.',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "**Article 46** is a crucial Directive Principle of State Policy that guides the government's actions towards social justice. It explicitly states that 'The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the **Scheduled Castes and the Scheduled Tribes**, and shall protect them from social injustice and all forms of exploitation.' This article forms the philosophical basis for many affirmative action policies.",
+      difficulty: 'Hard',
+      hint: 'This article is a cornerstone for policies related to the welfare of weaker sections.',
+    },
+    {
+      level: 227,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Ibrahim Rauza' in Vijayapura (Bijapur) is a mausoleum complex often called the 'Taj Mahal of the Deccan'. It is the tomb of:",
+      options: [
+        'Mohammed Adil Shah',
+        'Yusuf Adil Shah',
+        'Ibrahim Adil Shah II',
+        'Ali Adil Shah I',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The **Ibrahim Rauza** complex contains the tomb of **Ibrahim Adil Shah II**, the fifth king of the Adil Shahi dynasty, and his queen, Taj Sultana. It is renowned for its architectural symmetry and exquisite detail, with a tomb and a mosque facing each other on a raised platform. Its delicate and graceful design has earned it the comparison to the Taj Mahal. The tomb of Mohammed Adil Shah is the famous Gol Gumbaz.',
+      difficulty: 'Hard',
+      hint: 'The name of the ruler is in the name of the monument.',
+    },
+    {
+      level: 228,
+      mainsubject: 'Culture & Society',
+      question:
+        "In the context of women's empowerment, what are Self-Help Groups (SHGs)?",
+      options: [
+        "Political lobbying groups for women's reservation.",
+        'Formal financial institutions like banks run by women.',
+        'Informal groups of women who pool savings and provide loans to members.',
+        'Government-run vocational training centers.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Self-Help Groups (SHGs)** are typically small, informal associations of 10-20 women from similar socio-economic backgrounds. They come together to **save small amounts of money regularly**. This pooled money is then used to give out small loans to members in times of need. SHGs are a powerful tool for financial inclusion, poverty alleviation, and women's empowerment, as they build financial discipline, provide access to credit, and foster community support.",
+      difficulty: 'Easy',
+      hint: 'They are a key component of microfinance initiatives in India.',
+    },
+    {
+      level: 229,
+      mainsubject: 'Culture & Society',
+      question:
+        'Sangolli Rayanna, a revered freedom fighter from Karnataka, was the chief of the army of which kingdom?',
+      options: [
+        'The Kingdom of Mysore',
+        'The Keladi Nayakas',
+        'The Kingdom of Kittur',
+        'The Western Ganga Dynasty',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "**Sangolli Rayanna** was the army chief or 'Senapati' of the **Kingdom of Kittur**, ruled by Rani Chennamma. After the Rani's arrest by the British, Rayanna continued the rebellion with guerrilla warfare, becoming a symbol of resistance and folk hero. He was eventually captured and executed by the British in 1831. His valor and sacrifice are celebrated in folk songs and theatre across Karnataka.",
+      difficulty: 'Medium',
+      hint: 'He fought alongside Rani Chennamma against the British.',
+    },
+    {
+      level: 230,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which of these is NOT one of the 'Four Noble Truths' of Buddhism?",
+      options: [
+        'The truth of suffering (Dukkha)',
+        'The truth of the cause of suffering (Samudāya)',
+        'The truth of the path to the cessation of suffering (Magga)',
+        'The truth of attaining eternal life in heaven (Svarga)',
+      ],
+      correctAnswer: 4,
+      explanation:
+        'The Four Noble Truths form the foundation of Buddhist teachings. They are: 1) There is suffering (**Dukkha**). 2) There is a cause for suffering, which is craving and attachment (**Samudāya**). 3) There is an end to suffering (**Nirodha**). 4) There is a path to end suffering, the Noble Eightfold Path (**Magga**). The concept of attaining an eternal heaven is not a central tenet of the Four Noble Truths; the goal is Nirvana, the cessation of suffering and the cycle of rebirth.',
+      difficulty: 'Medium',
+      hint: 'The core of Buddhism is about understanding and ending suffering, not about an afterlife in heaven.',
+    },
+    {
+      level: 231,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'BandGala' or 'Jodhpuri Suit', a formal suit for men, is a cultural contribution from which Indian state?",
+      options: ['Punjab', 'Rajasthan', 'Gujarat', 'Uttar Pradesh'],
+      correctAnswer: 2,
+      explanation:
+        "The **Bandhgala** (meaning 'closed neck') suit originated in the princely state of **Jodhpur, Rajasthan**, during the late 19th century. It is a blend of traditional Indian angarkha and Western formal wear. Also known as the Jodhpuri suit, it was popularized by the Maharaja of Jodhpur and has since become a globally recognized style of formal and semi-formal attire.",
+      difficulty: 'Easy',
+      hint: 'The alternative name of the suit points directly to its city of origin.',
+    },
+    {
+      level: 232,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006' is a landmark legislation that primarily aims to:",
+      options: [
+        'Nationalize all forest land in India.',
+        'Grant ownership of forest land to private corporations for industrial use.',
+        'Recognize and vest forest rights and occupation in forest-dwelling communities.',
+        'Declare all forests as protected areas and prohibit human entry.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Forest Rights Act (FRA), 2006** is a historic law enacted to correct the 'historical injustice' done to forest-dwelling communities. Its primary objective is to **recognize and formalize the rights** of Scheduled Tribes and Other Traditional Forest Dwellers over the forest land they have been living on and cultivating for generations. It grants them rights to land ownership (individual rights) and the right to manage and use community forest resources (community rights).",
+      difficulty: 'Hard',
+      hint: "This act seeks to correct the 'historical injustice' done to forest dwellers.",
+    },
+    {
+      level: 233,
+      mainsubject: 'Culture & Society',
+      question:
+        "The magnificent 'Gomateshwara statue' at Shravanabelagola was consecrated in 981 AD under the patronage of Chavundaraya, who was a minister and commander for which dynasty?",
+      options: [
+        'Hoysala Dynasty',
+        'Rashtrakuta Dynasty',
+        'Kadamba Dynasty',
+        'Western Ganga Dynasty',
+      ],
+      correctAnswer: 4,
+      explanation:
+        '**Chavundaraya** was a minister and commander in the court of the **Western Ganga Dynasty** of Talakad. He served King Rachamalla IV and commissioned the colossal monolithic statue of Gomateshwara (Bahubali) atop the Vindhyagiri Hill at Shravanabelagola. This masterpiece stands as a testament to the artistic and religious fervor of the Ganga period in Karnataka.',
+      difficulty: 'Hard',
+      hint: 'This dynasty ruled parts of southern Karnataka before the Hoysalas.',
+    },
+    {
+      level: 234,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which of the following is an example of an 'Intangible Cultural Heritage' as defined by UNESCO?",
+      options: [
+        'The Taj Mahal',
+        "The ritual theatre of 'Mudiyettu' in Kerala",
+        'The ruins of Hampi',
+        'The Great Wall of China',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "UNESCO's concept of **Intangible Cultural Heritage** refers to traditions, living expressions, and knowledge passed down from generation to generation. This includes performing arts, social practices, rituals, and traditional craftsmanship. **'Mudiyettu'**, a ritual theatre and dance drama from Kerala, is on this list. The Taj Mahal, Hampi, and the Great Wall are all examples of **Tangible Cultural Heritage**—physical, man-made sites.",
+      difficulty: 'Medium',
+      hint: 'Think about heritage that is performed or practiced, rather than built.',
+    },
+    {
+      level: 235,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Anubhava Mantapa' established by Basavanna in the 12th century is considered one of the world's earliest parliaments. What was its primary purpose?",
+      options: [
+        'To collect taxes for the kingdom.',
+        'To serve as a military command center.',
+        'To be a spiritual academy and public assembly for discussing social and religious reforms.',
+        'To function as a court for criminal justice.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        "The **Anubhava Mantapa** ('hall of spiritual experience') was a revolutionary institution established in Basavakalyan by Basavanna and other Sharanas. It served as a **public assembly and spiritual academy** where mystics, saints, and philosophers from all walks of life, including women and people from lower castes, gathered to discuss theology, social reforms, and personal spiritual experiences. It promoted democratic ideals and social equality, making it a unique institution for its time.",
+      difficulty: 'Medium',
+      hint: "It was a 'hall of spiritual experience' for social reformers.",
+    },
+    {
+      level: 236,
+      mainsubject: 'Culture & Society',
+      question:
+        "The term 'Fourth Estate' is often used to refer to which pillar of modern society?",
+      options: [
+        'The Judiciary',
+        'The Executive',
+        'The Legislature',
+        'The Press (Media)',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "The term **'Fourth Estate'** refers to the **press and news media**. The traditional three estates of the realm are the legislature, the executive, and the judiciary. The press is called the 'fourth estate' because of its significant indirect influence on society and politics. It plays a crucial role as a watchdog, holding the other three estates accountable and informing the public, thereby upholding democracy.",
+      difficulty: 'Easy',
+      hint: 'It acts as a watchdog for the other three pillars of democracy.',
+    },
+    {
+      level: 237,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Chittara' art is a unique form of traditional mural and floor painting practiced by the women of which community in Karnataka?",
+      options: [
+        'The Kodava community in Kodagu',
+        'The Deevaru community in the Malenadu region',
+        'The Lambani community across Karnataka',
+        'The Siddi community in Uttara Kannada',
+      ],
+      correctAnswer: 2,
+      explanation:
+        '**Chittara art** is an intricate folk art form practiced by the women of the **Deevaru community**, primarily in the Shivamogga and Sagara regions of Malenadu, Karnataka. These paintings are made on the walls and floors of their homes using natural materials like rice paste, red earth, and charcoal. The designs are geometric and symbolic, representing aspects of their daily life, nature, and rituals.',
+      difficulty: 'Very Hard',
+      hint: 'This art form is from the Malenadu region and uses natural pigments.',
+    },
+    {
+      level: 238,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'National Commission for Protection of Child Rights' (NCPCR) is a statutory body established to:",
+      options: [
+        'Provide mid-day meals in schools.',
+        'Run adoption agencies across the country.',
+        'Ensure that all laws and policies are in consonance with the child rights perspective.',
+        'Conduct board examinations for Class 10 and 12.',
+      ],
+      correctAnswer: 3,
+      explanation:
+        'The **NCPCR** was set up in 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. Its primary mandate is to **protect, promote, and defend child rights** in the country. It reviews legal safeguards, inquires into complaints of violations of child rights, and recommends policy changes to ensure that all laws and government programs align with the principles of child rights as enshrined in the Constitution and the UN Convention on the Rights of the Child.',
+      difficulty: 'Medium',
+      hint: 'Its role is to be a watchdog for child rights.',
+    },
+    {
+      level: 239,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Warli Painting' is a traditional art form characterized by its use of basic geometric shapes like circles, triangles, and squares. It belongs to which state?",
+      options: ['Rajasthan', 'Bihar', 'Maharashtra', 'Kerala'],
+      correctAnswer: 3,
+      explanation:
+        '**Warli painting** is the traditional art of the Warli tribe, who live in the mountainous and coastal regions of **Maharashtra** and Gujarat. These paintings use a very simple graphic vocabulary—a circle (sun, moon), a triangle (mountains, trees), and a square (sacred enclosure)—to depict scenes of social life, hunting, farming, and festivals. They are traditionally painted on mud walls with a white pigment made from rice paste.',
+      difficulty: 'Medium',
+      hint: 'This tribal art form comes from the state whose capital is Mumbai.',
+    },
+    {
+      level: 240,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which article of the Indian Constitution empowers the President to establish a 'Commission to investigate the conditions of backward classes'?",
+      options: ['Article 338', 'Article 340', 'Article 341', 'Article 356'],
+      correctAnswer: 2,
+      explanation:
+        '**Article 340** of the Constitution provides the power to the President to appoint a Commission to investigate the conditions of socially and educationally backward classes (SEBCs) and the difficulties under which they labor and to make recommendations to improve their condition. The **Mandal Commission** was appointed under this very article. Article 338 deals with the National Commission for SCs, and Article 341 empowers the President to specify the SCs.',
+      difficulty: 'Hard',
+      hint: 'The Mandal Commission was appointed under this article.',
+    },
+    {
+      level: 241,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Bidriware' is a famous metal handicraft known for its striking silver inlay work on a blackened alloy. It gets its name from its place of origin, which is:",
+      options: [
+        'Bidar, Karnataka',
+        'Bijapur, Karnataka',
+        'Bellary, Karnataka',
+        'Belgaum, Karnataka',
+      ],
+      correctAnswer: 1,
+      explanation:
+        '**Bidriware** is a renowned metal craft that originated in the city of **Bidar, Karnataka**, during the Bahmani Sultanate in the 14th century. The craft involves casting an alloy of zinc and copper, which is then inlaid with intricate designs using pure silver wire or sheets. The final step involves treating the artifact with soil from the Bidar fort, which has special properties that turn the alloy a lustrous black while leaving the silver inlay sparkling.',
+      difficulty: 'Easy',
+      hint: 'The name of the craft is the same as its city of origin.',
+    },
+    {
+      level: 242,
+      mainsubject: 'Culture & Society',
+      question:
+        "The Hindu Widows' Remarriage Act, which legalized the remarriage of Hindu widows, was passed in 1856 largely due to the efforts of which social reformer?",
+      options: [
+        'Raja Ram Mohan Roy',
+        'Swami Vivekananda',
+        'Dayananda Saraswati',
+        'Ishwar Chandra Vidyasagar',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "**Ishwar Chandra Vidyasagar**, a great scholar and reformer from Bengal, was the key figure behind the Hindu Widows' Remarriage Act, 1856. He launched a powerful campaign, citing scriptural evidence and humanitarian principles to argue for the right of widows to remarry, a practice that was forbidden at the time. While Raja Ram Mohan Roy was instrumental in the abolition of Sati, Vidyasagar championed the cause of widow remarriage.",
+      difficulty: 'Medium',
+      hint: 'He was a great scholar and reformer from Bengal.',
+    },
+    {
+      level: 243,
+      mainsubject: 'Culture & Society',
+      question:
+        "Which of the following is a key feature of the 'Dravidian' style of temple architecture, as seen in the Brihadeeswarar Temple?",
+      options: [
+        'A curvilinear shikhara that tapers towards the top.',
+        'A pyramidal vimana consisting of stepped storeys.',
+        'The absence of a boundary wall or gateway.',
+        "The use of a raised platform or 'jagati' as the base.",
+      ],
+      correctAnswer: 2,
+      explanation:
+        "A defining feature of the **Dravidian style** is the **vimana**, the tower over the main sanctum, which is **pyramidal** in shape and consists of multiple diminishing storeys ('talas'). The Brihadeeswarar Temple in Thanjavur is a perfect example. In contrast, the North Indian 'Nagara' style has a curvilinear tower called a 'shikhara'. Dravidian temples are also characterized by enclosed courtyards and monumental gateways called 'gopurams'.",
+      difficulty: 'Hard',
+      hint: 'The tower over the sanctum is shaped like a pyramid with multiple levels.',
+    },
+    {
+      level: 244,
+      mainsubject: 'Culture & Society',
+      question:
+        'U. R. Ananthamurthy, a Jnanpith awardee from Karnataka, was a leading figure in which literary movement that focused on existentialism and modern sensibilities?',
+      options: [
+        'Navodaya (Renaissance)',
+        'Pragathisheela (Progressive)',
+        'Dalita (Dalit)',
+        'Navya (Modernist)',
+      ],
+      correctAnswer: 4,
+      explanation:
+        "**U. R. Ananthamurthy** was a pioneer of the **Navya (Modernist)** movement in Kannada literature. This movement, which emerged in the 1950s, was influenced by European modernism and existentialist philosophy. Navya writers like Ananthamurthy ('Samskara') and Girish Karnad explored themes of alienation, psychological conflict, and the individual's search for identity in a rapidly changing society, using complex narratives and symbolism.",
+      difficulty: 'Hard',
+      hint: "His novel 'Samskara' is a classic of this modernist movement.",
+    },
+    {
+      level: 245,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Juvenile Justice (Care and Protection of Children) Act, 2015' defines a 'child' as any person below the age of:",
+      options: ['14 years', '16 years', '18 years', '21 years'],
+      correctAnswer: 3,
+      explanation:
+        "The **Juvenile Justice Act, 2015** defines a 'child' as a person who has not completed **eighteen years of age**. The Act deals with two categories of children: 'child in conflict with law' and 'child in need of care and protection'. A significant amendment in the 2015 Act allows for juveniles between 16 and 18 years of age, who have committed heinous crimes, to be tried as adults under certain circumstances, following a preliminary assessment.",
+      difficulty: 'Easy',
+      hint: 'This age is the internationally recognized standard for childhood.',
+    },
+    {
+      level: 246,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Madhubani Painting', characterized by its intricate line drawings and bright colors, is a traditional folk art from which Indian state?",
+      options: ['Odisha', 'West Bengal', 'Bihar', 'Uttar Pradesh'],
+      correctAnswer: 3,
+      explanation:
+        '**Madhubani painting**, also known as Mithila art, is a famous style of folk painting that originated in the Mithila region of **Bihar**. Traditionally, it was done by women on the walls and floors of their homes during festivals and ceremonies. The paintings are known for their complex geometric patterns and depictions of nature and mythological figures. It is now a popular art form on paper and cloth as well.',
+      difficulty: 'Medium',
+      hint: 'This art form is also known as Mithila painting.',
+    },
+    {
+      level: 247,
+      mainsubject: 'Culture & Society',
+      question:
+        "What does the term 'Patriarchy' refer to in a sociological context?",
+      options: [
+        'A society where the elderly are held in the highest regard.',
+        'A social system where men hold primary power and authority.',
+        'A system of inheritance where property passes through the female line.',
+        'A form of government ruled by religious leaders.',
+      ],
+      correctAnswer: 2,
+      explanation:
+        "**Patriarchy** is a social system in which **men hold primary power** and predominate in roles of political leadership, moral authority, social privilege, and control of property. In a patriarchal system, the father or eldest male is the head of the family, and descent and inheritance are traced through the male line. It is a key concept in sociology and feminist theory for analyzing gender inequality. The opposite system is 'Matriarchy'.",
+      difficulty: 'Easy',
+      hint: 'It is a social system where power is held by men.',
+    },
+    {
+      level: 248,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Kasuti' is a traditional form of intricate embroidery that has been granted a GI tag. It is a craft native to which state?",
+      options: ['Gujarat', 'Rajasthan', 'Punjab', 'Karnataka'],
+      correctAnswer: 4,
+      explanation:
+        '**Kasuti embroidery** is a traditional craft from **Karnataka**, practiced mainly in districts like Dharwad, Hubballi, and Kalaburagi. It involves intricate hand-stitching on handloom sarees, typically Ilkal sarees. The embroidery is done without knots, so the design looks the same on both sides of the fabric. Common motifs include temple gopurams, chariots, palanquins, and animals, all created with great skill and precision.',
+      difficulty: 'Hard',
+      hint: 'This embroidery is often done on Ilkal sarees.',
+    },
+    {
+      level: 249,
+      mainsubject: 'Culture & Society',
+      question:
+        'Match the following Indian philosophical schools with their founders:\n(A) Samkhya        (1) Gautama\n(B) Yoga           (2) Jaimini\n(C) Nyaya          (3) Kapila\n(D) Mimamsa        (4) Patanjali',
+      options: [
+        'A-3, B-4, C-1, D-2',
+        'A-4, B-3, C-2, D-1',
+        'A-1, B-2, C-3, D-4',
+        'A-3, B-1, C-4, D-2',
+      ],
+      correctAnswer: 1,
+      explanation:
+        'The correct matches for these orthodox (astika) schools of Hindu philosophy are:\n- (A) **Samkhya**, a school of dualism, is attributed to the sage **Kapila**.\n- (B) **Yoga**, which focuses on meditation and liberation, was systematized by **Patanjali** in his Yoga Sutras.\n- (C) **Nyaya**, the school of logic, was founded by **Gautama**.\n- (D) **Purva Mimamsa**, which focuses on the exegesis of the Vedas, was founded by **Jaimini**.',
+      difficulty: 'Very Hard',
+      hint: "Patanjali's Yoga Sutras are world-famous.",
+    },
+    {
+      level: 250,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Siddhis' of Karnataka are a unique ethnic group who are primarily descendants of:",
+      options: [
+        'Merchants from ancient Rome',
+        'Bantu peoples from Southeast Africa',
+        'Mongol warriors from Central Asia',
+        'Tibetan refugees',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **Siddhis** of Karnataka are an ethnic community primarily descended from the **Bantu peoples of Southeast Africa**. Their ancestors were brought to India as slaves, merchants, or sailors by the Portuguese and Arabs, starting from as early as the 7th century. They are mainly found in the districts of Uttara Kannada, Belagavi, and Dharwad. They have retained some of their ancestral African traditions while also assimilating into the local culture, creating a unique syncretic identity.',
+      difficulty: 'Hard',
+      hint: 'This community has African roots.',
+    },
+    {
+      level: 251,
+      mainsubject: 'Culture & Society',
+      question:
+        "The 'Right of Children to Free and Compulsory Education (RTE) Act, 2009' makes education a fundamental right for every child in which age group?",
+      options: [
+        '3 to 8 years',
+        '6 to 14 years',
+        '5 to 15 years',
+        '6 to 18 years',
+      ],
+      correctAnswer: 2,
+      explanation:
+        'The **RTE Act, 2009** operationalized the fundamental right to education enshrined in **Article 21-A** of the Constitution. It mandates free and compulsory education for every child in the age group of **6 to 14 years** in a neighborhood school till the completion of elementary education. The Act also specifies norms for teacher-pupil ratios, school infrastructure, and prohibits practices like donation fees and screening procedures for admission.',
+      difficulty: 'Easy',
+      hint: 'This right corresponds to Article 21-A of the Constitution.',
+    },
+    {
+      level: 252,
+      mainsubject: 'Culture & Society',
+      question:
+        'Consider the following statements:\n1. The Virupaksha Temple at Pattadakal is built in the Northern Nagara style.\n2. The Papanatha Temple at Pattadakal is built in the Southern Dravida style.\nWhich of the above statement(s) is/are correct?',
+      options: ['Only 1', 'Only 2', 'Both 1 and 2', 'Neither 1 nor 2'],
+      correctAnswer: 4,
+      explanation:
+        '**Both statements are incorrect**, they are interchanged. The UNESCO World Heritage site of Pattadakal is famous for its fusion of architectural styles. The magnificent **Virupaksha Temple** is a classic example of the **Southern Dravida style**, built by Queen Lokamahadevi. The **Papanatha Temple**, on the other hand, shows a clear influence of the **Northern Nagara style**, though with some Dravidian elements mixed in, showcasing the experimental nature of Chalukyan architecture.',
+      difficulty: 'Very Hard',
+      hint: 'The statements have interchanged the styles of the two temples.',
+    },
   ],
   'Technology & Development': [
     {
