@@ -97,16 +97,35 @@ const HomeScreen = ({ navigation }) => {
           ))}
         </View>
 
-                {/* Kannada Section */}
-                <View style={{ marginBottom: 8 }}>
-          <Text style={[styles.welcomeTitle, { color: theme.textPrimary }]}>Kannada Section</Text>
+                {/* Mock Tests Section */}
+        <View style={{ marginBottom: 8 }}>
+          <Text style={[styles.welcomeTitle, { color: theme.textPrimary }]}>Mock Tests</Text>
           <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+            <TouchableOpacity
+              onPress={() => navigation.navigate('MockTestList')}
+              activeOpacity={0.8}
+              style={{
+                flex: 1,
+                marginRight: 8,
+                padding: 16,
+                borderRadius: 12,
+                borderWidth: 1,
+                borderColor: '#E5E7EB',
+                backgroundColor: theme.card,
+              }}
+            >
+              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 6 }}>
+                <Icon name="clipboard-check" size={20} color={theme.textPrimary} />
+                <Text style={{ marginLeft: 8, fontWeight: '700', color: theme.textPrimary }}>Mock Tests</Text>
+              </View>
+              <Text style={{ color: theme.textSecondary }}>Practice with real exam pattern</Text>
+            </TouchableOpacity>
             <TouchableOpacity
               onPress={() => navigation.navigate('EssayList')}
               activeOpacity={0.8}
               style={{
                 flex: 1,
-                marginRight: 8,
+                marginLeft: 8,
                 padding: 16,
                 borderRadius: 12,
                 borderWidth: 1,
@@ -120,12 +139,19 @@ const HomeScreen = ({ navigation }) => {
               </View>
               <Text style={{ color: theme.textSecondary }}>Topics and Kannada essays</Text>
             </TouchableOpacity>
+          </View>
+        </View>
+
+        {/* Kannada Section */}
+        <View style={{ marginBottom: 8 }}>
+          <Text style={[styles.welcomeTitle, { color: theme.textPrimary }]}>Kannada Section</Text>
+          <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
             <TouchableOpacity
               onPress={() => navigation.navigate('Translations')}
               activeOpacity={0.8}
               style={{
                 flex: 1,
-                marginLeft: 8,
+                marginRight: 8,
                 padding: 16,
                 borderRadius: 12,
                 borderWidth: 1,
@@ -139,6 +165,21 @@ const HomeScreen = ({ navigation }) => {
               </View>
               <Text style={{ color: theme.textSecondary }}>English to Kannada phrases</Text>
             </TouchableOpacity>
+            <View style={{
+              flex: 1,
+              marginLeft: 8,
+              padding: 16,
+              borderRadius: 12,
+              borderWidth: 1,
+              borderColor: '#E5E7EB',
+              backgroundColor: '#F8FAFC',
+            }}>
+              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 6 }}>
+                <Icon name="school" size={20} color={COLORS.textSecondary} />
+                <Text style={{ marginLeft: 8, fontWeight: '700', color: COLORS.textSecondary }}>More Coming</Text>
+              </View>
+              <Text style={{ color: COLORS.textSecondary }}>Additional features soon</Text>
+            </View>
           </View>
         </View>
 

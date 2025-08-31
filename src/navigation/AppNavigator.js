@@ -15,6 +15,10 @@ import SplashScreen from '../screens/SplashScreen';
 import EssayListScreen from '../screens/EssayListScreen';
 import EssayDetailScreen from '../screens/EssayDetailScreen';
 import TranslationsScreen from '../screens/TranslationsScreen';
+import MockTestListScreen from '../screens/MockTestListScreen';
+import MockTestInstructionsScreen from '../screens/MockTestInstructionsScreen';
+import MockTestScreen from '../screens/MockTestScreen';
+import MockTestResultsScreen from '../screens/MockTestResultsScreen';
 
 // Custom Drawer Content
 import CustomDrawerContent from '../components/CustomDrawerContent';
@@ -37,6 +41,10 @@ const HomeStack = () => {
       <Stack.Screen name="SubjectDetail" component={SubjectDetailScreen} />
       <Stack.Screen name="LevelsScreen" component={LevelsScreen} />
       <Stack.Screen name="QuizScreen" component={QuizScreen} />
+      <Stack.Screen name="MockTestList" component={MockTestListScreen} />
+      <Stack.Screen name="MockTestInstructions" component={MockTestInstructionsScreen} />
+      <Stack.Screen name="MockTestScreen" component={MockTestScreen} />
+      <Stack.Screen name="MockTestResults" component={MockTestResultsScreen} />
     </Stack.Navigator>
   );
 };
