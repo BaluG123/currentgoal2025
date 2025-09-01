@@ -3625,7 +3625,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Which of the following articles of the Indian Constitution deals with the Right to Constitutional Remedies?",
       "options": ["Article 19", "Article 21", "Article 32", "Article 14"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Article 32 of the Indian Constitution deals with the Right to Constitutional Remedies. Dr. B.R. Ambedkar called this article the 'heart and soul' of the Constitution. It allows a citizen to move the Supreme Court for the enforcement of their Fundamental Rights. Article 19 guarantees six fundamental freedoms, including freedom of speech and expression. Article 21 guarantees the protection of life and personal liberty. Article 14 guarantees equality before the law. The Supreme Court and High Courts can issue writs like Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto to enforce these rights.",
       "difficulty": "Medium",
       "hint": "This right empowers citizens to move a court of law in case of any denial of the fundamental rights."
@@ -3640,7 +3640,7 @@ export const QUIZ_DATA = {
         "Either House of Parliament",
         "The Supreme Court of India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The impeachment charges against the President of India can be initiated in either House of Parliament. The charges must be signed by at least one-fourth of the members of the House that framed the charges, and a 14-day notice should be given to the President. After the impeachment resolution is passed by a majority of two-thirds of the total membership of that House, it is sent to the other House, which investigates the charges. If the other House also sustains the charges and passes the impeachment resolution by a two-thirds majority, the President stands removed from office from the date on which the resolution is so passed. No President has faced impeachment proceedings so far.",
       "difficulty": "Hard",
       "hint": "Consider the federal nature of the Indian Parliament."
@@ -3655,7 +3655,7 @@ export const QUIZ_DATA = {
         "Committee on Public Undertakings",
         "NITI Aayog"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "NITI Aayog is not a Parliamentary Committee; it is a policy think tank of the Government of India, established with the aim to achieve Sustainable Development Goals and to enhance cooperative federalism by fostering the involvement of State Governments of India in the economic policy-making process. The Public Accounts Committee, Estimates Committee, and Committee on Public Undertakings are all Parliamentary Committees that play a crucial role in scrutinizing the government's expenditure and performance.",
       "difficulty": "Medium",
       "hint": "Think about the body that replaced the Planning Commission."
@@ -3665,7 +3665,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 73rd Amendment Act, 1992, added which of the following schedules to the Constitution of India?",
       "options": ["9th Schedule", "10th Schedule", "11th Schedule", "12th Schedule"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 73rd Amendment Act, 1992, added the 11th Schedule to the Constitution of India. This schedule contains 29 functional items of the Panchayats. The 12th Schedule was added by the 74th Amendment Act, 1992, and contains 18 functional items of the Municipalities. The 10th Schedule, added by the 52nd Amendment Act, 1985, contains provisions related to disqualification on the ground of defection. The 9th Schedule was added by the 1st Amendment Act, 1951, to protect land reform and other laws from judicial review.",
       "difficulty": "Easy",
       "hint": "This amendment deals with rural local self-government."
@@ -3680,7 +3680,7 @@ export const QUIZ_DATA = {
         "Original Jurisdiction",
         "Writ Jurisdiction"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The power of the Supreme Court to adjudicate disputes between the Centre and the States falls under its Original Jurisdiction (Article 131). Original jurisdiction means the power to hear a case for the first time. The Supreme Court has exclusive original jurisdiction in any dispute between the Government of India and one or more States. Appellate jurisdiction is the power of a higher court to review decisions and change outcomes of decisions of lower courts. Advisory jurisdiction allows the President to seek the opinion of the Supreme Court on any question of law or fact of public importance. Writ jurisdiction refers to the power of the Supreme Court (and High Courts) to issue certain writs to enforce Fundamental Rights.",
       "difficulty": "Medium",
       "hint": "Think about the initial court where such a significant dispute would be heard."
@@ -3690,7 +3690,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "Who among the following holds office during the pleasure of the President?",
         "options": ["Comptroller and Auditor General of India", "Chief Election Commissioner", "Governor of a State", "Speaker of the Lok Sabha"],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The Governor of a State holds office during the pleasure of the President. This means the President can remove the Governor at any time without assigning any reason. The Comptroller and Auditor General of India and the Chief Election Commissioner have a fixed tenure and can be removed from office in the same manner as a judge of the Supreme Court. The Speaker of the Lok Sabha can be removed by a resolution passed by a majority of all the then members of the Lok Sabha.",
         "difficulty": "Hard",
         "hint": "Consider the constitutional head of a state government."
@@ -3700,7 +3700,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The concept of 'Judicial Review' in the Indian Constitution is taken from the Constitution of which country?",
         "options": ["United Kingdom", "United States of America", "Canada", "Australia"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The concept of 'Judicial Review' in the Indian Constitution is taken from the Constitution of the United States of America. Judicial review is the power of the judiciary to examine the constitutionality of legislative enactments and executive orders of both the Central and State governments. The UK has the principle of parliamentary sovereignty. From Canada, we have borrowed the concept of a strong Centre in a federal system. From Australia, the concept of the Concurrent List has been borrowed.",
         "difficulty": "Medium",
         "hint": "This country has a powerful Supreme Court with a long history of interpreting its constitution."
@@ -3715,7 +3715,7 @@ export const QUIZ_DATA = {
           "Reservation of seats for SCs, STs, and women",
           "Mandatory conduct of elections every five years"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "While there are direct elections for members at all levels of the Panchayati Raj system, the election of the chairperson at the intermediate and district levels is indirect. The 73rd Amendment Act provides for a three-tier system of Panchayati Raj, reservation of seats for Scheduled Castes, Scheduled Tribes, and women, and the mandatory conduct of elections every five years. The State Legislature is empowered to make provisions with respect to the composition of Panchayats.",
         "difficulty": "Hard",
         "hint": "Think about the election process for the heads of the intermediate and district-level bodies."
@@ -3725,7 +3725,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Preamble to the Indian Constitution is based on the:",
         "options": ["Government of India Act, 1935", "Objectives Resolution", "Nehru Report", "Indian Independence Act, 1947"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Preamble to the Indian Constitution is based on the 'Objectives Resolution', drafted and moved by Pandit Jawaharlal Nehru on December 13, 1946, and adopted by the Constituent Assembly on January 22, 1947. The Government of India Act, 1935, was a major source for the administrative details of the Constitution. The Nehru Report of 1928 was one of the earliest Indian efforts to draft a constitutional framework.",
         "difficulty": "Medium",
         "hint": "This document laid down the philosophical foundations of the Indian Constitution."
@@ -3735,7 +3735,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The 44th Amendment Act, 1978, deleted which of the following from the list of Fundamental Rights?",
         "options": ["Right to Freedom of Speech and Expression", "Right to Property", "Right to Education", "Right to Equality"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The 44th Amendment Act, 1978, deleted the Right to Property from the list of Fundamental Rights and made it a legal right under Article 300-A in Part XII of the Constitution. This was a significant change that aimed to remove the hurdles in the way of land reforms and other socio-economic legislation. The other rights mentioned are still fundamental rights.",
         "difficulty": "Easy",
         "hint": "This amendment was enacted after the controversial 42nd Amendment."
@@ -3745,7 +3745,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Union Council of Ministers is collectively responsible to the:",
         "options": ["President", "Prime Minister", "Rajya Sabha", "Lok Sabha"],
-        "correctAnswer": 3,
+        "correctAnswer": 4,
         "explanation": "The Union Council of Ministers is collectively responsible to the Lok Sabha (House of the People) under Article 75(3) of the Constitution. This means that the ministry stays in office so long as it enjoys the confidence of a majority of the members of the Lok Sabha. If the Lok Sabha passes a no-confidence motion, the entire council of ministers has to resign. This is the foundation of the parliamentary system of government.",
         "difficulty": "Medium",
         "hint": "Think about the principle of collective responsibility in a parliamentary democracy."
@@ -3755,7 +3755,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The power to declare a National Emergency in India is vested in the:",
         "options": ["Prime Minister", "President", "Parliament", "Chief Justice of India"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The power to declare a National Emergency is vested in the President of India under Article 352 of the Constitution. The President can declare such an emergency only on the written recommendation of the Union Cabinet. A National Emergency can be declared on the grounds of war, external aggression, or armed rebellion. The proclamation of emergency must be approved by both the Houses of Parliament within one month from the date of its issue.",
         "difficulty": "Medium",
         "hint": "Consider the head of the Indian state."
@@ -3765,7 +3765,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Comptroller and Auditor General of India (CAG) is appointed by the:",
         "options": ["Prime Minister", "President", "Parliament", "Chief Justice of India"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Comptroller and Auditor General of India (CAG) is appointed by the President of India by a warrant under his hand and seal. The CAG is the head of the Indian Audit and Accounts Department and the guardian of the public purse. The CAG's term of office is six years or up to the age of 65 years, whichever is earlier.",
         "difficulty": "Easy",
         "hint": "Think about the appointing authority for most high constitutional functionaries."
@@ -3775,7 +3775,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "Which of the following bodies is not a constitutional body?",
         "options": ["Election Commission", "Union Public Service Commission", "Finance Commission", "National Human Rights Commission"],
-        "correctAnswer": 3,
+        "correctAnswer": 4,
         "explanation": "The National Human Rights Commission (NHRC) is a statutory body, not a constitutional body. It was established in 1993 under the Protection of Human Rights Act. The Election Commission (Article 324), Union Public Service Commission (Article 315), and Finance Commission (Article 280) are all constitutional bodies, as they are established by the Constitution of India.",
         "difficulty": "Medium",
         "hint": "Differentiate between bodies created by the Constitution and those created by an Act of Parliament."
@@ -3785,7 +3785,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The 42nd Amendment Act, 1976, added which of the following to the Preamble of the Indian Constitution?",
         "options": ["Sovereign, Democratic, Republic", "Socialist, Secular, Integrity", "Justice, Liberty, Equality", "Fraternity, Dignity, Unity"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The 42nd Amendment Act, 1976, added three new words – 'Socialist', 'Secular', and 'Integrity' – to the Preamble of the Indian Constitution. This amendment made significant changes to the Constitution and is often referred to as the 'Mini-Constitution'. The other words were already part of the Preamble.",
         "difficulty": "Easy",
         "hint": "Think about the core values that were explicitly added during the Emergency period."
@@ -3795,7 +3795,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The members of the Rajya Sabha are elected for a term of:",
         "options": ["Four years", "Five years", "Six years", "It is a permanent house"],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The members of the Rajya Sabha are elected for a term of six years. The Rajya Sabha is a permanent house and is not subject to dissolution. One-third of its members retire every two years. The members are elected by the elected members of the legislative assemblies of the states.",
         "difficulty": "Easy",
         "hint": "This house is also known as the Council of States."
@@ -3805,7 +3805,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The power of the High Court to issue writs is enshrined in which article of the Constitution?",
         "options": ["Article 32", "Article 226", "Article 136", "Article 141"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The power of the High Court to issue writs is enshrined in Article 226 of the Constitution. While the Supreme Court can issue writs only for the enforcement of Fundamental Rights under Article 32, a High Court can issue writs for the enforcement of Fundamental Rights as well as for any other purpose. This makes the writ jurisdiction of the High Court wider than that of the Supreme Court.",
         "difficulty": "Medium",
         "hint": "This article gives the High Courts a broader writ jurisdiction than the Supreme Court."
@@ -3815,7 +3815,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The concept of 'Directive Principles of State Policy' in the Indian Constitution has been borrowed from the Constitution of:",
         "options": ["Ireland", "United Kingdom", "United States of America", "Canada"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The concept of 'Directive Principles of State Policy' in the Indian Constitution has been borrowed from the Constitution of Ireland. These principles are enumerated in Part IV of the Constitution from Articles 36 to 51. They are not enforceable by any court, but the principles laid down therein are considered fundamental in the governance of the country.",
         "difficulty": "Medium",
         "hint": "This European country also has a similar set of guidelines for its government."
@@ -3830,7 +3830,7 @@ export const QUIZ_DATA = {
           "Both a and b",
           "Neither a nor b"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The 'Lokpal' and 'Lokayukta' Act, 2013, was enacted to provide for the establishment of a Lokpal for the Union and Lokayukta for States to inquire into allegations of corruption against certain public functionaries and for matters connected therewith or incidental thereto. The Lokpal is a multi-member body, with one chairperson and a maximum of 8 members.",
         "difficulty": "Medium",
         "hint": "Think about the anti-corruption ombudsman in India."
@@ -3845,7 +3845,7 @@ export const QUIZ_DATA = {
           "The cooperative societies",
           "The official languages"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The 74th Amendment Act, 1992, deals with the Municipalities (urban local bodies). It has added a new Part IX-A to the Constitution of India, which is entitled as ‘The Municipalities’ and consists of provisions from Articles 243-P to 243-ZG. It has also added a new Twelfth Schedule to the Constitution which contains 18 functional items of the municipalities.",
         "difficulty": "Easy",
         "hint": "This amendment is the urban counterpart to the 73rd Amendment."
@@ -3855,7 +3855,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
         "options": ["President", "Vice-President", "Prime Minister", "Speaker of the Lok Sabha"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha. The normal term of office of the Vice-President is five years. The Vice-President is elected by an electoral college consisting of the members of both Houses of Parliament.",
         "difficulty": "Easy",
         "hint": "This official has a dual role in the Indian political system."
@@ -3865,7 +3865,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The idea of a Constituent Assembly for India was first put forward by:",
         "options": ["Mahatma Gandhi", "M.N. Roy", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The idea of a Constituent Assembly for India was first put forward by M.N. Roy, a pioneer of the communist movement in India, in 1934. The Indian National Congress officially demanded a Constituent Assembly to frame the Constitution of India in 1935. This demand was finally accepted in principle by the British Government in what is known as the 'August Offer' of 1940.",
         "difficulty": "Medium",
         "hint": "Think about a key figure in the early communist movement in India."
@@ -3875,7 +3875,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Fundamental Duties were added to the Indian Constitution by the:",
         "options": ["42nd Amendment Act", "44th Amendment Act", "24th Amendment Act", "1st Amendment Act"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The Fundamental Duties were added to the Indian Constitution by the 42nd Amendment Act, 1976, on the recommendation of the Swaran Singh Committee. They are contained in Part IV-A of the Constitution under Article 51-A. Initially, there were 10 Fundamental Duties, and the 11th was added by the 86th Amendment Act, 2002.",
         "difficulty": "Easy",
         "hint": "This amendment is also known as the 'Mini-Constitution'."
@@ -3885,7 +3885,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Governor of a state is appointed by the:",
         "options": ["Chief Minister", "President", "Prime Minister", "Chief Justice of the High Court"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Governor of a state is appointed by the President of India. The Governor is the chief executive head of the state and acts as an agent of the central government. The term of office of the Governor is five years, but he or she holds office during the pleasure of the President.",
         "difficulty": "Easy",
         "hint": "Consider the head of the Union executive."
@@ -3900,7 +3900,7 @@ export const QUIZ_DATA = {
           "Indian Constitution",
           "Indian Independence Act, 1947"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The Supreme Court of India was set up under the Constitution of India. It was inaugurated on January 28, 1950. It succeeded the Federal Court of India, established under the Government of India Act of 1935. The Regulating Act of 1773 established a Supreme Court at Calcutta, but this was not the precursor to the current Supreme Court of India.",
         "difficulty": "Medium",
         "hint": "Think about the document that governs the present-day Indian republic."
@@ -3910,7 +3910,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "An ordinance promulgated by the President must be approved by the Parliament within:",
         "options": ["Six weeks", "Six months", "One year", "There is no time limit"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "An ordinance promulgated by the President must be approved by the Parliament within six weeks of its reassembly. If it is not approved within this period, it ceases to operate. The President can promulgate ordinances only when both the Houses of Parliament are not in session. The ordinance-making power is a legislative power of the President.",
         "difficulty": "Hard",
         "hint": "Consider the time frame for parliamentary approval of presidential actions."
@@ -3925,7 +3925,7 @@ export const QUIZ_DATA = {
           "Gorwala Committee",
           "Kothari Commission"
         ],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The Central Bureau of Investigation (CBI) was established in 1963 by a resolution of the Ministry of Home Affairs. Its establishment was recommended by the Santhanam Committee on Prevention of Corruption (1962–1964). The CBI is the main investigating agency of the Central Government for cases of corruption and major criminal matters.",
         "difficulty": "Hard",
         "hint": "Think about a key committee on anti-corruption measures."
@@ -3935,7 +3935,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "Which article of the Constitution provides for the establishment of the Finance Commission?",
         "options": ["Article 280", "Article 324", "Article 315", "Article 148"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "Article 280 of the Constitution provides for the establishment of the Finance Commission. It is a quasi-judicial body constituted by the President of India every fifth year or at such earlier time as he considers necessary. The Finance Commission makes recommendations to the President on the distribution of net proceeds of taxes between the Centre and the States.",
         "difficulty": "Medium",
         "hint": "This body deals with the financial relations between the Union and the States."
@@ -3950,7 +3950,7 @@ export const QUIZ_DATA = {
           "A special majority of the total membership of the Lok Sabha",
           "The President on the advice of the Prime Minister"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Speaker of the Lok Sabha can be removed from office by a resolution passed by an effective majority of all the then members of the Lok Sabha. Such a resolution can be moved only after giving at least 14 days' advance notice. The Speaker does not vacate his office until immediately before the first meeting of the Lok Sabha after the dissolution.",
         "difficulty": "Hard",
         "hint": "This type of majority is more than a simple majority but less than a special majority."
@@ -3965,7 +3965,7 @@ export const QUIZ_DATA = {
           "To cast a vote in public elections",
           "To develop the scientific temper"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "To cast a vote in public elections is a legal right, not a fundamental duty. The Fundamental Duties are listed in Article 51-A of the Constitution. They include safeguarding public property, protecting the sovereignty, unity, and integrity of India, and developing the scientific temper.",
         "difficulty": "Medium",
         "hint": "Think about the difference between a constitutional duty and a civic responsibility."
@@ -3975,7 +3975,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The President's Rule in a state can be proclaimed under which article of the Constitution?",
         "options": ["Article 352", "Article 356", "Article 360", "Article 365"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The President's Rule in a state can be proclaimed under Article 356 of the Constitution. This is imposed when there is a failure of the constitutional machinery in a state. The Governor of the state sends a report to the President, who then takes the decision. Article 352 deals with National Emergency, Article 360 deals with Financial Emergency, and Article 365 is another ground for imposing President's Rule.",
         "difficulty": "Medium",
         "hint": "This is also known as State Emergency."
@@ -3985,7 +3985,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Chairman of the Union Public Service Commission (UPSC) is appointed by the:",
         "options": ["President", "Prime Minister", "Parliament", "Chief Justice of India"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The Chairman and other members of the Union Public Service Commission (UPSC) are appointed by the President of India. The UPSC is a central recruiting agency in India. It is an independent constitutional body. The term of office of a member of the UPSC is six years or until they attain the age of 65 years, whichever is earlier.",
         "difficulty": "Easy",
         "hint": "Think about the appointing authority for most constitutional bodies."
@@ -3995,7 +3995,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The 'Panchayati Raj' system was first adopted by which state in India?",
         "options": ["Andhra Pradesh", "Rajasthan", "Gujarat", "Uttar Pradesh"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The 'Panchayati Raj' system was first adopted by Rajasthan. The scheme was inaugurated by the then Prime Minister Pandit Jawaharlal Nehru on October 2, 1959, in Nagaur district. Andhra Pradesh was the second state to adopt the system. The Balwant Rai Mehta Committee had recommended the establishment of the Panchayati Raj system in 1957.",
         "difficulty": "Medium",
         "hint": "This state is located in the western part of India."
@@ -4005,7 +4005,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "A money bill can be introduced only in the:",
         "options": ["Lok Sabha", "Rajya Sabha", "Either House of Parliament", "Joint sitting of both Houses"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "A money bill can be introduced only in the Lok Sabha, and that too on the recommendation of the President. After a money bill is passed by the Lok Sabha, it is transmitted to the Rajya Sabha for its consideration. The Rajya Sabha has limited powers with respect to a money bill. It cannot reject or amend a money bill.",
         "difficulty": "Medium",
         "hint": "This house has greater financial powers."
@@ -4015,7 +4015,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Chief Minister of a state is appointed by the:",
         "options": ["President", "Governor", "Prime Minister", "Speaker of the Legislative Assembly"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Chief Minister of a state is appointed by the Governor. The Governor appoints the leader of the party that has a majority in the state legislative assembly as the Chief Minister. The Chief Minister is the head of the state council of ministers and the real executive authority of the state.",
         "difficulty": "Easy",
         "hint": "Think about the constitutional head of a state."
@@ -4025,7 +4025,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The judges of the Supreme Court hold office until they attain the age of:",
         "options": ["60 years", "62 years", "65 years", "70 years"],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The judges of the Supreme Court hold office until they attain the age of 65 years. A judge of the Supreme Court can be removed from office by an order of the President after an address by Parliament has been presented to him in the same session for such removal on the ground of proved misbehaviour or incapacity.",
         "difficulty": "Easy",
         "hint": "This is the retirement age for the highest judicial officers in the country."
@@ -4035,7 +4035,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "Which of the following writs is issued to a lower court or tribunal to prevent it from exceeding its jurisdiction?",
         "options": ["Habeas Corpus", "Mandamus", "Prohibition", "Certiorari"],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The writ of 'Prohibition' is issued by a higher court to a lower court or tribunal to prevent the latter from exceeding its jurisdiction or usurping a jurisdiction that it does not possess. It is a preventive writ. 'Habeas Corpus' is for the release of a person who has been detained unlawfully. 'Mandamus' is a command to a public official to perform his official duties. 'Certiorari' is issued to quash the order of a lower court.",
         "difficulty": "Hard",
         "hint": "This writ is used to stop a legal proceeding in a lower court."
@@ -4045,7 +4045,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "NITI Aayog was formed on:",
         "options": ["January 1, 2015", "January 26, 1950", "August 15, 1947", "October 2, 1952"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "NITI Aayog (National Institution for Transforming India) was formed on January 1, 2015, through a resolution of the Union Cabinet. It replaced the Planning Commission which had been instituted in 1950. The Prime Minister is the ex-officio chairperson of NITI Aayog.",
         "difficulty": "Easy",
         "hint": "Think about the year the current government came to power."
@@ -4060,7 +4060,7 @@ export const QUIZ_DATA = {
           "January 26, 1950",
           "November 26, 1949"
         ],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The first session of the Constituent Assembly was held on December 9, 1946. The Muslim League boycotted the meeting and insisted on a separate state of Pakistan. The meeting was attended by only 211 members. Dr. Sachchidananda Sinha, the oldest member, was elected as the temporary President of the Assembly.",
         "difficulty": "Medium",
         "hint": "This was before India's independence."
@@ -4075,7 +4075,7 @@ export const QUIZ_DATA = {
           "Right to property",
           "Right against exploitation"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The Right to Property was removed from the list of Fundamental Rights by the 44th Amendment Act, 1978. It is now a legal right under Article 300-A of the Constitution. The other three are fundamental rights guaranteed by the Indian Constitution.",
         "difficulty": "Easy",
         "hint": "This right was originally a fundamental right but was later changed."
@@ -4085,7 +4085,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The President of India can nominate how many members to the Rajya Sabha?",
         "options": ["2", "10", "12", "14"],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "The President of India can nominate 12 members to the Rajya Sabha. These are persons having special knowledge or practical experience in literature, science, art, and social service. This is done to provide a platform for eminent persons to contribute to the nation's progress.",
         "difficulty": "Easy",
         "hint": "Think of a dozen."
@@ -4100,7 +4100,7 @@ export const QUIZ_DATA = {
           "The Legislative Assembly and the Legislative Council",
           "The Governor and the Legislative Council"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The State Legislature consists of the Governor and the Legislative Assembly (Vidhan Sabha). In states where a Legislative Council (Vidhan Parishad) exists, the legislature consists of the Governor, the Legislative Assembly, and the Legislative Council. Not all states have a bicameral legislature.",
         "difficulty": "Medium",
         "hint": "Consider the structure of the Parliament at the national level."
@@ -4110,7 +4110,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The judges of the High Court are appointed by the:",
         "options": ["Governor", "President", "Chief Minister", "Chief Justice of India"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The judges of the High Court are appointed by the President. The chief justice of the High Court is appointed by the President after consultation with the chief justice of India and the governor of the state concerned. For the appointment of other judges, the chief justice of the concerned High Court is also consulted.",
         "difficulty": "Medium",
         "hint": "Think about the appointing authority for the judges of the Supreme Court."
@@ -4120,7 +4120,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "A Financial Emergency can be declared under which article of the Constitution?",
         "options": ["Article 352", "Article 356", "Article 360", "Article 368"],
-        "correctAnswer": 2,
+        "correctAnswer": 3,
         "explanation": "A Financial Emergency can be declared under Article 360 of the Constitution. The President can proclaim a Financial Emergency if he is satisfied that a situation has arisen whereby the financial stability or credit of India or of any part of the territory thereof is threatened. No Financial Emergency has been declared in India so far.",
         "difficulty": "Medium",
         "hint": "This is one of the three types of emergencies provided for in the Constitution."
@@ -4135,7 +4135,7 @@ export const QUIZ_DATA = {
           "Five years or up to the age of 62 years",
           "Six years or up to the age of 62 years"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The tenure of the Chief Election Commissioner of India is six years or up to the age of 65 years, whichever is earlier. The Chief Election Commissioner can be removed from office in the same manner and on the same grounds as a judge of the Supreme Court.",
         "difficulty": "Medium",
         "hint": "Think about the tenure of the Comptroller and Auditor General of India."
@@ -4145,7 +4145,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The Central Information Commission (CIC) is a:",
         "options": ["Constitutional body", "Statutory body", "Executive body", "Judicial body"],
-        "correctAnswer": 1,
+        "correctAnswer": 2,
         "explanation": "The Central Information Commission (CIC) is a statutory body, constituted under the Right to Information Act, 2005. The Commission has a Chief Information Commissioner and not more than ten Information Commissioners. They are appointed by the President on the recommendation of a committee.",
         "difficulty": "Medium",
         "hint": "This body was created by an Act of Parliament."
@@ -4155,7 +4155,7 @@ export const QUIZ_DATA = {
         "mainsubject": "Political Science",
         "question": "The 42nd Amendment Act, 1976, is also known as the:",
         "options": ["'Mini-Constitution'", "'Right to Property Act'", "'Anti-Defection Law'", "'Panchayati Raj Act'"],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The 42nd Amendment Act, 1976, is also known as the 'Mini-Constitution' because of the large number of changes it made to the Constitution. It was enacted during the internal emergency imposed by Indira Gandhi. Some of its provisions were later repealed by the 44th Amendment Act, 1978.",
         "difficulty": "Easy",
         "hint": "This amendment was very comprehensive in its scope."
@@ -4170,7 +4170,7 @@ export const QUIZ_DATA = {
           "The anti-defection law",
           "The Goods and Services Tax"
         ],
-        "correctAnswer": 0,
+        "correctAnswer": 1,
         "explanation": "The 73rd and 74th Constitutional Amendment Acts are related to local self-government. The 73rd Amendment Act deals with the Panchayati Raj institutions (rural local bodies), while the 74th Amendment Act deals with the Municipalities (urban local bodies). These amendments gave constitutional status to local self-government.",
         "difficulty": "Easy",
         "hint": "These amendments empowered governance at the grassroots level."
@@ -4180,7 +4180,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The power of the Parliament to amend the Constitution is provided in which article?",
       "options": ["Article 32", "Article 143", "Article 368", "Article 246"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Article 368 in Part XX of the Constitution deals with the power of Parliament to amend the Constitution and its procedure. It states that the Parliament may, in the exercise of its constituent power, amend by way of addition, variation or repeal any provision of the Constitution in accordance with the procedure laid down for the purpose. However, the Parliament cannot amend the 'basic structure' of the Constitution, as ruled by the Supreme Court in the Kesavananda Bharati case (1973).",
       "difficulty": "Medium",
       "hint": "This article outlines the formal process for changing the supreme law of the land."
@@ -4190,7 +4190,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Who was the Chairman of the Drafting Committee of the Constituent Assembly?",
       "options": ["Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Vallabhbhai Patel", "Dr. Rajendra Prasad"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly. This committee, set up on August 29, 1947, was entrusted with the task of preparing a draft of the new Constitution. Dr. Ambedkar is rightly called the 'Father of the Constitution of India'. Dr. Rajendra Prasad was the President of the Constituent Assembly.",
       "difficulty": "Easy",
       "hint": "He is often referred to as the chief architect of the Indian Constitution."
@@ -4200,7 +4200,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Which of the following is described as the 'conscience of the Constitution'?",
       "options": ["Preamble", "Fundamental Rights", "Directive Principles of State Policy", "Fundamental Rights and Directive Principles"],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Fundamental Rights and Directive Principles of State Policy together have been described as the 'conscience of the Constitution'. Granville Austin, an American historian of the Indian Constitution, used this phrase. While Fundamental Rights establish political democracy, the Directive Principles aim to establish social and economic democracy. They are complementary to each other.",
       "difficulty": "Hard",
       "hint": "This phrase refers to the moral and ethical framework of the Constitution."
@@ -4210,7 +4210,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "A joint sitting of the two Houses of Parliament is presided over by the:",
       "options": ["President", "Vice-President", "Speaker of the Lok Sabha", "Prime Minister"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A joint sitting of the two Houses of Parliament is presided over by the Speaker of the Lok Sabha. In the Speaker's absence, the Deputy Speaker of the Lok Sabha presides. If both are absent, the Deputy Chairman of the Rajya Sabha presides. The Chairman of the Rajya Sabha (Vice-President) does not preside over a joint sitting. A joint sitting is summoned by the President to resolve a deadlock between the two Houses over an ordinary bill.",
       "difficulty": "Medium",
       "hint": "Consider the presiding officer of the Lower House."
@@ -4220,7 +4220,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The legislative power of the State Legislature includes making laws on subjects in the:",
       "options": ["Union List only", "State List only", "Concurrent List only", "State List and Concurrent List"],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The State Legislature can make laws on subjects enumerated in the State List and the Concurrent List. In case of a conflict between the central law and the state law on a subject in the Concurrent List, the central law prevails. The Parliament has exclusive power to make laws on subjects in the Union List. This division of powers is a key feature of Indian federalism.",
       "difficulty": "Medium",
       "hint": "Think about the division of legislative powers between the Union and the States."
@@ -4235,7 +4235,7 @@ export const QUIZ_DATA = {
         "Should have been an advocate of a High Court for ten years",
         "Should be a distinguished jurist in the opinion of the Parliament"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The qualification of being a distinguished jurist is in the opinion of the President, not the Parliament. To be a judge of the Supreme Court, a person must be a citizen of India and should have been a judge of a High Court for at least five years, or an advocate of a High Court for at least ten years, or a distinguished jurist in the opinion of the President.",
       "difficulty": "Hard",
       "hint": "Focus on who has the final say in appointing judges."
@@ -4245,7 +4245,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "During the proclamation of a National Emergency, the term of the Lok Sabha can be extended for a period of:",
       "options": ["Six months at a time", "One year at a time", "Two years at a time", "Three years at a time"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "During the proclamation of a National Emergency, the term of the Lok Sabha can be extended by a law of Parliament for one year at a time for any length of time. However, this extension cannot continue beyond a period of six months after the emergency has ceased to operate.",
       "difficulty": "Medium",
       "hint": "This provision ensures the continuity of the legislature during a crisis."
@@ -4255,7 +4255,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The State Election Commission conducts elections for:",
       "options": ["Panchayats and Municipalities", "Lok Sabha and Rajya Sabha", "State Legislative Assembly and Legislative Council", "President and Vice-President"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The State Election Commission, constituted under Article 243-K and 243-ZA, conducts elections for the Panchayats and Municipalities in the state. The elections to the Parliament (Lok Sabha and Rajya Sabha), State Legislatures, and the offices of the President and Vice-President are conducted by the Election Commission of India.",
       "difficulty": "Medium",
       "hint": "Think about the local government bodies."
@@ -4265,7 +4265,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The National Commission for Women was set up as a statutory body in:",
       "options": ["1988", "1990", "1992", "1995"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Commission for Women was set up as a statutory body in January 1992 under the National Commission for Women Act, 1990. The commission's objective is to represent the rights of women in India and to provide a voice for their issues and concerns. It reviews the constitutional and legal safeguards for women and recommends remedial legislative measures.",
       "difficulty": "Medium",
       "hint": "This was established in the early 1990s."
@@ -4275,7 +4275,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 52nd Amendment to the Constitution of India is most popularly known as:",
       "options": ["Panchayati Raj Amendment", "Right to Education Amendment", "Anti-Defection Law", "Goods and Services Tax Amendment"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 52nd Amendment to the Constitution of India, enacted in 1985, is most popularly known as the Anti-Defection Law. It added the Tenth Schedule to the Constitution, which lays down the process by which legislators may be disqualified on grounds of defection by the presiding officer of a legislature based on a petition by any other member of the House.",
       "difficulty": "Medium",
       "hint": "This law was enacted to curb political defections."
@@ -4285,7 +4285,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Who administers the oath of office to the President of India?",
       "options": ["The outgoing President", "The Vice-President", "The Prime Minister", "The Chief Justice of India"],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The oath of office to the President of India is administered by the Chief Justice of India. In the absence of the Chief Justice, the oath is administered by the senior-most judge of the Supreme Court available. The President takes an oath to preserve, protect, and defend the Constitution and the law.",
       "difficulty": "Easy",
       "hint": "Consider the head of the Indian judiciary."
@@ -4300,7 +4300,7 @@ export const QUIZ_DATA = {
         "All the persons registered in the electoral rolls relating to a village",
         "The elected members of the Panchayat"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Gram Sabha consists of all the persons registered in the electoral rolls relating to a village comprised within the area of the Panchayat at the village level. It is the foundation of the Panchayati Raj system. It performs functions and powers entrusted to it by the State Legislatures. It is the primary body of the Panchayati Raj system and by far the largest.",
       "difficulty": "Medium",
       "hint": "Think about the electorate of the village."
@@ -4315,7 +4315,7 @@ export const QUIZ_DATA = {
         "Presidential form of government",
         "Independent judiciary"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Indian Constitution provides for a Parliamentary form of government, both at the Centre and in the states, and not a Presidential form of government. In a parliamentary system, the executive is responsible to the legislature. The other features mentioned are integral parts of the Indian Constitution. The USA has a presidential form of government.",
       "difficulty": "Easy",
       "hint": "Consider the relationship between the executive and the legislature in India."
@@ -4325,7 +4325,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The Right to Education was added as a fundamental right by the:",
       "options": ["86th Amendment Act, 2002", "91st Amendment Act, 2003", "93rd Amendment Act, 2005", "97th Amendment Act, 2011"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Right to Education was added as a fundamental right by the 86th Amendment Act, 2002. This amendment inserted Article 21-A in the Constitution of India to provide free and compulsory education of all children in the age group of six to fourteen years as a Fundamental Right. It also modified a fundamental duty and a directive principle.",
       "difficulty": "Easy",
       "hint": "This amendment focused on making education a constitutional right."
@@ -4335,7 +4335,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The executive power of the State is vested in the:",
       "options": ["Chief Minister", "Governor", "State Council of Ministers", "State Legislature"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The executive power of the State is vested in the Governor. It is exercised by him either directly or through officers subordinate to him in accordance with the Constitution. The Chief Minister is the head of the government and the real executive authority, but the formal executive power lies with the Governor.",
       "difficulty": "Medium",
       "hint": "Think about the constitutional head of the state executive."
@@ -4345,7 +4345,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The concept of 'Public Interest Litigation' (PIL) originated in:",
       "options": ["The United Kingdom", "The United States of America", "India", "Australia"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The concept of 'Public Interest Litigation' (PIL) originated and developed in the USA in the 1960s. In India, the PIL is a product of the judicial activism role of the Supreme Court. It was introduced in the early 1980s by Justice P.N. Bhagwati and Justice V.R. Krishna Iyer. PIL allows any person to file a lawsuit in a court of law on behalf of a group of people whose rights are being violated.",
       "difficulty": "Medium",
       "hint": "This judicial innovation has its roots in the legal system of another major democracy."
@@ -4355,7 +4355,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "A proclamation of emergency must be placed before the Parliament for its approval within:",
       "options": ["One month", "Two months", "Six months", "One year"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "A proclamation of National Emergency (under Article 352) must be placed before each House of Parliament for its approval within one month from the date of its issue. If approved by both Houses, the emergency continues for six months and can be extended to an indefinite period with an approval of the Parliament for every six months.",
       "difficulty": "Medium",
       "hint": "This timeframe is crucial for parliamentary oversight of emergency powers."
@@ -4365,7 +4365,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The Finance Commission is constituted by the President every:",
       "options": ["Three years", "Four years", "Five years", "Six years"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Finance Commission is constituted by the President of India every fifth year or at such earlier time as he considers necessary. The first Finance Commission was constituted in 1951. The commission makes recommendations on the distribution of financial resources between the Union and the States.",
       "difficulty": "Easy",
       "hint": "Think about the typical term of a government in India."
@@ -4375,7 +4375,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Which of the following is the oldest Central Paramilitary Force in India?",
       "options": ["Central Reserve Police Force (CRPF)", "Border Security Force (BSF)", "Assam Rifles", "Indo-Tibetan Border Police (ITBP)"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Assam Rifles is the oldest Central Paramilitary Force in India, dating back to 1835 under the British. It is under the control of the Indian Ministry of Home Affairs and performs many roles including the provision of internal security under the control of the army. The CRPF came into existence in 1939, the BSF in 1965, and the ITBP in 1962.",
       "difficulty": "Hard",
       "hint": "This force has its origins in the colonial era."
@@ -4390,7 +4390,7 @@ export const QUIZ_DATA = {
         "Added the Tenth Schedule to the Constitution",
         "Provided for reservation in promotions for SCs and STs"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The 61st Amendment Act, 1989, is significant because it lowered the voting age for elections to the Lok Sabha and to the Legislative Assemblies of States from 21 years to 18 years. This was done by amending Article 326 of the Constitution.",
       "difficulty": "Easy",
       "hint": "This amendment expanded the electorate of the country."
@@ -4405,7 +4405,7 @@ export const QUIZ_DATA = {
         "Elected members of both Houses of Parliament and the State Legislative Assemblies",
         "All members of the Lok Sabha"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Vice-President of India is elected by an electoral college consisting of all the members (both elected and nominated) of both Houses of Parliament. The election is held in accordance with the system of proportional representation by means of the single transferable vote and the voting is by secret ballot.",
       "difficulty": "Medium",
       "hint": "The electoral college for the Vice-President is different from that of the President."
@@ -4415,7 +4415,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The power to create or abolish the Legislative Council in a state rests with the:",
       "options": ["Governor", "President", "Parliament", "State Legislative Assembly"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The power to create or abolish the Legislative Council in a state rests with the Parliament. The Parliament can do so if the Legislative Assembly of the concerned state passes a resolution to that effect by a special majority. This is provided for in Article 169 of the Constitution.",
       "difficulty": "Hard",
       "hint": "While the state initiates the process, the final authority lies with the national legislature."
@@ -4430,7 +4430,7 @@ export const QUIZ_DATA = {
         "Minerva Mills case (1980)",
         "Waman Rao case (1981)"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'Basic Structure' doctrine of the Indian Constitution was propounded by the Supreme Court in the Kesavananda Bharati case (1973). The Court ruled that the Parliament's power to amend the Constitution is not unlimited and it cannot alter the 'basic structure' or framework of the Constitution. This is a landmark judgment in the constitutional history of India.",
       "difficulty": "Hard",
       "hint": "This case is a cornerstone of Indian constitutional law."
@@ -4445,7 +4445,7 @@ export const QUIZ_DATA = {
         "Constitution of Ireland",
         "Constitution of Canada"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The idea of including the 'Emergency Provisions' in the Constitution of India has been borrowed from the Weimar Constitution of Germany. However, the suspension of Fundamental Rights during an emergency is a feature taken from the same constitution. The Constitution of India provides for three types of emergencies: National Emergency, State Emergency (President's Rule), and Financial Emergency.",
       "difficulty": "Medium",
       "hint": "Think about the historical context of the country from which this feature was borrowed."
@@ -4455,7 +4455,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Who is the chairman of the NITI Aayog?",
       "options": ["President", "Vice-President", "Prime Minister", "Finance Minister"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Prime Minister of India is the ex-officio chairman of the NITI Aayog. NITI Aayog is the premier policy think tank of the Government of India, providing both directional and policy inputs. It has a Governing Council comprising the Chief Ministers of all the States and Union Territories with Legislatures and Lt. Governors of other Union Territories.",
       "difficulty": "Easy",
       "hint": "The head of the government is also the head of this policy-making body."
@@ -4465,7 +4465,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The Anti-Defection Law is contained in which Schedule of the Indian Constitution?",
       "options": ["Eighth Schedule", "Ninth Schedule", "Tenth Schedule", "Eleventh Schedule"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Anti-Defection Law is contained in the Tenth Schedule of the Indian Constitution. It was added to the Constitution by the 52nd Amendment Act of 1985. The law specifies the circumstances under which a legislator can be disqualified on the grounds of defection to another political party.",
       "difficulty": "Easy",
       "hint": "This schedule was added in the mid-1980s."
@@ -4475,7 +4475,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The Prime Minister of India is:",
       "options": ["Elected by the Lok Sabha", "Elected by the Parliament", "Appointed by the President", "Elected by the people"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Prime Minister of India is appointed by the President. The President appoints the leader of the majority party or coalition of parties in the Lok Sabha as the Prime Minister. The Prime Minister does not have a fixed tenure and holds office during the pleasure of the President, as long as he enjoys the confidence of the Lok Sabha.",
       "difficulty": "Medium",
       "hint": "The head of the government is formally appointed by the head of the state."
@@ -4485,7 +4485,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The concept of 'Concurrent List' in the Indian Constitution is borrowed from the Constitution of:",
       "options": ["Canada", "Australia", "Ireland", "Germany"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The concept of the 'Concurrent List' in the Indian Constitution is borrowed from the Constitution of Australia. The Concurrent List includes subjects of common interest to both the Union and the States, such as education, forests, trade unions, marriage, adoption, and succession. Both the Parliament and the state legislatures can make laws on the subjects in the Concurrent List.",
       "difficulty": "Medium",
       "hint": "This country is also a federation."
@@ -4495,7 +4495,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The power of the President of India to grant pardon is an:",
       "options": ["Executive power", "Legislative power", "Judicial power", "Emergency power"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The power of the President of India to grant pardon, reprieve, respite or remission of punishment, or to suspend, remit or commute the sentence of any person convicted of any offence is a judicial power (Article 72). The President is not a court of appeal, and this power is exercised on the advice of the Union Cabinet.",
       "difficulty": "Hard",
       "hint": "This power allows the President to intervene in the judicial process."
@@ -4505,7 +4505,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Contingency Fund of India' is at the disposal of the:",
       "options": ["Prime Minister", "President", "Parliament", "Finance Minister"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'Contingency Fund of India' is at the disposal of the President of India. This fund is used to meet unforeseen expenditure. The President can make advances out of it to meet such expenditure, pending its authorization by the Parliament. The fund is held by the Finance Secretary on behalf of the President.",
       "difficulty": "Medium",
       "hint": "This fund is meant for unexpected expenses of the government."
@@ -4515,7 +4515,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Who among the following can attend the meetings of both Houses of Parliament without being a member of either House?",
       "options": ["The Vice-President", "The Solicitor General of India", "The Attorney General of India", "The Chief Justice of India"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Attorney General of India can attend the meetings of both Houses of Parliament and their joint sittings and any committee of the Parliament of which he may be named a member, but without a right to vote. The Attorney General is the highest law officer in the country, appointed by the President.",
       "difficulty": "Medium",
       "hint": "This official is the chief legal advisor to the Government of India."
@@ -4525,7 +4525,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Zero Hour' in the Indian Parliament starts at:",
       "options": ["10 am", "11 am", "12 noon", "1 pm"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Zero Hour' in the Indian Parliament starts at 12 noon, immediately after the Question Hour. It is an informal device available to the members of the Parliament to raise matters without any prior notice. The Zero Hour is not mentioned in the Rules of Procedure of the Houses.",
       "difficulty": "Medium",
       "hint": "This is a unique Indian parliamentary innovation."
@@ -4535,7 +4535,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The number of states in India that have a Legislative Council is:",
       "options": ["5", "6", "7", "8"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Currently, six states in India have a Legislative Council (Vidhan Parishad). These are Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh. The Legislative Council is the upper house of the state legislature and its existence is optional for the states.",
       "difficulty": "Medium",
       "hint": "The number has changed in recent years."
@@ -4545,7 +4545,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Sarkaria Commission' was set up to review the relations between:",
       "options": ["The President and the Prime Minister", "The legislature and the executive", "The Centre and the States", "The judiciary and the executive"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Sarkaria Commission was set up in 1983 by the central government to review the Centre-State relations. The commission was headed by Justice R.S. Sarkaria. It submitted its report in 1988 and made several recommendations to improve the cooperative federalism in India.",
       "difficulty": "Hard",
       "hint": "This commission dealt with the issue of federalism in India."
@@ -4555,7 +4555,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'National Development Council' (NDC) is presided over by the:",
       "options": ["President", "Vice-President", "Prime Minister", "Home Minister"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Development Council (NDC) is presided over by the Prime Minister of India. It is the apex body for decision-making and deliberations on development matters in India. It was set up in 1952. The NDC comprises the Prime Minister, all the Union Cabinet Ministers, the Chief Ministers of all the States and Union Territories and Members of the NITI Aayog.",
       "difficulty": "Medium",
       "hint": "This body is a key forum for Centre-State coordination on development issues."
@@ -4565,7 +4565,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "Which of the following parts of the Indian Constitution cannot be amended?",
       "options": ["The Preamble", "The Directive Principles of State Policy", "The Fundamental Rights", "The 'Basic Structure' of the Constitution"],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The 'Basic Structure' of the Constitution cannot be amended by the Parliament. This doctrine was laid down by the Supreme Court in the Kesavananda Bharati case (1973). The Preamble, the Directive Principles, and the Fundamental Rights can be amended, but the amendments should not violate the 'basic structure' of the Constitution.",
       "difficulty": "Medium",
       "hint": "Think about the judicial interpretation of the amending power of the Parliament."
@@ -4575,7 +4575,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Inter-State Council' was established on the recommendation of the:",
       "options": ["Punchhi Commission", "Sarkaria Commission", "Rajamannar Committee", "First Administrative Reforms Commission"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Inter-State Council was established in 1990 on the recommendation of the Sarkaria Commission. It is a constitutional body set up under Article 263 of the Constitution. The council is a forum for coordination between the states and the Centre. The Prime Minister is the chairman of the Inter-State Council.",
       "difficulty": "Hard",
       "hint": "This body was recommended by a major commission on Centre-State relations."
@@ -4585,7 +4585,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The concept of 'Rule of Law' is a special feature of the constitution of:",
       "options": ["The United Kingdom", "The United States of America", "France", "Switzerland"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The concept of 'Rule of Law' is a special feature of the constitution of the United Kingdom. It was propounded by A.V. Dicey, a British jurist. Rule of Law means that no man is above the law and that every person is subject to the jurisdiction of ordinary courts. The Indian Constitution has also adopted this concept.",
       "difficulty": "Medium",
       "hint": "This concept originated in a country with an unwritten constitution."
@@ -4595,7 +4595,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Collegium System' is used for the appointment of judges in:",
       "options": ["The Supreme Court only", "The High Courts only", "The Supreme Court and the High Courts", "The subordinate courts"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Collegium System' is used for the appointment and transfer of judges in the Supreme Court and the High Courts. The collegium is a group of senior judges of the Supreme Court. The system has evolved through judgments of the Supreme Court and is not based on any Act of Parliament or constitutional provision.",
       "difficulty": "Medium",
       "hint": "This system has been a subject of debate in recent years."
@@ -4605,7 +4605,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'National Commission for Minorities' was given a statutory status in:",
       "options": ["1988", "1990", "1992", "1993"],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The 'National Commission for Minorities' was given a statutory status in 1993 by the National Commission for Minorities Act, 1992. The commission was set up to safeguard the interests of the minorities in India. It consists of a chairperson, a vice-chairperson and five members.",
       "difficulty": "Hard",
       "hint": "This was established in the early 1990s, around the same time as the National Commission for Women."
@@ -4615,7 +4615,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Cabinet' is a smaller body which is the nucleus of the:",
       "options": ["Parliament", "Lok Sabha", "Council of Ministers", "Rajya Sabha"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Cabinet is a smaller body which is the nucleus of the Council of Ministers. It consists of the Prime Minister and some 15 to 20 most important ministers. It is the real centre of power in the government. The Council of Ministers is a larger body consisting of all the three categories of ministers, namely, cabinet ministers, ministers of state, and deputy ministers.",
       "difficulty": "Medium",
       "hint": "Think about the core decision-making body of the government."
@@ -4625,7 +4625,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Contempt of Court' can be:",
       "options": ["Civil contempt only", "Criminal contempt only", "Both civil and criminal contempt", "Neither civil nor criminal contempt"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Contempt of Court' can be both civil and criminal contempt. Civil contempt means wilful disobedience to any judgment, decree, direction, order, writ or other process of a court or wilful breach of an undertaking given to a court. Criminal contempt means the publication of any matter or the doing of any other act which scandalises or lowers the authority of a court.",
       "difficulty": "Medium",
       "hint": "This concept covers both disobedience to court orders and interference with the administration of justice."
@@ -4635,7 +4635,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Election Commission' of India is a:",
       "options": ["One-member body", "Two-member body", "Three-member body", "Four-member body"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Election Commission of India is a three-member body, consisting of one Chief Election Commissioner and two Election Commissioners. The President appoints the Chief Election Commissioner and other Election Commissioners. They have equal powers and receive equal salary and allowances, which are similar to those of a judge of the Supreme Court.",
       "difficulty": "Easy",
       "hint": "The commission was made a multi-member body in the 1990s."
@@ -4645,7 +4645,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'First Law Officer' of the Government of India is the:",
       "options": ["Chief Justice of India", "Law Minister", "Attorney General of India", "Solicitor General of India"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Attorney General of India is the 'First Law Officer' of the Government of India. He is appointed by the President and holds office during the pleasure of the President. He must be a person who is qualified to be appointed a judge of the Supreme Court. The Solicitor General is the second highest law officer in the country.",
       "difficulty": "Medium",
       "hint": "This official represents the government in legal matters."
@@ -4655,7 +4655,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'National Green Tribunal' (NGT) was established in:",
       "options": ["2008", "2010", "2012", "2014"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National Green Tribunal (NGT) was established in 2010 under the National Green Tribunal Act, 2010. It is a specialized body equipped with the necessary expertise to handle environmental disputes involving multi-disciplinary issues. The NGT is not bound by the procedure laid down under the Code of Civil Procedure, 1908, but is guided by principles of natural justice.",
       "difficulty": "Medium",
       "hint": "This body was set up to deal with environmental cases."
@@ -4665,7 +4665,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Official Language' of the Union of India is:",
       "options": ["English", "Hindi in Devanagari script", "Sanskrit", "There is no official language"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The official language of the Union of India is Hindi in Devanagari script. However, the Constitution provides that English shall continue to be used for all the official purposes of the Union for a period of fifteen years from the commencement of the Constitution. The Official Languages Act, 1963, provides for the continued use of English.",
       "difficulty": "Medium",
       "hint": "This language is widely spoken in the northern part of India."
@@ -4675,7 +4675,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Preamble' to the Constitution of India was amended by the:",
       "options": ["24th Amendment Act", "42nd Amendment Act", "44th Amendment Act", "The Preamble has never been amended"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Preamble to the Constitution of India was amended only once so far, by the 42nd Constitutional Amendment Act of 1976. The amendment added three new words—socialist, secular and integrity—to the Preamble. The Supreme Court has held that the Preamble is a part of the Constitution and can be amended, subject to the condition that no amendment is done to the ‘basic features’.",
       "difficulty": "Easy",
       "hint": "This amendment was made during the Emergency."
@@ -4690,7 +4690,7 @@ export const QUIZ_DATA = {
         "One-third of the total number of members of the House",
         "One-half of the total number of members of the House"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The 'Quorum' to constitute a meeting of either House of Parliament is one-tenth of the total number of members of the House. This means that if there are less than this number of members present in the House, the Speaker or the Chairman has to either adjourn the House or suspend the meeting until there is a quorum.",
       "difficulty": "Easy",
       "hint": "Think of a small fraction of the total strength."
@@ -4700,7 +4700,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Residuary Powers' of legislation are vested in the:",
       "options": ["President", "Prime Minister", "Parliament", "State Legislatures"],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Residuary Powers' of legislation are vested in the Parliament. This means that the Parliament has the power to make laws with respect to any matter not enumerated in the Concurrent List or State List. This feature of the Indian Constitution is borrowed from the Canadian Constitution.",
       "difficulty": "Medium",
       "hint": "This reflects the unitary bias of the Indian federal system."
@@ -4710,7 +4710,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act' was passed in:",
       "options": ["2005", "2006", "2007", "2008"],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act was passed in 2006. It is a key piece of legislation that recognizes the rights of the forest dwelling communities to land and other resources. The Act is also known as the Forest Rights Act.",
       "difficulty": "Hard",
       "hint": "This Act was a significant step towards empowering tribal communities."
@@ -4720,7 +4720,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'Special Officer for Linguistic Minorities' is appointed by the:",
       "options": ["President", "Prime Minister", "Home Minister", "Chief Justice of India"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The 'Special Officer for Linguistic Minorities' is appointed by the President of India. The office of the Special Officer for Linguistic Minorities was created in 1957. The officer's duty is to investigate all matters relating to the safeguards provided for linguistic minorities under the Constitution and report to the President upon those matters.",
       "difficulty": "Hard",
       "hint": "This constitutional office is meant to protect the interests of linguistic minorities."
@@ -4730,7 +4730,7 @@ export const QUIZ_DATA = {
       "mainsubject": "Political Science",
       "question": "The 'State Human Rights Commission' can inquire into violation of human rights only in respect of subjects mentioned in the:",
       "options": ["Union List", "State List", "Concurrent List", "State List and Concurrent List"],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The State Human Rights Commission can inquire into violation of human rights only in respect of subjects mentioned in the State List and the Concurrent List of the Seventh Schedule of the Constitution. If the inquiry is already being done by the National Human Rights Commission, the State Human Rights Commission does not inquire into that matter.",
       "difficulty": "Medium",
       "hint": "The jurisdiction of the state commission is limited to the legislative domain of the state."
@@ -4745,7 +4745,7 @@ export const QUIZ_DATA = {
         "Either House of Parliament",
         "A joint sitting of Parliament"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A resolution for the removal of the Vice-President can be initiated **only** in the Rajya Sabha. The Vice-President is the ex-officio Chairman of the Rajya Sabha. The resolution must be passed by the Rajya Sabha by an effective majority (a majority of all the then members of the House) and agreed to by the Lok Sabha by a simple majority. Unlike the President's impeachment, no formal investigation is required. For comparison, the President's impeachment can be initiated in either House.",
       "difficulty": "Medium",
       "hint": "Consider the primary role and chamber of the Vice-President."
@@ -4760,7 +4760,7 @@ export const QUIZ_DATA = {
         "To secure a uniform civil code.",
         "To separate the judiciary from the executive."
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The 42nd Amendment Act of 1976 added four new Directive Principles. One of them was 'To promote equal justice and to provide free legal aid to the poor' (Article 39A). The others were: To secure opportunities for the healthy development of children (Article 39), To take steps to secure the participation of workers in the management of industries (Article 43A), and To protect and improve the environment and to safeguard forests and wildlife (Article 48A). The other options were part of the original Constitution.",
       "difficulty": "Hard",
       "hint": "The 42nd Amendment sought to emphasize the socialist character of the state."
@@ -4775,7 +4775,7 @@ export const QUIZ_DATA = {
         "Tricameral",
         "It depends on the decision of the Governor"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Karnataka State Legislature is **Bicameral**, meaning it has two houses: the Legislative Assembly (Vidhana Sabha) and the Legislative Council (Vidhana Parishad). Currently, only six states in India have a bicameral legislature: Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh. The Legislative Council is the upper house and is a permanent body.",
       "difficulty": "Medium",
       "hint": "Consider the structure of the legislature in major Indian states."
@@ -4790,7 +4790,7 @@ export const QUIZ_DATA = {
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Statement 2 is correct as per Article 163(3). However, statement 1 is incorrect. The 91st Constitutional Amendment Act of 2003 stipulated that the total number of ministers, including the Chief Minister, in the council of ministers in a state shall not exceed 15 percent of the total strength of the legislative assembly of that state. The number of ministers shall not be less than 12. This same 15% rule applies to the Union Council of Ministers as well.",
       "difficulty": "Hard",
       "hint": "Think about a significant amendment that dealt with the size of ministries to curb defections."
@@ -4805,7 +4805,7 @@ export const QUIZ_DATA = {
         "The Chief Justice of India",
         "The Law Commission of India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The power to increase the number of judges in the Supreme Court is vested in the **Parliament**. The Constitution (Article 124) originally fixed the number of judges at one Chief Justice and seven other judges. It authorized the Parliament to increase this number. The Parliament has periodically increased the number of judges through legislation, such as the Supreme Court (Number of Judges) Act.",
       "difficulty": "Medium",
       "hint": "The legislature holds the power to determine the strength of the highest court."
@@ -4820,7 +4820,7 @@ export const QUIZ_DATA = {
         "Financial Emergency (Article 360)",
         "All have been declared an equal number of times."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "State Emergency, also known as President's Rule (under Article 356), has been declared the maximum number of times, having been imposed in various states over 100 times. National Emergency (Article 352) has been declared three times (1962, 1971, 1975). Financial Emergency (Article 360) has never been declared in India.",
       "difficulty": "Easy",
       "hint": "Consider the provision that has often been criticized for its misuse by the central government."
@@ -4835,7 +4835,7 @@ export const QUIZ_DATA = {
         "Classification of services and cadre management.",
         "Both a and b"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The UPSC's primary function is to conduct examinations for appointments to the services of the Union (like IAS, IPS, etc.) and advise the President on matters related to recruitment, promotion, and disciplinary actions. However, the classification of services, pay and service conditions, cadre management, and training are handled by the Department of Personnel and Training (DoPT), which is part of the Ministry of Personnel, Public Grievances and Pensions.",
       "difficulty": "Medium",
       "hint": "Distinguish between recruitment/advisory roles and administrative/management roles."
@@ -4850,7 +4850,7 @@ export const QUIZ_DATA = {
         "High-level public functionaries, including the Prime Minister",
         "Judicial officers only"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The institution of Lokpal is an anti-corruption ombudsman established by the Lokpal and Lokayuktas Act, 2013. Its primary jurisdiction is to inquire into allegations of corruption against high-level public functionaries, which includes the Prime Minister, Union ministers, members of Parliament, and officials of the Central Government. The state-level equivalent is the Lokayukta.",
       "difficulty": "Medium",
       "hint": "This institution was the result of a major anti-corruption movement in India."
@@ -4865,7 +4865,7 @@ export const QUIZ_DATA = {
         "Political instability",
         "Constitutional breakdown"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The 44th Amendment Act, 1978, introduced several safeguards against the misuse of Emergency provisions, a direct consequence of the 1975 Emergency. One key change was substituting the words 'armed rebellion' for 'internal disturbance' in Article 352. This was done to make the grounds for declaring an emergency more specific and to prevent its imposition on vague grounds of internal political opposition.",
       "difficulty": "Medium",
       "hint": "This amendment was enacted to undo many of the changes made by the 42nd Amendment."
@@ -4880,7 +4880,7 @@ export const QUIZ_DATA = {
         "Third Schedule",
         "Fourth Schedule"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The **Fourth Schedule** of the Constitution deals with the allocation of seats in the Rajya Sabha (Council of States). The First Schedule contains the names of States and UTs. The Second Schedule deals with the salaries and emoluments of constitutional functionaries. The Third Schedule contains the forms of Oaths or Affirmations.",
       "difficulty": "Easy",
       "hint": "The schedules of the constitution list specific details that supplement the articles."
@@ -4895,7 +4895,7 @@ export const QUIZ_DATA = {
         "22 July 1947",
         "26 November 1949"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Constituent Assembly adopted the National Flag of India on **22 July 1947**, a few weeks before India gained independence. The flag was designed by Pingali Venkayya. The Assembly also adopted the National Anthem on 24 January 1950, and the National Song on the same day.",
       "difficulty": "Medium",
       "hint": "This event took place just before independence."
@@ -4910,7 +4910,7 @@ export const QUIZ_DATA = {
         "Freedom of speech and expression (Article 19)",
         "Right to freedom of religion (Article 25)"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Constitution grants certain Fundamental Rights exclusively to citizens. These are: Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15); Equality of opportunity in matters of public employment (Article 16); The six freedoms under Article 19 (speech and expression, assembly, association, movement, residence, and profession); and Cultural and educational rights (Articles 29 and 30). Rights under Articles 14, 21, and 25 are available to all persons, including foreigners.",
       "difficulty": "Hard",
       "hint": "Think about rights that are intrinsically linked to political membership of the nation."
@@ -4925,7 +4925,7 @@ export const QUIZ_DATA = {
         "Six months",
         "One year"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Constitution (Article 85) mandates that the maximum gap between two sessions of Parliament cannot be more than **six months**. This means the Parliament must meet at least twice a year. India typically has three parliamentary sessions: the Budget Session (Feb-May), the Monsoon Session (July-Sept), and the Winter Session (Nov-Dec).",
       "difficulty": "Easy",
       "hint": "This rule ensures that the legislature meets regularly to hold the government accountable."
@@ -4940,7 +4940,7 @@ export const QUIZ_DATA = {
         "National Development Council",
         "All of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Chief Minister of a state is a member of all the bodies mentioned. These councils are key forums for cooperative federalism. The **NITI Aayog Governing Council** comprises CMs of all states. The **Inter-State Council** (established under Article 263) is chaired by the PM and includes CMs. The **National Development Council** (now largely succeeded by the NITI Aayog's council) also included CMs to approve the Five-Year Plans.",
       "difficulty": "Medium",
       "hint": "Consider the key bodies that facilitate Centre-State dialogue."
@@ -4955,7 +4955,7 @@ export const QUIZ_DATA = {
         "Giani Zail Singh",
         "Dr. A.P.J. Abdul Kalam"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Pocket Veto was used by President **Giani Zail Singh** in 1986. He effectively withheld his assent to the Indian Post Office (Amendment) Bill by taking no action on it. The bill was criticized for giving the government sweeping powers to intercept mail. The Indian President's pocket veto is more powerful than the American President's, as the Indian Constitution does not prescribe any time limit within which the President has to take a decision.",
       "difficulty": "Hard",
       "hint": "This veto was used in the context of a controversial bill related to postal services."
@@ -4970,7 +4970,7 @@ export const QUIZ_DATA = {
         "President",
         "Parliament directly"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The CAG submits his audit reports relating to the accounts of the Union to the **President**, who then causes them to be laid before both Houses of Parliament (Article 151). Similarly, the audit reports relating to a state are submitted to the Governor, who lays them before the state legislature. The Public Accounts Committee of the Parliament then examines these reports.",
       "difficulty": "Medium",
       "hint": "The head of state acts as the formal intermediary between the auditor and the legislature."
@@ -4985,7 +4985,7 @@ export const QUIZ_DATA = {
         "Election Commission",
         "Union Public Service Commission"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Zonal Councils are statutory bodies (not constitutional) established by the States Reorganisation Act of 1956. They aim to promote cooperation and coordination between states, the Centre, and Union Territories. They provide a forum for discussing and making recommendations on matters of common interest, embodying the spirit of cooperative federalism. The Inter-State Council and NITI Aayog are other key institutions for this purpose.",
       "difficulty": "Hard",
       "hint": "Think of statutory bodies designed to promote inter-state cooperation."
@@ -5000,7 +5000,7 @@ export const QUIZ_DATA = {
         "47 items",
         "66 items"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 11th Schedule lists **29 functional items** placed within the purview of the Panchayats. These subjects, such as agriculture, rural housing, drinking water, and sanitation, were to be devolved to the Panchayati Raj Institutions by the state governments. For comparison, the 12th Schedule, added by the 74th Amendment, lists 18 items for the Municipalities.",
       "difficulty": "Easy",
       "hint": "This number is a frequently asked fact related to the 73rd Amendment."
@@ -5015,7 +5015,7 @@ export const QUIZ_DATA = {
         "Either Lok Sabha or Rajya Sabha",
         "It cannot be initiated, it can only be voted upon"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "A no-confidence motion can be initiated and passed **only in the Lok Sabha**. This is because the Council of Ministers is collectively responsible only to the Lok Sabha (Article 75(3)). The Rajya Sabha cannot remove the government as it does not represent the people directly. If the motion is passed, the Prime Minister and the entire Council of Ministers must resign.",
       "difficulty": "Medium",
       "hint": "Consider the principle of collective responsibility and which house embodies it."
@@ -5030,7 +5030,7 @@ export const QUIZ_DATA = {
         "Parliament cannot alter the fundamental framework of the Constitution.",
         "Fundamental Rights are not amendable."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Basic Structure Doctrine, laid down by the Supreme Court in the Kesavananda Bharati case (1973), holds that while Parliament has the power to amend the Constitution (under Article 368), this power is not absolute. Parliament cannot amend the Constitution in a way that alters its 'basic structure' or 'fundamental framework'. Features like judicial review, federalism, secularism, and parliamentary democracy have been held to be part of the basic structure.",
       "difficulty": "Medium",
       "hint": "This doctrine establishes a limit on the Parliament's constituent power."
@@ -5045,7 +5045,7 @@ export const QUIZ_DATA = {
         "Sir B.N. Rau",
         "Dr. Rajendra Prasad"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Sir B.N. Rau was appointed as the constitutional advisor to the Constituent Assembly. He was an eminent jurist who prepared the initial draft of the constitution for the consideration of the Drafting Committee. Dr. B.R. Ambedkar was the Chairman of the Drafting Committee, and Dr. Rajendra Prasad was the President of the Constituent Assembly.",
       "difficulty": "Medium",
       "hint": "This individual played a crucial background role in the constitution-making process."
@@ -5060,7 +5060,7 @@ export const QUIZ_DATA = {
         "Article 20(3)",
         "Article 22(1)"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Article 20(3) of the Constitution states that 'no person accused of any offence shall be compelled to be a witness against himself'. This is the principle of protection against self-incrimination. Article 20(1) protects against ex-post-facto laws (retroactive criminal legislation), and Article 20(2) protects against double jeopardy (being tried for the same crime twice). Article 20 is a crucial right that cannot be suspended even during an emergency.",
       "difficulty": "Hard",
       "hint": "This clause is often invoked with the phrase 'right to remain silent'."
@@ -5075,7 +5075,7 @@ export const QUIZ_DATA = {
         "There is a disagreement between the two Houses.",
         "The Lok Sabha has been dissolved."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The President's power to legislate by ordinance (under Article 123) is an extraordinary power available only when the Parliament is not in session. He can promulgate an ordinance when either of the two Houses of Parliament is not in session. An ordinance has the same force and effect as an Act of Parliament but must be approved by Parliament within six weeks of its reassembly, otherwise it ceases to operate.",
       "difficulty": "Hard",
       "hint": "The condition for this legislative power is the non-availability of the full legislative body."
@@ -5090,7 +5090,7 @@ export const QUIZ_DATA = {
         "35 years",
         "40 years"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Constitution (Article 157) lays down that a person must have completed the age of **35 years** to be eligible for appointment as a Governor. The same age requirement applies to the President and Vice-President. For membership in the Lok Sabha, the minimum age is 25 years, and for the Rajya Sabha, it is 30 years.",
       "difficulty": "Easy",
       "hint": "The age requirement is the same as for the President of India."
@@ -5105,7 +5105,7 @@ export const QUIZ_DATA = {
         "The presiding officer of the House",
         "The Supreme Court"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The decision on disqualification of a member under the Tenth Schedule is made by the **presiding officer of the House** (the Speaker in the case of the Lok Sabha and the Chairman in the case of the Rajya Sabha). Originally, the decision of the presiding officer was final and not subject to judicial review. However, in the Kihoto Hollohan case (1992), the Supreme Court held that the decision is subject to judicial review.",
       "difficulty": "Medium",
       "hint": "The authority to decide rests within the legislative chamber itself."
@@ -5120,7 +5120,7 @@ export const QUIZ_DATA = {
         "Executive Body",
         "Non-governmental Organization"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The National Commission for Scheduled Castes (NCSC) is a **Constitutional Body** established under Article 338 of the Constitution. It was set up to safeguard the interests of the scheduled castes in India. Similarly, the National Commission for Scheduled Tribes (NCST) was established as a separate body under Article 338-A by the 89th Amendment Act, 2003.",
       "difficulty": "Medium",
       "hint": "Think about bodies that are directly established by articles of the Constitution."
@@ -5135,7 +5135,7 @@ export const QUIZ_DATA = {
         "Balwant Rai Mehta Committee",
         "Ashok Mehta Committee"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Central Vigilance Commission (CVC) was set up by the Government in 1964 on the recommendation of the **Santhanam Committee on Prevention of Corruption**. It was initially an executive body. Later, in 2003, the Parliament enacted a law conferring statutory status on the CVC. The CVC is the apex vigilance institution in India.",
       "difficulty": "Hard",
       "hint": "This committee's recommendations also led to the establishment of the CBI."
@@ -5150,7 +5150,7 @@ export const QUIZ_DATA = {
         "101st Amendment Act",
         "102nd Amendment Act"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **101st Constitutional Amendment Act, 2016**, introduced the Goods and Services Tax (GST) in India. GST is an indirect tax that has replaced many indirect taxes in India such as the excise duty, VAT, services tax, etc. The 102nd Amendment gave constitutional status to the National Commission for Backward Classes.",
       "difficulty": "Easy",
       "hint": "This was a landmark tax reform in recent Indian history."
@@ -5165,7 +5165,7 @@ export const QUIZ_DATA = {
         "Social, economic and political justice",
         "Life, property and security"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Preamble explicitly mentions securing to all citizens 'Liberty of **thought, expression, belief, faith and worship**'. 'Justice, social, economic and political' and 'Equality of status and of opportunity' are also mentioned, but they are different ideals secured by the Preamble. These ideals were inspired by the French Revolution.",
       "difficulty": "Medium",
       "hint": "Carefully read the text of the Preamble."
@@ -5180,7 +5180,7 @@ export const QUIZ_DATA = {
         "Directive Principles of State Policy",
         "Fundamental Duties"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The concept of a 'welfare state' is embedded in the **Directive Principles of State Policy (DPSP)**, contained in Part IV of the Constitution. DPSPs aim to establish social and economic democracy. They are guidelines for the state to follow in its governance, aiming to promote the welfare of the people by securing and protecting a just social order.",
       "difficulty": "Medium",
       "hint": "Think about the part of the Constitution that contains positive obligations for the state."
@@ -5195,7 +5195,7 @@ export const QUIZ_DATA = {
         "The Speaker of the Lok Sabha",
         "The Chairman of the Rajya Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Speaker of the Lok Sabha** has the final power to decide whether a bill is a Money Bill or not. Their decision is final and cannot be challenged in any court of law or in either House of Parliament. A Money Bill (Article 110) can only be introduced in the Lok Sabha with the prior recommendation of the President.",
       "difficulty": "Easy",
       "hint": "This power is a key prerogative of the presiding officer of the lower house."
@@ -5210,7 +5210,7 @@ export const QUIZ_DATA = {
         "65 years",
         "There is no fixed tenure"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A judge of a High Court holds office until they attain the age of **62 years**. This age was increased from 60 to 62 years by the 15th Constitutional Amendment Act of 1963. In contrast, a judge of the Supreme Court holds office until the age of 65 years.",
       "difficulty": "Medium",
       "hint": "The retirement age for High Court judges is slightly less than for Supreme Court judges."
@@ -5225,7 +5225,7 @@ export const QUIZ_DATA = {
         "Certiorari",
         "Quo Warranto"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Mandamus** is a Latin word which means 'we command'. It is a judicial writ issued as a command to an inferior court or ordering a person to perform a public or statutory duty. Habeas Corpus means 'to have the body of'. Certiorari means 'to be certified'. Quo Warranto means 'by what authority or warrant'.",
       "difficulty": "Medium",
       "hint": "This writ is used to compel a public authority to perform its legal duties."
@@ -5240,7 +5240,7 @@ export const QUIZ_DATA = {
         "The measures needed to augment the Consolidated Fund of a State.",
         "The composition and functions of the GST Council."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The GST Council is a separate constitutional body (Article 279A) established by the 101st Amendment Act to make recommendations on GST rates, exemptions, and other related matters. The Finance Commission (Article 280) deals with the vertical and horizontal devolution of taxes, grants-in-aid, and measures to augment the state's consolidated fund to supplement the resources of Panchayats and Municipalities.",
       "difficulty": "Hard",
       "hint": "Consider the new constitutional body created specifically for GST."
@@ -5255,7 +5255,7 @@ export const QUIZ_DATA = {
         "Three-tier system",
         "Four-tier system"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Ashok Mehta Committee recommended replacing the existing three-tier system with a **two-tier system** consisting of the Zila Parishad at the district level, and below it, the Mandal Panchayat (a group of villages). The committee was appointed by the Janata Party Government to review the working of the Panchayati Raj system. This was a departure from the three-tier system recommended by the Balwant Rai Mehta Committee.",
       "difficulty": "Medium",
       "hint": "This committee suggested a consolidation of the Panchayati Raj structure."
@@ -5270,7 +5270,7 @@ export const QUIZ_DATA = {
         "Twenty-Fourth Amendment Act, 1971",
         "Forty-Second Amendment Act, 1976"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Ninth Schedule was added to the Constitution by the very **First Amendment Act in 1951**. It was created to protect land reform laws from being challenged in courts on the grounds that they violated Fundamental Rights. However, the Supreme Court in the I.R. Coelho case (2007) ruled that even laws placed in the Ninth Schedule are open to judicial review if they violate the basic structure of the Constitution.",
       "difficulty": "Medium",
       "hint": "This schedule was added very early in the Republic's history to facilitate land reforms."
@@ -5285,7 +5285,7 @@ export const QUIZ_DATA = {
         "No answer is required",
         "An answer in the form of a report"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A starred question is distinguished by an asterisk and requires an **oral answer** in the House. Because the answer is oral, supplementary questions can be asked by members. In contrast, an 'unstarred question' requires a written answer, and a 'short notice question' is one that is asked on a matter of urgent public importance and can be answered orally at short notice.",
       "difficulty": "Easy",
       "hint": "The star signifies that the member wants to ask follow-up questions."
@@ -5300,7 +5300,7 @@ export const QUIZ_DATA = {
         "Independent Judiciary",
         "Dual Citizenship"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "India has a federal system with features like a written constitution, division of powers between the Centre and states, and an independent judiciary. However, India provides for **single citizenship** only. All citizens of India, irrespective of the state in which they are born or reside, are citizens of India. In contrast, countries like the USA have a system of dual citizenship (national and state).",
       "difficulty": "Easy",
       "hint": "Consider how citizenship is defined in India compared to countries like the USA."
@@ -5315,7 +5315,7 @@ export const QUIZ_DATA = {
         "5 years or age of 62, whichever is earlier",
         "During the pleasure of the President"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The term of office for the CAG is **six years or until they attain the age of 65 years, whichever is earlier**. The CAG is an independent constitutional authority (Article 148) and is not subject to the 'pleasure of the President'. They can be removed from office in the same manner as a judge of the Supreme Court, ensuring their independence.",
       "difficulty": "Medium",
       "hint": "The tenure is similar to that of the Chief Election Commissioner and UPSC members."
@@ -5330,7 +5330,7 @@ export const QUIZ_DATA = {
         "Sardar Vallabhbhai Patel",
         "C. Rajagopalachari"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The historic 'Objectives Resolution' was moved by **Jawaharlal Nehru** on December 13, 1946. It laid down the fundamentals and philosophy of the constitutional structure. This resolution was later adopted by the Constituent Assembly and its modified version forms the Preamble of the present Constitution.",
       "difficulty": "Easy",
       "hint": "Think about the first Prime Minister of India's role in shaping the nation's vision."
@@ -5345,7 +5345,7 @@ export const QUIZ_DATA = {
         "Union of States",
         "Unitary State"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Article 1(1) of the Constitution states, 'India, that is Bharat, shall be a **Union of States**.' The term 'Union' was preferred over 'Federation' to indicate that the Indian federation is not the result of an agreement among the states, and the states have no right to secede from the federation. It implies a more centralized federal structure.",
       "difficulty": "Medium",
       "hint": "The phrasing used in the constitution was deliberate to emphasize the indivisibility of the nation."
@@ -5360,7 +5360,7 @@ export const QUIZ_DATA = {
         "10",
         "11"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "Currently, there are **11 Fundamental Duties** listed under Article 51-A in Part IV-A of the Constitution. Initially, 10 duties were added by the 42nd Amendment in 1976. The 11th duty, related to providing opportunities for education to children between the ages of six and fourteen, was added by the 86th Amendment Act in 2002.",
       "difficulty": "Easy",
       "hint": "The number was increased by one through a later amendment related to education."
@@ -5375,7 +5375,7 @@ export const QUIZ_DATA = {
         "All members of Parliament and State Legislative Assemblies",
         "Elected members of Parliament only"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The electoral college for the President's election (Article 54) consists of the **elected members of both Houses of Parliament** (Lok Sabha and Rajya Sabha) and the **elected members of the Legislative Assemblies of the States**. Nominated members of Parliament and members of Legislative Councils do not participate in the Presidential election.",
       "difficulty": "Medium",
       "hint": "Remember that only elected representatives participate in electing the head of state."
@@ -5390,7 +5390,7 @@ export const QUIZ_DATA = {
         "Special majority and ratification by half of the states",
         "Absolute majority"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "A bill for the creation of a new state or alteration of boundaries of existing states (under Article 3) needs to be passed by the Parliament with a **simple majority**. Article 4(2) of the Constitution explicitly states that such laws shall not be considered as amendments to the Constitution for the purposes of Article 368, which requires a special majority.",
       "difficulty": "Hard",
       "hint": "This process is considered a regular legislative procedure, not a constitutional amendment."
@@ -5405,7 +5405,7 @@ export const QUIZ_DATA = {
         "Examine the constitutional validity of laws",
         "Advise the President on legal matters"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Judicial review is the power of the judiciary to **examine the constitutional validity of legislative enactments and executive orders** of both the Central and state governments. If a law is found to be in violation of the Constitution, it can be declared null and void by the judiciary. This power is a cornerstone of the 'basic structure' of the Constitution.",
       "difficulty": "Medium",
       "hint": "This power acts as a check on the legislative and executive branches."
@@ -5420,7 +5420,7 @@ export const QUIZ_DATA = {
         "All or any class of persons serving the Union or a State",
         "All persons including the judges of the Supreme Court and High Courts"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "During a Financial Emergency, the President can issue directions for the reduction of salaries and allowances of **all or any class of persons serving in connection with the affairs of the Union, including the judges of the Supreme Court and the High Courts**. Such directions can also be issued to the states for the reduction of salaries of persons serving in connection with their affairs.",
       "difficulty": "Hard",
       "hint": "The powers during a financial emergency are extensive and can affect even the judiciary."
@@ -5435,7 +5435,7 @@ export const QUIZ_DATA = {
         "President on the grounds of misbehaviour after an inquiry by the Supreme Court",
         "President on the advice of the Union Cabinet"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The President can remove the chairman or any other member of the UPSC from office on the grounds of misbehaviour. However, the President has to refer the matter to the **Supreme Court for an inquiry**. If the Supreme Court, after the inquiry, upholds the cause of removal and advises so, the President can remove the chairman or a member. The advice tendered by the Supreme Court is binding on the President.",
       "difficulty": "Hard",
       "hint": "The removal process is stringent to ensure the independence of the commission."
@@ -5450,7 +5450,7 @@ export const QUIZ_DATA = {
         "National Commission for Scheduled Castes",
         "National Commission for Scheduled Tribes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **National Commission for Women** is a **statutory body**, established in 1992 under the National Commission for Women Act, 1990. The other three are constitutional bodies. The commissions for SCs (Article 338) and STs (Article 338A) were already constitutional, and the National Commission for Backward Classes (NCBC) was given constitutional status by the 102nd Amendment Act, 2018 (Article 338B).",
       "difficulty": "Medium",
       "hint": "Differentiate between bodies created by an Act of Parliament versus those created by the Constitution itself."
@@ -5465,7 +5465,7 @@ export const QUIZ_DATA = {
         "Japan",
         "Germany"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The concept of 'Procedure Established by Law' is mentioned in Article 21 and is borrowed from the **Japanese Constitution**. It means that a law that is duly enacted by the legislature is valid if it has followed the correct procedure. This is in contrast to the American concept of 'Due Process of Law', which implies that a law should be fair, just, and reasonable, not just procedurally correct. However, the Supreme Court has since interpreted Article 21 to include aspects of 'due process'.",
       "difficulty": "Hard",
       "hint": "This concept is from an Asian constitution."
@@ -5480,7 +5480,7 @@ export const QUIZ_DATA = {
         "Constitution of the UK",
         "Constitution of Canada"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "India has a single integrated judicial system, meaning the Supreme Court stands at the apex, below which are the High Courts, and then the subordinate courts. This structure enforces both Central and state laws. This model was adopted from the **Government of India Act, 1935**. In contrast, the USA has a dual judiciary system, with separate federal and state court systems.",
       "difficulty": "Medium",
       "hint": "Many administrative and structural details of the Indian Constitution came from this pre-independence Act."
@@ -5495,7 +5495,7 @@ export const QUIZ_DATA = {
         "Right against Exploitation",
         "Right to Constitutional Remedies"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The right to form cooperative societies was made a Fundamental Right under the **Right to Freedom** (Article 19(1)(c)) by the 97th Constitutional Amendment Act of 2011. This amendment also added a new Directive Principle (Article 43B) and a new Part IX-B to the Constitution, both related to promoting cooperative societies.",
       "difficulty": "Hard",
       "hint": "This right was added relatively recently as part of the freedom of association."
@@ -5510,7 +5510,7 @@ export const QUIZ_DATA = {
         "To discuss matters of urgent public importance.",
         "To pass resolutions."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The primary purpose of the Question Hour is to **hold the government accountable**. During this time, Members of Parliament ask questions to ministers about their ministries' functioning. It is a powerful tool for legislative oversight over the executive. The questions can be Starred (requiring an oral answer) or Unstarred (requiring a written answer).",
       "difficulty": "Easy",
       "hint": "This parliamentary device is a key instrument of executive accountability."
@@ -5525,7 +5525,7 @@ export const QUIZ_DATA = {
         "Union List and Concurrent List",
         "State List only"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The State Legislature has the power to make laws on subjects enumerated in the **State List** and the **Concurrent List**. Parliament has exclusive power over the Union List. For subjects in the Concurrent List, both Parliament and State Legislatures can make laws. However, in case of a conflict, the law made by the Parliament prevails.",
       "difficulty": "Medium",
       "hint": "Think about the shared legislative domain in India's federal structure."
@@ -5540,7 +5540,7 @@ export const QUIZ_DATA = {
         "Give advice to the President.",
         "Hear appeals from the decisions of lower courts."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "Appellate Jurisdiction refers to the power of a higher court to review, amend, and overrule decisions of a lower court. The Supreme Court is the highest court of appeal in India and can **hear appeals from the decisions of High Courts** and other tribunals in constitutional, civil, and criminal matters.",
       "difficulty": "Easy",
       "hint": "The term 'appeal' itself points to the answer."
@@ -5555,7 +5555,7 @@ export const QUIZ_DATA = {
         "Public Interest Litigation (PIL)",
         "Constitutional amendments"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Judicial activism in India gained prominence through **Public Interest Litigation (PIL)**. PIL allows public-spirited citizens or organizations to approach the court on behalf of marginalized sections of society. This allowed the judiciary to take a more proactive role in protecting human rights and promoting justice, sometimes venturing into domains traditionally reserved for the executive and legislature.",
       "difficulty": "Medium",
       "hint": "This tool allows the judiciary to address issues of public concern."
@@ -5570,7 +5570,7 @@ export const QUIZ_DATA = {
         "Parliament through a special majority",
         "Chief Election Commissioner"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "While the Chief Election Commissioner (CEC) can only be removed from office in the same manner as a Supreme Court judge, the other Election Commissioners can be removed from office by the **President on the recommendation of the Chief Election Commissioner**. This provision has been a subject of debate regarding the autonomy of the Election Commissioners.",
       "difficulty": "Hard",
       "hint": "The removal process for other Election Commissioners is different and less stringent than for the CEC."
@@ -5585,7 +5585,7 @@ export const QUIZ_DATA = {
         "Article 352",
         "It is not mentioned in the Constitution"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The word 'Cabinet' was not in the original Constitution. It was inserted into **Article 352** by the 44th Constitutional Amendment Act, 1978. The article now states that the President shall not issue a Proclamation of Emergency unless the decision of the Union Cabinet (i.e., the council consisting of the Prime Minister and other ministers of cabinet rank) has been communicated to him in writing. Articles 74 and 75 deal with the 'Council of Ministers'.",
       "difficulty": "Hard",
       "hint": "This term was added to the Constitution in the context of Emergency provisions."
@@ -5600,7 +5600,7 @@ export const QUIZ_DATA = {
         "Public Accounts Committee",
         "Business Advisory Committee"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Public Accounts Committee (PAC)** examines the annual audit reports of the Comptroller and Auditor General of India (CAG). Its primary function is to ascertain whether the money granted by Parliament has been spent by the government within the scope of the demand. It examines the accounts from the viewpoint of legality, propriety, and economy. The Estimates Committee examines estimates to suggest 'economies' in public expenditure.",
       "difficulty": "Medium",
       "hint": "This committee acts as the watchdog of the public purse, working closely with the CAG."
@@ -5615,7 +5615,7 @@ export const QUIZ_DATA = {
         "44th Amendment Act",
         "73rd Amendment Act"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **42nd Amendment Act, 1976**, added a new Part XIV-A to the Constitution, which is entitled 'Tribunals'. This part consists of two Articles: Article 323 A dealing with Administrative Tribunals and Article 323 B dealing with tribunals for other matters. Administrative tribunals adjudicate disputes relating to recruitment and conditions of service of persons appointed to public services.",
       "difficulty": "Hard",
       "hint": "The 'Mini-Constitution' added a new part to the constitution dealing with these quasi-judicial bodies."
@@ -5630,7 +5630,7 @@ export const QUIZ_DATA = {
         "Both the Supreme Court and the High Courts",
         "All courts, including subordinate courts"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The power to issue writs, including Habeas Corpus, is vested in **both the Supreme Court (under Article 32)** and the **High Courts (under Article 226)**. Habeas Corpus is a writ requiring a person under arrest to be brought before a judge or into court to secure the person's release unless lawful grounds are shown for their detention. A person can approach either the Supreme Court or a High Court for the enforcement of their Fundamental Rights.",
       "difficulty": "Easy",
       "hint": "This power is shared by the apex court and the highest courts in the states."
@@ -5645,7 +5645,7 @@ export const QUIZ_DATA = {
         "The state legislature requests an extension.",
         "Either a or b"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The 44th Amendment Act of 1978 introduced a provision that President's rule can be extended beyond one year (for six months at a time, up to a maximum of three years) only if two conditions are met: (a) a proclamation of National Emergency is in operation in the whole of India or in the whole or any part of the state; **and** (b) the Election Commission certifies that it is difficult to hold general elections to the legislative assembly of the concerned state. Both conditions must be fulfilled.",
       "difficulty": "Hard",
       "hint": "There are strict conditions for extending President's rule beyond the first year."
@@ -5660,7 +5660,7 @@ export const QUIZ_DATA = {
         "The Union Home Minister",
         "The Chief Minister of the largest state in the zone"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Union Home Minister** is the common chairman of the five Zonal Councils (Northern, Central, Eastern, Western, and Southern). The Chief Ministers of the states included in each zone act as vice-chairmen by rotation, each holding office for a period of one year at a time. Zonal Councils are statutory bodies aimed at promoting inter-state cooperation.",
       "difficulty": "Medium",
       "hint": "The head of the ministry responsible for internal security and Centre-state relations chairs these councils."
@@ -5675,7 +5675,7 @@ export const QUIZ_DATA = {
         "Indra Sawhney case",
         "S.R. Bommai case"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The concept of the 'creamy layer' was laid down by the Supreme Court in the landmark **Indra Sawhney & Others v. Union of India case (1992)**, also known as the Mandal case. The court upheld the 27% reservation for OBCs but stipulated that the socially advanced persons among them (the 'creamy layer') should be excluded from the benefit of reservation.",
       "difficulty": "Hard",
       "hint": "This case is famously known as the Mandal Commission case."
@@ -5690,7 +5690,7 @@ export const QUIZ_DATA = {
         "The provisions regarding disqualification on grounds of defection.",
         "The administration of tribal areas."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Eighth Schedule** of the Constitution lists the official languages of the Republic of India. Originally, it had 14 languages, but now it has **22 languages**. The Union-State power allocation is in the Seventh Schedule, anti-defection is in the Tenth Schedule, and administration of tribal areas is covered in the Fifth and Sixth Schedules.",
       "difficulty": "Easy",
       "hint": "This schedule is related to linguistic diversity in India."
@@ -5705,7 +5705,7 @@ export const QUIZ_DATA = {
         "State Legislative Councils",
         "Judiciary"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A Cut Motion is a power available exclusively to the members of the **Lok Sabha**. It is a tool to oppose a demand in the Financial Bill discussed by the government. If a cut motion is passed, it amounts to a no-confidence vote, and the government is expected to resign. It is not available in the Rajya Sabha, as it does not vote on demands for grants.",
       "difficulty": "Medium",
       "hint": "This power is linked to the financial accountability of the government to the lower house."
@@ -5720,7 +5720,7 @@ export const QUIZ_DATA = {
         "Union Home Minister",
         "Minister of Environment, Forest and Climate Change"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National Disaster Management Authority (NDMA) is the apex statutory body for disaster management in India. It is headed by the **Prime Minister of India**. The NDMA was established through the Disaster Management Act, 2005. It is responsible for laying down policies, plans, and guidelines for disaster management.",
       "difficulty": "Medium",
       "hint": "The head of the government leads this crucial authority."
@@ -5735,7 +5735,7 @@ export const QUIZ_DATA = {
         "Consolidated Fund of India",
         "Prime Minister's National Relief Fund"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The salaries, allowances, and pensions of the judges of the Supreme Court are charged upon the **Consolidated Fund of India**. 'Charged' expenditure is non-votable by the Parliament, meaning it is not subject to the annual vote of the Parliament. This provision ensures the independence of the judiciary from financial control by the executive or legislature.",
       "difficulty": "Medium",
       "hint": "This fund is where most government revenues are credited and expenditures are made from."
@@ -5750,7 +5750,7 @@ export const QUIZ_DATA = {
         "Cooperative Societies",
         "Tribal Areas"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 12th Schedule was added by the 74th Amendment Act, 1992, and it specifies the powers, authority, and responsibilities of **Municipalities**. It contains 18 functional items, such as urban planning, regulation of land use, roads and bridges, and public health. The 11th Schedule deals with the 29 items for Panchayats.",
       "difficulty": "Easy",
       "hint": "This is the urban counterpart to the 11th Schedule."
@@ -5765,7 +5765,7 @@ export const QUIZ_DATA = {
         "A member of the Union Public Service Commission (UPSC)",
         "The Prime Minister"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A member of the UPSC does NOT hold office during the pleasure of the President. They have a fixed tenure (6 years or 65 years of age) and can only be removed through a specific procedure involving an inquiry by the Supreme Court. The Governor, Attorney General, and the Prime Minister (along with other ministers) hold office during the pleasure of the President, though the PM's tenure is subject to enjoying majority support in the Lok Sabha.",
       "difficulty": "Hard",
       "hint": "Consider the bodies whose independence is protected by a secure tenure."
@@ -5780,7 +5780,7 @@ export const QUIZ_DATA = {
         "President",
         "Supreme Court"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The power to legislate on residuary subjects is vested in the **Parliament** by the Constitution (Article 248). This reflects the unitary bias of the Indian federation, as it gives more power to the Centre. In contrast, in the USA, the residuary powers are vested in the states.",
       "difficulty": "Medium",
       "hint": "This power over unlisted subjects is a key feature of the Centre's legislative authority in India."
@@ -5795,7 +5795,7 @@ export const QUIZ_DATA = {
         "Article 48",
         "Article 51"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Article 44** of the Constitution, which is a part of the Directive Principles of State Policy, states that 'The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.' Article 40 deals with the organization of village panchayats, Article 48 with agriculture and animal husbandry, and Article 51 with the promotion of international peace and security.",
       "difficulty": "Easy",
       "hint": "This is one of the most debated Directive Principles."
@@ -5810,7 +5810,7 @@ export const QUIZ_DATA = {
         "A special majority in both Houses of Parliament.",
         "A simple majority in Lok Sabha only."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A proclamation of National Emergency must be approved by both Houses of Parliament within one month by a **special majority**. A special majority here means a majority of the total membership of that house and a majority of not less than two-thirds of the members of that house present and voting. This stringent requirement was added by the 44th Amendment Act, 1978, to prevent misuse.",
       "difficulty": "Hard",
       "hint": "The approval process for an emergency is more rigorous than for ordinary legislation."
@@ -5825,7 +5825,7 @@ export const QUIZ_DATA = {
         "The Union Ministry of Home Affairs",
         "The Returning Officer of the constituency"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Under Article 324 of the Constitution, the superintendence, direction, and control of the preparation of the electoral rolls for all elections to Parliament and to the Legislature of every State are vested in the **Election Commission of India**. The commission works through its machinery at the state and district levels to ensure the rolls are accurate and up-to-date.",
       "difficulty": "Medium",
       "hint": "This constitutional body is responsible for the entire election process."
@@ -5840,7 +5840,7 @@ export const QUIZ_DATA = {
         "52nd Amendment Act",
         "61st Amendment Act"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **52nd Amendment Act of 1985** is known as the Anti-Defection Law. It added the Tenth Schedule to the Constitution, which lays down the provisions for the disqualification of members of Parliament and state legislatures on the grounds of defection from one political party to another. The 61st Amendment lowered the voting age to 18.",
       "difficulty": "Easy",
       "hint": "This law was enacted in the 1980s to curb the 'Aaya Ram, Gaya Ram' culture."
@@ -5855,7 +5855,7 @@ export const QUIZ_DATA = {
         "Canada",
         "Ireland"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "While the Indian Constitution has several federal features, the specific model of a 'federation with a strong centre' is borrowed from **Canada**. This includes the appointment of state governors by the Centre, the vesting of residuary powers in the Centre, and the advisory jurisdiction of the Supreme Court. The UK is a unitary state. From the US, we borrowed features like judicial review and fundamental rights.",
       "difficulty": "Medium",
       "hint": "Think of a country that has a federal structure but with a powerful central government."
@@ -5870,7 +5870,7 @@ export const QUIZ_DATA = {
         "Lord William Bentinck",
         "Lord Macaulay"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The office of the District Collector was created by **Warren Hastings** in 1772. The primary function of the Collector was to supervise revenue collection. The office has since evolved to become the chief administrative and revenue officer of a district in India, embodying the authority of the state government at the district level.",
       "difficulty": "Hard",
       "hint": "This office dates back to the early days of the East India Company's rule."
@@ -5885,7 +5885,7 @@ export const QUIZ_DATA = {
         "Finance Minister",
         "President"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Contingency Fund of India is established under Article 267(1) of the Constitution and is placed at the disposal of the **President**. He can make advances out of it to meet unforeseen expenditure pending its authorization by the Parliament. The fund is operated by the Finance Secretary on behalf of the President.",
       "difficulty": "Medium",
       "hint": "This fund is for meeting urgent and unforeseen expenditure."
@@ -5900,7 +5900,7 @@ export const QUIZ_DATA = {
         "The President and Vice-President",
         "Panchayat members"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The system of proportional representation by means of a single transferable vote is used for indirect elections in India, such as the election of the **President, Vice-President, members of the Rajya Sabha, and members of the State Legislative Councils**. Elections to the Lok Sabha and State Assemblies use the First-Past-the-Post (FPTP) system.",
       "difficulty": "Medium",
       "hint": "This system is used for indirect elections to ensure representation for different groups."
@@ -5915,7 +5915,7 @@ export const QUIZ_DATA = {
         "The Prime Minister",
         "The Principal Secretary to the President"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Prime Minister** acts as the principal channel of communication between the President and the Council of Ministers. According to Article 78, it is the duty of the Prime Minister to communicate to the President all decisions of the Council of Ministers relating to the administration of the affairs of the Union and proposals for legislation.",
       "difficulty": "Easy",
       "hint": "The head of government communicates with the head of state."
@@ -5930,7 +5930,7 @@ export const QUIZ_DATA = {
         "550",
         "552"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The maximum strength of the Lok Sabha is fixed at **550**. Of these, up to 530 members represent the states and up to 20 members represent the Union Territories. Previously, the maximum strength was 552, including 2 nominated members from the Anglo-Indian community, but this provision was abolished by the 104th Amendment Act, 2019.",
       "difficulty": "Medium",
       "hint": "The number was recently revised after the removal of a nominated category."
@@ -5945,7 +5945,7 @@ export const QUIZ_DATA = {
         "Advisory Jurisdiction",
         "Writ Jurisdiction"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "This power is known as the **Advisory Jurisdiction** of the Supreme Court, covered under Article 143 of the Constitution. The President can seek the opinion of the Supreme Court on any question of law or fact of public importance. The advice tendered by the Supreme Court is not binding on the President.",
       "difficulty": "Medium",
       "hint": "This jurisdiction is consultative in nature."
@@ -5960,7 +5960,7 @@ export const QUIZ_DATA = {
         "Panchayati Raj Revitalization",
         "Administrative Reforms"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The L.M. Singhvi Committee was appointed in 1986 by the Rajiv Gandhi government to prepare a concept paper on the revitalization of **Panchayati Raj institutions**. It was the first committee to recommend granting constitutional status to the Panchayati Raj system, a recommendation that was later incorporated into the 73rd Amendment Act.",
       "difficulty": "Hard",
       "hint": "This committee recommended constitutional status for local self-government."
@@ -5975,7 +5975,7 @@ export const QUIZ_DATA = {
         "Right to protection in respect of conviction for offences",
         "Right to assemble peaceably and without arms"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The rights guaranteed by Article 20 (**Right to protection in respect of conviction for offences**) and Article 21 (Right to life and personal liberty) cannot be suspended even during a National Emergency. This safeguard was introduced by the 44th Amendment Act, 1978. The rights under Article 19 (which include options a, b, and d) are automatically suspended only when the emergency is declared on grounds of war or external aggression.",
       "difficulty": "Medium",
       "hint": "This protection was added to prevent the excesses seen during the 1975 Emergency."
@@ -5990,7 +5990,7 @@ export const QUIZ_DATA = {
         "15 States and 5 Union Territories",
         "17 States and 7 Union Territories"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The State Reorganisation Act of 1956, passed on the recommendations of the Fazl Ali Commission, led to the creation of **14 states and 6 union territories** on November 1, 1956. This act reorganized the boundaries of Indian states and territories, organizing them primarily along linguistic lines.",
       "difficulty": "Medium",
       "hint": "This was the first major reorganization of states after independence."
@@ -6005,7 +6005,7 @@ export const QUIZ_DATA = {
         "Consider annual reports of ministries.",
         "All of the above."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Departmental Standing Committees were created to strengthen parliamentary oversight over the executive. Their functions include: (a) scrutinizing the demands for grants of the concerned ministries before they are discussed and voted in the Lok Sabha, (b) examining bills referred to them, and (c) considering the annual reports of ministries. This makes parliamentary financial control more detailed and effective.",
       "difficulty": "Hard",
       "hint": "These committees provide a mechanism for in-depth scrutiny of government activities."
@@ -6020,7 +6020,7 @@ export const QUIZ_DATA = {
         "The President",
         "The Parliament"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Constitution (Article 267(2)) authorizes the **Legislature of a State** to establish a 'Contingency Fund of the State'. This fund is placed at the disposal of the Governor, and he can make advances out of it to meet unforeseen expenditure pending its authorization by the state legislature. It operates on the same principles as the Contingency Fund of India.",
       "difficulty": "Medium",
       "hint": "Just like Parliament at the Centre, this body is responsible for creating the fund at the state level."
@@ -6035,7 +6035,7 @@ export const QUIZ_DATA = {
         "42nd Amendment Act",
         "44th Amendment Act"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The term 'Secular' was added to the Preamble by the **42nd Constitutional Amendment Act of 1976**. This amendment also added the terms 'Socialist' and 'Integrity'. Although the Constitution always had secular features (like Articles 25-28), this amendment made the secular character of the state explicit in the Preamble.",
       "difficulty": "Easy",
       "hint": "This was one of the three words added to the Preamble by the 'Mini-Constitution'."
@@ -6050,7 +6050,7 @@ export const QUIZ_DATA = {
         "The Chief Justice of the High Court",
         "The Speaker of the Legislative Assembly"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The **Governor** administers the oaths of office and secrecy to the Chief Minister. The other ministers are also appointed by the Governor on the advice of the Chief Minister and are administered the oath by the Governor.",
       "difficulty": "Easy",
       "hint": "The constitutional head of the state administers the oath to the head of the state government."
@@ -6065,7 +6065,7 @@ export const QUIZ_DATA = {
         "Former USSR (Russia)",
         "Ireland"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The concept of Fundamental Duties in the Indian Constitution (Part IV-A) was inspired by the Constitution of the **former USSR**. It is worth noting that none of the major democratic constitutions of the world, like those of the USA or Canada, explicitly contained a list of duties of citizens when the Indian Constitution was being framed. They were added in 1976 on the recommendation of the Swaran Singh Committee.",
       "difficulty": "Medium",
       "hint": "This feature was borrowed from a socialist country's constitution."
@@ -6080,7 +6080,7 @@ export const QUIZ_DATA = {
         "Article 266",
         "Article 280"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Constitution refers to the 'Budget' as the 'Annual Financial Statement'. **Article 112** provides that the President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year. Article 110 defines a Money Bill.",
       "difficulty": "Medium",
       "hint": "The constitution uses a more formal term for the budget."
@@ -6095,7 +6095,7 @@ export const QUIZ_DATA = {
         "The Municipal Corporation itself",
         "The State Government's Home Department"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The elections to the municipalities are conducted by the **State Election Commission**. The 74th Amendment Act of 1992 provided for the creation of a State Election Commission (under Article 243ZA) in each state, which is entrusted with the superintendence, direction, and control of the preparation of electoral rolls and the conduct of all elections to the municipalities and panchayats.",
       "difficulty": "Easy",
       "hint": "A separate body was created by the 73rd/74th amendments to handle local body elections."
@@ -6110,7 +6110,7 @@ export const QUIZ_DATA = {
         "Committee on Public Undertakings",
         "Business Advisory Committee"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Estimates Committee** is the largest parliamentary committee, consisting of 30 members, all of whom are from the Lok Sabha. The Public Accounts Committee and the Committee on Public Undertakings both have 22 members each (15 from Lok Sabha and 7 from Rajya Sabha).",
       "difficulty": "Medium",
       "hint": "This committee is sometimes called the 'continuous economy committee'."
@@ -6125,7 +6125,7 @@ export const QUIZ_DATA = {
         "Committing a criminal offence",
         "Losing the confidence of the Parliament"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The President can be impeached only for '**violation of the Constitution**' (Article 61). The Constitution does not define the meaning of this phrase. The impeachment process is quasi-judicial and can be initiated by either House of Parliament. 'Proved misbehaviour or incapacity' are the grounds for the removal of a Supreme Court judge.",
       "difficulty": "Medium",
       "hint": "The grounds for impeaching the head of state are specific and mentioned in the Constitution."
@@ -6140,7 +6140,7 @@ export const QUIZ_DATA = {
         "2010",
         "2014"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Gram Nyayalayas Act was passed in **2008** to provide for the establishment of Gram Nyayalayas (village courts) at the grassroots level for the purpose of providing access to justice to citizens at their doorsteps. These are mobile courts that exercise the powers of both criminal and civil courts.",
       "difficulty": "Hard",
       "hint": "This legislation for rural justice was enacted in the late 2000s."
@@ -6155,7 +6155,7 @@ export const QUIZ_DATA = {
         "High Courts can issue writs for the enforcement of legal rights as well.",
         "The process in High Courts is faster."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The writ jurisdiction of a High Court is wider because while the Supreme Court can issue writs only for the enforcement of Fundamental Rights, a High Court can issue writs not only for Fundamental Rights but also **for 'any other purpose'**, which means for the enforcement of ordinary legal rights as well. Thus, the writ jurisdiction of the High Court is broader in scope.",
       "difficulty": "Hard",
       "hint": "Consider the purpose for which the writs can be issued by the two courts."
@@ -6170,7 +6170,7 @@ export const QUIZ_DATA = {
         "Article 21",
         "Article 32"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "In the landmark Justice K.S. Puttaswamy (Retd.) vs Union of India case (2017), a nine-judge bench of the Supreme Court unanimously held that the 'Right to Privacy' is a fundamental right protected as an intrinsic part of the **Right to Life and Personal Liberty under Article 21** and as a part of the freedoms guaranteed by Part III of the Constitution.",
       "difficulty": "Medium",
       "hint": "This right is considered an essential component of the right to life and personal liberty."
@@ -6185,7 +6185,7 @@ export const QUIZ_DATA = {
         "Are chosen by the electoral college.",
         "Win in a majority of polling booths."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'first past the post' (FPTP) system, used for Lok Sabha and State Assembly elections in India, means that the candidate who **secures more votes than any other candidate** in a constituency is declared the winner. They do not need to secure an absolute majority (more than 50%) of the votes.",
       "difficulty": "Easy",
       "hint": "This is also known as the simple majority or plurality system."
@@ -6200,7 +6200,7 @@ export const QUIZ_DATA = {
         "Maulana Abul Kalam Azad",
         "Dr. B.R. Ambedkar"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "**Dr. B.R. Ambedkar**, the architect of the Indian Constitution, was also the first Law Minister of independent India in Jawaharlal Nehru's cabinet. He played a crucial role in drafting key legislations, including the Hindu Code Bills.",
       "difficulty": "Easy",
       "hint": "Think about the chief architect of the constitution's role in the first government."
@@ -6215,7 +6215,7 @@ export const QUIZ_DATA = {
         "Executive power",
         "Judicial power"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The power of Parliament to create a new state, alter the boundaries of existing states, or change their names (under Article 3) is a **legislative power**, exercised through a simple majority. The Constitution explicitly states in Article 4 that such laws are not to be considered as constitutional amendments under Article 368, which would require the exercise of constituent power with a special majority.",
       "difficulty": "Medium",
       "hint": "This power is exercised through ordinary law-making procedures, not constitutional amendment procedures."
@@ -6230,7 +6230,7 @@ export const QUIZ_DATA = {
         "42nd Amendment Act",
         "44th Amendment Act"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'Privy Purses', which were payments and privileges guaranteed to the rulers of former princely states as part of their integration agreements with India, were abolished by the **26th Constitutional Amendment Act of 1971**. This was a significant step towards establishing a more egalitarian society.",
       "difficulty": "Hard",
       "hint": "This abolition took place in the early 1970s under Indira Gandhi's government."
@@ -6245,7 +6245,7 @@ export const QUIZ_DATA = {
         "Prohibition",
         "Quo Warranto"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The writ of **Prohibition** is issued by a higher court (Supreme Court or a High Court) to a lower court or tribunal to prevent the latter from exceeding its jurisdiction or usurping a jurisdiction that it does not possess. It is issued while the proceedings are still pending in the lower court. In contrast, the writ of Certiorari is issued to quash an order already passed by a lower court.",
       "difficulty": "Medium",
       "hint": "This writ acts as a preventive measure, stopping an ongoing proceeding."
@@ -6260,7 +6260,7 @@ export const QUIZ_DATA = {
         "State of Canara",
         "State of Deccan"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "When the States Reorganisation Act, 1956, was enacted, the Kannada-speaking regions were integrated into a single state named the **State of Mysore**. It was later renamed 'Karnataka' on November 1, 1973. This renaming was the culmination of a long-standing demand by the people to have a name that better represented the entire Kannada-speaking region.",
       "difficulty": "Easy",
       "hint": "The state was initially named after the princely state that formed its core."
@@ -6275,7 +6275,7 @@ export const QUIZ_DATA = {
         "USA",
         "Japan"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "'Due process of law' is a key feature of the **USA's** judicial system. It means that the law itself must be fair, just, and reasonable, not just that the procedure has been correctly followed. India's Constitution explicitly mentions 'procedure established by law' (from Japan). However, through judicial interpretation in cases like Maneka Gandhi v. Union of India, the Supreme Court has read the 'due process' doctrine into Article 21, expanding its scope.",
       "difficulty": "Medium",
       "hint": "This concept allows courts to examine the substantive fairness of a law, not just its procedural correctness."
@@ -6290,7 +6290,7 @@ export const QUIZ_DATA = {
         "The Contingency Fund of India",
         "The Contingency Fund of the State"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The salary and allowances of the Governor are charged to the **Consolidated Fund of the State**. This expenditure is non-votable by the State Legislature, which ensures the Governor's independence from the state government. If a person is appointed as the governor of two or more states, the emoluments are shared by the states in such proportion as the President may determine.",
       "difficulty": "Medium",
       "hint": "The expenses of the state's constitutional head are borne by the state itself."
@@ -6305,7 +6305,7 @@ export const QUIZ_DATA = {
         "The Comptroller and Auditor General (CAG)",
         "The Finance Commission"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Comptroller and Auditor General of India (CAG)** is considered the guardian of the public purse. The CAG's duty is to uphold the Constitution and the laws of Parliament in the field of financial administration. The CAG audits all expenditure from the Consolidated Fund of India and of each state and reports to the President/Governor, who lays the reports before Parliament/State Legislature.",
       "difficulty": "Easy",
       "hint": "This constitutional body is responsible for auditing all government expenditure."
@@ -6320,7 +6320,7 @@ export const QUIZ_DATA = {
         "In either House of Parliament",
         "Only in a joint sitting"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "A Financial Bill (Category A) under Article 117(1) shares two similarities with a Money Bill: it can be introduced **only in the Lok Sabha**, and it requires the prior recommendation of the President. However, in all other respects, it is treated like an ordinary bill, meaning the Rajya Sabha can reject or amend it.",
       "difficulty": "Hard",
       "hint": "This type of bill has features of both a Money Bill and an ordinary bill."
@@ -6335,7 +6335,7 @@ export const QUIZ_DATA = {
         "Directive Principles of State Policy",
         "Fundamental Duties"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The separation of the judiciary from the executive in the public services of the State is a **Directive Principle of State Policy**, mentioned in **Article 50** of the Constitution. This principle aims to ensure the independence and impartiality of the judiciary.",
       "difficulty": "Medium",
       "hint": "This principle is a guideline for the state to ensure judicial independence."
@@ -6350,7 +6350,7 @@ export const QUIZ_DATA = {
         "102nd Amendment Act",
         "103rd Amendment Act"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **102nd Constitutional Amendment Act, 2018**, conferred constitutional status on the National Commission for Backward Classes (NCBC). It inserted a new Article 338B in the constitution, giving the NCBC powers similar to those of the National Commission for Scheduled Castes and the National Commission for Scheduled Tribes.",
       "difficulty": "Easy",
       "hint": "This amendment elevated the status of the commission for OBCs."
@@ -6365,7 +6365,7 @@ export const QUIZ_DATA = {
         "Draw attention to a definite matter of urgent public importance",
         "Remove a minister from the council"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "An adjournment motion is introduced in the Parliament to **draw the attention of the House to a definite matter of urgent public importance**. It needs the support of 50 members to be admitted. If admitted, it leads to setting aside the normal business of the House for discussing the matter. Since it interrupts normal business, it is regarded as an extraordinary device.",
       "difficulty": "Medium",
       "hint": "This parliamentary tool is used to discuss urgent matters by interrupting the scheduled business."
@@ -6380,7 +6380,7 @@ export const QUIZ_DATA = {
         "Sardar Vallabhbhai Patel",
         "Jawaharlal Nehru"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Sardar Vallabhbhai Patel** was the chairman of the Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas. This committee had several sub-committees. The sub-committee on Fundamental Rights was headed by J.B. Kripalani.",
       "difficulty": "Hard",
       "hint": "This leader, known as the 'Iron Man of India', headed this major committee."
@@ -6395,7 +6395,7 @@ export const QUIZ_DATA = {
         "Article 25",
         "Article 29"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Supreme Court has held in several judgments (e.g., the Hadiya case) that the right to marry a person of one's choice is a fundamental right that is intrinsic to the **Right to Life and Personal Liberty under Article 21** of the Constitution. It is a fundamental aspect of personal autonomy and dignity.",
       "difficulty": "Medium",
       "hint": "This right is considered a core part of the right to life and personal liberty."
@@ -6410,7 +6410,7 @@ export const QUIZ_DATA = {
         "20% of the total strength of the Lok Sabha",
         "There is no such limit"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **91st Constitutional Amendment Act, 2003**, stipulated that the total number of ministers, including the Prime Minister, in the Union Council of Ministers shall not exceed **15% of the total strength of the Lok Sabha**. This was done to check the practice of having jumbo-sized ministries and to curb defections motivated by the lure of ministerial berths.",
       "difficulty": "Easy",
       "hint": "This limit was introduced by an amendment in the early 2000s."
@@ -6425,7 +6425,7 @@ export const QUIZ_DATA = {
         "12 members",
         "0 members"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "Currently, the President can nominate **0 members** to the Lok Sabha. The provision for nominating two members from the Anglo-Indian community to the Lok Sabha was abolished by the **104th Constitutional Amendment Act, 2019**. The President continues to nominate 12 members to the Rajya Sabha.",
       "difficulty": "Medium",
       "hint": "This provision was recently abolished by a constitutional amendment."
@@ -6440,7 +6440,7 @@ export const QUIZ_DATA = {
         "Article 228",
         "Article 229"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Article 227** of the Constitution grants every High Court the power of superintendence over all courts and tribunals within its territorial jurisdiction. This is a very broad power that includes administrative as well as judicial superintendence. Article 226 grants the High Court its writ jurisdiction.",
       "difficulty": "Hard",
       "hint": "This article gives the High Court supervisory powers over the subordinate judiciary."
@@ -6455,7 +6455,7 @@ export const QUIZ_DATA = {
         "National Integration Council",
         "Inter-State Council"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Prime Minister is the chairman of NITI Aayog, the National Development Council, the National Integration Council, and the Inter-State Council. However, the **Zonal Councils** are presided over by the Union Home Minister. This is a common point of confusion. All the mentioned bodies are key platforms for cooperative federalism.",
       "difficulty": "Medium",
       "hint": "Think about the council that is chaired by the Union Home Minister, not the PM."
@@ -6470,7 +6470,7 @@ export const QUIZ_DATA = {
         "Governor of the State",
         "Chief Minister of the State"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The State Election Commissioner is appointed by the **Governor of the State**. Although appointed by the Governor, the State Election Commissioner can be removed from office only in the same manner and on the same grounds as a judge of a High Court. This ensures the independence of the office.",
       "difficulty": "Medium",
       "hint": "The appointing authority is the constitutional head of the state."
@@ -6485,7 +6485,7 @@ export const QUIZ_DATA = {
         "NITI Aayog",
         "Election Commission"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**NITI Aayog** is an extra-constitutional or non-constitutional body. It was established in 2015 by a resolution of the Union Cabinet. It is neither a constitutional body (created by the Constitution) nor a statutory body (created by an Act of Parliament). The other three—UPSC (Article 315), Finance Commission (Article 280), and Election Commission (Article 324)—are all constitutional bodies.",
       "difficulty": "Easy",
       "hint": "This body was created through an executive order to replace the Planning Commission."
@@ -6500,7 +6500,7 @@ export const QUIZ_DATA = {
         "Lowering the voting age from 21 to 18",
         "Adding Fundamental Duties"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **61st Constitutional Amendment Act, 1988**, (enacted in 1989) is significant for **lowering the voting age** for elections to the Lok Sabha and State Legislative Assemblies from 21 years to 18 years. This was done by amending Article 326 of the Constitution.",
       "difficulty": "Easy",
       "hint": "This amendment greatly expanded the country's electorate."
@@ -6515,7 +6515,7 @@ export const QUIZ_DATA = {
         "It is recognized as a State party in at least four states.",
         "It has been in existence for at least 10 years."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The duration of a party's existence is not a criterion for its recognition as a National Party. A party can be recognized as a National Party if it fulfills any one of the three conditions set by the Election Commission: (a) Secures 6% of valid votes in any four or more states in a general election to the Lok Sabha or a state legislative assembly and wins 4 Lok Sabha seats; or (b) Wins 2% of seats in the Lok Sabha (11 seats) from at least three different states; or (c) Is recognized as a State party in four states.",
       "difficulty": "Hard",
       "hint": "Focus on the performance-based criteria set by the Election Commission."
@@ -6530,7 +6530,7 @@ export const QUIZ_DATA = {
         "The last session of an existing legislature before a new one is elected.",
         "A session that is adjourned sine die."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A 'lame-duck session' refers to the **last session of an existing Lok Sabha** after a new Lok Sabha has been elected. The members of the old Lok Sabha who could not get re-elected are called 'lame-ducks'. This concept is more relevant in the US political system than in India.",
       "difficulty": "Medium",
       "hint": "The term refers to the members of the legislature who have lost their re-election bids."
@@ -6545,7 +6545,7 @@ export const QUIZ_DATA = {
         "26 January 1950",
         "9 December 1946"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Constitution of India was **adopted, enacted, and gave to themselves** by the people of India through the Constituent Assembly on **26 November 1949**. This date is mentioned in the Preamble. The Constitution came into full force on 26 January 1950, which is celebrated as Republic Day. November 26th is now celebrated as Constitution Day.",
       "difficulty": "Easy",
       "hint": "This date is mentioned in the Preamble and is now celebrated as Constitution Day."
@@ -6560,7 +6560,7 @@ export const QUIZ_DATA = {
         "Article 25",
         "Article 27"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 25(1)** guarantees to all persons the freedom of conscience and the right to freely profess, practice, and propagate religion. Freedom of conscience implies a person's inner freedom to mould their relation with God or creatures in whatever way they desire.",
       "difficulty": "Medium",
       "hint": "This article is the cornerstone of religious freedom in India."
@@ -6575,7 +6575,7 @@ export const QUIZ_DATA = {
         "A practice borrowed from the British Parliament",
         "Optional at the President's discretion"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The President's address is **mandated by Article 87** of the Constitution. The President must address both Houses of Parliament assembled together at the commencement of the first session after each general election to the Lok Sabha and at the commencement of the first session of each year. This address outlines the policies and programmes of the government.",
       "difficulty": "Medium",
       "hint": "The Constitution specifies two occasions when the President must address the Parliament."
@@ -6590,7 +6590,7 @@ export const QUIZ_DATA = {
         "President, on the advice of the Chief Minister",
         "Chief Justice of India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Chief Justice of a High Court is appointed by the **President** after consultation with the **Chief Justice of India** and the **Governor of the concerned state**. For the appointment of other judges of the High Court, the Chief Justice of that High Court is also consulted.",
       "difficulty": "Medium",
       "hint": "The appointment process involves consultation between the highest executive and judicial authorities at both the central and state levels."
@@ -6605,7 +6605,7 @@ export const QUIZ_DATA = {
         "Environmental pollution",
         "Election malpractices"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Lokayukta is an anti-corruption ombudsman organization at the state level. Its primary function is to investigate allegations of **corruption and mal-administration** against public servants, including ministers and elected officials. The Lokpal performs a similar function at the central level.",
       "difficulty": "Easy",
       "hint": "This is the state-level counterpart of the Lokpal."
@@ -6620,7 +6620,7 @@ export const QUIZ_DATA = {
         "The Supreme Court of India",
         "A special tribunal appointed by the Chief Justice"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Supreme Court of India** has exclusive original jurisdiction to inquire into and decide all doubts and disputes arising out of or in connection with the election of the President and Vice-President. Its decision is final. This is provided for under Article 71 of the Constitution.",
       "difficulty": "Medium",
       "hint": "The highest court in the land resolves disputes concerning the highest offices."
@@ -6635,7 +6635,7 @@ export const QUIZ_DATA = {
         "If a part of a law is unconstitutional, only that part is struck down, not the entire law.",
         "Union and State lists are completely separate."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'doctrine of severability' or 'separability' holds that if an offending provision of a statute can be separated from the rest of the statute, then **only that offending provision will be declared void by the court and not the entire statute**. The valid part of the law can remain in force. This is enshrined in Article 13 of the Constitution.",
       "difficulty": "Hard",
       "hint": "This legal principle allows for saving a law by removing its unconstitutional parts."
@@ -6650,7 +6650,7 @@ export const QUIZ_DATA = {
         "Scheduled areas and tribal areas",
         "Industrial townships"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Part IX-A of the Constitution, which deals with Municipalities, does not apply to the **scheduled areas and tribal areas** in the states. The Parliament has enacted a separate law, the Provisions of the Panchayats (Extension to Scheduled Areas) Act, 1996, (PESA) for these areas. Cantonment boards are administered by the central government.",
       "difficulty": "Hard",
       "hint": "Special provisions exist for the administration of these constitutionally protected areas."
@@ -6665,7 +6665,7 @@ export const QUIZ_DATA = {
         "Centre-State Relations",
         "Police Reforms"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Punchhi Commission, headed by former Chief Justice of India Madan Mohan Punchhi, was constituted by the Union Government in 2007 to look into the new issues of **Centre-State relations**, taking into account the changes that have taken place in the polity and economy of India since the Sarkaria Commission submitted its report.",
       "difficulty": "Medium",
       "hint": "This commission was a follow-up to the Sarkaria Commission on the same subject."
@@ -6680,7 +6680,7 @@ export const QUIZ_DATA = {
         "Judicial power of the President",
         "Emergency power of the President"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The power to issue ordinances (under Article 123 for the President and Article 213 for the Governor) is a **legislative power**. It is the power to make a law when the legislature is not in session. However, it is an extraordinary power and is subject to several limitations, including the requirement for subsequent parliamentary approval.",
       "difficulty": "Medium",
       "hint": "This power allows the executive to make laws under specific circumstances."
@@ -6695,7 +6695,7 @@ export const QUIZ_DATA = {
         "The Supreme Court of India",
         "The Prime Minister of India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Supreme Court of India** is the ultimate interpreter and custodian of the Constitution. Through its power of judicial review, it ensures that all legislative and executive actions conform to the provisions of the Constitution. It is the guardian of the Fundamental Rights of the people.",
       "difficulty": "Easy",
       "hint": "Think about the body that has the final say in interpreting the Constitution."
@@ -6710,7 +6710,7 @@ export const QUIZ_DATA = {
         "State Legislative Council",
         "Cabinet Secretariat"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Rajya Sabha** is also known as the 'Council of States' as it represents the states and union territories of India. The Lok Sabha is known as the 'House of the People'. The Rajya Sabha is the upper house of the Parliament.",
       "difficulty": "Easy",
       "hint": "This name reflects the federal character of the upper house."
@@ -6725,7 +6725,7 @@ export const QUIZ_DATA = {
         "Andhra State",
         "Karnataka"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The first state to be created on a linguistic basis was **Andhra State**, carved out of the Telugu-speaking areas of Madras State in 1953. This followed a prolonged agitation and the death of Potti Sreeramulu, who undertook a fast unto death. The creation of Andhra State paved the way for the larger reorganization of states on a linguistic basis in 1956.",
       "difficulty": "Medium",
       "hint": "This state was formed after a major agitation in the early 1950s."
@@ -6740,7 +6740,7 @@ export const QUIZ_DATA = {
         "Based on conventions of the parliamentary government",
         "A statutory office"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The office of the 'Whip' is **based on the conventions of the parliamentary government**. It is not mentioned in the Constitution or in the Rules of the House, nor is it a statutory office. Every major political party has its own whip who is responsible for ensuring party discipline and attendance of members during important votes.",
       "difficulty": "Hard",
       "hint": "This important parliamentary functionary is not formally recognized in the rules."
@@ -6755,7 +6755,7 @@ export const QUIZ_DATA = {
         "Introduce a two-tier Panchayat system in Scheduled Areas",
         "Abolish the Gram Sabha"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The PESA Act, 1996, was enacted to extend the provisions of Part IX of the Constitution (relating to Panchayats) to the Scheduled Areas, with certain modifications. It aims to **provide self-governance to the tribal population** by recognizing their traditional rights and empowering the Gram Sabha with significant powers over local resources and decision-making.",
       "difficulty": "Medium",
       "hint": "This Act is a crucial piece of legislation for tribal self-rule."
@@ -6770,7 +6770,7 @@ export const QUIZ_DATA = {
         "Deliberations of the Constituent Assembly",
         "Decisions of the Planning Commission"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Planning Commission (and its successor, NITI Aayog) is an executive body responsible for policy formulation and has no role in the making or amending of the Constitution. The Constitution of India is drawn from several sources, including the structural part from the **Government of India Act, 1935**, the philosophical part from the constitutions of other countries (like the USA, Ireland), and the political part from the British constitution, all shaped by the **deliberations of the Constituent Assembly**.",
       "difficulty": "Easy",
       "hint": "Consider which body is an executive think tank, not a constitutional one."
@@ -6785,7 +6785,7 @@ export const QUIZ_DATA = {
         "A simple majority of the total members",
         "It is determined by the State Legislature"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The quorum for a meeting of the Gram Sabha **is determined by the respective State Panchayati Raj Act**. It is not fixed by the Constitution. Different states have different requirements, though a common figure is one-tenth of the total members. The state legislature has the power to make provisions with respect to the powers and functions of the Gram Sabha.",
       "difficulty": "Hard",
       "hint": "The specifics of Panchayati Raj implementation are left to the states."
@@ -6800,7 +6800,7 @@ export const QUIZ_DATA = {
         "Government of India Act, 1935",
         "Indian Independence Act, 1947"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The system of 'dyarchy' (rule of two) was introduced in the provinces by the **Government of India Act, 1919**, also known as the Montagu-Chelmsford Reforms. It divided the provincial subjects into two parts—transferred and reserved. The transferred subjects were to be administered by the governor with the aid of ministers responsible to the legislative Council, while the reserved subjects were administered by the governor and his executive council.",
       "difficulty": "Medium",
       "hint": "This system of dual governance was a key feature of the Montagu-Chelmsford Reforms."
@@ -6815,7 +6815,7 @@ export const QUIZ_DATA = {
         "During the pleasure of the President",
         "Until the age of 65 years"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Attorney General of India is appointed by the President and holds office **during the pleasure of the President**. The Constitution does not fix their term of office. By convention, they resign when the government (Council of Ministers) resigns or is replaced, as they are appointed on its advice.",
       "difficulty": "Medium",
       "hint": "The tenure of the government's chief legal advisor is tied to the government itself."
@@ -6830,7 +6830,7 @@ export const QUIZ_DATA = {
         "Kesavananda Bharati v. State of Kerala",
         "Maneka Gandhi v. Union of India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Indra Sawhney v. Union of India (1992)** case, popularly known as the Mandal case, is the landmark judgment that dealt with the implementation of the Mandal Commission's recommendations for providing 27% reservation to Other Backward Classes (OBCs) in government jobs. The Supreme Court upheld the reservation but introduced the 'creamy layer' concept.",
       "difficulty": "Medium",
       "hint": "This case is also famously known as the Mandal Case."
@@ -6845,7 +6845,7 @@ export const QUIZ_DATA = {
         "Two years",
         "Three years"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "President's Rule, once approved by Parliament, continues for six months. It can be extended for a maximum period of **three years** with the approval of Parliament every six months. However, any extension beyond one year requires the fulfillment of two specific conditions as laid down by the 44th Amendment Act.",
       "difficulty": "Medium",
       "hint": "While it can be extended, there is an ultimate limit to its duration."
@@ -6860,7 +6860,7 @@ export const QUIZ_DATA = {
         "Part IX",
         "Part X"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Part VIII** of the Constitution (Articles 239 to 242) deals with the administration of Union Territories. Part IX deals with Panchayats, Part X with Scheduled and Tribal Areas, and Part VII (dealing with States in Part B of the First Schedule) was repealed by the 7th Amendment Act, 1956.",
       "difficulty": "Medium",
       "hint": "This part comes immediately after the part dealing with the States."
@@ -6875,7 +6875,7 @@ export const QUIZ_DATA = {
         "The Chief Justice of India",
         "The Speaker of the Lok Sabha"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The oath of office and secrecy for the Prime Minister and other ministers in the Union Council of Ministers is administered by the **President** of India. The President appoints the Prime Minister and then appoints other ministers on the advice of the Prime Minister.",
       "difficulty": "Easy",
       "hint": "The head of state administers the oath to the members of the executive."
@@ -6890,7 +6890,7 @@ export const QUIZ_DATA = {
         "Federal system",
         "Unitary system"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The principle of 'collective responsibility' is the bedrock of the **parliamentary system** of government. It means that the entire Council of Ministers is collectively responsible to the legislature (specifically, the lower house) for the policies and actions of the government. They swim and sink together. This is enshrined in Article 75(3) for the Union.",
       "difficulty": "Easy",
       "hint": "This principle ensures that the executive is accountable to the legislature."
@@ -6905,7 +6905,7 @@ export const QUIZ_DATA = {
         "The State Legislature",
         "The President of India"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The **President of India** has the power to declare any area as a 'Scheduled Area'. The President can also direct that any part of a Scheduled Area shall cease to be a Scheduled Area or alter its boundaries. The administration of Scheduled Areas is covered under the Fifth Schedule of the Constitution.",
       "difficulty": "Medium",
       "hint": "This power is vested in the head of the Union executive."
@@ -6920,7 +6920,7 @@ export const QUIZ_DATA = {
         "Stamp duties on bills of exchange",
         "Taxes on income other than agricultural income"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Stamp duties on bills of exchange, cheques, promissory notes, etc.** (mentioned in the Union List) are levied by the Government of India but are collected and appropriated by the states within which such duties are leviable. This is an example of the complex financial relations between the Centre and the states under the Constitution (Article 268).",
       "difficulty": "Hard",
       "hint": "Think about taxes that are national in scope but local in collection."
@@ -6935,7 +6935,7 @@ export const QUIZ_DATA = {
         "Delhi Special Police Establishment (DSPE) Act, 1946",
         "An executive resolution of the Ministry of Home Affairs"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Central Bureau of Investigation (CBI) is not a statutory body. It was set up by a resolution of the Ministry of Home Affairs. However, it derives its legal powers to investigate from the **Delhi Special Police Establishment (DSPE) Act, 1946**. This Act governs the CBI's functioning and jurisdiction.",
       "difficulty": "Hard",
       "hint": "This premier investigating agency's legal foundation comes from a pre-independence Act."
@@ -6950,7 +6950,7 @@ export const QUIZ_DATA = {
         "Reservation for Economically Weaker Sections (EWS)",
         "Abolition of Anglo-Indian nomination to Lok Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **103rd Constitutional Amendment Act, 2019**, provides for a **10% reservation** in government jobs and educational institutions for the **Economically Weaker Sections (EWS)** in the general category. It inserted new clauses in Article 15 and Article 16 of the Constitution.",
       "difficulty": "Easy",
       "hint": "This amendment introduced a new criterion for reservation."
@@ -6965,7 +6965,7 @@ export const QUIZ_DATA = {
         "Separate electorates for Muslims",
         "A bicameral central legislature"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Indian Councils Act of 1909, also known as the Morley-Minto Reforms, is most notable for introducing the system of **separate electorates for Muslims**. This legalized communalism, and Lord Minto came to be known as the Father of the Communal Electorate.",
       "difficulty": "Medium",
       "hint": "This reform is often seen as sowing the seeds of partition."
@@ -6980,7 +6980,7 @@ export const QUIZ_DATA = {
         "To forbid",
         "By what authority or warrant"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "Quo Warranto literally means **'by what authority or warrant'**. It is a writ issued by the court to inquire into the legality of a claim of a person to a public office. It prevents the illegal usurpation of a public office by a person.",
       "difficulty": "Medium",
       "hint": "This writ questions the legitimacy of a person holding a public office."
@@ -6995,7 +6995,7 @@ export const QUIZ_DATA = {
         "5 members",
         "7 members"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "As per the Protection of Human Rights (Amendment) Act, 2019, the NHRC consists of a chairperson, who has been a Chief Justice or a Judge of the Supreme Court, and **five members**. These members include one who is or has been a judge of the Supreme Court, one who is or has been a Chief Justice of a High Court, and three members having knowledge or practical experience in matters of human rights (of which at least one shall be a woman).",
       "difficulty": "Hard",
       "hint": "The composition of this statutory body was recently amended."
@@ -7010,7 +7010,7 @@ export const QUIZ_DATA = {
         "High Court",
         "Election Commission"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The power to decide an election petition (a procedure to challenge the election of a candidate) is vested in the **High Court** of the respective state. An appeal against the order of the High Court can be made to the Supreme Court. The Election Commission does not have the power to adjudicate on election petitions.",
       "difficulty": "Medium",
       "hint": "Disputes regarding the validity of an election are handled by the judiciary, starting at the state's highest court."
@@ -7025,7 +7025,7 @@ export const QUIZ_DATA = {
         "A nominated member of the Rajya Sabha",
         "The Leader of the Opposition in the Rajya Sabha"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A **minister who is a member of the Rajya Sabha** can participate in the proceedings of the Lok Sabha and speak there, but they can vote only in the Rajya Sabha. Similarly, a minister who is a member of the Lok Sabha can speak in the Rajya Sabha but can vote only in the Lok Sabha. This is provided for in Article 88 of the Constitution.",
       "difficulty": "Medium",
       "hint": "This privilege is extended to all ministers to facilitate government business in both houses."
@@ -7040,7 +7040,7 @@ export const QUIZ_DATA = {
         "Commitment to a communist state.",
         "Complete abolition of private property."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'socialism' envisaged in the Preamble is democratic socialism, not communistic socialism. It aims to end poverty, ignorance, disease, and inequality of opportunity. Indian socialism is a **blend of Marxism and Gandhism, leaning heavily towards Gandhian socialism**. It involves a mixed economy where both the public and private sectors coexist.",
       "difficulty": "Medium",
       "hint": "Indian socialism is a unique blend, not a dogmatic one."
@@ -7055,7 +7055,7 @@ export const QUIZ_DATA = {
         "Article 72",
         "Article 123"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Article 61** of the Constitution lays down the procedure for the impeachment of the President of India. The only ground for impeachment is 'violation of the Constitution'. The process is quasi-judicial and requires a special majority in both Houses of Parliament. Article 56 deals with the term of office of the President, Article 72 with his pardoning power, and Article 123 with his ordinance-making power.",
       "difficulty": "Easy",
       "hint": "This is a specific article detailing the procedure for removing the head of state."
@@ -7070,7 +7070,7 @@ export const QUIZ_DATA = {
         "The Chief Justice of India",
         "The senior-most Governor"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "As per the President (Discharge of Functions) Act, 1969, if the offices of both the President and the Vice-President fall vacant, the **Chief Justice of India** (or if his office is also vacant, the senior-most judge of the Supreme Court available) shall act as the President. This has happened once, in 1969, when Justice M. Hidayatullah acted as President.",
       "difficulty": "Easy",
       "hint": "The line of succession moves to the head of the judiciary in this rare circumstance."
@@ -7085,7 +7085,7 @@ export const QUIZ_DATA = {
         "District",
         "Sub-division"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The District and Sessions Judge is the highest judicial authority in a **district**. They have jurisdiction over both civil and criminal cases. When presiding over a civil case, they are known as the District Judge, and when presiding over a criminal case, they are known as the Sessions Judge. They are appointed by the Governor in consultation with the High Court.",
       "difficulty": "Easy",
       "hint": "The name itself indicates the level of jurisdiction."
@@ -7100,7 +7100,7 @@ export const QUIZ_DATA = {
         "Co-operative Societies",
         "Land Reforms"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **97th Constitutional Amendment Act, 2011**, gave a constitutional status and protection to **co-operative societies**. It made the right to form co-operative societies a fundamental right (Article 19), added a new Directive Principle on the promotion of co-operative societies (Article 43B), and added a new Part IX-B to the Constitution.",
       "difficulty": "Medium",
       "hint": "This amendment focused on a specific form of economic organization."
@@ -7115,7 +7115,7 @@ export const QUIZ_DATA = {
         "Prem Behari Narain Raizada",
         "Vasant Krishan Vaidya"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The original Constitution of India was handwritten in a flowing italic style by **Prem Behari Narain Raizada**. The beautiful calligraphy was a work of art. The document was beautified and decorated by artists from Shantiniketan, including Nandalal Bose and Beohar Rammanohar Sinha.",
       "difficulty": "Hard",
       "hint": "The calligrapher of the Constitution had a distinctive, flowing handwriting."
@@ -7130,7 +7130,7 @@ export const QUIZ_DATA = {
         "French",
         "Irish"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The concept of 'Equality before Law' is of **British** origin, associated with A.V. Dicey's concept of the Rule of Law. It is a negative concept that implies the absence of any special privileges for any person. The other concept in Article 14, 'Equal Protection of Laws', is taken from the American Constitution and is a positive concept implying equality of treatment in equal circumstances.",
       "difficulty": "Medium",
       "hint": "This concept is a cornerstone of the Rule of Law as propounded by a famous British jurist."
@@ -7145,7 +7145,7 @@ export const QUIZ_DATA = {
         "President",
         "Union Cabinet"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Under Article 312 of the Constitution, the **Rajya Sabha** is given a special power. It can initiate the process for the creation of one or more new All-India Services if it passes a resolution supported by not less than two-thirds of the members present and voting, declaring that it is necessary or expedient in the national interest to do so. This is a key feature reflecting the Rajya Sabha's role as the council of states.",
       "difficulty": "Hard",
       "hint": "This is a special power granted to the upper house to protect the interests of the states."
@@ -7160,7 +7160,7 @@ export const QUIZ_DATA = {
         "Goa",
         "None of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "**None of the above**. Previously, the state of Jammu and Kashmir had its own constitution. However, with the abrogation of Article 370 of the Constitution of India in August 2019, the Constitution of Jammu and Kashmir became defunct, and the Constitution of India is now applicable to the Union Territories of Jammu & Kashmir and Ladakh.",
       "difficulty": "Easy",
       "hint": "This special status was recently removed."
@@ -7175,7 +7175,7 @@ export const QUIZ_DATA = {
         "Prime Minister",
         "Home Minister"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Integration Council (NIC) is a forum for addressing issues that threaten national unity and solidarity. It is an extra-constitutional body, chaired by the **Prime Minister** of India. Its members include Union ministers, chief ministers of states, leaders of political parties, and other eminent personalities.",
       "difficulty": "Medium",
       "hint": "The head of the government chairs this important forum for national unity."
@@ -7190,7 +7190,7 @@ export const QUIZ_DATA = {
         "French Revolution",
         "Glorious Revolution"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The ideals of 'Liberty, Equality, and Fraternity' in our Preamble are taken from the motto of the **French Revolution** (1789). The ideal of Justice (social, economic, and political) is taken from the Russian Revolution (1917).",
       "difficulty": "Easy",
       "hint": "These ideals are the famous motto of a major European revolution."
@@ -7205,7 +7205,7 @@ export const QUIZ_DATA = {
         "25",
         "28"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "As of now, there are **25 High Courts** in India. The newest High Court is the Andhra Pradesh High Court, established on January 1, 2019. Parliament has the power to establish a common high court for two or more states or for two or more states and a union territory.",
       "difficulty": "Easy",
       "hint": "The number increased recently with the creation of a new High Court for a southern state."
@@ -7220,7 +7220,7 @@ export const QUIZ_DATA = {
         "Supreme Court",
         "Election Commission of India"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Model Code of Conduct (MCC) is a set of guidelines issued by the **Election Commission of India** for the conduct of political parties and candidates during elections. It is not a statutory document but has evolved with the consensus of political parties and is enforced by the Election Commission under its powers from Article 324.",
       "difficulty": "Easy",
       "hint": "This set of guidelines ensures a level playing field during elections."
@@ -7235,7 +7235,7 @@ export const QUIZ_DATA = {
         "To provide free and compulsory education to children",
         "To develop scientific temper and humanism"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Providing **free and compulsory education** is a **Fundamental Right** under Article 21A. The corresponding Fundamental Duty (the 11th duty) under Article 51A(k) is for every parent or guardian to provide opportunities for education to their child or ward between the age of six and fourteen years. The other options are explicitly listed as Fundamental Duties.",
       "difficulty": "Medium",
       "hint": "Distinguish between a right of the child and a duty of the parent."
@@ -7250,7 +7250,7 @@ export const QUIZ_DATA = {
         "Article 280",
         "Article 300A"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 101st Amendment Act of 2016 inserted a new article, **Article 279A**, into the Constitution. This article empowers the President to constitute a Goods and Services Tax (GST) Council. The council is a joint forum of the Centre and the States and is responsible for making recommendations on various aspects of the GST.",
       "difficulty": "Medium",
       "hint": "A new article was added to the constitution to create this federal body for indirect taxes."
@@ -7265,7 +7265,7 @@ export const QUIZ_DATA = {
         "30 days",
         "60 days"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Rajya Sabha has very limited powers with respect to a Money Bill. It cannot reject or amend it. It can only make recommendations. The Rajya Sabha must return the bill to the Lok Sabha within **14 days**, with or without recommendations. If it fails to do so, the bill is deemed to have been passed by both Houses in the form originally passed by the Lok Sabha.",
       "difficulty": "Easy",
       "hint": "The upper house has a two-week window to consider this type of financial legislation."
@@ -7280,7 +7280,7 @@ export const QUIZ_DATA = {
         "Union Cabinet",
         "Speaker of the Lok Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The President can declare a national emergency only after receiving a written recommendation from the **Union Cabinet**. This provision was added by the 44th Amendment Act of 1978 to prevent the Prime Minister alone from taking a decision on this grave matter, as was done in 1975.",
       "difficulty": "Medium",
       "hint": "This safeguard was added after the 1975 emergency to ensure collective decision-making."
@@ -7295,7 +7295,7 @@ export const QUIZ_DATA = {
         "English",
         "Santhali"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**English** is not one of the 22 languages listed in the Eighth Schedule of the Constitution. However, it is one of the official languages of the Union of India as per the Official Languages Act, 1963. Bodo, Dogri, Maithili, and Santhali were the last languages to be added to the schedule by the 92nd Amendment Act of 2003.",
       "difficulty": "Medium",
       "hint": "This international language has official status but is not listed in the schedule of regional languages."
@@ -7310,7 +7310,7 @@ export const QUIZ_DATA = {
         "Both pre and post-constitutional laws",
         "It is no longer applicable"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'doctrine of eclipse' applies to **pre-constitutional laws** that are inconsistent with Fundamental Rights. It states that such a law is not dead but becomes dormant or overshadowed (eclipsed) by the Fundamental Right. If the Fundamental Right is amended in the future to remove the conflict, the law becomes active again. For post-constitutional laws, any law that violates a Fundamental Right is void ab initio (void from the very beginning).",
       "difficulty": "Hard",
       "hint": "This doctrine deals with the validity of laws that existed before the Constitution came into force."
@@ -7325,7 +7325,7 @@ export const QUIZ_DATA = {
         "Government of India Act, 1935",
         "Indian Constitution, 1950"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Government of India Act of 1919** (Montagu-Chelmsford Reforms) introduced, for the first time, bicameralism at the Centre. The Indian Legislative Council was replaced by a bicameral legislature consisting of an Upper House (Council of State) and a Lower House (Legislative Assembly).",
       "difficulty": "Medium",
       "hint": "This reform also introduced dyarchy in the provinces."
@@ -7340,7 +7340,7 @@ export const QUIZ_DATA = {
         "Executive body",
         "Advisory body with no formal status"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The State Finance Commission is a **Constitutional body**. The 73rd and 74th Amendment Acts mandated the creation of a State Finance Commission in every state every five years. Under Article 243-I, the Governor constitutes this commission to review the financial position of the Panchayats and make recommendations.",
       "difficulty": "Medium",
       "hint": "This body was made mandatory by the amendments related to local self-government."
@@ -7355,7 +7355,7 @@ export const QUIZ_DATA = {
         "6 years or age 62, whichever is earlier",
         "5 years or age 62, whichever is earlier"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The chairman and members of a State Public Service Commission (SPSC) hold office for a term of **six years or until they attain the age of 62 years**, whichever is earlier. In contrast, for the UPSC, the retirement age is 65 years.",
       "difficulty": "Medium",
       "hint": "The retirement age for the state commission is lower than for the union commission."
@@ -7370,7 +7370,7 @@ export const QUIZ_DATA = {
         "Speaker of Lok Sabha and Chairman of Rajya Sabha",
         "Minister of Parliamentary Affairs"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The **President** has the power to summon and prorogue the sessions of the Parliament. Prorogation terminates a session of the House, unlike adjournment, which only terminates a sitting. The presiding officer (Speaker/Chairman) has the power to adjourn the House.",
       "difficulty": "Easy",
       "hint": "The power to end a session, as opposed to a daily sitting, lies with the head of state."
@@ -7385,7 +7385,7 @@ export const QUIZ_DATA = {
         "Cabinet Secretary",
         "National Security Advisor"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Crisis Management Committee (NCMC) is a high-level committee set up by the Government of India to deal with major crises that have serious national implications. It is headed by the **Cabinet Secretary**, who is the senior-most civil servant in the country. The NCMC gives direction to the Crisis Management Group as deemed necessary.",
       "difficulty": "Hard",
       "hint": "The highest-ranking civil servant heads this committee."
@@ -7400,7 +7400,7 @@ export const QUIZ_DATA = {
         "Panchayati Raj",
         "Disqualification on the ground of defection"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Tenth Schedule, added by the 52nd Amendment Act of 1985, contains provisions relating to **disqualification on the ground of defection**. It is popularly known as the Anti-Defection Law.",
       "difficulty": "Easy",
       "hint": "This schedule was added to prevent political horse-trading."
@@ -7415,7 +7415,7 @@ export const QUIZ_DATA = {
         "One-half of the total seats",
         "Determined by the state government"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 73rd and 74th Amendment Acts provide for the reservation of not less than **one-third of the total number of seats** for women (including the number of seats reserved for women belonging to the SCs and STs). It also provides for the reservation of one-third of the offices of chairpersons for women.",
       "difficulty": "Easy",
       "hint": "This is a mandatory provision for women's representation in local bodies."
@@ -7430,7 +7430,7 @@ export const QUIZ_DATA = {
         "A series of Supreme Court judgments",
         "A Presidential order"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Collegium System is not based on any constitutional provision or Act of Parliament. It has evolved through **a series of judgments of the Supreme Court**, famously known as the Three Judges Cases. This system, where a group of senior Supreme Court judges decides on judicial appointments and transfers, has been a subject of intense debate.",
       "difficulty": "Medium",
       "hint": "This system is a product of judicial interpretation, not legislation."
@@ -7445,7 +7445,7 @@ export const QUIZ_DATA = {
         "Rejection of a Money Bill",
         "All of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "**All of the above** are considered tests of the government's majority on the floor of the Lok Sabha. The passing of a No-Confidence Motion or the rejection of a Money Bill directly signifies a loss of confidence. The passing of a Cut Motion against a demand for a grant is also treated as a defeat for the government, which must then resign.",
       "difficulty": "Hard",
       "hint": "Consider all the ways in which the government's financial or political authority can be defeated in the lower house."
@@ -7460,7 +7460,7 @@ export const QUIZ_DATA = {
         "Speaker of the Lok Sabha",
         "Prime Minister"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A joint sitting of the two Houses is presided over by the **Speaker of the Lok Sabha**. In his absence, the Deputy Speaker of the Lok Sabha presides, and if he is also absent, the Deputy Chairman of the Rajya Sabha presides. The Chairman of the Rajya Sabha (the Vice-President) does not preside over a joint sitting.",
       "difficulty": "Easy",
       "hint": "The presiding officer of the lower house takes precedence in a joint session."
@@ -7475,7 +7475,7 @@ export const QUIZ_DATA = {
         "Article 21",
         "Article 32"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Right to form associations or unions or co-operative societies is one of the six fundamental freedoms guaranteed under **Article 19(1)(c)** of the Constitution. However, this right is not absolute and is subject to reasonable restrictions imposed by the state on grounds of sovereignty and integrity of India, public order, and morality.",
       "difficulty": "Easy",
       "hint": "This right is part of the cluster of six freedoms."
@@ -7490,7 +7490,7 @@ export const QUIZ_DATA = {
         "30 members from Lok Sabha",
         "30 members (20 from Lok Sabha, 10 from Rajya Sabha)"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Estimates Committee consists of **30 members, all of whom are from the Lok Sabha**. There is no representation from the Rajya Sabha in this committee. It is the largest of the three financial committees of the Parliament.",
       "difficulty": "Medium",
       "hint": "This is the largest financial committee, and its membership is exclusive to the lower house."
@@ -7505,7 +7505,7 @@ export const QUIZ_DATA = {
         "Part XIV-A (Tribunals)",
         "Both a and c"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The 42nd Amendment Act of 1976 was a major overhaul of the Constitution. It added two new parts: **Part IV-A**, which consists of Article 51A specifying Fundamental Duties, and **Part XIV-A**, which consists of Articles 323A and 323B dealing with Tribunals. Part IX-A was added by the 74th Amendment Act.",
       "difficulty": "Medium",
       "hint": "The 'Mini-Constitution' added multiple new sections."
@@ -7520,7 +7520,7 @@ export const QUIZ_DATA = {
         "Article 266(2)",
         "Article 267"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 266(2)** of the Constitution provides for the Public Account of India. All other public moneys received by or on behalf of the Government of India (other than those credited to the Consolidated Fund) are credited to this account. This includes provident fund deposits, savings bank deposits, etc. Disbursements from this account do not require parliamentary approval.",
       "difficulty": "Hard",
       "hint": "This account holds money that the government holds in trust."
@@ -7535,7 +7535,7 @@ export const QUIZ_DATA = {
         "Three years or until the age of 65 years",
         "Such term as may be prescribed by the Central Government"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Right to Information (Amendment) Act, 2019, changed the tenure of the Chief Information Commissioner and Information Commissioners. They now hold office for **such term as may be prescribed by the Central Government**. Previously, it was a fixed term of five years or until the age of 65, whichever was earlier. This amendment has been criticized for potentially undermining the independence of the commission.",
       "difficulty": "Hard",
       "hint": "The tenure for this office was recently changed by an amendment to the RTI Act."
@@ -7550,7 +7550,7 @@ export const QUIZ_DATA = {
         "Minerva Mills v. Union of India",
         "Indra Sawhney v. Union of India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The landmark 'basic structure' doctrine was propounded by the Supreme Court in the **Kesavananda Bharati v. State of Kerala (1973)** case. The court held that while Parliament's power to amend the Constitution under Article 368 is wide, it is not unlimited. It cannot alter the basic structure or framework of the Constitution.",
       "difficulty": "Easy",
       "hint": "This is arguably the most important constitutional case in Indian history."
@@ -7565,7 +7565,7 @@ export const QUIZ_DATA = {
         "Parliament",
         "President through an administrator"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "Every Union Territory is administered by the **President acting through an administrator** appointed by him. An administrator of a union territory is an agent of the President and not the head of state like a governor. The designation of the administrator can be Lieutenant Governor, Chief Commissioner, or Administrator.",
       "difficulty": "Easy",
       "hint": "The central government directly administers these territories."
@@ -7580,7 +7580,7 @@ export const QUIZ_DATA = {
         "Chief Election Commissioner",
         "Prime Minister"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Pro-tem Speaker is appointed by the **President**. Usually, the senior-most member of the newly elected Lok Sabha is appointed for this role. The Pro-tem Speaker's main duty is to administer the oath to the new members and to preside over the sitting in which the new Speaker is elected.",
       "difficulty": "Medium",
       "hint": "The head of state makes this temporary appointment to enable the new House to function."
@@ -7595,7 +7595,7 @@ export const QUIZ_DATA = {
         "Whether a law has retrospective effect",
         "Whether a law is part of the basic structure"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The doctrine of 'pith and substance' is used to resolve questions of legislative competence between the Centre and the States. The court looks at the **true nature and character ('pith and substance') of the legislation** to determine which legislative list (Union, State, or Concurrent) it falls into. If the substance of the legislation falls within the competence of the legislature that enacted it, the law is held valid even if it incidentally encroaches on a subject in another list.",
       "difficulty": "Hard",
       "hint": "This doctrine helps resolve conflicts in the division of legislative powers."
@@ -7610,7 +7610,7 @@ export const QUIZ_DATA = {
         "Provincial Public Service Commissions",
         "All of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Government of India Act, 1935, was a lengthy and detailed document. It provided for the establishment of **all of the above**: a Federal Court to settle disputes between provinces and federal units, the Reserve Bank of India to control currency and credit, and not only a Federal Public Service Commission but also Provincial Public Service Commissions and Joint Public Service Commissions.",
       "difficulty": "Medium",
       "hint": "This Act was a major blueprint for the administrative structure of modern India."
@@ -7625,7 +7625,7 @@ export const QUIZ_DATA = {
         "Chennai",
         "New Delhi"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The National Green Tribunal (NGT) was established in 2010. Its principal place of sitting is in **New Delhi**. It also has four regional benches in Bhopal, Pune, Kolkata, and Chennai to provide wider access to justice for environmental matters.",
       "difficulty": "Easy",
       "hint": "The principal bench of this environmental tribunal is located in the national capital."
@@ -7640,7 +7640,7 @@ export const QUIZ_DATA = {
         "Comptroller and Auditor General of India",
         "Advocate General of a State"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The **Solicitor General of India** is a statutory post, not a constitutional one. They are the second-highest law officer of the country and assist the Attorney General. The office of the Attorney General (Article 76), the CAG (Article 148), and the Advocate General of a State (Article 165) are all constitutional posts.",
       "difficulty": "Medium",
       "hint": "This law officer assists the highest law officer but is not mentioned in the Constitution."
@@ -7655,7 +7655,7 @@ export const QUIZ_DATA = {
         "Panchayati Raj institutions",
         "All of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Balwant Rai Mehta Committee was appointed to examine the working of the **Community Development Programme (1952)** and the National Extension Service (1953) and to suggest measures for their better working. The committee recommended the establishment of a scheme of 'democratic decentralization', which ultimately came to be known as Panchayati Raj. So, it examined all the aspects mentioned.",
       "difficulty": "Medium",
       "hint": "This committee's recommendations laid the foundation for the Panchayati Raj system in India."
@@ -7670,7 +7670,7 @@ export const QUIZ_DATA = {
         "A simple majority of the total membership of both Houses",
         "An absolute majority of the total membership of both Houses"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The resolution for the impeachment of the President must be passed by **a majority of not less than two-thirds of the total membership of each House** of Parliament. This is a very stringent requirement, known as a special majority, and is different from two-thirds of the members present and voting.",
       "difficulty": "Hard",
       "hint": "The majority required for removing the President is based on the total strength of the House, not just those present."
@@ -7685,7 +7685,7 @@ export const QUIZ_DATA = {
         "Under the control of the Prime Minister's Office",
         "Headed by the Cabinet Secretary"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Each House of Parliament has its own separate secretariat staff. The Lok Sabha Secretariat and the Rajya Sabha Secretariat are **independent bodies** headed by their respective **Secretary-Generals**. They function under the overall guidance and control of the Presiding Officers of their respective Houses (Speaker for Lok Sabha, Chairman for Rajya Sabha), ensuring the independence of the legislature from the executive.",
       "difficulty": "Hard",
       "hint": "To ensure legislative independence, its administrative wing is independent of the government."
@@ -7700,7 +7700,7 @@ export const QUIZ_DATA = {
         "39th Amendment Act, 1975",
         "38th Amendment Act, 1975"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The **43rd Amendment Act, 1977**, enacted by the Janata Party government, repealed some of the controversial provisions of the 42nd Amendment. It restored the jurisdiction of the Supreme Court and the High Courts in respect of judicial review and their power to issue writs. The 44th Amendment Act made further changes to undo the effects of the 42nd Amendment.",
       "difficulty": "Hard",
       "hint": "This was one of the first amendments passed by the Janata government after the Emergency."
@@ -7715,7 +7715,7 @@ export const QUIZ_DATA = {
         "United Kingdom",
         "France"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The concept of 'Cabinet Government', also known as the parliamentary system or the Westminster model, is a central feature of the **United Kingdom's** political system. India adopted this system, where the real executive power is wielded by a cabinet of ministers who are members of and collectively responsible to the Parliament.",
       "difficulty": "Easy",
       "hint": "This system is also known as the Westminster model."
@@ -7730,7 +7730,7 @@ export const QUIZ_DATA = {
         "Governor, on the advice of the Chief Minister",
         "State Legislature, through a resolution"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Although the members of an SPSC are appointed by the Governor, they can be removed only by the **President**. The procedure is the same as for a UPSC member: the President can remove them on grounds of misbehaviour only after the Supreme Court has conducted an inquiry and recommended their removal.",
       "difficulty": "Hard",
       "hint": "The removal authority for state commission members is the same as for the union commission to ensure independence."
@@ -7745,7 +7745,7 @@ export const QUIZ_DATA = {
         "A conventional power",
         "A constitutional power"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The power of the Speaker (or the Chairman of the Rajya Sabha) to cast a vote in the case of a tie is a **constitutional power**, explicitly mentioned in **Article 100** of the Constitution. The article states that the Speaker shall not vote in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.",
       "difficulty": "Medium",
       "hint": "Check the constitutional provisions regarding voting in Parliament."
@@ -7760,7 +7760,7 @@ export const QUIZ_DATA = {
         "Resolve conflicts between two or more provisions of the Constitution or statutes.",
         "Ensure that all laws are in harmony with international treaties."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The doctrine of harmonious construction is a principle of interpretation used to **resolve conflicts between different provisions** within the Constitution or a statute. The court tries to interpret the provisions in a way that they can co-exist harmoniously, avoiding a situation where one provision renders the other ineffective. For example, it is used to balance Fundamental Rights and Directive Principles.",
       "difficulty": "Hard",
       "hint": "This legal principle seeks to avoid invalidating any part of a law by interpreting them together."
@@ -7775,7 +7775,7 @@ export const QUIZ_DATA = {
         "Sabhapathi",
         "District Commissioner"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The political head of the Zilla Panchayat in Karnataka is the **Adhyaksha** (President), who is elected from among the elected members. The Chief Executive Officer (CEO), usually an IAS officer, is the administrative head of the Zilla Panchayat, appointed by the state government. Sabhapathi is the head of the Taluk Panchayat.",
       "difficulty": "Medium",
       "hint": "Differentiate between the political head and the administrative head of the district-level panchayat."
@@ -7790,7 +7790,7 @@ export const QUIZ_DATA = {
         "To act as the Speaker if the office of the Speaker and Deputy Speaker are both vacant",
         "To chair the Business Advisory Committee"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Protem Speaker is a temporary speaker appointed by the President for a limited period. Their primary functions are to **preside over the first sitting** of the newly elected Lok Sabha, **administer the oath** to the new members, and **enable the House to elect the new Speaker**.",
       "difficulty": "Easy",
       "hint": "This role is temporary and exists to facilitate the start of a new legislature."
@@ -7805,7 +7805,7 @@ export const QUIZ_DATA = {
         "Dependent on the Prime Minister's advice only",
         "Subject to ratification by the Supreme Court"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 38th Amendment Act had made the President's satisfaction in declaring an emergency final and not questionable in any court. The **44th Amendment Act, 1978, deleted this provision**, thereby making the President's satisfaction **subject to judicial review**. This was a major safeguard added to prevent the misuse of emergency powers.",
       "difficulty": "Medium",
       "hint": "This amendment sought to increase accountability for the imposition of an emergency."
@@ -7820,7 +7820,7 @@ export const QUIZ_DATA = {
         "A fund where money is held by the government in trust.",
         "The personal fund of the President of India."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Consolidated Fund of India (Article 266) is the most important of all government accounts. It is a fund to which **all revenues received by the government, all loans raised by it, and all money received in repayment of loans** are credited. All legally authorized payments on behalf of the Government of India are made out of this fund. No money can be withdrawn from this fund except in accordance with parliamentary law.",
       "difficulty": "Medium",
       "hint": "This is the main bank account of the government."
@@ -7835,7 +7835,7 @@ export const QUIZ_DATA = {
         "Due Process of Law",
         "Conventions"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The system of judicial review in India is explicitly based on the concept of **'Procedure Established by Law'** (Article 21). However, the Supreme Court, in the Maneka Gandhi case, expanded the interpretation to include elements of 'Due Process of Law', meaning the procedure must be fair, just, and reasonable. This effectively blends both concepts in practice.",
       "difficulty": "Hard",
       "hint": "Consider the phrase explicitly used in Article 21 of the Constitution."
@@ -7850,7 +7850,7 @@ export const QUIZ_DATA = {
         "NITI Aayog",
         "Finance Commission"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**NITI Aayog**, being an executive body, submits its reports and publications directly to the government. The other bodies are constitutional bodies that are mandated to submit their annual reports to the President, who then lays them before Parliament. The Finance Commission submits its report every five years, not annually.",
       "difficulty": "Medium",
       "hint": "Think about which of these is a non-constitutional, executive think tank."
@@ -7865,7 +7865,7 @@ export const QUIZ_DATA = {
         "The body consisting of all persons registered in the electoral rolls of a village",
         "A committee nominated by the Zilla Parishad"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 73rd Amendment Act defines the Gram Sabha as the foundation of the Panchayati Raj System. It is the primary body and consists of **all persons whose names are included in the electoral rolls** for the Panchayat at the village level. It is the embodiment of direct democracy.",
       "difficulty": "Easy",
       "hint": "The Gram Sabha represents the entire electorate of the village."
@@ -7880,7 +7880,7 @@ export const QUIZ_DATA = {
         "The Constitution of South Africa",
         "The Constitution of the UK"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The provision for the suspension of Fundamental Rights during a National Emergency was borrowed from the **Weimar Constitution of Germany**. This feature allows the state to prioritize national security over individual liberties during a grave crisis. However, the 44th Amendment ensured that Articles 20 and 21 cannot be suspended.",
       "difficulty": "Medium",
       "hint": "This feature was taken from a European constitution that existed between the two World Wars."
@@ -7895,7 +7895,7 @@ export const QUIZ_DATA = {
         "The senior-most minister",
         "The Speaker of the Legislative Assembly"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Chief Minister** presides over the meetings of the State Council of Ministers. As the head of the government at the state level, the CM leads the cabinet, allocates portfolios, and guides the policy-making process.",
       "difficulty": "Easy",
       "hint": "The head of the government presides over the cabinet."
@@ -7910,7 +7910,7 @@ export const QUIZ_DATA = {
         "The Supreme Court",
         "The Presiding Officer of the House"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The final authority to decide on questions of disqualification of a member on the grounds of defection rests with the **Presiding Officer of the House** (the Speaker in the Lok Sabha or the Chairman in the Rajya Sabha). While their decision was initially meant to be final, the Supreme Court in the Kihoto Hollohan case ruled that it is subject to judicial review.",
       "difficulty": "Medium",
       "hint": "The decision-making power rests within the legislative chamber itself."
@@ -7925,7 +7925,7 @@ export const QUIZ_DATA = {
         "Article 323-A",
         "Article 350-B"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 44th Amendment Act, 1978, removed the Right to Property from the list of Fundamental Rights (earlier Article 31) and converted it into a constitutional/legal right under a new article, **Article 300-A** in Part XII. This article states that 'no person shall be deprived of his property save by authority of law'.",
       "difficulty": "Easy",
       "hint": "A new article was inserted in a different part of the constitution for this right."
@@ -7940,7 +7940,7 @@ export const QUIZ_DATA = {
         "65 years",
         "70 years"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A judge of the Supreme Court holds office until they attain the age of **65 years**. For a High Court judge, the retirement age is 62 years. They can be removed from office earlier by the President on the recommendation of the Parliament.",
       "difficulty": "Easy",
       "hint": "This is the highest retirement age in the Indian judiciary."
@@ -7955,7 +7955,7 @@ export const QUIZ_DATA = {
         "Ministry of Personnel, Public Grievances and Pensions",
         "Prime Minister's Office"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Central Information Commission, a statutory body established under the RTI Act 2005, falls under the **Ministry of Personnel, Public Grievances and Pensions**. This ministry is also the nodal agency for the Right to Information Act itself.",
       "difficulty": "Hard",
       "hint": "This ministry is the nodal agency for personnel matters in the central government."
@@ -7970,7 +7970,7 @@ export const QUIZ_DATA = {
         "Breached the privilege of the House or its members by withholding facts or giving wrong information",
         "Remained absent from the House for a long period"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A privilege motion is moved by a member when they feel that a minister has committed a **breach of privilege of the House or one or more of its members**. This is typically done by withholding facts of a case or by giving distorted or wrong information. Its purpose is to censure the concerned minister.",
       "difficulty": "Medium",
       "hint": "This motion relates to the special rights and immunities of the members of Parliament."
@@ -7985,7 +7985,7 @@ export const QUIZ_DATA = {
         "They can only serve in the central government.",
         "They are recruited by the states but can be deputed to the Centre."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The All India Services are unique because their members are **recruited and trained by the Central Government but are assigned to different state cadres**. They serve under the state governments but their ultimate control lies with the Central Government. This feature reinforces the unitary bias of the Indian federation.",
       "difficulty": "Medium",
       "hint": "This structure represents a key mechanism of central control over state administration."
@@ -8000,7 +8000,7 @@ export const QUIZ_DATA = {
         "52nd Amendment",
         "61st Amendment"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **52nd Amendment Act of 1985** added the Tenth Schedule to the Constitution, which contains the provisions for disqualifying members of Parliament and state legislatures on the grounds of defection. This is popularly known as the Anti-Defection Law.",
       "difficulty": "Easy",
       "hint": "This law was passed in the mid-1980s to address political instability."
@@ -8015,7 +8015,7 @@ export const QUIZ_DATA = {
         "Arbitration only",
         "Binding judicial precedent"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Lok Adalats (People's Courts) are a form of alternative dispute resolution. They aim to settle disputes amicably through **conciliation and compromise**. A decision made by a Lok Adalat is deemed to be a decree of a civil court and is final and binding on all parties, with no appeal against it.",
       "difficulty": "Easy",
       "hint": "This is a form of alternative dispute resolution focused on amicable settlement."
@@ -8030,7 +8030,7 @@ export const QUIZ_DATA = {
         "A special majority with ratification by the concerned state legislature",
         "The consent of the President"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Under Article 3 of the Constitution, the Parliament can alter the boundaries of a state by a law passed by a **simple majority**. Although the bill requires the prior recommendation of the President, who must refer it to the concerned state legislature for expressing its views, the Parliament is not bound by the views of the state legislature.",
       "difficulty": "Medium",
       "hint": "The Constitution makes this process a regular legislative one, not a constitutional amendment."
@@ -8045,7 +8045,7 @@ export const QUIZ_DATA = {
         "Judicial Review",
         "The right to property"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The right to property is not part of the basic structure; it was removed as a Fundamental Right itself. The Supreme Court, in various judgments, has identified several features as part of the 'basic structure', including the **supremacy of the Constitution, the federal character, secularism, separation of powers, and judicial review**.",
       "difficulty": "Medium",
       "hint": "Think about which of these was a fundamental right that was later repealed."
@@ -8060,7 +8060,7 @@ export const QUIZ_DATA = {
         "One-fourth of the total members",
         "A simple majority of the members present"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "A resolution to remove the Speaker can be moved only after giving 14 days' advance notice. To be admitted, the motion needs the initial support of at least **50 members** of the Lok Sabha. The resolution is then passed by an 'effective majority', which is a majority of all the then members of the House.",
       "difficulty": "Hard",
       "hint": "The initial support required is the same as for an adjournment motion."
@@ -8075,7 +8075,7 @@ export const QUIZ_DATA = {
         "Articles 268 to 281",
         "Articles 294 to 300"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The administrative relations between the Centre and the States are dealt with in **Articles 256 to 263** in Part XI of the Constitution. These articles cover the distribution of executive powers, the obligation of states and the Union, and the Centre's direction to the states. Articles 245 to 255 deal with legislative relations.",
       "difficulty": "Hard",
       "hint": "These relations are covered in Part XI, following the legislative relations."
@@ -8090,7 +8090,7 @@ export const QUIZ_DATA = {
         "The Union Home Minister",
         "The Chief Justice of India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Foundation for Communal Harmony is an autonomous organization with the Ministry of Home Affairs. The **Union Home Minister** is the ex-officio Chairman of the Governing Council of the Foundation. It provides assistance for the physical and psychological rehabilitation of child victims of communal, caste, ethnic, or terrorist violence.",
       "difficulty": "Hard",
       "hint": "The minister in charge of internal security heads this foundation."
@@ -8105,7 +8105,7 @@ export const QUIZ_DATA = {
         "The expiry of the time allotted for discussion on a bill",
         "The rejection of a bill by the President"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "In the parliamentary context, 'lapse' refers to the **termination of a bill or motion upon the dissolution of the Lok Sabha**. A bill that originated in the Lok Sabha and is pending in the Lok Sabha lapses. A bill passed by the Lok Sabha but pending in the Rajya Sabha also lapses. This ensures that the will of a dissolved house does not bind its successor.",
       "difficulty": "Medium",
       "hint": "This principle is linked to the dissolution of the lower house."
@@ -8120,7 +8120,7 @@ export const QUIZ_DATA = {
         "Solicitor General",
         "Comptroller and Auditor General"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The office of the **Solicitor General** is not mentioned in the Constitution. It is a statutory post created to assist the Attorney General (Article 76), who is the highest law officer of the country. The Advocate General (Article 165) is the highest law officer of a state, and the CAG (Article 148) is the supreme audit institution.",
       "difficulty": "Medium",
       "hint": "This law officer is second-in-command to the highest law officer but lacks constitutional status."
@@ -8135,7 +8135,7 @@ export const QUIZ_DATA = {
         "42nd Amendment Act, 1976",
         "44th Amendment Act, 1978"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **24th Constitutional Amendment Act of 1971** made it obligatory for the President to give his assent to a Constitutional Amendment Bill when it is presented to him. This means the President cannot withhold his assent or return the bill for reconsideration. This was enacted to overcome the Supreme Court's judgment in the Golaknath case.",
       "difficulty": "Hard",
       "hint": "This amendment was a direct response to a Supreme Court judgment that had curtailed Parliament's power to amend fundamental rights."
@@ -8150,7 +8150,7 @@ export const QUIZ_DATA = {
         "Chennai",
         "Allahabad (Prayagraj)"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The office of the Special Officer for Linguistic Minorities was created under Article 350-B of the Constitution. The headquarters of the Commissioner for Linguistic Minorities is at **Allahabad (Prayagraj)**, Uttar Pradesh. The Commissioner has three regional offices at Belgaum (Karnataka), Chennai (Tamil Nadu), and Kolkata (West Bengal).",
       "difficulty": "Hard",
       "hint": "The headquarters of this constitutional body is located in a major city in Uttar Pradesh."
@@ -8165,7 +8165,7 @@ export const QUIZ_DATA = {
         "Judicial Power",
         "Discretionary Power"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The pardoning power of the President is an **Executive Power**. Although its effect is to interfere with the judicial process, it is considered an executive act and is exercised by the President on the advice of the Council of Ministers. It is not a discretionary power.",
       "difficulty": "Medium",
       "hint": "Although it affects judicial outcomes, it is classified as a power of the executive head."
@@ -8180,7 +8180,7 @@ export const QUIZ_DATA = {
         "Article 16",
         "Article 17"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 16** of the Constitution guarantees equality of opportunity for all citizens in matters of employment or appointment to any office under the State. It prohibits discrimination on grounds only of religion, race, caste, sex, descent, place of birth, or residence.",
       "difficulty": "Easy",
       "hint": "This article specifically deals with non-discrimination in government jobs."
@@ -8195,7 +8195,7 @@ export const QUIZ_DATA = {
         "1971",
         "1981"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "While the power to punish for contempt of court is a constitutional power of the Supreme Court (Article 129) and High Courts (Article 215), the Parliament enacted the **Contempt of Courts Act in 1971** to define and limit the powers of certain courts in punishing contempts of courts and to regulate their procedure.",
       "difficulty": "Hard",
       "hint": "This Act was passed in the early 1970s to codify the law on this subject."
@@ -8210,7 +8210,7 @@ export const QUIZ_DATA = {
         "Parsi",
         "This provision has been abolished"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The provision that allowed the Governor to nominate one member from the Anglo-Indian community to the State Legislative Assembly **has been abolished**. The **104th Constitutional Amendment Act, 2019**, discontinued the reservation of seats for the Anglo-Indian community in the Lok Sabha and the State Legislative Assemblies.",
       "difficulty": "Medium",
       "hint": "This change was made by the same amendment that affected Lok Sabha nominations."
@@ -8225,7 +8225,7 @@ export const QUIZ_DATA = {
         "To organize village panchayats and enable them to function as units of self-government.",
         "To protect and improve the environment."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**To organize village panchayats** (Article 40) is a key Directive Principle based on Gandhian ideology, reflecting his dream of 'Gram Swaraj'. Other Gandhian principles include promoting cottage industries (Article 43), prohibiting the consumption of intoxicating drinks (Article 47), and prohibiting the slaughter of cows (Article 48).",
       "difficulty": "Easy",
       "hint": "This principle reflects Mahatma Gandhi's vision of village self-sufficiency."
@@ -8240,7 +8240,7 @@ export const QUIZ_DATA = {
         "Supreme Court",
         "Attorney General of India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Supreme Court** is the ultimate interpreter of the Constitution. Through its power of judicial review, it has the final say on the meaning and scope of constitutional provisions. Its interpretations are binding on all other courts and authorities in India.",
       "difficulty": "Easy",
       "hint": "The highest judicial body has the last word on constitutional interpretation."
@@ -8255,7 +8255,7 @@ export const QUIZ_DATA = {
         "The division of powers between the Union and the States in the form of three lists.",
         "Provisions for disqualification on the ground of defection."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Seventh Schedule deals with the **division of legislative powers between the Union and the States**. It contains three lists: the Union List (on which only Parliament can legislate), the State List (on which only State Legislatures can legislate), and the Concurrent List (on which both can legislate).",
       "difficulty": "Easy",
       "hint": "This schedule is the cornerstone of India's federal division of powers."
@@ -8270,7 +8270,7 @@ export const QUIZ_DATA = {
         "An independent state with no external authority above it.",
         "A democratic republic."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Sovereignty means that India is an **independent state and there is no authority above it**. It is free to conduct its own internal and external affairs. While India is a member of the Commonwealth and the UN, this membership is voluntary and does not compromise its sovereignty.",
       "difficulty": "Easy",
       "hint": "This term implies the supreme power of the state."
@@ -8285,7 +8285,7 @@ export const QUIZ_DATA = {
         "One-tenth of the total number of members of the two Houses.",
         "One-third of the total number of members of the two Houses."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The quorum to constitute a joint sitting of the two Houses of Parliament is **one-tenth of the total number of members of the two Houses**. This is specified in Article 100(3) of the Constitution.",
       "difficulty": "Medium",
       "hint": "The standard quorum rule applies to the combined strength of both houses."
@@ -8300,7 +8300,7 @@ export const QUIZ_DATA = {
         "Sukumar Sen",
         "T.N. Seshan"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The first Chief Election Commissioner of independent India was **Sukumar Sen**. He served from 21 March 1950 to 19 December 1958 and successfully oversaw the first two general elections in 1951-52 and 1957, which was a monumental task in a newly independent nation with a vast electorate.",
       "difficulty": "Medium",
       "hint": "He is credited with successfully conducting the first general elections in India."
@@ -8315,7 +8315,7 @@ export const QUIZ_DATA = {
         "Article 45",
         "Article 51-A(k)"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 86th Amendment Act, 2002, inserted a new article, **Article 21-A**, which made the Right to Elementary Education a Fundamental Right for children in the age group of 6 to 14 years. It also modified Article 45 (a DPSP) and added a new fundamental duty under Article 51-A(k).",
       "difficulty": "Easy",
       "hint": "A new article was added to the constitution for this right."
@@ -8330,7 +8330,7 @@ export const QUIZ_DATA = {
         "Australia",
         "India"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The 'Zero Hour' is a uniquely **Indian** parliamentary innovation. It is not mentioned in the rules of procedure. It is the time gap between the end of the Question Hour and the beginning of the regular business of the House. Members use this time to raise matters of urgent public importance without any prior notice.",
       "difficulty": "Easy",
       "hint": "This informal parliamentary device is a contribution of a specific country's legislature."
@@ -8345,7 +8345,7 @@ export const QUIZ_DATA = {
         "Prime Minister",
         "Judges do not take an oath of secrecy"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "According to the Third Schedule of the Constitution, a judge of the Supreme Court takes an oath or affirmation of office and an oath of secrecy. Both these oaths are administered by the **President** of India, or some person appointed in that behalf by him.",
       "difficulty": "Medium",
       "hint": "The head of the executive administers the oath to the highest judicial functionaries."
@@ -8360,7 +8360,7 @@ export const QUIZ_DATA = {
         "The State Legislature",
         "The Chief Justice of the High Court"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Advocate General of a State is appointed by the Governor and holds office during the pleasure of the **Governor**. This means the Governor can remove the Advocate General from office at any time. There is no specific procedure or ground for their removal mentioned in the Constitution.",
       "difficulty": "Medium",
       "hint": "The appointing authority is also the removing authority for this state law officer."
@@ -8375,7 +8375,7 @@ export const QUIZ_DATA = {
         "Rule of Law",
         "Sovereignty of Parliament"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Judicial activism is often criticized on the grounds that it violates the **doctrine of separation of powers**. Critics argue that by issuing directives to the executive and legislature on policy matters, the judiciary is encroaching upon the domains of the other two organs of the government.",
       "difficulty": "Medium",
       "hint": "This criticism relates to the distinct functions of the three branches of government."
@@ -8390,7 +8390,7 @@ export const QUIZ_DATA = {
         "Law Commission of India",
         "Attorney General of India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Law Commission of India** is a non-statutory, executive body. It is constituted for a fixed tenure by an order of the Government of India to work on legal reforms. The Finance Commission (Article 280), NCST (Article 338A), and Attorney General (Article 76) are all constitutional bodies.",
       "difficulty": "Medium",
       "hint": "This body is periodically constituted by the government to advise on legal reforms."
@@ -8405,7 +8405,7 @@ export const QUIZ_DATA = {
         "John Locke",
         "Montesquieu"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The theory of separation of powers, which advocates for the division of governmental powers into legislative, executive, and judicial branches, was systematically and clearly propounded by the French philosopher **Montesquieu** in his book 'The Spirit of the Laws' (1748).",
       "difficulty": "Medium",
       "hint": "A French political philosopher is credited with this theory."
@@ -8420,7 +8420,7 @@ export const QUIZ_DATA = {
         "Two years at a time",
         "An indefinite period"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "While a proclamation of National Emergency is in operation, the normal term of the Lok Sabha (five years) can be extended by a law of Parliament for **one year at a time** for any number of times. However, this extension cannot continue beyond a period of six months after the emergency has ceased to operate.",
       "difficulty": "Medium",
       "hint": "The extension is granted in yearly increments."
@@ -8435,7 +8435,7 @@ export const QUIZ_DATA = {
         "Article 141",
         "Article 143"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Article 137** of the Constitution confers on the Supreme Court the power to review any judgment pronounced or order made by it. This is also known as its curative or review jurisdiction. Article 136 deals with Special Leave Petitions (SLP).",
       "difficulty": "Hard",
       "hint": "This article gives the apex court the power to correct its own errors."
@@ -8450,7 +8450,7 @@ export const QUIZ_DATA = {
         "The creation of the National Judicial Appointments Commission.",
         "The reservation for EWS."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **100th Constitutional Amendment Act, 2015**, gave effect to the acquiring of certain territories by India and transfer of certain other territories to Bangladesh in pursuance of the Land Boundary Agreement of 1974 and its Protocol of 2011. It involved the **exchange of enclaves** between the two countries.",
       "difficulty": "Medium",
       "hint": "This amendment resolved a long-standing border issue with an eastern neighbor."
@@ -8465,7 +8465,7 @@ export const QUIZ_DATA = {
         "Allow the government to draw funds from the Consolidated Fund for a part of the financial year.",
         "Approve the entire budget for the year."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A Vote on Account is a grant in advance made by the Parliament, pending the completion of the detailed examination and voting on the demands for grants. It allows the government to **draw funds from the Consolidated Fund to cover its expenditure for a part of the financial year** (usually 2 months) until the budget is passed.",
       "difficulty": "Medium",
       "hint": "This is a provisional budget to keep the government running until the full budget is passed."
@@ -8480,7 +8480,7 @@ export const QUIZ_DATA = {
         "Fundamental Duties",
         "Emergency Provisions"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'Instrument of Instructions' from the Government of India Act, 1935, which contained instructions to the Governor-General and the Governors of provinces, have been incorporated in the Constitution of India as the **Directive Principles of State Policy**. They are fundamental to the governance of the country.",
       "difficulty": "Hard",
       "hint": "These instructions to the colonial executive were repurposed as guidelines for the new republic's governments."
@@ -8495,7 +8495,7 @@ export const QUIZ_DATA = {
         "Article 24",
         "Article 45"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 24** of the Constitution, part of the Right against Exploitation, prohibits the employment of children below the age of 14 years in any factory, mine, or other hazardous employment. Article 23 prohibits traffic in human beings and forced labour.",
       "difficulty": "Easy",
       "hint": "This article is a key provision for child protection."
@@ -8510,7 +8510,7 @@ export const QUIZ_DATA = {
         "Governor on the recommendation of the state cabinet.",
         "State legislative assembly by a special majority."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The power to create or abolish a legislative council lies with the **Parliament**. The process is initiated when the **state legislative assembly passes a resolution** to that effect by a special majority (a majority of the total membership of the assembly and a majority of not less than two-thirds of the members present and voting).",
       "difficulty": "Medium",
       "hint": "The state initiates the process, but the central legislature has the final say."
@@ -8525,7 +8525,7 @@ export const QUIZ_DATA = {
         "91st Amendment Act",
         "102nd Amendment Act"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **89th Constitutional Amendment Act of 2003** bifurcated the combined National Commission for Scheduled Castes and Scheduled Tribes into two separate bodies. It created the National Commission for Scheduled Castes (under Article 338) and the National Commission for Scheduled Tribes (under a new Article 338-A).",
       "difficulty": "Medium",
       "hint": "This amendment created a separate constitutional body for STs."
@@ -8540,7 +8540,7 @@ export const QUIZ_DATA = {
         "2009",
         "2013"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Right to Information (RTI) Act, a landmark legislation that empowers citizens to question the government and its working, was passed by the Parliament of India in **2005**. It replaced the earlier Freedom of Information Act, 2002.",
       "difficulty": "Easy",
       "hint": "This landmark transparency law was enacted in the mid-2000s."
@@ -8555,7 +8555,7 @@ export const QUIZ_DATA = {
         "A no-confidence motion is passed against the government.",
         "The attendance in the Parliament is very low."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A 'hung parliament' or a 'hung legislature' is a situation that arises after an election when **no single political party or pre-existing alliance has secured an absolute majority** of seats. This often leads to a period of political instability and the formation of a coalition or minority government.",
       "difficulty": "Easy",
       "hint": "This term describes an inconclusive election result."
@@ -8570,7 +8570,7 @@ export const QUIZ_DATA = {
         "Discuss the transfer of power to India.",
         "Investigate the Jallianwala Bagh massacre."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Simon Commission was appointed by the British government to **review the functioning of the constitutional system in India** established by the Government of India Act of 1919 and to suggest further reforms. It was widely boycotted by Indians because it did not have a single Indian member.",
       "difficulty": "Medium",
       "hint": "This commission was meant to be a 10-year review of the Montagu-Chelmsford reforms."
@@ -8585,7 +8585,7 @@ export const QUIZ_DATA = {
         "Article 165",
         "Article 315"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 165** of the Constitution provides for the office of the Advocate General for the State. He is the highest law officer in the state. Article 76 provides for the Attorney General for India, who is the highest law officer for the Union.",
       "difficulty": "Easy",
       "hint": "This is the state-level counterpart to the Attorney General of India."
@@ -8600,7 +8600,7 @@ export const QUIZ_DATA = {
         "Constituent Assembly to frame a constitution",
         "Partition of India into two dominions"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Cabinet Mission Plan of 1946 rejected the demand for a separate Pakistan and instead proposed a three-tiered federal structure. Its most significant proposal was the formation of a **Constituent Assembly**, to be elected by the provincial assemblies, to draft the constitution for an independent India.",
       "difficulty": "Medium",
       "hint": "This mission laid the groundwork for the body that would write India's constitution."
@@ -8615,7 +8615,7 @@ export const QUIZ_DATA = {
         "Article 241",
         "The Seventh Schedule"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Article 231** of the Constitution empowers the Parliament to establish a common High Court for two or more states or for two or more states and a union territory. For example, the Punjab and Haryana High Court serves both states and the UT of Chandigarh.",
       "difficulty": "Medium",
       "hint": "This article allows for judicial efficiency by creating shared high courts."
@@ -8630,7 +8630,7 @@ export const QUIZ_DATA = {
         "Centre-State relations",
         "Taxation policies"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The G.V.K. Rao Committee was appointed by the Planning Commission in 1985 to review the **existing administrative arrangements for rural development and poverty alleviation programmes**. The committee criticized the bureaucratization of the Panchayati Raj system and recommended that the Zilla Parishad should be the principal body for the management of all development programmes.",
       "difficulty": "Hard",
       "hint": "This committee's report was titled 'Panchayati Raj as the fulcrum of decentralized development'."
@@ -8645,7 +8645,7 @@ export const QUIZ_DATA = {
         "Rules Committee",
         "Cabinet Committee on Political Affairs"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "A **Cabinet Committee** is not a parliamentary committee. Cabinet committees are smaller groups of ministers set up by the Prime Minister to reduce the workload of the full Cabinet. The other three are all types of parliamentary committees that help the Parliament in its functions.",
       "difficulty": "Medium",
       "hint": "Distinguish between committees of the legislature and committees of the executive."
@@ -8660,7 +8660,7 @@ export const QUIZ_DATA = {
         "Morarji Desai",
         "B.P. Mandal"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The First Administrative Reforms Commission was established in 1966 and was initially chaired by **Morarji Desai**. After he became the Deputy Prime Minister, K. Hanumanthaiah became its chairman. The Second ARC (2005) was chaired by Veerappa Moily.",
       "difficulty": "Hard",
       "hint": "The first chairman of this important commission later became the Prime Minister."
@@ -8675,7 +8675,7 @@ export const QUIZ_DATA = {
         "Finance Minister's budget speech",
         "Speaker's opening remarks"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Motion of Thanks is a motion moved in both Houses of Parliament to discuss the **President's address**, which he delivers at the beginning of the first session after each general election and the first session of every year. The motion must be passed in the House; otherwise, it amounts to the defeat of the government.",
       "difficulty": "Easy",
       "hint": "This motion follows the speech by the Head of State outlining the government's policies."
@@ -8690,7 +8690,7 @@ export const QUIZ_DATA = {
         "Amend any part of the Constitution, including Fundamental Rights",
         "Abolish the Legislative Council in any state"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **24th Amendment Act, 1971**, was enacted to nullify the effect of the Supreme Court's judgment in the Golaknath case (1967). It amended Articles 13 and 368 to explicitly affirm the Parliament's power to **amend any part of the Constitution, including the Fundamental Rights**.",
       "difficulty": "Medium",
       "hint": "This amendment was a direct legislative response to a judicial pronouncement."
@@ -8705,7 +8705,7 @@ export const QUIZ_DATA = {
         "Conventional post",
         "Post created by the Speaker/Chairman"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The post of the Leader of the Opposition is a **statutory post**. It received statutory recognition through the 'Salary and Allowances of Leaders of Opposition in Parliament Act, 1977'. The leader of the largest opposition party that has not less than one-tenth of the total strength of the House is recognized as the Leader of the Opposition.",
       "difficulty": "Medium",
       "hint": "This post was given formal recognition and a cabinet-rank status through an Act of Parliament."
@@ -8720,7 +8720,7 @@ export const QUIZ_DATA = {
         "Sports governance",
         "Police reforms"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Shatrughan Sinha Committee was a parliamentary committee set up to look into issues related to **film censorship and the functioning of the Central Board of Film Certification (CBFC)**. It made several recommendations for reforming the process of film certification in India.",
       "difficulty": "Hard",
       "hint": "The chairman of this committee was a famous film actor-turned-politician."
@@ -8735,7 +8735,7 @@ export const QUIZ_DATA = {
         "Power exercised on the advice of the Chief Minister",
         "Power that has been abolished"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The power of the Governor to reserve a bill passed by the state legislature for the consideration of the President (under Article 200) is a **discretionary power**. He is not bound by the advice of the Council of Ministers in this regard. This is a significant tool of central control over state legislation.",
       "difficulty": "Medium",
       "hint": "This power allows the Governor to act without the advice of the state cabinet."
@@ -8750,7 +8750,7 @@ export const QUIZ_DATA = {
         "Military cantonment areas",
         "Industrial townships"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A Notified Area Committee is created for the administration of two types of areas: **a fast-developing town** due to industrialization, or an **area which does not yet fulfill all the conditions necessary for the constitution of a municipality**. It is created by a notification in the government gazette and is an entirely nominated body.",
       "difficulty": "Medium",
       "hint": "This body is for areas that are in a transitional phase of urbanization."
@@ -8765,7 +8765,7 @@ export const QUIZ_DATA = {
         "The Finance Commission",
         "The Election Commission"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The **Zonal Councils** are **statutory bodies**, not constitutional ones. They were established by the States Reorganisation Act of 1956. The Inter-State Council (Article 263), Finance Commission (Article 280), and Election Commission (Article 324) are all explicitly provided for in the Constitution.",
       "difficulty": "Medium",
       "hint": "Think about which of these bodies was created by an Act of Parliament."
@@ -8780,7 +8780,7 @@ export const QUIZ_DATA = {
         "Sikkim",
         "Mizoram"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "**Article 371** contains special provisions for the states of **Maharashtra and Gujarat**. It empowers the President to provide for the establishment of separate development boards for Vidarbha, Marathwada, Saurashtra, and Kutch. Other articles like 371A to 371J provide special provisions for other states like Nagaland, Assam, Manipur, etc.",
       "difficulty": "Hard",
       "hint": "This article deals with two major western states."
@@ -8795,7 +8795,7 @@ export const QUIZ_DATA = {
         "Is in office after the dissolution of the Lok Sabha until a new government is formed",
         "Is a coalition of multiple parties"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A 'caretaker government' is one that is in office for an interim period. This typically happens **after the Prime Minister has resigned or the Lok Sabha has been dissolved**, and it continues to function with limited powers until a new government is sworn in after the elections.",
       "difficulty": "Easy",
       "hint": "This type of government has a limited, transitional role."
@@ -8810,7 +8810,7 @@ export const QUIZ_DATA = {
         "Basic Structure",
         "Separation of Powers"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **Kesavananda Bharati v. State of Kerala (1973)** case is a landmark judgment that established the **doctrine of 'Basic Structure'**. The Supreme Court ruled that the Parliament's power to amend the Constitution is not absolute and it cannot alter the fundamental framework or basic structure of the Constitution.",
       "difficulty": "Easy",
       "hint": "This case set a limit on the Parliament's amending power."
@@ -8825,7 +8825,7 @@ export const QUIZ_DATA = {
         "The date of the oath-taking of the members",
         "The date notified by the state government"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "According to Article 243E of the Constitution, every Panchayat shall have a term of five years from the **date appointed for its first meeting** and no longer. An election to constitute a Panchayat must be completed before the expiry of its term.",
       "difficulty": "Medium",
       "hint": "The clock starts ticking from the day the new body officially convenes."
@@ -8840,7 +8840,7 @@ export const QUIZ_DATA = {
         "Rajya Sabha",
         "Lok Sabha"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "In states with a bicameral legislature, the upper house is known as the **Vidhan Parishad** (Legislative Council). The lower house is known as the Vidhan Sabha (Legislative Assembly). The Rajya Sabha and Lok Sabha are the two houses of the Union Parliament.",
       "difficulty": "Easy",
       "hint": "This is the state-level equivalent of the Rajya Sabha."
@@ -8855,7 +8855,7 @@ export const QUIZ_DATA = {
         "National Judicial Appointments Commission (NJAC)",
         "Reservation in promotions"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The **99th Constitutional Amendment Act, 2014**, established the **National Judicial Appointments Commission (NJAC)**, which was meant to replace the collegium system for the appointment of judges. However, in 2015, the Supreme Court struck down the amendment as unconstitutional, holding that it violated the independence of the judiciary, which is a part of the basic structure.",
       "difficulty": "Medium",
       "hint": "This amendment was a significant but unsuccessful attempt to reform judicial appointments."
@@ -8870,7 +8870,7 @@ export const QUIZ_DATA = {
         "Legislative Assembly (Vidhan Sabha)",
         "Legislative Council (Vidhan Parishad)"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Just as at the Centre, the 'Council of Ministers' in a state is collectively responsible to the **Legislative Assembly (Vidhan Sabha)**, which is the lower house. This means that they must resign if they lose the confidence of the assembly. This principle is enshrined in Article 164 of the Constitution.",
       "difficulty": "Easy",
       "hint": "The principle of collective responsibility applies to the popularly elected house."
@@ -8885,7 +8885,7 @@ export const QUIZ_DATA = {
         "State Finance Minister",
         "Governor"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The contingency fund of a state is placed at the disposal of the **Governor**. He can make advances out of it to meet unforeseen expenditure, pending its authorization by the state legislature. It is operated on his behalf by the finance secretary of the state.",
       "difficulty": "Medium",
       "hint": "The constitutional head of the state operates this emergency fund."
@@ -8900,7 +8900,7 @@ export const QUIZ_DATA = {
         "Double membership",
         "Separation of powers"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "A strict **separation of powers** is a feature of the Presidential system (like in the USA), not the parliamentary system. The Indian parliamentary system is characterized by majority party rule, collective responsibility of the executive to the legislature, and **double membership** (ministers are members of both the legislature and the executive). There is a fusion, not separation, of powers.",
       "difficulty": "Medium",
       "hint": "Consider the feature that is the hallmark of a Presidential system."
@@ -8915,7 +8915,7 @@ export const QUIZ_DATA = {
         "Article 137",
         "Article 142"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The power to grant 'Special Leave to Appeal' is a discretionary power of the Supreme Court provided for under **Article 136**. The Supreme Court can grant special leave to appeal from any judgment, decree, determination, sentence, or order in any cause or matter passed or made by any court or tribunal in the territory of India.",
       "difficulty": "Hard",
       "hint": "This is a discretionary power of the apex court to hear appeals from any court."
@@ -8930,7 +8930,7 @@ export const QUIZ_DATA = {
         "Electoral Reforms",
         "Police Reforms"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Dinesh Goswami Committee was appointed in 1990 to suggest **electoral reforms**. Its major recommendations included providing state funding for elections, restrictions on the number of constituencies a candidate can contest from, and changes in the law regarding disqualification of members.",
       "difficulty": "Hard",
       "hint": "This committee was one of several important committees on reforming the election process."
@@ -8945,7 +8945,7 @@ export const QUIZ_DATA = {
         "The Government of India and a citizen",
         "Both a and b"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The original jurisdiction of the Supreme Court (Article 131) extends to disputes **between the Government of India and one or more States** and disputes **between two or more States**. These are cases that can originate directly in the Supreme Court. Disputes between the government and a citizen typically do not fall under this category unless they involve the interpretation of the Constitution.",
       "difficulty": "Medium",
       "hint": "This jurisdiction deals with federal disputes."
@@ -8960,7 +8960,7 @@ export const QUIZ_DATA = {
         "Legislative procedure",
         "Quasi-judicial procedure"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The impeachment of the President is a **quasi-judicial procedure**. It is considered so because the Parliament investigates the charges against the President, and the President has the right to appear and be represented during the investigation. It combines elements of both a legislative and a judicial process.",
       "difficulty": "Medium",
       "hint": "The process involves investigation and a decision by the legislature, making it a blend of procedures."
@@ -8975,7 +8975,7 @@ export const QUIZ_DATA = {
         "22 members, 15 from Lok Sabha and 7 from Rajya Sabha",
         "15 members, 10 from Lok Sabha and 5 from Rajya Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Public Accounts Committee (PAC) consists of **22 members**, of whom **15 are from the Lok Sabha** and **7 are from the Rajya Sabha**. The members are elected annually by the members of Parliament from amongst themselves according to the principle of proportional representation.",
       "difficulty": "Easy",
       "hint": "This financial committee has representation from both houses."
@@ -8990,7 +8990,7 @@ export const QUIZ_DATA = {
         "To provide opportunities for education to one's child between the age of 6 and 14",
         "To develop a scientific temper"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 86th Amendment Act of 2002 added the 11th Fundamental Duty under Article 51-A(k). It states that it is the duty of every citizen who is a parent or guardian **to provide opportunities for education to his child or ward between the age of six and fourteen years**.",
       "difficulty": "Easy",
       "hint": "This duty is the counterpart to the Right to Education."
@@ -9005,7 +9005,7 @@ export const QUIZ_DATA = {
         "Not less than one-fourth of the total number of members of the House",
         "Not less than one-third of the total number of members of the House"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The impeachment charge against the President can be initiated by either House. The resolution containing the charge must be signed by **not less than one-fourth of the total number of members of that House**. A 14-day notice must also be given to the President.",
       "difficulty": "Hard",
       "hint": "A significant fraction of the house's members must support the initiation of this serious process."
@@ -9020,7 +9020,7 @@ export const QUIZ_DATA = {
         "Prosecution services in criminal cases",
         "Advisory services to the government"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National Legal Services Authority (NALSA) has been constituted under the Legal Services Authorities Act, 1987, to monitor and evaluate the implementation of legal aid programmes and to lay down policies for making legal services available. Its main objective is to provide **free and competent legal services to the weaker sections of society** to ensure that opportunities for securing justice are not denied to any citizen.",
       "difficulty": "Easy",
       "hint": "This body works to fulfill the DPSP of providing free legal aid."
@@ -9035,7 +9035,7 @@ export const QUIZ_DATA = {
         "Pass any decree or order necessary for doing complete justice",
         "Advise the President"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 142** grants the Supreme Court extraordinary powers. It states that the Supreme Court in the exercise of its jurisdiction may **pass such decree or make such order as is necessary for doing complete justice** in any cause or matter pending before it. This power is often used in cases where existing laws are inadequate.",
       "difficulty": "Hard",
       "hint": "This is an extraordinary power of the apex court to ensure justice."
@@ -9050,7 +9050,7 @@ export const QUIZ_DATA = {
         "Both houses separately",
         "A joint sitting of both houses"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "A no-confidence motion can only be moved and passed in the **Lok Sabha**. If the motion is passed, the Prime Minister and the entire Council of Ministers must resign, as it signifies that the government has lost the confidence of the House of the People, to which it is collectively responsible.",
       "difficulty": "Easy",
       "hint": "The government is accountable only to the directly elected house."
@@ -9065,7 +9065,7 @@ export const QUIZ_DATA = {
         "The Rules of Procedure of the Lok Sabha",
         "The Representation of the People Act, 1951"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "While the principle of collective responsibility is mentioned in Article 75, the procedure for moving a 'no-confidence motion' is not mentioned in the Constitution. It is specified in the **Rules of Procedure and Conduct of Business in Lok Sabha (Rule 198)**.",
       "difficulty": "Medium",
       "hint": "The procedure for this important parliamentary device is found in the rulebook of the lower house."
@@ -9080,7 +9080,7 @@ export const QUIZ_DATA = {
         "Putting all outstanding demands for grants to vote at once",
         "A walkout by the opposition"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'guillotine' is a parliamentary device used during the passing of the budget. On the last day of the allotted days for discussion on demands for grants, the Speaker **puts all the remaining demands to vote at once**, whether they have been discussed or not. This is done to conclude the voting process within the given time.",
       "difficulty": "Medium",
       "hint": "This term refers to a method of concluding the voting on the budget."
@@ -9095,7 +9095,7 @@ export const QUIZ_DATA = {
         "Governor, as an agent of the President",
         "High Court"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "When President's Rule is imposed in a state under Article 356, the President dismisses the state council of ministers and either suspends or dissolves the state legislative assembly. The President administers the state through the **Governor**, who acts as his agent. The Parliament assumes the legislative powers of the state.",
       "difficulty": "Easy",
       "hint": "During this period, the state is administered directly by the Centre through its representative."
@@ -9110,7 +9110,7 @@ export const QUIZ_DATA = {
         "The Staff Selection Commission (SSC)",
         "The Lal Bahadur Shastri National Academy of Administration"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "While the UPSC is responsible for recruitment to the All India Services and Central Services, the **concerned ministry or department** is responsible for conducting the departmental examinations for confirmation, promotion, and assessment of its employees. The UPSC may be consulted on the principles of such examinations.",
       "difficulty": "Hard",
       "hint": "Post-recruitment assessments are typically handled internally by the employer."
@@ -9125,7 +9125,7 @@ export const QUIZ_DATA = {
         "The United Kingdom",
         "The former USSR"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The phrase 'an indestructible union of indestructible states' aptly describes the **United States of America**. The union is indestructible, meaning states cannot secede, and the states are indestructible, meaning the federal government cannot alter their boundaries or existence without their consent. India, in contrast, is described as an 'indestructible union of destructible states' because the Parliament can alter state boundaries.",
       "difficulty": "Medium",
       "hint": "This phrase describes a classic federal system where both levels of government have a protected existence."
@@ -9140,7 +9140,7 @@ export const QUIZ_DATA = {
         "All members of both Houses of Parliament",
         "The Chairman is not elected"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Chairman of the Rajya Sabha is the Vice-President of India. The Vice-President is elected by an electoral college consisting of **all the members (elected and nominated) of both Houses of Parliament**. He is the ex-officio Chairman of the Rajya Sabha.",
       "difficulty": "Easy",
       "hint": "The election process is the same as for the Vice-President."
@@ -9155,7 +9155,7 @@ export const QUIZ_DATA = {
         "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
         "The Right to Information Act"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Social Audit is a process of reviewing official records and determining whether state-reported expenditures reflect the actual money spent on the ground. It is a key element of transparency and accountability, most famously institutionalized under the **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**, where Gram Sabhas are empowered to conduct such audits.",
       "difficulty": "Medium",
       "hint": "This accountability tool is a cornerstone of a major rural employment scheme."
@@ -9170,7 +9170,7 @@ export const QUIZ_DATA = {
         "Three",
         "There is no fixed limit"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "**There is no fixed limit** on the number of supplementary questions that can be asked after the minister has given an oral answer to a starred question. The number of supplementary questions and who gets to ask them is decided by the discretion of the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha.",
       "difficulty": "Hard",
       "hint": "The control over follow-up questions rests with the presiding officer."
@@ -9185,7 +9185,7 @@ export const QUIZ_DATA = {
         "Ministry of Defence",
         "Cabinet Secretariat"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The **Ministry of Home Affairs** is the cadre controlling authority for the Indian Police Service (IPS). It is responsible for all policy decisions related to the service, including cadre structure, recruitment, training, and deputation of officers.",
       "difficulty": "Medium",
       "hint": "The ministry responsible for internal security controls this service."
@@ -9200,7 +9200,7 @@ export const QUIZ_DATA = {
         "Home Minister",
         "Cabinet Secretary"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Cabinet Secretariat is under the direct charge of the **Prime Minister**. The administrative head of the Secretariat is the Cabinet Secretary, who is the ex-officio chairman of the Civil Services Board. The Cabinet Secretariat is responsible for the administration of the Government of India (Transaction of Business) Rules, 1961.",
       "difficulty": "Medium",
       "hint": "The head of the government directly controls this crucial administrative body."
@@ -9215,7 +9215,7 @@ export const QUIZ_DATA = {
         "Seventh and Eighth Schedules",
         "Ninth and Tenth Schedules"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Scheduled Districts Act of 1874 was an early colonial-era law that sought to provide a distinct administration for certain less-developed areas, primarily inhabited by tribal populations. This concept of having a separate administrative framework for tribal areas was later institutionalized in the **Fifth and Sixth Schedules** of the Constitution of India.",
       "difficulty": "Hard",
       "hint": "This colonial act was an early attempt to create special administrative zones."
@@ -9230,7 +9230,7 @@ export const QUIZ_DATA = {
         "A retired Chief Justice of India or a retired judge of the Supreme Court",
         "Any person with experience in human rights"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "According to the Protection of Human Rights (Amendment) Act, 2019, the chairperson of the NHRC can be a person who has been the **Chief Justice of India or a Judge of the Supreme Court**. Previously, only a retired Chief Justice of India could be the chairperson.",
       "difficulty": "Medium",
       "hint": "The eligibility for this post was recently expanded by an amendment."
@@ -9245,7 +9245,7 @@ export const QUIZ_DATA = {
         "Frequently use the power of contempt of court.",
         "Take up cases suo motu."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Judicial restraint is the opposite of judicial activism. It is a philosophy that encourages judges to **limit the exercise of their own power**. It asserts that judges should hesitate to strike down laws unless they are obviously unconstitutional, and they should defer to the policy decisions made by the elected legislative and executive branches.",
       "difficulty": "Medium",
       "hint": "This philosophy emphasizes deference to the elected branches of government."
@@ -9260,7 +9260,7 @@ export const QUIZ_DATA = {
         "Article 243ZE",
         "Article 243I"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 74th Amendment Act, 1992, inserted **Article 243ZD**, which mandates the creation of a District Planning Committee (DPC) in every state at the district level. The DPC's function is to consolidate the plans prepared by the Panchayats and the Municipalities in the district and to prepare a draft development plan for the district as a whole.",
       "difficulty": "Hard",
       "hint": "This body was created by the urban local body amendment to integrate rural and urban planning."
@@ -9275,7 +9275,7 @@ export const QUIZ_DATA = {
         "By acquiring property in India",
         "By naturalisation"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Acquiring property in India** does not grant a person Indian citizenship. The Citizenship Act of 1955 prescribes five ways of acquiring citizenship: by birth, by descent, by registration, by naturalisation, and by incorporation of territory.",
       "difficulty": "Easy",
       "hint": "Citizenship is based on factors like birth and ancestry, not property ownership."
@@ -9290,7 +9290,7 @@ export const QUIZ_DATA = {
         "The Prime Minister only",
         "The Lok Sabha Speaker"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A censure motion is different from a no-confidence motion. It can be moved against an **individual minister, a group of ministers, or the entire council of ministers** for specific policies or actions. If it is passed, the Council of Ministers need not resign, but it is a strong expression of disapproval by the Lok Sabha.",
       "difficulty": "Medium",
       "hint": "This motion is for expressing strong disapproval of specific policies."
@@ -9305,7 +9305,7 @@ export const QUIZ_DATA = {
         "Not defined in the Constitution or any law, but interpreted by the judiciary",
         "An outdated concept no longer in use"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The term 'office of profit' is used in several articles of the Constitution to disqualify a person from being a member of Parliament or a state legislature. However, the term itself is **not defined in the Constitution or the Representation of the People Act**. Its interpretation has evolved through various court judgments. The Parliament has also enacted laws to exempt certain offices from this disqualification.",
       "difficulty": "Hard",
       "hint": "The definition of this key disqualification criterion has been left to judicial interpretation."
@@ -9320,7 +9320,7 @@ export const QUIZ_DATA = {
         "Three times",
         "Never"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "A Financial Emergency under Article 360 has **never** been proclaimed in India, even during the severe economic crisis of 1991.",
       "difficulty": "Easy",
       "hint": "This type of emergency remains a theoretical provision."
@@ -9335,7 +9335,7 @@ export const QUIZ_DATA = {
         "Veerappa Moily",
         "Bimal Jalan"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Second Administrative Reforms Commission (ARC) was constituted in 2005. It was initially chaired by **Veerappa Moily**. After he resigned, V. Ramachandran was appointed as chairman. The commission submitted 15 reports on various aspects of governance and administration.",
       "difficulty": "Medium",
       "hint": "This commission was set up in the mid-2000s to suggest reforms in governance."
@@ -9350,7 +9350,7 @@ export const QUIZ_DATA = {
         "1898",
         "1908"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Indian Evidence Act, which governs the admissibility of evidence in Indian courts, was enacted in **1872** during the British Raj. It is one of the foundational laws of the Indian legal system, along with the Indian Penal Code (1860) and the Code of Criminal Procedure.",
       "difficulty": "Hard",
       "hint": "This fundamental procedural law was enacted in the latter half of the 19th century."
@@ -9365,7 +9365,7 @@ export const QUIZ_DATA = {
         "A Directive Principle of State Policy",
         "A Fundamental Duty"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "This phrase is one of the **Fundamental Duties** listed in Article 51A(b) of the Constitution. It calls upon citizens to remember and be inspired by the values of the freedom struggle.",
       "difficulty": "Easy",
       "hint": "This is one of the civic obligations listed in Part IV-A of the Constitution."
@@ -9380,7 +9380,7 @@ export const QUIZ_DATA = {
         "National Investigation Agency (NIA)",
         "Central Bureau of Investigation (CBI)"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The **Central Bureau of Investigation (CBI)** is primarily a criminal investigation agency, dealing with cases of corruption and major crimes. The IB (domestic intelligence), RAW (external intelligence), and NIA (counter-terrorism) are primarily intelligence-gathering and analysis agencies, forming the core of the intelligence community.",
       "difficulty": "Medium",
       "hint": "Differentiate between an investigation agency and an intelligence agency."
@@ -9395,7 +9395,7 @@ export const QUIZ_DATA = {
         "Police",
         "Public Prosecutor"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A 'charge sheet' is a final report prepared by the **police or other investigating agency** after completing their investigation of a case. It is filed in the court and contains the names of the accused, the charges against them, and the evidence collected. The filing of the charge sheet marks the end of the investigation and the beginning of the trial.",
       "difficulty": "Easy",
       "hint": "This document is the culmination of the police investigation."
@@ -9410,7 +9410,7 @@ export const QUIZ_DATA = {
         "Both the legislature and the executive",
         "The judiciary only"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The concept of 'due process of law' provides protection against arbitrary actions of **both the legislative and the executive branches**. It means that a law itself must be reasonable and fair (substantive due process) and that the government must follow fair procedures when depriving someone of life, liberty, or property (procedural due process).",
       "difficulty": "Medium",
       "hint": "This concept provides a comprehensive check on state power."
@@ -9425,7 +9425,7 @@ export const QUIZ_DATA = {
         "Two months",
         "Six months"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A Proclamation of National Emergency must be approved by both Houses of Parliament within **one month** from the date of its issue. This period was reduced from two months to one month by the 44th Amendment Act, 1978, to ensure quicker parliamentary scrutiny.",
       "difficulty": "Easy",
       "hint": "The time frame for parliamentary approval of a national emergency is quite short."
@@ -9440,7 +9440,7 @@ export const QUIZ_DATA = {
         "Environmental Laws",
         "Financial Sector Reforms"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The T. S. R. Subramanian Committee was constituted by the Ministry of Environment, Forest and Climate Change in 2014 to review the country's key **environmental laws**. The committee made recommendations for amending and streamlining laws related to environment, forest, wildlife, and coastal zone management.",
       "difficulty": "Hard",
       "hint": "This committee was chaired by a former cabinet secretary and dealt with environmental legislation."
@@ -9455,7 +9455,7 @@ export const QUIZ_DATA = {
         "The criminalization of politics and the nexus between criminals, politicians, and bureaucrats",
         "Judicial appointments"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Vohra Committee was appointed in 1993 to study the problem of **criminalization of politics and the nexus among criminals, politicians, and bureaucrats** in India. The report pointed towards the deep-rooted influence of organized crime syndicates in the country's governance.",
       "difficulty": "Hard",
       "hint": "This report highlighted the dangerous links between crime and politics."
@@ -9470,7 +9470,7 @@ export const QUIZ_DATA = {
         "Article 35A",
         "Both a and c"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The special status for Jammu and Kashmir was provided primarily under **Article 370**. **Article 35A**, which stemmed from Article 370, empowered the state legislature to define 'permanent residents' and provide special rights to them. Both these provisions were rendered ineffective by the presidential orders of August 2019.",
       "difficulty": "Easy",
       "hint": "This now-abrogated article was the source of the state's special status."
@@ -9485,7 +9485,7 @@ export const QUIZ_DATA = {
         "The strengthening of All-India Services",
         "The dissolution of the National Development Council"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Sarkaria Commission made several recommendations to improve Centre-State relations. One of its key recommendations was to **strengthen the All-India Services** and create more such services. It did not recommend abolishing the Governor's office but suggested reforms. It also supported the vesting of residuary powers with the Parliament.",
       "difficulty": "Hard",
       "hint": "This commission's recommendations were aimed at promoting cooperative federalism, not weakening the Centre."
@@ -9500,7 +9500,7 @@ export const QUIZ_DATA = {
         "Union Ministry of Defence",
         "Elected representatives of the local area"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A Cantonment Board is established for municipal administration for the civilian population in a cantonment area. It is set up under the provisions of the Cantonments Act of 2006 and is administered by the **Union Ministry of Defence**. It consists of partly elected and partly nominated members.",
       "difficulty": "Medium",
       "hint": "This type of local body is for areas with a significant military presence."
@@ -9515,7 +9515,7 @@ export const QUIZ_DATA = {
         "Elected members of Parliament and State Assemblies",
         "All members of the Lok Sabha"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The electoral college for the election of the Vice-President consists of **all members (both elected and nominated) of both Houses of Parliament**. Members of the state legislative assemblies are not part of this electoral college.",
       "difficulty": "Easy",
       "hint": "The electorate for the VP includes nominated members of Parliament, unlike for the President."
@@ -9530,7 +9530,7 @@ export const QUIZ_DATA = {
         "The senior-most civil servant in the state",
         "All of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Chief Secretary holds a pivotal position in the state administration. They are the **senior-most civil servant in the state**, the **head of the state civil services**, and also the ex-officio head of the state secretariat and the Chief Minister's principal advisor. Therefore, all the statements are correct.",
       "difficulty": "Medium",
       "hint": "This post is the apex of the state's administrative machinery."
@@ -9545,7 +9545,7 @@ export const QUIZ_DATA = {
         "It leads to a two-party system.",
         "It encourages defections."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A major criticism of the 'First Past the Post' (FPTP) system is that it can lead to disproportionate results. A **party can win a large majority of seats even if it gets less than 50% of the total votes** cast, as the candidate only needs to get more votes than any other single rival in a constituency. This can lead to a situation where the number of seats won does not reflect the party's actual vote share.",
       "difficulty": "Medium",
       "hint": "This criticism relates to the discrepancy between vote share and seat share."
@@ -9560,7 +9560,7 @@ export const QUIZ_DATA = {
         "Ministry of Home Affairs",
         "Ministry of Culture"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Department of Official Language is a department placed under the **Ministry of Home Affairs**. It is responsible for the implementation of the provisions of the Constitution relating to the official language and the provisions of the Official Languages Act, 1963.",
       "difficulty": "Hard",
       "hint": "The implementation of the official language policy is overseen by the ministry for internal affairs."
@@ -9575,7 +9575,7 @@ export const QUIZ_DATA = {
         "1966",
         "1972"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Indian Forest Service (IFoS) was constituted as the third All-India Service, after the IAS and IPS, in the year **1966** under the All India Services Act, 1951. Its mandate is the implementation of the National Forest Policy.",
       "difficulty": "Medium",
       "hint": "This service was created in the mid-1960s to manage the country's natural resources."
@@ -9590,7 +9590,7 @@ export const QUIZ_DATA = {
         "44th Amendment Act",
         "It has never been amended"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Preamble was amended only once, by the **42nd Constitutional Amendment Act of 1976**. This amendment added three new words – Socialist, Secular, and Integrity – to the Preamble.",
       "difficulty": "Easy",
       "hint": "The 'Mini-Constitution' was responsible for this change."
@@ -9605,7 +9605,7 @@ export const QUIZ_DATA = {
         "Permanent body",
         "Non-statutory advisory body"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Law Commission of India is a **non-statutory advisory body** constituted by the Government of India from time to time. It is not a permanent body and is typically reconstituted every three years. Its function is to research and advise the Government on legal reform.",
       "difficulty": "Medium",
       "hint": "This body is periodically re-constituted by the executive to recommend legal reforms."
@@ -9620,7 +9620,7 @@ export const QUIZ_DATA = {
         "Preventive detention of individuals",
         "The prosecution of terrorists"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Security Act (NSA) of 1980 is a controversial law that provides for **preventive detention**. It allows the central and state governments to detain a person to prevent them from acting in any manner prejudicial to the security of India, the relations of India with foreign countries, or the maintenance of public order.",
       "difficulty": "Medium",
       "hint": "This act allows for detention without trial."
@@ -9635,7 +9635,7 @@ export const QUIZ_DATA = {
         "Narendra Modi",
         "I.K. Gujral"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The landmark Indo-US Civil Nuclear Agreement was signed between India and the United States in 2008, during the tenure of Prime Minister **Manmohan Singh** and US President George W. Bush. The deal ended India's nuclear isolation and allowed it to access civilian nuclear technology and fuel.",
       "difficulty": "Easy",
       "hint": "This major foreign policy achievement occurred during the UPA-I government."
@@ -9650,7 +9650,7 @@ export const QUIZ_DATA = {
         "Public undertakings specified in the rules of procedure",
         "Private companies receiving government grants"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Committee on Public Undertakings examines the reports and accounts of **public undertakings specified in the Fourth Schedule to the Rules of Procedure and Conduct of Business in Lok Sabha**. It also examines the reports of the CAG on public undertakings. Its purpose is to ensure the accountability of these entities to Parliament.",
       "difficulty": "Medium",
       "hint": "This committee's focus is on the government's commercial and industrial enterprises."
@@ -9665,7 +9665,7 @@ export const QUIZ_DATA = {
         "Article 326",
         "Article 327"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "**Article 326** of the Constitution provides for 'Universal Adult Franchise'. It states that the elections to the House of the People (Lok Sabha) and to the Legislative Assembly of every State shall be on the basis of adult suffrage. Every citizen who is not less than 18 years of age is entitled to vote.",
       "difficulty": "Easy",
       "hint": "This article is the foundation of India's democratic elections."
@@ -9680,7 +9680,7 @@ export const QUIZ_DATA = {
         "Punjab",
         "Tamil Nadu"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Rajamannar Committee was appointed by the DMK government of **Tamil Nadu** in 1969 to examine all aspects of Centre-State relations. The committee made several radical recommendations to ensure state autonomy, such as the abolition of All-India Services and the Inter-State Council, but its recommendations were not accepted by the Central government.",
       "difficulty": "Hard",
       "hint": "This committee was appointed by a southern state with a strong regional party."
@@ -9695,7 +9695,7 @@ export const QUIZ_DATA = {
         "Judicial and quasi-judicial authorities",
         "Executive authorities only"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Traditionally, the writ of certiorari could be issued only against **judicial and quasi-judicial authorities**. However, the Supreme Court has ruled that certiorari can also be issued against administrative authorities affecting the rights of individuals. It is issued to quash an order that is illegal, without jurisdiction, or violates principles of natural justice.",
       "difficulty": "Medium",
       "hint": "This writ is used to review and quash the decisions of lower bodies."
@@ -9710,7 +9710,7 @@ export const QUIZ_DATA = {
         "Announcing the election schedule",
         "Resolving election disputes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Delimitation Commission is a high-power body responsible for **fixing the boundaries of the territorial constituencies** for elections to the Lok Sabha and State Legislative Assemblies. Its orders have the force of law and cannot be challenged in any court. It is appointed by the President of India.",
       "difficulty": "Easy",
       "hint": "This commission is responsible for redrawing election maps."
@@ -9725,7 +9725,7 @@ export const QUIZ_DATA = {
         "The United States of America",
         "Japan"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The doctrine of 'implied powers' is a cornerstone of constitutional interpretation in the **United States of America**. It holds that the federal government has powers that are not explicitly listed in the Constitution but are necessary to carry out its enumerated powers. In India, the division of powers is more detailed with three exhaustive lists, making this doctrine less relevant.",
       "difficulty": "Hard",
       "hint": "This doctrine is crucial for a federal government with a constitution that only lists enumerated powers."
@@ -9740,7 +9740,7 @@ export const QUIZ_DATA = {
         "The resolution of the Cauvery water dispute",
         "The implementation of the Mandal Commission report"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Anandpur Sahib Resolution was a statement adopted by the Akali Dal party in 1973. It is primarily associated with the demand for **greater autonomy for the state of Punjab** within the Indian Union, advocating for a redefinition of Centre-State relations to create a more federal structure.",
       "difficulty": "Medium",
       "hint": "This resolution is a key document in the political history of a northern state."
@@ -9755,7 +9755,7 @@ export const QUIZ_DATA = {
         "Public Prosecutor",
         "District Judge"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A First Information Report (FIR) is a written document prepared by the **police** when they receive information about the commission of a cognizable offence. It is the first step in the criminal justice process and sets the police investigation in motion. It is lodged under Section 154 of the Criminal Procedure Code.",
       "difficulty": "Easy",
       "hint": "This is the initial report made to the law enforcement agency."
@@ -9770,7 +9770,7 @@ export const QUIZ_DATA = {
         "A legislature with two types of members (elected and nominated)",
         "A legislature where two parties are in power"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "A 'bicameral legislature' is a system of government where the legislature is divided into **two separate houses** or chambers. In India, the Union Parliament is bicameral (Lok Sabha and Rajya Sabha), and some states also have bicameral legislatures (Vidhan Sabha and Vidhan Parishad).",
       "difficulty": "Easy",
       "hint": "The prefix 'bi-' means two."
@@ -9785,7 +9785,7 @@ export const QUIZ_DATA = {
         "World Trade Organization (WTO)",
         "Asian Development Bank (ADB)"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Special Drawing Rights (SDR) are a supplementary international reserve asset created by the **International Monetary Fund (IMF)** in 1969. The value of the SDR is based on a basket of five major currencies: the U.S. dollar, the euro, the Chinese renminbi, the Japanese yen, and the British pound sterling.",
       "difficulty": "Hard",
       "hint": "This asset is used by a major international financial institution."
@@ -9800,7 +9800,7 @@ export const QUIZ_DATA = {
         "Afghanistan, Pakistan, and Bangladesh",
         "Bangladesh, Sri Lanka, and Myanmar"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Citizenship Amendment Act (CAA), 2019, amends the Citizenship Act of 1955 to provide a path to Indian citizenship for Hindu, Sikh, Buddhist, Jain, Parsi, and Christian religious minorities who had fled persecution from **Afghanistan, Pakistan, and Bangladesh** before December 2014.",
       "difficulty": "Easy",
       "hint": "The act covers minorities from India's three neighboring Islamic-majority countries."
@@ -9815,7 +9815,7 @@ export const QUIZ_DATA = {
         "Permanent Chairman of the Chiefs of Staff Committee and principal military adviser to the Defence Minister",
         "Administrative head of the Ministry of Defence"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Chief of Defence Staff (CDS) is a four-star officer who acts as the **Permanent Chairman of the Chiefs of Staff Committee** and is the **principal military adviser to the Minister of Defence**. The Supreme Commander of the Armed Forces is the President of India. The CDS is not the administrative head of the ministry, which is the Defence Secretary.",
       "difficulty": "Medium",
       "hint": "This post was created to enhance tri-service integration."
@@ -9830,7 +9830,7 @@ export const QUIZ_DATA = {
         "Home Minister",
         "National Security Advisor"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National Security Council (NSC) is the apex agency concerned with national security and strategic policy. It is a three-tiered organization and is chaired by the **Prime Minister**. The National Security Advisor (NSA) is its secretary and primary advisor to the PM on national security.",
       "difficulty": "Medium",
       "hint": "The head of the government chairs this apex security body."
@@ -9845,7 +9845,7 @@ export const QUIZ_DATA = {
         "The Executive",
         "The Press and Media"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The term 'Fourth Estate' is used to refer to **the press and news media**, both in its explicit capacity of advocacy and its implicit ability to frame political issues. It is seen as a fourth pillar of democracy, alongside the traditional three estates of the legislature, executive, and judiciary, that ensures accountability.",
       "difficulty": "Easy",
       "hint": "This term refers to the watchdog of democracy."
@@ -9860,7 +9860,7 @@ export const QUIZ_DATA = {
         "Electoral laws",
         "Criminal justice system"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The National Commission to Review the Working of the Constitution (NCRWC), headed by Justice M. N. Venkatachaliah, was set up by the government in 2000 to suggest possible amendments to the Constitution of India. It submitted its report in 2002 with a wide range of recommendations.",
       "difficulty": "Hard",
       "hint": "This commission was tasked with a comprehensive review of the supreme law of the land."
@@ -9875,7 +9875,7 @@ export const QUIZ_DATA = {
         "Keep a bill pending for an indefinite period",
         "Give conditional assent to a bill"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "A pocket veto is the power of the President to **keep a bill pending on his desk for an indefinite period**. By neither ratifying nor rejecting the bill, he effectively vetoes it. This is possible because the Indian Constitution does not prescribe any time limit for the President to give his assent to a bill.",
       "difficulty": "Medium",
       "hint": "This veto power stems from the absence of a time limit for presidential assent."
@@ -9890,7 +9890,7 @@ export const QUIZ_DATA = {
         "Terrorism and secessionist activities",
         "Organized crime syndicates"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Unlawful Activities (Prevention) Act (UAPA) is India's primary anti-terror law. It is designed to deal with **terrorism and other unlawful activities that threaten the sovereignty and integrity of India**. It has been amended several times to strengthen its provisions.",
       "difficulty": "Easy",
       "hint": "This is the main anti-terror law in India."
@@ -9905,7 +9905,7 @@ export const QUIZ_DATA = {
         "Section 302",
         "Section 420"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The law on sedition is contained in **Section 124A** of the Indian Penal Code, 1860. It deals with acts that bring or attempt to bring into hatred or contempt, or excite or attempt to excite disaffection towards the Government established by law in India.",
       "difficulty": "Medium",
       "hint": "This controversial colonial-era law has been a subject of intense debate."
@@ -9920,7 +9920,7 @@ export const QUIZ_DATA = {
         "Implementing initiatives aimed at enhancing the safety and security for women",
         "Providing financial assistance to women entrepreneurs"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Nirbhaya Fund was announced in the 2013 Union Budget. It is a dedicated fund for **implementing initiatives aimed at enhancing the safety and security for women in the country**. It is administered by the Department of Economic Affairs of the Ministry of Finance.",
       "difficulty": "Easy",
       "hint": "This fund was created in the aftermath of a high-profile case of violence against women."
@@ -9935,7 +9935,7 @@ export const QUIZ_DATA = {
         "Constitutional Right",
         "Not a right"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Supreme Court has held that the 'Right to Strike' is **not a fundamental right**. However, it is a **legal right** available to employees under the Industrial Disputes Act, 1947, subject to certain conditions and restrictions. It is not an absolute right.",
       "difficulty": "Medium",
       "hint": "While not a fundamental right, this right is protected under labor laws."
@@ -9950,7 +9950,7 @@ export const QUIZ_DATA = {
         "Atal Bihari Vajpayee",
         "Manmohan Singh"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The 'Look East Policy' was launched in 1991 by the government of Prime Minister **P.V. Narasimha Rao**. It was a strategic shift in India's foreign policy to cultivate extensive economic and strategic relations with the nations of Southeast Asia. This has now been upgraded to the 'Act East Policy' by the government led by Narendra Modi.",
       "difficulty": "Medium",
       "hint": "This policy was initiated in the early 1990s as part of India's economic liberalization."
@@ -9965,7 +9965,7 @@ export const QUIZ_DATA = {
         "Four senior-most judges",
         "All the judges of the Supreme Court"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Supreme Court collegium for the appointment of judges to the Supreme Court and transfer of Chief Justices of High Courts consists of the **Chief Justice of India and the four senior-most judges** of the Supreme Court. For appointments to High Courts, the collegium consists of the CJI and the two senior-most judges.",
       "difficulty": "Medium",
       "hint": "The composition of this judicial body is based on seniority."
@@ -9980,7 +9980,7 @@ export const QUIZ_DATA = {
         "Economic fraud",
         "Crimes against women"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Justice J. S. Verma Committee was constituted in 2012 in the aftermath of the Nirbhaya case. Its purpose was to recommend amendments to the Criminal Law to provide for quicker trial and enhanced punishment for criminals accused of committing **sexual assault and other crimes against women**.",
       "difficulty": "Easy",
       "hint": "This committee's recommendations led to major changes in laws related to sexual offences."
@@ -9995,7 +9995,7 @@ export const QUIZ_DATA = {
         "Drawing of electoral constituency boundaries",
         "Campaigning during elections"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Gerrymandering is a practice of **drawing the boundaries of electoral districts** in a way that gives one political party an unfair advantage over its rivals. The goal is to manipulate the constituency map to maximize the effect of supporters' votes and minimize the effect of opponents' votes. The use of an independent Delimitation Commission in India is meant to prevent this.",
       "difficulty": "Medium",
       "hint": "This term refers to the manipulation of electoral maps."
@@ -10010,7 +10010,7 @@ export const QUIZ_DATA = {
         "China",
         "Nepal"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Five Principles of Peaceful Coexistence, known as the 'Panchsheel Agreement', were signed between India and **China** in 1954. The principles were: mutual respect for each other's territorial integrity and sovereignty, mutual non-aggression, mutual non-interference in each other's internal affairs, equality and mutual benefit, and peaceful co-existence.",
       "difficulty": "Easy",
       "hint": "This agreement was signed with India's large northern neighbor."
@@ -10025,7 +10025,7 @@ export const QUIZ_DATA = {
         "North-East India",
         "Central India"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Armed Forces (Special Powers) Act, or AFSPA, grants special powers to the Indian Armed Forces in what the act calls 'disturbed areas'. It has been in force for decades in several states in **North-East India** and was also in force in Jammu and Kashmir. The act has been criticized by human rights organizations for granting excessive powers to the armed forces.",
       "difficulty": "Easy",
       "hint": "This controversial act is primarily applied in regions with insurgency."
@@ -10040,7 +10040,7 @@ export const QUIZ_DATA = {
         "Functioning of the CBI",
         "Structure of direct and indirect taxes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The five-member committee headed by Justice B. P. Jeevan Reddy was appointed by the central government in 2004 to review the provisions of the **Armed Forces (Special Powers) Act, 1958**. The committee recommended the repeal of the controversial act and suggested that its essential provisions could be incorporated into other existing laws.",
       "difficulty": "Hard",
       "hint": "This committee reviewed a controversial law related to internal security."
@@ -10055,7 +10055,7 @@ export const QUIZ_DATA = {
         "National Commission for Women",
         "Ministry of Women and Child Development"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Nari Shakti Puraskar (Woman Power Award) is India's highest civilian honour for women. The award is conferred by the **President of India** on International Women's Day (March 8) every year. It is given by the Ministry of Women and Child Development to individuals or institutions that work towards the cause of women's empowerment.",
       "difficulty": "Medium",
       "hint": "India's highest civilian awards are conferred by the Head of State."
@@ -10070,7 +10070,7 @@ export const QUIZ_DATA = {
         "The United Kingdom",
         "China"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Shadow Cabinet' is a prominent feature of the Westminster system, particularly in the **United Kingdom**. It is formed by the main opposition party and consists of senior members who 'shadow' or scrutinize the work of the actual cabinet ministers. It is a government-in-waiting.",
       "difficulty": "Medium",
       "hint": "This is a key feature of the Westminster system of parliamentary opposition."
@@ -10085,7 +10085,7 @@ export const QUIZ_DATA = {
         "2002",
         "2005"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Prevention of Money Laundering Act (PMLA) was enacted by the Parliament of India in **2002** to prevent money laundering and to provide for the confiscation of property derived from, or involved in, money-laundering. The Enforcement Directorate (ED) is the primary agency for investigating cases under the PMLA.",
       "difficulty": "Hard",
       "hint": "This law against financial crime was passed in the early 2000s."
@@ -10100,7 +10100,7 @@ export const QUIZ_DATA = {
         "Right to Privacy",
         "Right to Constitutional Remedies"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Right to be Forgotten' is the right to have publicly available personal information removed from the internet, search engines, databases, websites, or any other public platforms. In India, it is considered an emerging right and is seen as an aspect of the **Right to Privacy**, which is a fundamental right under Article 21.",
       "difficulty": "Medium",
       "hint": "This emerging right deals with an individual's control over their personal data."
@@ -10115,7 +10115,7 @@ export const QUIZ_DATA = {
         "Election Commission",
         "Supreme Court"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The 'None of the Above' (NOTA) option was introduced in 2013 following a directive from the **Supreme Court of India**. The Court ruled that voters should have the right to register a negative vote if they do not find any of the candidates suitable. The Election Commission then implemented this by adding the NOTA button on EVMs.",
       "difficulty": "Medium",
       "hint": "This electoral reform was mandated by the judiciary to protect the voter's right to reject."
@@ -10130,7 +10130,7 @@ export const QUIZ_DATA = {
         "Electoral system",
         "Criminal Justice System"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Malimath Committee, headed by Justice V. S. Malimath, was constituted in 2000 to suggest reforms in the **Criminal Justice System of India**. It submitted its report in 2003 with a number of recommendations, including making some offences bailable and shifting the burden of proof in certain cases from the prosecution to the accused.",
       "difficulty": "Hard",
       "hint": "This committee was tasked with overhauling the system of crime and punishment."
@@ -10145,7 +10145,7 @@ export const QUIZ_DATA = {
         "2012",
         "2015"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Protection of Children from Sexual Offences (POCSO) Act, a landmark law to protect children from sexual abuse and exploitation, was enacted by the Parliament of India in **2012**. The act provides for stringent punishments for offenders and incorporates child-friendly procedures for reporting and trial.",
       "difficulty": "Easy",
       "hint": "This important child protection law was enacted in the early 2010s."
@@ -10160,7 +10160,7 @@ export const QUIZ_DATA = {
         "Reservation for Other Backward Classes",
         "Centre-State relations"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Kaka Kalelkar Commission, appointed in 1953, was the **First Backward Classes Commission**. It was tasked with identifying socially and educationally backward classes other than the Scheduled Castes and Scheduled Tribes and recommending steps for their advancement. The second such commission was the Mandal Commission.",
       "difficulty": "Hard",
       "hint": "This was the first commission to look into the issue of backwardness beyond SCs and STs."
@@ -10175,7 +10175,7 @@ export const QUIZ_DATA = {
         "Executive body",
         "Non-governmental organization"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National Consumer Disputes Redressal Commission (NCDRC) is a quasi-judicial commission in India which was set up in 1988 under the Consumer Protection Act of 1986. It is therefore a **statutory body**. It heads the three-tier consumer dispute redressal machinery at the national level.",
       "difficulty": "Medium",
       "hint": "This body was created by the Consumer Protection Act."
@@ -10190,7 +10190,7 @@ export const QUIZ_DATA = {
         "2008 Mumbai terror attacks",
         "2016 Pathankot attack"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Investigation Agency (NIA) was created by an Act of Parliament in 2008, in the aftermath of the **2008 Mumbai terror attacks**. The need for a central agency to combat terror was acutely felt after the attacks. The NIA is the Central Counter-Terrorism Law Enforcement Agency of India.",
       "difficulty": "Easy",
       "hint": "This agency was formed after a major terror attack on India's financial capital."
@@ -10205,7 +10205,7 @@ export const QUIZ_DATA = {
         "2018",
         "2020"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Fugitive Economic Offenders Act was passed by the Parliament of India in **2018**. The act aims to deter economic offenders from evading the process of Indian law by remaining outside the jurisdiction of Indian courts. It provides for measures to confiscate their property.",
       "difficulty": "Medium",
       "hint": "This law was enacted recently to tackle high-profile economic crimes."
@@ -10220,7 +10220,7 @@ export const QUIZ_DATA = {
         "Reporters Without Borders",
         "The Committee to Protect Journalists"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The World Press Freedom Index is an annual ranking of countries compiled and published by **Reporters Without Borders (Reporters Sans Frontières - RSF)**, a Paris-based international non-governmental organization. It is based upon the organization's assessment of the countries' press freedom records in the previous year.",
       "difficulty": "Hard",
       "hint": "This index is published by a well-known international NGO focused on journalism."
@@ -10235,7 +10235,7 @@ export const QUIZ_DATA = {
         "Teacher Education (TE)",
         "All of the above"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Samagra Shiksha Abhiyan is an overarching programme for the school education sector extending from pre-school to class 12. It was launched in 2018 and has subsumed three erstwhile schemes of the Ministry of Education: **Sarva Shiksha Abhiyan (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA), and Teacher Education (TE)**.",
       "difficulty": "Medium",
       "hint": "This scheme integrated various levels of school education programs."
@@ -10250,7 +10250,7 @@ export const QUIZ_DATA = {
         "Ministry of Drinking Water and Sanitation and Ministry of Water Resources, River Development & Ganga Rejuvenation",
         "Ministry of Urban Development and Ministry of Water Resources"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Jal Shakti Ministry was formed in May 2019 by merging two existing ministries: the **Ministry of Water Resources, River Development & Ganga Rejuvenation** and the **Ministry of Drinking Water and Sanitation**. The ministry was created to address all water-related issues in an integrated manner.",
       "difficulty": "Easy",
       "hint": "This new ministry combined the departments dealing with water resources and sanitation."
@@ -10265,7 +10265,7 @@ export const QUIZ_DATA = {
         "Sabarimala Temple, Kerala",
         "Jagannath Temple, Odisha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Makaravilakku is an annual festival held on Makar Sankranti at the **Sabarimala Ayyappan Temple in Kerala**. The shrine was recently in the news due to a Supreme Court judgment regarding the entry of women of all age groups.",
       "difficulty": "Medium",
       "hint": "This festival is associated with a famous hill shrine in South India."
@@ -10280,7 +10280,7 @@ export const QUIZ_DATA = {
         "A form of tax evasion",
         "A type of cyber crime"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "'Hawala' is an **informal and illegal method of transferring money** without any physical money actually moving. It is a trust-based system that operates outside the traditional banking system and is often used for money laundering and terror financing.",
       "difficulty": "Easy",
       "hint": "This is an alternative remittance system that operates outside legal channels."
@@ -10295,7 +10295,7 @@ export const QUIZ_DATA = {
         "Gandhi Jayanti",
         "Constitution Day"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Padma Awards, which are among India's highest civilian honours, are announced every year on the eve of **Republic Day** (January 26). The awards are conferred by the President of India at ceremonial functions which are held at Rashtrapati Bhavan usually around March/April every year.",
       "difficulty": "Easy",
       "hint": "These national awards are announced on a major national holiday."
@@ -10310,7 +10310,7 @@ export const QUIZ_DATA = {
         "Golden Temple, Amritsar",
         "Gateway of India, Mumbai"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Operation Blue Star was an Indian military operation carried out in June 1984 to remove Sikh militants who were accumulating weapons in the **Golden Temple complex in Amritsar**. The operation was ordered by Prime Minister Indira Gandhi.",
       "difficulty": "Easy",
       "hint": "This operation took place at the holiest shrine of Sikhism."
@@ -10325,7 +10325,7 @@ export const QUIZ_DATA = {
         "Direct and indirect taxes",
         "Election disputes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Central Administrative Tribunal (CAT) was established to adjudicate disputes and complaints with respect to the **recruitment and conditions of service of persons appointed to public services and posts** in connection with the affairs of the Union or other authorities under the control of the Government of India.",
       "difficulty": "Easy",
       "hint": "This tribunal deals with service matters of government employees."
@@ -10340,7 +10340,7 @@ export const QUIZ_DATA = {
         "Commission for Scheduled Castes and Scheduled Tribes",
         "National Commission for Minorities"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The Mandal Commission, chaired by B.P. Mandal, was officially known as the **Socially and Educationally Backward Classes Commission**. It was the second such commission, established in 1979 to identify the socially or educationally backward classes of India and consider the question of seat reservations and quotas for them.",
       "difficulty": "Medium",
       "hint": "The official name reflects the criteria used to identify the target groups."
@@ -10355,7 +10355,7 @@ export const QUIZ_DATA = {
         "1999",
         "2001"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Kargil War was an armed conflict that took place between India and Pakistan in the summer of **1999** in the Kargil district of Kashmir. The conflict ended with a decisive Indian victory. The successful operation was codenamed 'Operation Vijay'.",
       "difficulty": "Easy",
       "hint": "This conflict occurred at the end of the 20th century."
@@ -10370,7 +10370,7 @@ export const QUIZ_DATA = {
         "Digitize all government records",
         "Promote the IT industry in India"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National e-Governance Plan (NeGP) is an initiative of the Government of India to **make all government services available to the citizens of India via electronic media**. It aims to ensure efficiency, transparency, and reliability of such services at affordable costs to realize the basic needs of the common man.",
       "difficulty": "Easy",
       "hint": "This plan is about using technology to deliver government services."
@@ -10385,7 +10385,7 @@ export const QUIZ_DATA = {
         "1988",
         "2013"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Prevention of Corruption Act, the main anti-corruption law in India, was enacted in **1988**. It consolidated and amended the law relating to the prevention of corruption and for matters connected therewith. It has been amended several times, most recently in 2018.",
       "difficulty": "Hard",
       "hint": "This major anti-graft law was passed in the late 1980s."
@@ -10400,7 +10400,7 @@ export const QUIZ_DATA = {
         "1985",
         "1990"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The South Asian Association for Regional Cooperation (SAARC) was established with the signing of the SAARC Charter in Dhaka on 8 December **1985**. Its secretariat is based in Kathmandu, Nepal. It is a regional intergovernmental organization of states in South Asia.",
       "difficulty": "Medium",
       "hint": "This regional cooperation body was formed in the mid-1980s."
@@ -10415,7 +10415,7 @@ export const QUIZ_DATA = {
         "Highway and road network development",
         "Inland waterways development"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Bharatmala Pariyojana is a centrally-sponsored and funded Road and Highways project of the Government of India. It is an umbrella program for the **highways sector** that focuses on optimizing the efficiency of freight and passenger movement across the country by bridging critical infrastructure gaps.",
       "difficulty": "Easy",
       "hint": "This program aims to create a garland ('mala') of roads across the country."
@@ -10430,7 +10430,7 @@ export const QUIZ_DATA = {
         "National Institution for Transforming India",
         "National Institute for Tax and a"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "NITI in NITI Aayog stands for **National Institution for Transforming India**. It is the premier policy think tank of the Government of India, which replaced the Planning Commission in 2015.",
       "difficulty": "Easy",
       "hint": "The name reflects its role as a policy think tank."
@@ -10445,7 +10445,7 @@ export const QUIZ_DATA = {
         "Providing health insurance coverage",
         "Providing old-age pensions"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Ayushman Bharat or PM-JAY is a national public health insurance fund of the Government of India that aims to provide free access to healthcare for low-income earners in the country. It provides **health insurance coverage** up to Rs. 5 lakh per family per year for secondary and tertiary care hospitalization.",
       "difficulty": "Easy",
       "hint": "This scheme is also known as 'Modicare'."
@@ -10460,7 +10460,7 @@ export const QUIZ_DATA = {
         "Income support to small and marginal farmer families",
         "Subsidized loans to farmers"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The PM-KISAN scheme is a central sector scheme that provides **income support** of Rs. 6,000 per year in three equal installments to all landholding farmer families. The scheme aims to supplement the financial needs of the farmers in procuring various inputs to ensure proper crop health and appropriate yields.",
       "difficulty": "Easy",
       "hint": "This scheme provides direct financial assistance to farmers."
@@ -10475,7 +10475,7 @@ export const QUIZ_DATA = {
         "Mahatma Gandhi",
         "Subhas Chandra Bose"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Swachh Bharat Mission (Clean India Mission) was launched by Prime Minister Narendra Modi on 2 October 2014, the 145th birth anniversary of **Mahatma Gandhi**. The mission aimed to achieve a 'Clean India' by 2 October 2019, his 150th birth anniversary.",
       "difficulty": "Easy",
       "hint": "The mission was launched to fulfill the dream of the 'Father of the Nation'."
@@ -10490,7 +10490,7 @@ export const QUIZ_DATA = {
         "2016",
         "2017"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The 'Make in India' initiative was launched by Prime Minister Narendra Modi on 25 September **2014**. The major objective behind the initiative is to focus on 25 sectors of the economy for job creation and skill enhancement, and to transform India into a global design and manufacturing hub.",
       "difficulty": "Easy",
       "hint": "This major manufacturing initiative was launched shortly after the new government took office."
@@ -10505,7 +10505,7 @@ export const QUIZ_DATA = {
         "Child marriage",
         "Lack of sanitation facilities for girls in schools"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Beti Bachao, Beti Padhao scheme was launched in 2015 to address the issue of the **declining Child Sex Ratio (CSR)** and related issues of empowerment of women. It is a joint initiative of the Ministry of Women and Child Development, the Ministry of Health and Family Welfare, and the Ministry of Human Resource Development (now Ministry of Education).",
       "difficulty": "Easy",
       "hint": "This scheme was launched to combat the skewed gender ratio at birth."
@@ -10520,7 +10520,7 @@ export const QUIZ_DATA = {
         "2011",
         "2013"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The National Food Security Act (NFSA) was enacted by the Parliament of India in **2013**. The Act aims to provide subsidized food grains to approximately two-thirds of India's population. It converts into legal entitlements for existing food security programmes of the Government of India.",
       "difficulty": "Medium",
       "hint": "This 'Right to Food' Act was passed during the UPA-II government."
@@ -10535,7 +10535,7 @@ export const QUIZ_DATA = {
         "Ministry of Home Affairs",
         "Prime Minister's Office"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Foreign Contribution (Regulation) Act (FCRA) regulates the acceptance and utilization of foreign contributions or foreign hospitality by certain individuals or associations or companies. It is administered by the **Ministry of Home Affairs** to ensure that such contributions do not adversely affect the internal security of the country.",
       "difficulty": "Hard",
       "hint": "The regulation of foreign funds is considered a matter of internal security."
@@ -10550,7 +10550,7 @@ export const QUIZ_DATA = {
         "2016",
         "2017"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The Insolvency and Bankruptcy Code (IBC) was enacted in **2016**. It is a major economic reform that aims to consolidate the existing framework by creating a single law for insolvency and bankruptcy and to provide for a time-bound process to resolve insolvency.",
       "difficulty": "Medium",
       "hint": "This major reform for resolving corporate distress was enacted recently."
@@ -10565,7 +10565,7 @@ export const QUIZ_DATA = {
         "Skill development",
         "Healthcare for all"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "AMRUT stands for 'Atal Mission for Rejuvenation and Urban Transformation'. It is a central government scheme focused on **urban infrastructure development**. Its purpose is to ensure that every household has access to a tap with an assured supply of water and a sewerage connection, and to increase the amenity value of cities by developing greenery and well-maintained open spaces.",
       "difficulty": "Easy",
       "hint": "The name itself contains the word 'urban transformation'."
@@ -10580,7 +10580,7 @@ export const QUIZ_DATA = {
         "2015",
         "2016"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Real Estate (Regulation and Development) Act (RERA) was passed by the Parliament in **2016**. The act aims to protect home-buyers as well as help boost investments in the real estate industry. It establishes a Real Estate Regulatory Authority in each state for regulation of the real estate sector.",
       "difficulty": "Medium",
       "hint": "This act to regulate the housing sector was passed in the mid-2010s."
@@ -10595,7 +10595,7 @@ export const QUIZ_DATA = {
         "Prime Minister's Office",
         "NITI Aayog"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "PRAGATI (Pro-Active Governance and Timely Implementation) is an ICT-based multi-modal platform aimed at addressing the common man’s grievances and simultaneously monitoring and reviewing important programmes and projects of the Government of India as well as projects flagged by State Governments. It is a unique platform launched and used by the **Prime Minister's Office**.",
       "difficulty": "Medium",
       "hint": "This high-level monitoring platform is directly overseen by the head of the government."
@@ -10610,7 +10610,7 @@ export const QUIZ_DATA = {
         "Quickly and effectively transform some of the most underdeveloped districts of the country",
         "Create special economic zones"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The 'Aspirational Districts Programme' was launched in 2018 to **quickly and effectively transform some of India's most underdeveloped districts**. The programme focuses on the strength of each district, identifies low-hanging fruits for immediate improvement, and measures progress by ranking districts on a monthly basis.",
       "difficulty": "Easy",
       "hint": "This program focuses on improving the socio-economic indicators of backward districts."
@@ -10625,7 +10625,7 @@ export const QUIZ_DATA = {
         "Governments and central bank governors from 19 countries and the European Union",
         "Cultural exchange"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The G20 or Group of Twenty is an international forum for the **governments and central bank governors from 19 countries and the European Union**. It was founded in 1999 with the aim to discuss policy pertaining to the promotion of international financial stability.",
       "difficulty": "Easy",
       "hint": "This group represents the world's major economies."
@@ -10640,7 +10640,7 @@ export const QUIZ_DATA = {
         "Punishment for a crime",
         "Compensation paid to the victim"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Bail is the **conditional release of an accused person** from custody, pending investigation or trial. It is a mechanism to ensure the presence of the accused in court whenever required, without keeping them in detention. Bail is not an acquittal and is subject to conditions set by the court.",
       "difficulty": "Easy",
       "hint": "This is a temporary release from custody."
@@ -10655,7 +10655,7 @@ export const QUIZ_DATA = {
         "The Medical Council of India",
         "The Central Drugs Standard Control Organization"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "The National Medical Commission (NMC) Act, 2019, was enacted to repeal the Indian Medical Council Act, 1956 and replace the **Medical Council of India (MCI)** with the National Medical Commission. The NMC is responsible for regulating medical education and practice in India.",
       "difficulty": "Medium",
       "hint": "This act reformed the apex regulatory body for medical education."
@@ -10670,7 +10670,7 @@ export const QUIZ_DATA = {
         "India, USA, China, Russia",
         "India, Iran, China, Russia"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": "The Shanghai Cooperation Organisation (SCO) is a major regional security bloc. Its current full members include **China, India, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan, and Uzbekistan**. India and Pakistan became full members in 2017.",
       "difficulty": "Medium",
       "hint": "This is a major Eurasian security bloc."
@@ -10685,7 +10685,7 @@ export const QUIZ_DATA = {
         "2018 Kerala floods",
         "2020 COVID-19 pandemic"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "The Prime Minister's Citizen Assistance and Relief in Emergency Situations (PM CARES) Fund was created on 27 March 2020, following the **COVID-19 pandemic** in India. It is a public charitable trust set up to deal with any kind of emergency or distress situation, like the one posed by the pandemic.",
       "difficulty": "Easy",
       "hint": "This fund was created to deal with a recent global health crisis."
@@ -10700,7 +10700,7 @@ export const QUIZ_DATA = {
         "1992",
         "2009"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "The National Education Policy (NEP) 2020 replaced the previous **National Policy on Education, 1986**. The NEP 2020 proposes a comprehensive framework for elementary education to higher education as well as vocational training in both rural and urban India. It aims to overhaul the country's education system.",
       "difficulty": "Easy",
       "hint": "The new policy replaced a 34-year-old education policy."
@@ -10715,7 +10715,7 @@ export const QUIZ_DATA = {
         "Terminating a sitting of Parliament for an indefinite period",
         "Dissolving the Lok Sabha"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Adjournment sine die means **terminating a sitting of Parliament for an indefinite period**. In other words, when the House is adjourned without naming a day for reassembly, it is called adjournment sine die. The power of adjournment sine die lies with the presiding officer of the House.",
       "difficulty": "Medium",
       "hint": "'Sine die' is a Latin term meaning 'without a day'."
@@ -10730,7 +10730,7 @@ export const QUIZ_DATA = {
         "Ministry of Home Affairs",
         "Ministry of Heavy industries and transport Affairs"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "MHA is the common abbreviation for the **Ministry of Home Affairs**. This ministry is primarily responsible for the maintenance of internal security and domestic policy. The Union Home Minister is its head.",
       "difficulty": "Easy",
       "hint": "This ministry is responsible for internal security."
