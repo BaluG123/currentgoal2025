@@ -18234,6 +18234,1505 @@ export const QUIZ_DATA = {
       "explanation": "An exchange rate is the rate at which one currency will be exchanged for another. It is also regarded as the **value of one country's currency in relation to another currency**. For example, how many Indian Rupees it takes to buy one U.S. Dollar.",
       "difficulty": "Easy",
       "hint": "This is the price of one currency in terms of another."
+    }, {
+      "level": 1003,
+      "mainsubject": "Political Science",
+      "question": "The term 'devaluation' of a currency means a:",
+      "options": [
+        "Deliberate downward adjustment of the value of a country's currency relative to another currency",
+        "Decrease in the value of a currency due to market forces",
+        "Switch from a fixed exchange rate to a floating exchange rate",
+        "Increase in the value of a currency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Devaluation is the **deliberate downward adjustment of the value of a country's currency** relative to another currency, group of currencies, or currency standard. It is a monetary policy tool used by countries that have a fixed exchange rate or semi-fixed exchange rate. A government may devalue its currency to combat a trade imbalance.",
+      "difficulty": "Easy",
+      "hint": "This is an official lowering of a currency's value."
+    },
+    {
+      "level": 1004,
+      "mainsubject": "Political Science",
+      "question": "The term 'depreciation' of a currency means a:",
+      "options": [
+        "Deliberate downward adjustment of the value of a country's currency",
+        "Decrease in the value of a currency due to market forces",
+        "Switch from a floating exchange rate to a fixed exchange rate",
+        "Increase in the value of a currency"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Depreciation is the **fall in the value of a currency in a floating exchange rate system**. Unlike devaluation, which is a deliberate government policy, depreciation is the result of **market forces** (supply and demand).",
+      "difficulty": "Easy",
+      "hint": "This is a market-driven fall in a currency's value."
+    },
+    {
+      "level": 1005,
+      "mainsubject": "Political Science",
+      "question": "The term 'appreciation' of a currency means an:",
+      "options": [
+        "Official upward adjustment of the value of a country's currency",
+        "Increase in the value of a currency due to market forces",
+        "Decrease in the value of a currency",
+        "Switch to a fixed exchange rate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Appreciation is the **increase in the value of a currency in a floating exchange rate system** due to market forces of supply and demand. The opposite of appreciation is depreciation.",
+      "difficulty": "Easy",
+      "hint": "This is a market-driven rise in a currency's value."
+    },
+    {
+      "level": 1006,
+      "mainsubject": "Political Science",
+      "question": "The term 'revaluation' of a currency means a:",
+      "options": [
+        "Deliberate upward adjustment of the value of a country's currency",
+        "Increase in the value of a currency due to market forces",
+        "Decrease in the value of a currency",
+        "Switch to a floating exchange rate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Revaluation is the **deliberate upward adjustment of the value of a country's currency** relative to another currency, group of currencies, or currency standard. It is the opposite of devaluation and is used by countries with a fixed exchange rate.",
+      "difficulty": "Easy",
+      "hint": "This is an official raising of a currency's value."
+    },
+    {
+      "level": 1007,
+      "mainsubject": "Political Science",
+      "question": "The 'Liberalized Exchange Rate Management System' (LERMS), which was a step towards a market-determined exchange rate, was introduced in India in:",
+      "options": [
+        "1985",
+        "1991",
+        "1992",
+        "1995"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Liberalized Exchange Rate Management System (LERMS) was introduced in **1992** as part of the economic reforms. It was a dual exchange rate system, where a part of the foreign exchange was to be surrendered at the official rate and the rest was to be sold at the market-determined rate. It was a transitional step towards making the rupee fully convertible on the current account.",
+      "difficulty": "Hard",
+      "hint": "This dual exchange rate system was introduced a year after the 1991 reforms."
+    },
+    {
+      "level": 1008,
+      "mainsubject": "Political Science",
+      "question": "The Indian rupee was made fully convertible on the current account in:",
+      "options": [
+        "1991",
+        "1992",
+        "1994",
+        "1999"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indian rupee was made fully convertible on the current account in August **1994**, based on the recommendations of the Rangarajan Committee. This means that there are no restrictions on the conversion of rupees into foreign currency for the purpose of trade in goods and services and other current account transactions. The rupee is still not fully convertible on the capital account.",
+      "difficulty": "Medium",
+      "hint": "This was a major step in India's economic liberalization in the mid-1990s."
+    },
+    {
+      "level": 1009,
+      "mainsubject": "Political Science",
+      "question": "The 'Tarapore Committee' was constituted by the Reserve Bank of India to make recommendations on:",
+      "options": [
+        "Banking sector reforms",
+        "Capital account convertibility",
+        "The monetary policy framework",
+        "The regulation of non-banking financial companies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tarapore Committee, headed by former RBI deputy governor S. S. Tarapore, was constituted in 1997 to lay down the roadmap for **capital account convertibility** of the Indian rupee. The committee recommended a phased approach, with the fulfillment of certain preconditions related to fiscal deficit, inflation, and the health of the financial sector.",
+      "difficulty": "Hard",
+      "hint": "This committee dealt with the issue of liberalizing capital flows."
+    },
+    {
+      "level": 1010,
+      "mainsubject": "Political Science",
+      "question": "The term 'Participatory Notes' (P-Notes) are financial instruments used by:",
+      "options": [
+        "Domestic retail investors to invest in the stock market",
+        "The government to borrow money",
+        "Foreign investors who are not registered with SEBI to invest in the Indian stock market",
+        "Indian companies to raise funds from abroad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Participatory Notes, or P-Notes, are offshore derivative instruments issued by registered foreign institutional investors (FIIs) to **overseas investors who wish to invest in the Indian stock markets without registering themselves with the market regulator, SEBI**. They have been controversial due to concerns about their anonymity and potential for money laundering.",
+      "difficulty": "Hard",
+      "hint": "These are offshore instruments for investing in Indian markets."
+    },
+    {
+      "level": 1011,
+      "mainsubject": "Political Science",
+      "question": "The term 'sovereign credit rating' is an independent assessment of the:",
+      "options": [
+        "Political stability of a country",
+        "Creditworthiness of a country's government",
+        "Social development of a country",
+        "Environmental performance of a country"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A sovereign credit rating is an independent assessment of the **creditworthiness of a country or sovereign entity**. It is an assessment of the likelihood of a government defaulting on its debt obligations. These ratings are provided by major credit rating agencies like Standard & Poor's, Moody's, and Fitch.",
+      "difficulty": "Easy",
+      "hint": "This is a credit rating for a country."
+    },
+    {
+      "level": 1012,
+      "mainsubject": "Political Science",
+      "question": "The term 'social stock exchange' refers to a platform that allows:",
+      "options": [
+        "Trading in the shares of social media companies",
+        "Social enterprises and non-profit organizations to raise capital",
+        "The government to sell its shares in social sector PSUs",
+        "Individuals to trade in social impact bonds"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A social stock exchange (SSE) is a platform that allows **social enterprises, non-profit organizations (NPOs), and for-profit social enterprises to list and raise capital**. The idea is to create a new channel for these organizations to raise funds for their social welfare objectives. India has recently launched a framework for the SSE.",
+      "difficulty": "Medium",
+      "hint": "This is a stock exchange for social enterprises."
+    },
+    {
+      "level": 1013,
+      "mainsubject": "Political Science",
+      "question": "The term 'green bonds' are a type of fixed-income instrument that is specifically earmarked to raise money for:",
+      "options": [
+        "Agricultural projects",
+        "Healthcare projects",
+        "Climate and environmental projects",
+        "Infrastructure projects"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Green bonds are a type of fixed-income instrument that is specifically earmarked to raise money for **climate and environmental projects**. These bonds are typically asset-linked and backed by the issuing entity's balance sheet, so they usually carry the same credit rating as their issuers’ other debt obligations.",
+      "difficulty": "Easy",
+      "hint": "These are bonds for financing 'green' projects."
+    },
+    {
+      "level": 1014,
+      "mainsubject": "Political Science",
+      "question": "The term 'masala bonds' are bonds issued:",
+      "options": [
+        "In India by foreign entities",
+        "Outside India but denominated in Indian Rupees",
+        "In India and denominated in US Dollars",
+        "By the government to finance the spice industry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Masala bonds are bonds issued **outside India but denominated in Indian Rupees** rather than the local currency. The term was used by the International Finance Corporation (IFC) to evoke the culture and cuisine of India. The benefit of Masala bonds is that the currency risk lies with the investor, not the issuer.",
+      "difficulty": "Medium",
+      "hint": "These are rupee-denominated bonds issued in foreign markets."
+    },
+    {
+      "level": 1015,
+      "mainsubject": "Political Science",
+      "question": "The term 'electoral bonds' are a financial instrument for making:",
+      "options": [
+        "Investments in government securities",
+        "Donations to political parties",
+        "Payments for online transactions",
+        "Contributions to the Prime Minister's National Relief Fund"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Electoral bonds are an interest-free financial instrument, like a promissory note, for making **anonymous donations to political parties**. The scheme was introduced in 2017. The bonds are issued by the State Bank of India. The scheme has been controversial due to concerns about its transparency. *Note: In Feb 2024, the Supreme Court struck down this scheme as unconstitutional.*",
+      "difficulty": "Easy",
+      "hint": "These are bonds for political funding."
+    },
+    {
+      "level": 1016,
+      "mainsubject": "Political Science",
+      "question": "The term 'golden share' is a nominal share which is able to outvote all other shares in certain specified circumstances. It is a tool of:",
+      "options": [
+        "Corporate governance",
+        "Government control over privatized companies",
+        "Shareholder activism",
+        "Hostile takeovers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A golden share is a type of share that gives its holder veto power over major corporate decisions. It is often held by a **government entity in a company that has been privatized**. This allows the government to retain some control over the company, especially in strategic sectors, even after selling a majority stake.",
+      "difficulty": "Hard",
+      "hint": "This is a special share that gives a government veto power."
+    },
+    {
+      "level": 1017,
+      "mainsubject": "Political Science",
+      "question": "The 'India International Bullion Exchange' (IIBX), India's first international bullion exchange, has been set up in:",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "GIFT City, Gujarat",
+        "Kolkata"
+      ],
+      "correctAnswer": 3,
+      "explanation": "India's first International Bullion Exchange (IIBX) has been launched at the **Gujarat International Finance Tec-City (GIFT City)**. The exchange will facilitate efficient price discovery with the assurance of responsible sourcing and quality, apart from giving an impetus to the financialisation of gold in India.",
+      "difficulty": "Medium",
+      "hint": "This new international exchange is located in India's first smart city and international financial services centre."
+    },
+    {
+      "level": 1018,
+      "mainsubject": "Political Science",
+      "question": "The 'Open Network for Digital Commerce' (ONDC) is an initiative of the Government of India to:",
+      "options": [
+        "Create a new e-commerce platform to compete with Amazon and Flipkart",
+        "Promote a network-centric approach for e-commerce, moving from the current platform-centric model",
+        "Regulate the e-commerce sector",
+        "Provide free internet for online shopping"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ONDC is not an application, platform, or a website. It is a set of open specifications and network protocols that will allow buyers and sellers to connect and transact with each other regardless of the platform they are on. It aims to **democratize e-commerce** by moving from a platform-centric model to a network-centric one, similar to what UPI did for digital payments.",
+      "difficulty": "Medium",
+      "hint": "This is envisioned as the 'UPI of e-commerce'."
+    },
+    {
+      "level": 1019,
+      "mainsubject": "Political Science",
+      "question": "The 'Personal Data Protection Bill' of India is largely based on the recommendations of a committee headed by:",
+      "options": [
+        "Justice B.N. Srikrishna",
+        "Justice J.S. Verma",
+        "Justice R.M. Lodha",
+        "Justice A.P. Shah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Personal Data Protection Bill, which aims to provide for the protection of the privacy of individuals relating to their personal data, is based on the recommendations of a committee of experts headed by retired Supreme Court judge **Justice B.N. Srikrishna**. The committee submitted its report in 2018.",
+      "difficulty": "Medium",
+      "hint": "This committee was set up to frame a data protection law for India."
+    },
+    {
+      "level": 1020,
+      "mainsubject": "Political Science",
+      "question": "The term 'social cost of carbon' is a measure of the:",
+      "options": [
+        "Economic cost of reducing carbon emissions",
+        "Economic damages that would result from emitting one additional ton of carbon dioxide into the atmosphere",
+        "Cost of carbon capture and storage technologies",
+        "Price of carbon in the international market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The social cost of carbon (SCC) is a monetary estimate of the **economic damages that would result from emitting one additional ton of carbon dioxide** into the atmosphere. It is used to estimate the value of climate benefits from policies that reduce greenhouse gas emissions.",
+      "difficulty": "Hard",
+      "hint": "This is an estimate of the damage caused by carbon emissions."
+    },
+    {
+      "level": 1021,
+      "mainsubject": "Political Science",
+      "question": "The term 'carbon sequestration' refers to the process of:",
+      "options": [
+        "Emitting carbon dioxide into the atmosphere",
+        "Capturing and storing atmospheric carbon dioxide",
+        "Converting carbon dioxide into fuel",
+        "Measuring the amount of carbon dioxide in the atmosphere"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Carbon sequestration is the process of **capturing and storing atmospheric carbon dioxide**. It is one method of reducing the amount of carbon dioxide in the atmosphere with the goal of reducing global climate change. It can be done through natural processes (like afforestation) or through technological means.",
+      "difficulty": "Easy",
+      "hint": "This is a method of removing carbon from the atmosphere."
+    },
+    {
+      "level": 1022,
+      "mainsubject": "Political Science",
+      "question": "The term 'carbon credit' is a generic term for any tradable certificate or permit representing the right to:",
+      "options": [
+        "Emit one tonne of carbon dioxide or the equivalent amount of a different greenhouse gas",
+        "Produce one tonne of a carbon-intensive product",
+        "Invest in a renewable energy project",
+        "Receive a subsidy for reducing carbon emissions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A carbon credit is a tradable permit or certificate that provides the holder of the credit the right to **emit one tonne of carbon dioxide or an equivalent of another greenhouse gas**. The main goal for the creation of carbon credits is the reduction of emissions of carbon dioxide and other greenhouse gases from industrial activities to reduce the effects of global warming.",
+      "difficulty": "Easy",
+      "hint": "This is a permit to emit carbon."
+    },
+    {
+      "level": 1023,
+      "mainsubject": "Political Science",
+      "question": "The 'International Court of Arbitration' is an institution for resolving international commercial disputes. It is a part of the:",
+      "options": [
+        "United Nations",
+        "World Trade Organization",
+        "International Chamber of Commerce (ICC)",
+        "World Bank"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The International Court of Arbitration is an institution for the resolution of international commercial disputes. It is part of the **International Chamber of Commerce (ICC)** and is based in Paris, France. It is not a court in the judicial sense, but an arbitration body.",
+      "difficulty": "Hard",
+      "hint": "This is a major international arbitration body."
+    },
+    {
+      "level": 1024,
+      "mainsubject": "Political Science",
+      "question": "The 'Permanent Court of Arbitration' (PCA) is an intergovernmental organization located in The Hague, Netherlands. It is:",
+      "options": [
+        "A court in the traditional sense, with permanent judges",
+        "Not a court, but an organization that facilitates arbitration and other forms of dispute resolution between states",
+        "A court that deals with commercial disputes only",
+        "A part of the International Court of Justice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Permanent Court of Arbitration (PCA) is **not a court in the traditional sense**, but an organization that provides a forum for the resolution of international disputes through arbitration and other peaceful means. It is not part of the UN system, although it is located in the same building as the International Court of Justice.",
+      "difficulty": "Hard",
+      "hint": "Despite its name, it is not a court."
+    },
+    {
+      "level": 1025,
+      "mainsubject": "Political Science",
+      "question": "The 'Enrica Lexie' case was a major diplomatic and legal issue between India and:",
+      "options": [
+        "France",
+        "Germany",
+        "Italy",
+        "The United Kingdom"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Enrica Lexie case was a legal proceeding and diplomatic controversy between India and **Italy**. It concerned the shooting of two Indian fishermen by two Italian marines aboard the Italian-flagged commercial oil tanker Enrica Lexie in 2012. The case involved complex issues of jurisdiction and international law.",
+      "difficulty": "Medium",
+      "hint": "This case involved two marines from a European country."
+    },
+    {
+      "level": 1026,
+      "mainsubject": "Political Science",
+      "question": "The 'Kulbhushan Jadhav' case is a major diplomatic and legal dispute between India and Pakistan, which is being heard at the:",
+      "options": [
+        "Supreme Court of India",
+        "Supreme Court of Pakistan",
+        "International Court of Justice (ICJ)",
+        "Permanent Court of Arbitration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Kulbhushan Jadhav case is a dispute between India and Pakistan regarding an Indian national who was arrested and sentenced to death by a Pakistani military court on charges of espionage and terrorism. India has taken the case to the **International Court of Justice (ICJ)**, arguing that Pakistan violated the Vienna Convention on Consular Relations.",
+      "difficulty": "Easy",
+      "hint": "This case is being heard at the principal judicial organ of the UN."
+    },
+    {
+      "level": 1027,
+      "mainsubject": "Political Science",
+      "question": "The 'Vienna Convention on Diplomatic Relations' of 1961 is an international treaty that defines a framework for:",
+      "options": [
+        "International trade",
+        "The laws of war",
+        "Diplomatic relations between independent countries",
+        "The protection of human rights"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Vienna Convention on Diplomatic Relations is an international treaty that defines a framework for **diplomatic relations between independent countries**. It specifies the privileges of a diplomatic mission that enable diplomats to perform their function without fear of coercion or harassment by the host country. It is a cornerstone of modern international relations.",
+      "difficulty": "Easy",
+      "hint": "This treaty governs the conduct of diplomats."
+    },
+    {
+      "level": 1028,
+      "mainsubject": "Political Science",
+      "question": "The 'Vienna Convention on Consular Relations' of 1963 is an international treaty that defines the:",
+      "options": [
+        "Rights and duties of diplomats",
+        "Framework for consular relations between independent states",
+        "Rules for the conduct of international conferences",
+        "Laws of the sea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Vienna Convention on Consular Relations is an international treaty that defines a framework for **consular relations between sovereign states**. A consul normally operates out of an embassy in another country, and performs two functions: protecting in the host country the interests of their countrymen, and furthering the commercial and economic relations between the two states.",
+      "difficulty": "Easy",
+      "hint": "This treaty governs the functions of consulates."
+    },
+    {
+      "level": 1029,
+      "mainsubject": "Political Science",
+      "question": "The 'United Nations Framework Convention on Climate Change' (UNFCCC) is an international environmental treaty adopted in 1992. The parties to the convention meet annually in:",
+      "options": [
+        "The Conference of the Parties (COP)",
+        "The General Assembly",
+        "The Security Council",
+        "The Earth Summit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The parties to the UNFCCC meet annually in the **Conference of the Parties (COP)** to assess progress in dealing with climate change. The COP is the supreme decision-making body of the Convention. The Paris Agreement and the Kyoto Protocol were negotiated at COPs.",
+      "difficulty": "Easy",
+      "hint": "These are the annual climate change conferences."
+    },
+    {
+      "level": 1030,
+      "mainsubject": "Political Science",
+      "question": "The 'Convention on Biological Diversity' (CBD) is a multilateral treaty with three main goals: the conservation of biological diversity; the sustainable use of its components; and the fair and equitable sharing of benefits arising from genetic resources. It was opened for signature at the:",
+      "options": [
+        "Stockholm Conference, 1972",
+        "Earth Summit in Rio de Janeiro, 1992",
+        "Johannesburg Summit, 2002",
+        "Copenhagen Summit, 2009"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Convention on Biological Diversity (CBD) was opened for signature at the **Earth Summit in Rio de Janeiro on 5 June 1992** and entered into force on 29 December 1993. It is one of the three 'Rio Conventions', along with the UNFCCC and the UN Convention to Combat Desertification.",
+      "difficulty": "Medium",
+      "hint": "This is one of the three major environmental conventions signed at the 1992 Earth Summit."
+    },
+    {
+      "level": 1031,
+      "mainsubject": "Political Science",
+      "question": "The 'Cartagena Protocol on Biosafety' is a supplementary agreement to the Convention on Biological Diversity. It seeks to protect biological diversity from the potential risks posed by:",
+      "options": [
+        "Invasive alien species",
+        "Climate change",
+        "Living modified organisms (LMOs) resulting from modern biotechnology",
+        "Over-exploitation of natural resources"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Cartagena Protocol on Biosafety is an international treaty governing the movements of **living modified organisms (LMOs) resulting from modern biotechnology** from one country to another. It aims to protect biological diversity from the potential risks posed by LMOs.",
+      "difficulty": "Hard",
+      "hint": "This protocol deals with the safety of genetically modified organisms."
+    },
+    {
+      "level": 1032,
+      "mainsubject": "Political Science",
+      "question": "The 'Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization' is a supplementary agreement to the:",
+      "options": [
+        "UNFCCC",
+        "Convention on Biological Diversity (CBD)",
+        "Ramsar Convention",
+        "CITES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Nagoya Protocol is a 2010 supplementary agreement to the **Convention on Biological Diversity (CBD)**. Its aim is the fair and equitable sharing of benefits arising out of the utilization of genetic resources, thereby contributing to the conservation and sustainable use of biodiversity.",
+      "difficulty": "Hard",
+      "hint": "This protocol deals with access and benefit-sharing of genetic resources."
+    },
+    {
+      "level": 1033,
+      "mainsubject": "Political Science",
+      "question": "The 'Aichi Biodiversity Targets' were a set of 20 global targets under the Strategic Plan for Biodiversity 2011-2020. They were adopted under the:",
+      "options": [
+        "UNFCCC",
+        "Convention on Biological Diversity (CBD)",
+        "Ramsar Convention",
+        "CITES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Aichi Biodiversity Targets were a set of 20 time-bound, measurable targets for the conservation and sustainable use of biodiversity. They were adopted by the parties to the **Convention on Biological Diversity (CBD)** at their meeting in Aichi Prefecture, Japan, in 2010.",
+      "difficulty": "Hard",
+      "hint": "These targets were named after the Japanese prefecture where they were adopted."
+    },
+    {
+      "level": 1034,
+      "mainsubject": "Political Science",
+      "question": "The 'Kunming-Montreal Global Biodiversity Framework' (GBF) was adopted at the 15th Conference of the Parties (COP15) to the CBD in 2022. It replaced the:",
+      "options": [
+        "Kyoto Protocol",
+        "Nagoya Protocol",
+        "Cartagena Protocol",
+        "Aichi Biodiversity Targets"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Kunming-Montreal Global Biodiversity Framework (GBF) is a new framework for biodiversity conservation that was adopted in 2022. It contains four long-term goals for 2050 and 23 action-oriented global targets for 2030. It replaced the **Strategic Plan for Biodiversity 2011-2020 and its Aichi Biodiversity Targets**.",
+      "difficulty": "Medium",
+      "hint": "This is the new global framework for biodiversity, succeeding the previous one."
+    },
+    {
+      "level": 1035,
+      "mainsubject": "Political Science",
+      "question": "The 'CITES' (Convention on International Trade in Endangered Species of Wild Fauna and Flora) is a multilateral treaty to:",
+      "options": [
+        "Protect endangered species from extinction",
+        "Protect wildlife habitats",
+        "Ensure that international trade in specimens of wild animals and plants does not threaten their survival",
+        "Ban all trade in wildlife products"
+      ],
+      "correctAnswer": 3,
+      "explanation": "CITES is an international agreement between governments. Its aim is to **ensure that international trade in specimens of wild animals and plants does not threaten the survival of the species**. It accords varying degrees of protection to more than 37,000 species of animals and plants.",
+      "difficulty": "Easy",
+      "hint": "This convention regulates the international trade in wildlife."
+    },
+    {
+      "level": 1036,
+      "mainsubject": "Political Science",
+      "question": "The 'Convention on the Conservation of Migratory Species of Wild Animals' (CMS) is also known as the:",
+      "options": [
+        "Bonn Convention",
+        "Vienna Convention",
+        "Geneva Convention",
+        "Bern Convention"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Convention on the Conservation of Migratory Species of Wild Animals is an environmental treaty of the United Nations that provides a global platform for the conservation and sustainable use of migratory animals and their habitats. It is commonly known as the **Bonn Convention**, as it was signed in Bonn, Germany, in 1979.",
+      "difficulty": "Medium",
+      "hint": "This convention is named after the German city where it was signed."
+    },
+    {
+      "level": 1037,
+      "mainsubject": "Political Science",
+      "question": "The 'Basel Convention' is an international treaty that was designed to reduce the movements of:",
+      "options": [
+        "Endangered species",
+        "Hazardous waste between nations",
+        "Nuclear materials",
+        "Conventional weapons"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal is an international treaty that was designed to reduce the movements of **hazardous waste between nations**, and specifically to prevent the transfer of hazardous waste from developed to less developed countries.",
+      "difficulty": "Medium",
+      "hint": "This convention, named after a Swiss city, deals with toxic waste."
+    },
+    {
+      "level": 1038,
+      "mainsubject": "Political Science",
+      "question": "The 'Rotterdam Convention' is a multilateral treaty to promote shared responsibilities in relation to the international trade of:",
+      "options": [
+        "Hazardous chemicals",
+        "Endangered species",
+        "Genetically modified organisms",
+        "Radioactive materials"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Rotterdam Convention on the Prior Informed Consent Procedure for Certain **Hazardous Chemicals** and Pesticides in International Trade is a multilateral treaty to promote shared responsibilities in relation to importation of hazardous chemicals. It facilitates information exchange about their characteristics.",
+      "difficulty": "Hard",
+      "hint": "This convention, named after a Dutch city, deals with chemical safety."
+    },
+    {
+      "level": 1039,
+      "mainsubject": "Political Science",
+      "question": "The 'Stockholm Convention on Persistent Organic Pollutants' is an international environmental treaty that aims to eliminate or restrict the production and use of:",
+      "options": [
+        "Ozone-depleting substances",
+        "Greenhouse gases",
+        "Persistent organic pollutants (POPs)",
+        "Heavy metals"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Stockholm Convention is a global treaty to protect human health and the environment from **persistent organic pollutants (POPs)**. POPs are chemicals that remain intact in the environment for long periods, become widely distributed geographically, accumulate in the fatty tissue of living organisms and are toxic to humans and wildlife.",
+      "difficulty": "Medium",
+      "hint": "This convention, named after a Swedish city, deals with a specific class of long-lasting pollutants."
+    },
+    {
+      "level": 1040,
+      "mainsubject": "Political Science",
+      "question": "The 'Minamata Convention on Mercury' is a global treaty to protect human health and the environment from the adverse effects of:",
+      "options": [
+        "Lead",
+        "Arsenic",
+        "Mercury",
+        "Cadmium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Minamata Convention on Mercury is an international treaty designed to protect human health and the environment from anthropogenic emissions and releases of **mercury** and mercury compounds. The convention is named after the Japanese city of Minamata, which experienced a devastating incident of mercury poisoning.",
+      "difficulty": "Easy",
+      "hint": "The name of the convention gives away the answer."
+    },
+    {
+      "level": 1041,
+      "mainsubject": "Political Science",
+      "question": "The 'United Nations Convention to Combat Desertification' (UNCCD) is the sole legally binding international agreement linking:",
+      "options": [
+        "Environment and development to sustainable land management",
+        "Climate change and biodiversity",
+        "Poverty and food security",
+        "Water scarcity and sanitation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The UNCCD is a convention to combat desertification and mitigate the effects of drought through national action programs. It is the sole legally binding international agreement linking **environment and development to sustainable land management**. It is one of the three 'Rio Conventions'.",
+      "difficulty": "Medium",
+      "hint": "This convention focuses on sustainable land management."
+    },
+    {
+      "level": 1042,
+      "mainsubject": "Political Science",
+      "question": "The term 'common but differentiated responsibilities' (CBDR) is a principle within the UNFCCC framework that acknowledges that:",
+      "options": [
+        "All countries have an equal responsibility to address climate change",
+        "All countries have a common responsibility to address climate change, but developed countries have a greater responsibility due to their historical emissions",
+        "Only developed countries are responsible for addressing climate change",
+        "Only developing countries are responsible for addressing climate change"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The principle of common but differentiated responsibilities and respective capabilities (CBDR–RC) is a principle of international environmental law. It acknowledges that **all states have a shared obligation to address environmental destruction but denies the equal responsibility of all states** with regard to the protection of the global environment. It recognizes that developed countries have a greater responsibility due to their historical contribution to climate change.",
+      "difficulty": "Medium",
+      "hint": "This principle acknowledges the different historical contributions of countries to climate change."
+    },
+    {
+      "level": 1043,
+      "mainsubject": "Political Science",
+      "question": "The 'Green Climate Fund' (GCF) is a fund established within the framework of the UNFCCC as an operating entity of the financial mechanism to assist:",
+      "options": [
+        "All countries in their climate action",
+        "Developed countries in their transition to a green economy",
+        "Developing countries in adaptation and mitigation practices to counter climate change",
+        "The least developed countries only"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Green Climate Fund (GCF) is the world's largest dedicated climate fund. It was established to help **developing countries** limit or reduce their greenhouse gas emissions and adapt to the impacts of climate change. It is a key part of the international climate finance architecture.",
+      "difficulty": "Easy",
+      "hint": "This fund helps developing countries deal with climate change."
+    },
+    {
+      "level": 1044,
+      "mainsubject": "Political Science",
+      "question": "The 'Global Environment Facility' (GEF) is a multilateral financial mechanism that provides grants for projects related to:",
+      "options": [
+        "Biodiversity, climate change, international waters, land degradation, and persistent organic pollutants",
+        "Poverty reduction",
+        "Education and healthcare",
+        "Infrastructure development"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Global Environment Facility (GEF) is a multilateral environmental fund that provides grants and blended finance for projects related to **biodiversity, climate change, international waters, land degradation, the ozone layer, persistent organic pollutants (POPs), mercury, and sustainable forest management**.",
+      "difficulty": "Medium",
+      "hint": "This is a major source of funding for various environmental conventions."
+    },
+    {
+      "level": 1045,
+      "mainsubject": "Political Science",
+      "question": "The 'United Nations Environment Programme' (UNEP) is the leading global environmental authority that sets the global environmental agenda. Its headquarters is in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Nairobi, Kenya",
+        "Paris, France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The United Nations Environment Programme (UNEP) is responsible for coordinating the UN's environmental activities and assisting developing countries in implementing environmentally sound policies. Its headquarters is located in **Nairobi, Kenya**. It is one of the few major UN bodies headquartered in the Global South.",
+      "difficulty": "Easy",
+      "hint": "This major UN body is headquartered in an African country."
+    },
+    {
+      "level": 1046,
+      "mainsubject": "Political Science",
+      "question": "The 'Intergovernmental Panel on Climate Change' (IPCC) is the United Nations body for:",
+      "options": [
+        "Funding climate projects",
+        "Negotiating climate treaties",
+        "Assessing the science related to climate change",
+        "Implementing climate policies"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Intergovernmental Panel on Climate Change (IPCC) is the UN body for **assessing the science related to climate change**. It was created to provide policymakers with regular scientific assessments on climate change, its implications and potential future risks, as well as to put forward adaptation and mitigation options. The IPCC does not conduct its own research but reviews and synthesizes the existing scientific literature.",
+      "difficulty": "Easy",
+      "hint": "This is the scientific body that provides reports on climate change."
+    },
+    {
+      "level": 1047,
+      "mainsubject": "Political Science",
+      "question": "The 'World Meteorological Organization' (WMO) is a specialized agency of the United Nations responsible for promoting international cooperation on:",
+      "options": [
+        "Maritime navigation",
+        "Atmospheric science, climatology, hydrology and geophysics",
+        "Space exploration",
+        "Telecommunications"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The World Meteorological Organization (WMO) is a specialized agency of the United Nations. It is the UN system's authoritative voice on the state and behaviour of the Earth's atmosphere, its interaction with the land and oceans, the weather and climate it produces and the resulting distribution of water resources.",
+      "difficulty": "Easy",
+      "hint": "'Meteorology' is the study of weather."
+    },
+    {
+      "level": 1048,
+      "mainsubject": "Political Science",
+      "question": "The 'Food Wastage Index Report' is released by the:",
+      "options": [
+        "Food and Agriculture Organization (FAO)",
+        "World Food Programme (WFP)",
+        "United Nations Environment Programme (UNEP)",
+        "World Health Organization (WHO)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Food Waste Index Report is released by the **United Nations Environment Programme (UNEP)**. The report measures food waste at the retail and consumer levels. It aims to support the goals of SDG 12.3, which is to halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains.",
+      "difficulty": "Hard",
+      "hint": "This report on food waste is published by the UN's environmental body."
+    },
+    {
+      "level": 1049,
+      "mainsubject": "Political Science",
+      "question": "The 'State of the World's Forests' report is a biennial publication of the:",
+      "options": [
+        "UNEP",
+        "UNDP",
+        "World Bank",
+        "Food and Agriculture Organization (FAO)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The State of the World's Forests (SOFO) is a flagship publication of the **Food and Agriculture Organization of the United Nations (FAO)**. It is published every two years and provides a global and regional overview of the status of forests, recent policy and institutional developments, and key issues concerning the forest sector.",
+      "difficulty": "Medium",
+      "hint": "This report on forests is published by the UN's food and agriculture body."
+    },
+    {
+      "level": 1050,
+      "mainsubject": "Political Science",
+      "question": "The 'World Economic Outlook' is a survey conducted and published by the:",
+      "options": [
+        "World Bank",
+        "World Economic Forum",
+        "International Monetary Fund (IMF)",
+        "OECD"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The World Economic Outlook is a report by the **International Monetary Fund (IMF)** that analyzes and predicts global economic developments. It is published twice a year and provides a comprehensive analysis of the world economy.",
+      "difficulty": "Easy",
+      "hint": "This is a flagship publication of the IMF."
+    },
+    {
+      "level": 1051,
+      "mainsubject": "Political Science",
+      "question": "The 'Global Financial Stability Report' is a semiannual report by the:",
+      "options": [
+        "World Bank",
+        "Bank for International Settlements",
+        "Financial Action Task Force",
+        "International Monetary Fund (IMF)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Global Financial Stability Report (GFSR) is a semiannual report by the **International Monetary Fund (IMF)** that assesses the stability of the global financial system and markets, and addresses emerging-market financing in a global context.",
+      "difficulty": "Medium",
+      "hint": "This is another flagship publication of the IMF, focusing on financial stability."
+    },
+    {
+      "level": 1052,
+      "mainsubject": "Political Science",
+      "question": "The term 'fiscal consolidation' refers to the policies undertaken by governments to:",
+      "options": [
+        "Increase government spending to boost the economy",
+        "Reduce their deficits and debt accumulation",
+        "Increase the money supply",
+        "Liberalize the economy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fiscal consolidation is a process where a government's fiscal health is improved by **reducing its fiscal deficit**. This is often done by either increasing revenues (through higher taxes) or reducing expenditure. The aim is to bring down the debt-to-GDP ratio to a sustainable level.",
+      "difficulty": "Easy",
+      "hint": "This is a process of improving the government's finances."
+    },
+    {
+      "level": 1053,
+      "mainsubject": "Political Science",
+      "question": "The term 'quantitative easing' (QE) is a monetary policy action where a central bank:",
+      "options": [
+        "Increases interest rates to control inflation",
+        "Buys long-term securities from the open market in order to increase the money supply and encourage lending and investment",
+        "Sells government securities to reduce the money supply",
+        "Sets a target for the inflation rate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quantitative easing (QE) is an unconventional monetary policy in which a central bank **purchases longer-term securities from the open market** in order to increase the money supply and encourage lending and investment. Buying these securities adds new money to the economy, and also serves to lower interest rates.",
+      "difficulty": "Medium",
+      "hint": "This is an unconventional tool to increase the money supply."
+    },
+    {
+      "level": 1054,
+      "mainsubject": "Political Science",
+      "question": "The term 'quantitative tightening' (QT) is a contractionary monetary policy action where a central bank:",
+      "options": [
+        "Decreases interest rates to stimulate the economy",
+        "Buys government securities to increase the money supply",
+        "Reduces its balance sheet by selling securities or letting them mature and not reinvesting the principal",
+        "Provides subsidies to businesses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Quantitative tightening (QT) is a contractionary monetary policy tool applied by a central bank to **decrease the amount of liquidity or money supply in the economy**. The central bank reduces its balance sheet by selling government securities or by letting them mature and removing them from its cash balances. It is the opposite of quantitative easing (QE).",
+      "difficulty": "Medium",
+      "hint": "This is the opposite of quantitative easing."
+    },
+    {
+      "level": 1055,
+      "mainsubject": "Political Science",
+      "question": "The 'Core Inflation' is a measure of inflation that excludes:",
+      "options": [
+        "The prices of manufactured goods",
+        "The prices of services",
+        "The prices of volatile items like food and energy",
+        "The prices of imported goods"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Core inflation is the change in the costs of goods and services but **does not include those from the food and energy sectors**. This measure of inflation is considered a more accurate reflection of the underlying long-term inflation trend, as food and energy prices are often volatile and subject to short-term shocks.",
+      "difficulty": "Easy",
+      "hint": "This measure removes the most volatile components of the inflation basket."
+    },
+    {
+      "level": 1056,
+      "mainsubject": "Political Science",
+      "question": "The 'Headline Inflation' is a measure of the total inflation within an economy, including commodities such as:",
+      "options": [
+        "Food and energy prices",
+        "Manufactured goods only",
+        "Services only",
+        "Imported goods only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Headline inflation is the raw inflation figure reported through the Consumer Price Index (CPI) that is released monthly by the Bureau of Labor Statistics. The headline inflation number is not adjusted for seasonality or for the often-volatile elements of **food and energy prices**, which are removed in the core inflation number.",
+      "difficulty": "Easy",
+      "hint": "This is the all-inclusive inflation figure."
+    },
+    {
+      "level": 1057,
+      "mainsubject": "Political Science",
+      "question": "The term 'deflation' is a general decline in:",
+      "options": [
+        "The rate of inflation",
+        "The economic growth rate",
+        "The prices of goods and services",
+        "The supply of money"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Deflation is a decrease in the general price level of goods and services. It occurs when the inflation rate falls below 0% (a negative inflation rate). It is the opposite of inflation and can be a sign of a weakening economy, as falling prices can lead to lower consumer spending.",
+      "difficulty": "Easy",
+      "hint": "This is the opposite of inflation."
+    },
+    {
+      "level": 1058,
+      "mainsubject": "Political Science",
+      "question": "The term 'disinflation' is a:",
+      "options": [
+        "General decline in prices",
+        "Slowdown in the rate of inflation",
+        "Rapid increase in the rate of inflation",
+        "Situation of negative inflation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Disinflation is a **temporary slowing of the pace of price inflation**. It is used to describe instances when the inflation rate has reduced marginally over the short term. Unlike inflation and deflation, which refer to the direction of prices, disinflation refers to the rate of change in the rate of inflation.",
+      "difficulty": "Medium",
+      "hint": "This is a decrease in the rate of inflation, not a fall in prices."
+    },
+    {
+      "level": 1059,
+      "mainsubject": "Political Science",
+      "question": "The term 'hyperinflation' is very high and typically accelerating inflation. It quickly erodes the real value of the local currency, as:",
+      "options": [
+        "The prices of all goods increase",
+        "The supply of money increases",
+        "People start to hoard goods",
+        "The government starts to print more money"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hyperinflation is a term to describe rapid, excessive, and out-of-control general price increases in an economy. While inflation is a measure of the pace of rising prices for goods and services, hyperinflation is rapidly rising inflation, typically measuring more than 50% per month.",
+      "difficulty": "Easy",
+      "hint": "This is an extreme and rapid form of inflation."
+    },
+    {
+      "level": 1060,
+      "mainsubject": "Political Science",
+      "question": "The term 'recession' is a business cycle contraction when there is a general decline in economic activity. A common rule of thumb for a recession is:",
+      "options": [
+        "One quarter of negative GDP growth",
+        "Two consecutive quarters of negative GDP growth",
+        "A fall in the stock market",
+        "A rise in the unemployment rate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A recession is a significant, widespread, and prolonged downturn in economic activity. A common rule of thumb is that a recession is declared after **two consecutive quarters of negative growth** in real GDP. However, the official declaration is made by a country's national bureau of economic research, which considers a variety of factors.",
+      "difficulty": "Easy",
+      "hint": "This is a common definition of a recession."
+    },
+    {
+      "level": 1061,
+      "mainsubject": "Political Science",
+      "question": "The term 'depression' in economics is a:",
+      "options": [
+        "Mild and short-term recession",
+        "Sustained, long-term downturn in economic activity in one or more economies",
+        "Period of high inflation",
+        "Period of high economic growth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A depression is a **severe and prolonged downturn in economic activity**. In economics, a depression is commonly defined as an extreme recession that lasts for three or more years or which leads to a decline in real gross domestic product (GDP) of at least 10%. The Great Depression of the 1930s is the most famous example.",
+      "difficulty": "Easy",
+      "hint": "This is a more severe and longer-lasting form of a recession."
+    },
+    {
+      "level": 1062,
+      "mainsubject": "Political Science",
+      "question": "The term 'liquidity trap' is a situation, described in Keynesian economics, in which monetary policy becomes ineffective because the:",
+      "options": [
+        "Interest rate is too high",
+        "Inflation rate is too high",
+        "Nominal interest rate is at or near zero",
+        "Government is running a large budget deficit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A liquidity trap is a situation where an increase in the money supply does not result in a fall in interest rates but just in an addition to the idle balances of the people. This happens when the **nominal interest rate is at or near zero**. In such a situation, people prefer to hold cash rather than invest or spend, making monetary policy ineffective.",
+      "difficulty": "Hard",
+      "hint": "This is a situation where monetary policy loses its power."
+    },
+    {
+      "level": 1063,
+      "mainsubject": "Political Science",
+      "question": "The term 'laissez-faire' is an economic system in which transactions between private parties are:",
+      "options": [
+        "Heavily regulated by the government",
+        "Absent of any government intervention such as regulation, privileges, tariffs and subsidies",
+        "Controlled by a central planning authority",
+        "Subject to high taxes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Laissez-faire is a French term that literally means 'let do' or 'let it be'. It is an economic philosophy of free-market capitalism that opposes government intervention. The theory of laissez-faire was developed by the French Physiocrats and was popularized by Adam Smith.",
+      "difficulty": "Easy",
+      "hint": "This is a 'hands-off' approach to the economy."
+    },
+    {
+      "level": 1064,
+      "mainsubject": "Political Science",
+      "question": "The concept of the 'invisible hand' was introduced by Adam Smith in his book 'The Wealth of Nations'. It describes the unintended social benefits of an individual's:",
+      "options": [
+        "Self-interested actions",
+        "Altruistic actions",
+        "Political actions",
+        "Religious actions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The invisible hand is a metaphor for the unseen forces that move the free market economy. Through individual **self-interest and freedom of production as well as consumption**, the best interest of society, as a whole, are fulfilled. The constant interplay of individual pressures on market supply and demand causes the natural movement of prices and the flow of trade.",
+      "difficulty": "Medium",
+      "hint": "This is a key concept of classical economics, suggesting that self-interest can lead to public good."
+    },
+    {
+      "level": 1065,
+      "mainsubject": "Political Science",
+      "question": "The 'General Theory of Employment, Interest and Money' is the magnum opus of which economist?",
+      "options": [
+        "Adam Smith",
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Milton Friedman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'General Theory of Employment, Interest and Money' was written by the English economist **John Maynard Keynes**. The book, published in 1936, is largely credited with creating the terminology and shape of modern macroeconomics. It advocated for active government intervention in the economy to manage demand and combat unemployment.",
+      "difficulty": "Medium",
+      "hint": "This book is the foundation of Keynesian economics."
+    },
+    {
+      "level": 1066,
+      "mainsubject": "Political Science",
+      "question": "The 'Chicago School' of economics is known for its advocacy of:",
+      "options": [
+        "Keynesian economics and government intervention",
+        "Free markets and monetarism",
+        "Marxist economics",
+        "Developmental economics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chicago School is a neoclassical school of economic thought associated with the faculty at the University of Chicago. It is known for its strong belief in **free markets, minimal government intervention, and monetarism**. Milton Friedman is the most famous economist associated with this school.",
+      "difficulty": "Medium",
+      "hint": "This school of thought is a major proponent of free-market capitalism."
+    },
+    {
+      "level": 1067,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'creative destruction', which describes the process of industrial mutation that incessantly revolutionizes the economic structure from within, was coined by:",
+      "options": [
+        "John Maynard Keynes",
+        "Karl Marx",
+        "Joseph Schumpeter",
+        "Friedrich Hayek"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Creative destruction is a concept in economics which since the 1950s is most readily identified with the Austrian-American economist **Joseph Schumpeter**. He described it as the 'process of industrial mutation that continuously revolutionizes the economic structure from within, incessantly destroying the old one, incessantly creating a new one'.",
+      "difficulty": "Hard",
+      "hint": "This concept highlights the innovative and destructive nature of capitalism."
+    },
+    {
+      "level": 1068,
+      "mainsubject": "Political Science",
+      "question": "The 'paradox of thrift' is a paradox of economics, popularized by John Maynard Keynes, which states that:",
+      "options": [
+        "Saving more money is always good for the economy",
+        "An increase in autonomous saving leads to a decrease in aggregate demand and thus a decrease in gross output which will in turn lower total saving",
+        "Government savings are more important than private savings",
+        "Spending money is always bad for the economy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The paradox of thrift is a paradox of economics. The paradox states that if everyone tries to save more money during times of economic recession, then aggregate demand will fall and will in turn lower total saving in the population because of the decrease in consumption and economic growth.",
+      "difficulty": "Hard",
+      "hint": "This paradox suggests that individual saving can sometimes be bad for the overall economy."
+    },
+    {
+      "level": 1069,
+      "mainsubject": "Political Science",
+      "question": "The term 'moral hazard' is a situation in which one party gets involved in a risky event knowing that:",
+      "options": [
+        "It is protected against the risk and the other party will incur the cost",
+        "It will be rewarded for taking the risk",
+        "The risk is very low",
+        "The risk is very high"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moral hazard is a situation in which one party engages in a risky event knowing that it is **protected against the risk and the other party will incur the cost**. It arises when both parties have incomplete information about each other. A common example is in the insurance industry, where a person with insurance may take more risks because they know the insurance company will bear the cost.",
+      "difficulty": "Medium",
+      "hint": "This is a problem that arises from asymmetric information."
+    },
+    {
+      "level": 1070,
+      "mainsubject": "Political Science",
+      "question": "The term 'adverse selection' is a market situation where:",
+      "options": [
+        "Sellers have information that buyers do not, or vice versa, about some aspect of product quality",
+        "Both buyers and sellers have perfect information",
+        "The government sets the price of a product",
+        "There is only one seller in the market"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adverse selection is a term used in economics that refers to a situation where **sellers have information that buyers do not, or vice versa**, about some aspect of product quality. It is a case where asymmetric information is exploited. A classic example is in the used car market, where the seller knows more about the car's condition than the buyer.",
+      "difficulty": "Medium",
+      "hint": "This is another problem that arises from asymmetric information."
+    },
+    {
+      "level": 1071,
+      "mainsubject": "Political Science",
+      "question": "The 'tragedy of the commons' is a situation in a shared-resource system where individual users, acting independently according to their own self-interest, behave contrary to the common good of all users by:",
+      "options": [
+        "Preserving the shared resource",
+        "Over-exploiting or depleting that resource through their collective action",
+        "Investing in the shared resource",
+        "Cooperating to manage the shared resource"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The tragedy of the commons is a problem in economics that occurs when individuals neglect the well-being of society in the pursuit of personal gain. This leads to **over-consumption and ultimately depletion of the common resource**, to everybody's detriment. The concept was popularized by the ecologist Garrett Hardin.",
+      "difficulty": "Medium",
+      "hint": "This is a problem of over-exploitation of shared resources."
+    },
+    {
+      "level": 1072,
+      "mainsubject": "Political Science",
+      "question": "The term 'externality' in economics refers to a cost or benefit that is:",
+      "options": [
+        "Incurred by the producer of a good or service",
+        "Paid by the consumer of a good or service",
+        "Imposed on a third party who is not directly involved in a transaction",
+        "Determined by the government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An externality is a cost or benefit of an economic activity experienced by an **unrelated third party**. The externality can be either positive or negative. For example, pollution is a negative externality, as it imposes a cost on society that is not borne by the polluter. Education is a positive externality, as it benefits society as a whole.",
+      "difficulty": "Medium",
+      "hint": "This is a side effect of an economic activity."
+    },
+    {
+      "level": 1073,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'public good' in economics is a good that is both:",
+      "options": [
+        "Excludable and rivalrous",
+        "Non-excludable and non-rivalrous",
+        "Excludable and non-rivalrous",
+        "Non-excludable and rivalrous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In economics, a public good is a good that is both **non-excludable and non-rivalrous**. Non-excludable means that it is not possible to prevent people from using the good. Non-rivalrous means that one person's use of the good does not reduce its availability to others. Examples include national defence, fresh air, and street lighting.",
+      "difficulty": "Medium",
+      "hint": "National defence is a classic example of this type of good."
+    },
+    {
+      "level": 1074,
+      "mainsubject": "Political Science",
+      "question": "The term 'merit good' is a good which is:",
+      "options": [
+        "Provided by the market",
+        "Considered to be beneficial for society, but which people may under-consume if left to the market",
+        "A luxury good",
+        "A good with negative externalities"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A merit good is a good or service that is **judged to be socially desirable**, but which is likely to be under-consumed if provided by the private market. Examples include education and healthcare. Governments often provide or subsidize merit goods to encourage their consumption.",
+      "difficulty": "Medium",
+      "hint": "Education and healthcare are classic examples of this type of good."
+    },
+    {
+      "level": 1075,
+      "mainsubject": "Political Science",
+      "question": "The 'Pigouvian tax' is a tax levied on any market activity that generates:",
+      "options": [
+        "Positive externalities",
+        "Negative externalities",
+        "High profits",
+        "Employment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A Pigouvian tax is a tax on any market activity that generates **negative externalities** (costs not internalized in the market price). The tax is intended to correct an undesirable or inefficient market outcome, and does so by being set equal to the social cost of the negative externalities. A carbon tax is an example of a Pigouvian tax.",
+      "difficulty": "Medium",
+      "hint": "This is a tax on activities that have negative side effects."
+    },
+    {
+      "level": 1076,
+      "mainsubject": "Political Science",
+      "question": "The 'Coase theorem' states that if trade in an externality is possible and there are no transaction costs, bargaining will lead to:",
+      "options": [
+        "An inefficient outcome",
+        "An efficient outcome regardless of the initial allocation of property rights",
+        "Government intervention being necessary",
+        "A market failure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Coase theorem, developed by economist Ronald Coase, states that where there is a conflict of property rights, the involved parties can bargain or negotiate terms that are more beneficial to both parties than the outcome of any assigned property rights. It suggests that private bargaining can solve externality problems, leading to an **efficient outcome regardless of the initial allocation of property rights**, provided that transaction costs are low.",
+      "difficulty": "Hard",
+      "hint": "This theorem suggests that private bargaining can solve externality problems."
+    },
+    {
+      "level": 1077,
+      "mainsubject": "Political Science",
+      "question": "The 'Heckscher-Ohlin model' in international trade theory states that countries will export goods that make intensive use of the factors of production that are:",
+      "options": [
+        "Abundant in the country",
+        "Scarce in the country",
+        "Imported from other countries",
+        "Newly developed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Heckscher-Ohlin model is a general equilibrium mathematical model of international trade. It states that countries will export products that use their **abundant and cheap factor(s) of production** and import products that use the countries' scarce factor(s). For example, a country with an abundance of labour will export labour-intensive goods.",
+      "difficulty": "Hard",
+      "hint": "This model is based on a country's factor endowments."
+    },
+    {
+      "level": 1078,
+      "mainsubject": "Political Science",
+      "question": "The 'Leontief paradox' is a finding that contradicted the Heckscher-Ohlin theory. Wassily Leontief found that the US, the world's most capital-abundant country, exported:",
+      "options": [
+        "Capital-intensive goods and imported labor-intensive goods",
+        "Labor-intensive goods and imported capital-intensive goods",
+        "Both capital and labor-intensive goods equally",
+        "No goods at all"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Leontief paradox in economics is that the country with the world's highest capital-per-worker has a lower capital/labor ratio in exports than in imports. Wassily Leontief found that the US exported **labor-intensive commodities and imported capital-intensive commodities**, which was the opposite of what the Heckscher-Ohlin theory predicted.",
+      "difficulty": "Hard",
+      "hint": "This paradox contradicted the predictions of a major trade theory."
+    },
+    {
+      "level": 1079,
+      "mainsubject": "Political Science",
+      "question": "The 'infant industry argument' is an economic rationale for trade protectionism. The argument is that:",
+      "options": [
+        "New industries should be protected from foreign competition until they are mature and can compete internationally",
+        "Old and declining industries should be protected to save jobs",
+        "All industries should be protected from foreign competition",
+        "Only agricultural industries should be protected"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The infant industry argument is a classic argument for temporary protectionism. The core of the argument is that **new industries often do not have the economies of scale that their older competitors from other countries may have**, and thus need to be protected with tariffs, import quotas, or subsidies until they can attain similar economies of scale.",
+      "difficulty": "Easy",
+      "hint": "This argument is about protecting new industries in their early stages."
+    },
+    {
+      "level": 1080,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'Dutch disease' in economics refers to the apparent causal relationship between the:",
+      "options": [
+        "Increase in the economic development of a specific sector (for example, natural resources) and a decline in other sectors (like the manufacturing sector or agriculture)",
+        "Decline in a country's agricultural sector and a rise in its industrial sector",
+        "Increase in a country's population and a decline in its per capita income",
+        "Increase in a country's debt and a decline in its economic growth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dutch disease is an economic concept that describes the negative impact on an economy of anything that gives rise to a sharp inflow of foreign currency, such as the discovery of large natural resource reserves. The theory is that an increase in revenues from natural resources will deindustrialize a nation's economy by raising the exchange rate, which makes the manufacturing sector less competitive.",
+      "difficulty": "Hard",
+      "hint": "This term is named after the experience of the Netherlands after the discovery of natural gas."
+    },
+    {
+      "level": 1081,
+      "mainsubject": "Political Science",
+      "question": "The term 'middle income trap' is a situation in economic development where a country:",
+      "options": [
+        "Attains a certain income and gets stuck at that level",
+        "Has a large gap between the rich and the poor",
+        "Has a large informal economy",
+        "Has a high level of corruption"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The middle income trap is a situation where a country that **attains a certain income (due to given advantages) gets stuck at that level**. The country's growth plateaus and it is unable to transition to a high-income economy. This is often because it is unable to compete with low-wage, low-cost economies in manufacturing, nor can it compete with advanced economies in high-skill innovation.",
+      "difficulty": "Medium",
+      "hint": "This is a situation where a country's growth stalls at a certain level."
+    },
+    {
+      "level": 1082,
+      "mainsubject": "Political Science",
+      "question": "The term 'hot money' refers to:",
+      "options": [
+        "Money used for illegal activities",
+        "Foreign portfolio investment that flows into a country to take advantage of high interest rates and is quickly withdrawn",
+        "Money that is not declared to the tax authorities",
+        "Counterfeit currency"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hot money refers to funds that are controlled by investors who actively seek short-term returns. It is **foreign portfolio investment that is moved from one country to another to earn short-term profits** on interest rate differences and/or anticipated exchange rate shifts. These speculative capital flows can be destabilizing for an economy.",
+      "difficulty": "Medium",
+      "hint": "This is a form of short-term, speculative capital."
+    },
+    {
+      "level": 1083,
+      "mainsubject": "Political Science",
+      "question": "The 'Tobin tax' is a proposed tax on:",
+      "options": [
+        "All spot conversions of one currency into another",
+        "International trade",
+        "Carbon emissions",
+        "Wealth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tobin tax was a proposed tax on all **spot conversions of one currency into another**. It was suggested by the Nobel laureate economist James Tobin. The tax was intended to put a penalty on short-term financial round-trip excursions into another currency, to discourage speculative currency trading.",
+      "difficulty": "Hard",
+      "hint": "This is a tax on currency speculation."
+    },
+    {
+      "level": 1084,
+      "mainsubject": "Political Science",
+      "question": "The 'dependency theory' is the notion that resources flow from a 'periphery' of poor and underdeveloped states to a 'core' of wealthy states, enriching the latter at the expense of the former. This theory is a major school of thought in:",
+      "options": [
+        "Neoclassical economics",
+        "Development studies and international relations",
+        "Political philosophy",
+        "Public administration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dependency theory is a school of thought in **development studies and international relations**. It is a critique of the modernization theory of development. It argues that the poverty and backwardness of poor countries are not due to their internal characteristics, but are a result of their integration into the world capitalist system in a subordinate position.",
+      "difficulty": "Hard",
+      "hint": "This theory explains global inequality as a result of historical power relations."
+    },
+    {
+      "level": 1085,
+      "mainsubject": "Political Science",
+      "question": "The 'modernization theory' is a theory used to explain the process of modernization within societies. It suggests that:",
+      "options": [
+        "All societies progress through similar stages of development",
+        "Developing countries are trapped in a state of dependency on developed countries",
+        "Economic development is not possible under capitalism",
+        "Traditional societies are superior to modern societies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modernization theory is a theory of development which states that **all societies progress through similar stages of development**, and that today's underdeveloped areas are in a similar situation to that of today's developed areas at some time in the past. It suggests that with assistance, traditional countries can be brought to development in the same manner more developed countries have been.",
+      "difficulty": "Medium",
+      "hint": "This theory proposes a linear path of development for all societies."
+    },
+    {
+      "level": 1086,
+      "mainsubject": "Political Science",
+      "question": "The 'World Systems Theory', developed by Immanuel Wallerstein, divides the world into the:",
+      "options": [
+        "Core, semi-periphery, and periphery countries",
+        "Developed, developing, and least developed countries",
+        "First, Second, and Third Worlds",
+        "North and South"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The World Systems Theory is a multidisciplinary, macro-scale approach to world history and social change which emphasizes the world-system as the primary unit of social analysis. It divides the world into the **core, semi-periphery, and periphery countries**, and argues that the core countries exploit the periphery countries for their resources and labour.",
+      "difficulty": "Hard",
+      "hint": "This is a three-tiered model of the world economy."
+    },
+    {
+      "level": 1087,
+      "mainsubject": "Political Science",
+      "question": "The 'bureaucracy' is a system of government in which most of the important decisions are made by:",
+      "options": [
+        "Elected representatives",
+        "State officials rather than by elected representatives",
+        "The military",
+        "The judiciary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A bureaucracy is a body of **non-elected government officials** and an administrative policy-making group. Historically, a bureaucracy was a government administration managed by departments staffed with non-elected officials. Today, bureaucracy is the administrative system governing any large institution, whether publicly or privately owned.",
+      "difficulty": "Easy",
+      "hint": "This is a system of administration by officials."
+    },
+    {
+      "level": 1088,
+      "mainsubject": "Political Science",
+      "question": "The term 'meritocracy' is a political system in which economic goods and/or political power are vested in individual people on the basis of:",
+      "options": [
+        "Talent, effort, and achievement",
+        "Wealth and social status",
+        "Heredity and family connections",
+        "Popularity and charisma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A meritocracy is a political, social, or economic system in which people are given power and opportunities based on their **talent, effort, and achievements**, rather than on their wealth or social class. Advancement in such a system is based on performance, as measured through examination or demonstrated achievement.",
+      "difficulty": "Easy",
+      "hint": "This is a system based on merit."
+    },
+    {
+      "level": 1089,
+      "mainsubject": "Political Science",
+      "question": "The term 'plutocracy' is a form of government in which:",
+      "options": [
+        "The most educated rule",
+        "The military rules",
+        "The wealthy rule",
+        "The religious leaders rule"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Plutocracy is a form of oligarchy and defines a society ruled or controlled by the small minority of the wealthiest citizens. Unlike systems such as democracy, capitalism, socialism or anarchism, plutocracy is not rooted in an established political philosophy.",
+      "difficulty": "Easy",
+      "hint": "This is rule by the wealthy."
+    },
+    {
+      "level": 1090,
+      "mainsubject": "Political Science",
+      "question": "The term 'theocracy' is a form of government in which:",
+      "options": [
+        "The people rule",
+        "A deity of some type is recognized as the supreme ruling authority, giving divine guidance to human intermediaries who manage the day-to-day affairs of the government",
+        "A single person rules with absolute power",
+        "A small group of people rules"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A theocracy is a form of government in which a **deity is the source from which all authority derives**. The civil leader is believed to have a personal connection with the civilization's religion or belief. In a theocracy, the laws of the state are based on religious laws.",
+      "difficulty": "Easy",
+      "hint": "This is rule by religious authority."
+    },
+    {
+      "level": 1091,
+      "mainsubject": "Political Science",
+      "question": "The term 'autocracy' is a system of government in which:",
+      "options": [
+        "Supreme power is concentrated in the hands of one person",
+        "The people hold the power",
+        "A small group of people hold the power",
+        "There is no government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An autocracy is a system of government in which **supreme power over a state is concentrated in the hands of one person**, whose decisions are subject to neither external legal restraints nor regularized mechanisms of popular control. Absolute monarchies and dictatorships are the main historical forms of autocracy.",
+      "difficulty": "Easy",
+      "hint": "This is rule by a single person."
+    },
+    {
+      "level": 1092,
+      "mainsubject": "Political Science",
+      "question": "The term 'oligarchy' is a form of government in which:",
+      "options": [
+        "A single person rules",
+        "Power rests with a small number of people",
+        "The people rule",
+        "The military rules"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An oligarchy is a form of power structure in which **power rests with a small number of people**. These people may be distinguished by nobility, wealth, family ties, education or corporate, religious or military control. Such states are often controlled by a few prominent families who pass their influence from one generation to the next.",
+      "difficulty": "Easy",
+      "hint": "This is rule by a few."
+    },
+    {
+      "level": 1093,
+      "mainsubject": "Political Science",
+      "question": "The term 'democracy' is a form of government in which:",
+      "options": [
+        "The people have the authority to choose their governing legislators",
+        "A single person holds absolute power",
+        "A small group of people hold power",
+        "Religious leaders hold power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Democracy is a system of government where the **citizens exercise power by voting**. In a direct democracy, the citizens as a whole form a governing body and vote directly on each issue. In a representative democracy, the citizens elect representatives from among themselves to form a governing body.",
+      "difficulty": "Easy",
+      "hint": "This is rule by the people."
+    },
+    {
+      "level": 1094,
+      "mainsubject": "Political Science",
+      "question": "The term 'republic' is a form of government in which:",
+      "options": [
+        "The head of state is a monarch",
+        "The country is considered a 'public matter', not the private concern or property of the rulers",
+        "The government is not responsible to the people",
+        "There is no constitution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A republic is a form of government in which the **country is considered a 'public matter' (res publica)**, not the private concern or property of the rulers. The primary positions of power within a republic are attained through democracy or a mix of democracy with oligarchy or autocracy, rather than being inherited. The head of state in a republic is usually a president, not a monarch.",
+      "difficulty": "Easy",
+      "hint": "This is a form of government where the head of state is not a monarch."
+    },
+    {
+      "level": 1095,
+      "mainsubject": "Political Science",
+      "question": "The term 'monarchy' is a form of government in which:",
+      "options": [
+        "The head of state is elected",
+        "A person, the monarch, is head of state for life or until abdication",
+        "The people hold the supreme power",
+        "There is no head of state"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A monarchy is a form of government in which a **person, the monarch, is head of state for life or until abdication**. The political legitimacy and authority of the monarch may vary from purely symbolic to restricted to fully autocratic, and can expand across the domains of the executive, legislative, and judicial.",
+      "difficulty": "Easy",
+      "hint": "This is a form of government with a king or queen."
+    },
+    {
+      "level": 1096,
+      "mainsubject": "Political Science",
+      "question": "The term 'constitutional monarchy' is a form of monarchy in which the monarch:",
+      "options": [
+        "Holds absolute power",
+        "Exercises authority in accordance with a written or unwritten constitution",
+        "Is also the head of the government",
+        "Is elected by the people"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A constitutional monarchy is a form of monarchy in which the sovereign **exercises authority in accordance with a written or unwritten constitution**. The monarch acts as a non-party political head of state under the constitution. The real power is held by an elected government. The United Kingdom is a prominent example.",
+      "difficulty": "Easy",
+      "hint": "This is a monarchy where the monarch's power is limited by a constitution."
+    },
+    {
+      "level": 1097,
+      "mainsubject": "Political Science",
+      "question": "The term 'absolute monarchy' is a form of monarchy in which the monarch:",
+      "options": [
+        "Has their power limited by a constitution",
+        "Is a ceremonial head of state",
+        "Holds supreme autocratic authority, principally not being restricted by written laws, legislature, or customs",
+        "Is elected by the nobility"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Absolute monarchy is a form of monarchy in which the **monarch holds supreme autocratic authority**, principally not being restricted by written laws, legislature, or customs. In this system, the monarch is the ultimate source of all law and power. Saudi Arabia is a modern example.",
+      "difficulty": "Easy",
+      "hint": "In this system, the monarch has absolute power."
+    },
+    {
+      "level": 1098,
+      "mainsubject": "Political Science",
+      "question": "The 'Magna Carta' was a royal charter of rights agreed to by King John of England in 1215. It is considered a foundational document for the:",
+      "options": [
+        "Concept of absolute monarchy",
+        "Principle that everyone, including the king, was subject to the law",
+        "Divine right of kings",
+        "Separation of church and state"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Magna Carta is a landmark document in the history of constitutional law. Its most important legacy is the principle that **everyone, including the king, is subject to the law**. It was a major step in limiting the power of the monarch and establishing the rights of individuals. It has influenced the development of constitutional law in many countries, including the US Constitution.",
+      "difficulty": "Easy",
+      "hint": "This is a famous historical document that limited the power of the king."
+    },
+    {
+      "level": 1099,
+      "mainsubject": "Political Science",
+      "question": "The 'Glorious Revolution' of 1688 in England is significant because it:",
+      "options": [
+        "Led to the execution of the king",
+        "Established the supremacy of Parliament over the monarch",
+        "Led to the establishment of a republic",
+        "Resulted in a civil war"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Glorious Revolution was the overthrow of King James II of England by a union of English Parliamentarians with the Dutch stadtholder William of Orange. The event is significant because it **established the principle of parliamentary sovereignty**, meaning that the Parliament is the supreme legal authority in the UK. It led to the signing of the Bill of Rights of 1689.",
+      "difficulty": "Medium",
+      "hint": "This revolution established the power of the Parliament."
+    },
+    {
+      "level": 1100,
+      "mainsubject": "Political Science",
+      "question": "The 'American Revolution' was an ideological and political revolution that occurred in colonial North America between 1765 and 1783. It resulted in the:",
+      "options": [
+        "Establishment of a constitutional monarchy",
+        "Formation of the United States of America as an independent nation",
+        "Abolition of slavery",
+        "Expansion of the British Empire"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The American Revolution was a colonial revolt that took place between 1765 and 1783. The American Patriots in the Thirteen Colonies defeated the British in the American Revolutionary War with the assistance of France, winning independence from Great Britain and establishing the **United States of America**.",
+      "difficulty": "Easy",
+      "hint": "This revolution led to the birth of the United States."
+    },
+    {
+      "level": 1101,
+      "mainsubject": "Political Science",
+      "question": "The 'French Revolution' was a period of far-reaching social and political upheaval in France that lasted from 1789 until 1799. Its motto was:",
+      "options": [
+        "Life, Liberty, and the pursuit of Happiness",
+        "Liberty, Equality, Fraternity",
+        "No taxation without representation",
+        "Peace, Land, and Bread"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The French Revolution was a period of radical political and societal change in France. The ideals of the revolution are summed up in the famous motto '**Liberté, Égalité, Fraternité**' (Liberty, Equality, Fraternity). These ideals have had a profound impact on the development of modern democratic thought.",
+      "difficulty": "Easy",
+      "hint": "This is the famous motto of the French Republic."
+    },
+    {
+      "level": 1102,
+      "mainsubject": "Political Science",
+      "question": "The 'Russian Revolution' of 1917 led to the overthrow of the Tsarist autocracy and the establishment of the:",
+      "options": [
+        "Russian Republic",
+        "Soviet Union, the world's first socialist state",
+        "Constitutional monarchy",
+        "Fascist state"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Russian Revolution was a pair of revolutions in Russia in 1917 which dismantled the Tsarist autocracy and led to the rise of the **Soviet Union**. The Bolsheviks, led by Vladimir Lenin, seized power in the October Revolution and established the world's first constitutionally socialist state.",
+      "difficulty": "Easy",
+      "hint": "This revolution led to the creation of the first communist state."
     }
   ],
   Economics: [
