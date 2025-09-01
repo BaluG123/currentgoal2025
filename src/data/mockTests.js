@@ -1,7 +1,8 @@
 export const MOCK_TESTS_DATA = [
   {
     id: 'mock_1',
-    title: 'UPSC Prelims Mock Test 1',
+    // title: 'UPSC Prelims Mock Test 1',
+    title:'PSI/ESI Mock Test 0',
     subject: 'General Studies',
     description: 'Comprehensive mock test covering all major topics for UPSC Prelims',
     totalQuestions: 100,
@@ -23,7 +24,8 @@ export const MOCK_TESTS_DATA = [
   },
   {
     id: 'mock_2',
-    title: 'Karnataka PSI Mock Test 1',
+    // title: 'Karnataka PSI Mock Test 1',
+    title:'PSI/ESI Mock Test 1',
     subject: 'General Knowledge',
     description: 'Mock test specifically designed for Karnataka PSI examinations',
     totalQuestions: 100,
@@ -45,7 +47,8 @@ export const MOCK_TESTS_DATA = [
   },
   {
     id: 'mock_3',
-    title: 'Banking Mock Test 1',
+    // title: 'Banking Mock Test 1',
+    title:'PSI/ESI Mock Test 2',
     subject: 'Banking & Finance',
     description: 'Mock test for banking sector examinations and interviews',
     totalQuestions: 100,
@@ -67,7 +70,8 @@ export const MOCK_TESTS_DATA = [
   },
   {
     id: 'mock_4',
-    title: 'SSC CGL Mock Test 1',
+    // title: 'SSC CGL Mock Test 1',
+    title:'PSI/ESI Mock Test 3',
     subject: 'General Intelligence',
     description: 'Mock test for SSC CGL Tier 1 examination',
     totalQuestions: 100,
@@ -89,7 +93,8 @@ export const MOCK_TESTS_DATA = [
   },
     {
     id: 'mock_5',
-    title: 'SSC CGL Mock Test 2',
+    // title: 'SSC CGL Mock Test 2',
+    title:'PSI/ESI Mock Test 4',
     subject: 'General Intelligence',
     description: 'Mock test for SSC CGL Tier 1 examination',
     totalQuestions: 100,
@@ -5971,6 +5976,8 @@ export const MOCK_TEST_4_QUESTIONS = [
   }
 ]
 
+export const MOCK_TEST_5_QUESTIONS = []
+
 // Function to get mock test by ID
 export const getMockTestById = (id) => {
   return MOCK_TESTS_DATA.find(test => test.id === id);
@@ -5988,7 +5995,7 @@ export const getMockTestQuestions = (testId) => {
     case 'mock_4':
       return MOCK_TEST_4_QUESTIONS; // Using same questions for now
     case 'mock_5':
-      return MOCK_TEST_1_QUESTIONS;
+      return MOCK_TEST_5_QUESTIONS;
     default:
       return [];
   }
