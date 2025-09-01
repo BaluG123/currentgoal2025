@@ -23,9 +23,9 @@ export const MOCK_TESTS_DATA = [
   },
   {
     id: 'mock_2',
-    title: 'Karnataka PSC Mock Test 1',
+    title: 'Karnataka PSI Mock Test 1',
     subject: 'General Knowledge',
-    description: 'Mock test specifically designed for Karnataka PSC examinations',
+    description: 'Mock test specifically designed for Karnataka PSI examinations',
     totalQuestions: 100,
     totalMarks: 150,
     duration: 90,
@@ -1667,78 +1667,1481 @@ export const MOCK_TEST_1_QUESTIONS = [
 ]
 
 // Sample questions for Mock Test 2 (Karnataka PSC)
+// export const MOCK_TEST_2_QUESTIONS = [
+//   {
+//     id: 1,
+//     question: 'Who was the first Chief Minister of Karnataka after its formation in 1956?',
+//     options: [
+//       'K. Hanumanthaiya',
+//       'S. Nijalingappa',
+//       'Devaraj Urs',
+//       'Ramakrishna Hegde'
+//     ],
+//     correctAnswer: 0, // Index 0 = 'K. Hanumanthaiya'
+//     explanation: 'K. Hanumanthaiya was the first Chief Minister of Karnataka after its formation in 1956. He served from 1956 to 1957.',
+//     topic: 'Karnataka History',
+//     difficulty: 'Medium'
+//   },
+//   {
+//     id: 2,
+//     question: 'Which is the highest peak in Karnataka?',
+//     options: [
+//       'Mullayanagiri',
+//       'Kudremukh',
+//       'Tadiandamol',
+//       'Pushpagiri'
+//     ],
+//     correctAnswer: 0, // Index 0 = 'Mullayanagiri'
+//     explanation: 'Mullayanagiri is the highest peak in Karnataka with an elevation of 1,925 meters. It is located in the Chikmagalur district.',
+//     topic: 'Karnataka Geography',
+//     difficulty: 'Easy'
+//   },
+//   {
+//     id: 3,
+//     question: 'The famous Hampi ruins are located in which district of Karnataka?',
+//     options: [
+//       'Bellary',
+//       'Vijayanagara',
+//       'Raichur',
+//       'Koppal'
+//     ],
+//     correctAnswer: 1, // Index 1 = 'Vijayanagara'
+//     explanation: 'Hampi ruins are located in the Vijayanagara district of Karnataka. It was the capital of the Vijayanagara Empire.',
+//     topic: 'Karnataka History',
+//     difficulty: 'Easy'
+//   },
+//   {
+//     id: 4,
+//     question: 'Which river is known as the "Dakshina Ganga" of South India?',
+//     options: [
+//       'Kaveri',
+//       'Krishna',
+//       'Tungabhadra',
+//       'Malaprabha'
+//     ],
+//     correctAnswer: 0, // Index 0 = 'Kaveri'
+//     explanation: 'Kaveri is known as the "Dakshina Ganga" (Ganga of the South) due to its religious significance and the number of temples along its banks.',
+//     topic: 'Karnataka Geography',
+//     difficulty: 'Medium'
+//   },
+//   {
+//     id: 5,
+//     question: 'The famous Jog Falls is located on which river?',
+//     options: [
+//       'Sharavathi',
+//       'Kali',
+//       'Gangavali',
+//       'Aghanashini'
+//     ],
+//     correctAnswer: 0, // Index 0 = 'Sharavathi'
+//     explanation: 'Jog Falls is located on the Sharavathi River in the Shimoga district of Karnataka. It is the second-highest plunge waterfall in India.',
+//     topic: 'Karnataka Geography',
+//     difficulty: 'Medium'
+//   }
+// ];
+
 export const MOCK_TEST_2_QUESTIONS = [
   {
-    id: 1,
-    question: 'Who was the first Chief Minister of Karnataka after its formation in 1956?',
-    options: [
-      'K. Hanumanthaiya',
-      'S. Nijalingappa',
-      'Devaraj Urs',
-      'Ramakrishna Hegde'
+    "id": 1,
+    "question": "Which of the following statements is incorrect regarding the Harappan Civilization?",
+    "options": [
+      "The Harappan seals were primarily used for commercial purposes.",
+      "The Great Bath of Mohenjo-Daro was used for ritual bathing.",
+      "The Harappans were the first to cultivate cotton.",
+      "The Harappan society was matriarchal in nature."
     ],
-    correctAnswer: 0, // Index 0 = 'K. Hanumanthaiya'
-    explanation: 'K. Hanumanthaiya was the first Chief Minister of Karnataka after its formation in 1956. He served from 1956 to 1957.',
-    topic: 'Karnataka History',
-    difficulty: 'Medium'
+    "correctAnswer": 3,
+    "explanation": "While there is evidence of a mother goddess cult, there is no conclusive evidence to suggest that the Harappan society was matriarchal. The other three statements are widely accepted facts about the Harappan Civilization.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
   },
   {
-    id: 2,
-    question: 'Which is the highest peak in Karnataka?',
-    options: [
-      'Mullayanagiri',
-      'Kudremukh',
-      'Tadiandamol',
-      'Pushpagiri'
+    "id": 2,
+    "question": "The concept of 'Dyarchy' was introduced in the Indian provinces by the:",
+    "options": [
+      "Government of India Act, 1909",
+      "Government of India Act, 1919",
+      "Government of India Act, 1935",
+      "Indian Councils Act, 1861"
     ],
-    correctAnswer: 0, // Index 0 = 'Mullayanagiri'
-    explanation: 'Mullayanagiri is the highest peak in Karnataka with an elevation of 1,925 meters. It is located in the Chikmagalur district.',
-    topic: 'Karnataka Geography',
-    difficulty: 'Easy'
+    "correctAnswer": 1,
+    "explanation": "The Government of India Act, 1919, also known as the Montagu-Chelmsford Reforms, introduced the system of 'Dyarchy' in the provinces. This system divided the provincial subjects into two parts - transferred and reserved.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
   },
   {
-    id: 3,
-    question: 'The famous Hampi ruins are located in which district of Karnataka?',
-    options: [
-      'Bellary',
-      'Vijayanagara',
-      'Raichur',
-      'Koppal'
+    "id": 3,
+    "question": "Which of the following statements about the Western Ghats is incorrect?",
+    "options": [
+      "The Western Ghats are older than the Himalayas.",
+      "The highest peak in the Western Ghats is Anamudi.",
+      "The Western Ghats are a UNESCO World Heritage Site.",
+      "The Western Ghats are a continuous range of mountains."
     ],
-    correctAnswer: 1, // Index 1 = 'Vijayanagara'
-    explanation: 'Hampi ruins are located in the Vijayanagara district of Karnataka. It was the capital of the Vijayanagara Empire.',
-    topic: 'Karnataka History',
-    difficulty: 'Easy'
+    "correctAnswer": 3,
+    "explanation": "The Western Ghats are not a continuous range of mountains. They are interrupted by several gaps, the most prominent being the Palghat Gap. The other three statements are correct.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
   },
   {
-    id: 4,
-    question: 'Which river is known as the "Dakshina Ganga" of South India?',
-    options: [
-      'Kaveri',
-      'Krishna',
-      'Tungabhadra',
-      'Malaprabha'
+    "id": 4,
+    "question": "The 'Fiscal Deficit' of a country is the difference between:",
+    "options": [
+      "Total expenditure and total receipts",
+      "Total expenditure and total receipts other than borrowings",
+      "Revenue expenditure and revenue receipts",
+      "Capital expenditure and capital receipts"
     ],
-    correctAnswer: 0, // Index 0 = 'Kaveri'
-    explanation: 'Kaveri is known as the "Dakshina Ganga" (Ganga of the South) due to its religious significance and the number of temples along its banks.',
-    topic: 'Karnataka Geography',
-    difficulty: 'Medium'
+    "correctAnswer": 1,
+    "explanation": "Fiscal Deficit is the difference between the total expenditure of the government (both revenue and capital) and its total receipts (both revenue and capital) other than borrowings. It represents the total borrowing requirement of the government.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
   },
   {
-    id: 5,
-    question: 'The famous Jog Falls is located on which river?',
-    options: [
-      'Sharavathi',
-      'Kali',
-      'Gangavali',
-      'Aghanashini'
+    "id": 5,
+    "question": "Which of the following is not a feature of the Indian Constitution?",
+    "options": [
+      "Parliamentary form of government",
+      "Federal system with a unitary bias",
+      "Presidential form of government",
+      "Independent judiciary"
     ],
-    correctAnswer: 0, // Index 0 = 'Sharavathi'
-    explanation: 'Jog Falls is located on the Sharavathi River in the Shimoga district of Karnataka. It is the second-highest plunge waterfall in India.',
-    topic: 'Karnataka Geography',
-    difficulty: 'Medium'
+    "correctAnswer": 2,
+    "explanation": "The Indian Constitution provides for a parliamentary form of government, not a presidential one. In a parliamentary system, the executive is responsible to the legislature.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 6,
+    "question": "The 'Doctrine of Lapse' was a policy of annexation followed by:",
+    "options": [
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Canning",
+      "Lord Curzon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Doctrine of Lapse' was an annexation policy followed by Lord Dalhousie, the Governor-General of India from 1848 to 1856. According to this policy, any princely state under the direct or indirect control of the East India Company would be annexed if the ruler died without a male heir.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 7,
+    "question": "The famous 'Navaratnas' or 'Nine Gems' were associated with the court of which of the following rulers?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Chandragupta II",
+      "Harshavardhana"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The famous 'Navaratnas' or 'Nine Gems' were a group of nine extraordinary people in the court of the Gupta emperor Chandragupta II. They included the great Sanskrit poet Kalidasa.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following rivers is not a tributary of the river Ganga?",
+    "options": [
+      "Yamuna",
+      "Ghaghara",
+      "Chambal",
+      "Indravati"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Indravati river is a tributary of the Godavari river. The other three rivers - Yamuna, Ghaghara, and Chambal - are tributaries of the Ganga.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 9,
+    "question": "The 'Mahalanobis Model' of economic development was adopted in which of the following Five-Year Plans?",
+    "options": [
+      "First Five-Year Plan",
+      "Second Five-Year Plan",
+      "Third Five-Year Plan",
+      "Fourth Five-Year Plan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Mahalanobis Model' of economic development, which emphasized on the development of heavy industries, was adopted in the Second Five-Year Plan (1956-61).",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 10,
+    "question": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its:",
+    "options": [
+      "Advisory jurisdiction",
+      "Appellate jurisdiction",
+      "Original jurisdiction",
+      "Writ jurisdiction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The power of the Supreme Court to decide disputes between the Centre and the States falls under its original jurisdiction. This means that such cases can be directly filed in the Supreme Court.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 11,
+    "question": "The 'Quit India Movement' of 1942 was launched in response to the failure of the:",
+    "options": [
+      "Cripps Mission",
+      "Cabinet Mission",
+      "Simon Commission",
+      "Wavell Plan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'Quit India Movement' was launched in August 1942 in response to the failure of the Cripps Mission, which had been sent to India to secure Indian cooperation for the British war effort in World War II.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 12,
+    "question": "The famous rock-cut temples of Ellora were built by the rulers of which of the following dynasties?",
+    "options": [
+      "Chalukyas",
+      "Rashtrakutas",
+      "Pallavas",
+      "Cholas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The famous rock-cut temples of Ellora were built by the rulers of the Rashtrakuta dynasty. The most famous of these is the Kailasa temple, which is a monolithic structure carved out of a single rock.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 13,
+    "question": "The 'La Nina' phenomenon is associated with:",
+    "options": [
+      "Unusually warm ocean temperatures in the Equatorial Pacific",
+      "Unusually cold ocean temperatures in the Equatorial Pacific",
+      "The warming of the Indian Ocean",
+      "The cooling of the Atlantic Ocean"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Nina is a climate pattern that describes the cooling of surface ocean waters along the tropical west coast of South America. It is the opposite of El Nino, which is associated with unusually warm ocean temperatures in the same region.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 14,
+    "question": "The 'Minimum Support Price' (MSP) for agricultural crops in India is recommended by the:",
+    "options": [
+      "Ministry of Agriculture and Farmers' Welfare",
+      "Commission for Agricultural Costs and Prices (CACP)",
+      "NITI Aayog",
+      "Food Corporation of India (FCI)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Minimum Support Price (MSP) for various agricultural crops in India is recommended by the Commission for Agricultural Costs and Prices (CACP). The final decision on the MSP is taken by the Cabinet Committee on Economic Affairs (CCEA).",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 15,
+    "question": "The 73rd Amendment to the Indian Constitution, which provides for the Panchayati Raj system, was enacted in the year:",
+    "options": [
+      "1990",
+      "1991",
+      "1992",
+      "1993"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 73rd Amendment to the Indian Constitution, which provides for a three-tier system of Panchayati Raj in the country, was enacted in the year 1992. It came into force on April 24, 1993.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 16,
+    "question": "The Battle of Talikota, which led to the decline of the Vijayanagara Empire, was fought in the year:",
+    "options": [
+      "1526",
+      "1556",
+      "1565",
+      "1576"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Battle of Talikota was fought in 1565 between the Vijayanagara Empire and an alliance of the Deccan sultanates. The battle resulted in a decisive defeat for the Vijayanagara Empire and marked the beginning of its decline.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 17,
+    "question": "The concept of 'Public Interest Litigation' (PIL) originated in which of the following countries?",
+    "options": [
+      "United Kingdom",
+      "United States of America",
+      "Australia",
+      "India"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The concept of 'Public Interest Litigation' (PIL) originated in the United States of America in the 1960s. It was introduced in India in the late 1970s and has since become an important tool for judicial activism.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 18,
+    "question": "The 'Ring of Fire' is a major area in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur. This is due to:",
+    "options": [
+      "The convergence of several tectonic plates",
+      "The divergence of several tectonic plates",
+      "The presence of a large number of hotspots",
+      "The presence of a large number of ocean trenches"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'Ring of Fire' is a result of the convergence of several tectonic plates, which leads to a high level of seismic and volcanic activity.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 19,
+    "question": "The 'Narasimham Committee' was constituted to suggest reforms in the:",
+    "options": [
+      "Banking sector",
+      "Insurance sector",
+      "Taxation system",
+      "Capital market"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'Narasimham Committee' was constituted in 1991 to suggest reforms in the banking sector in India. The committee made several important recommendations, many of which were implemented by the government.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 20,
+    "question": "The power of the President of India to grant pardons, reprieves, respites or remissions of punishment is provided for in which of the following articles of the Constitution?",
+    "options": [
+      "Article 72",
+      "Article 123",
+      "Article 143",
+      "Article 352"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article 72 of the Indian Constitution empowers the President to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 21,
+    "question": "The famous 'Gandhara School of Art' flourished during the reign of the:",
+    "options": [
+      "Mauryas",
+      "Guptas",
+      "Kushanas",
+      "Satavahanas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Gandhara School of Art' flourished during the reign of the Kushana dynasty, particularly under the patronage of the emperor Kanishka. It is known for its unique blend of Indian and Greco-Roman artistic traditions.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 22,
+    "question": "The 'Preamble' to the Indian Constitution was amended for the first time by the:",
+    "options": [
+      "24th Amendment Act",
+      "42nd Amendment Act",
+      "44th Amendment Act",
+      "52nd Amendment Act"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Preamble to the Indian Constitution was amended for the first and only time by the 42nd Amendment Act of 1976. The amendment added the words 'socialist', 'secular', and 'integrity' to the Preamble.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 23,
+    "question": "The 'Saddle Peak', the highest peak in the Andaman and Nicobar Islands, is located in:",
+    "options": [
+      "Great Nicobar",
+      "Middle Andaman",
+      "South Andaman",
+      "North Andaman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Saddle Peak, the highest peak in the Andaman and Nicobar Islands, is located in North Andaman Island. It has an elevation of 732 meters.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 24,
+    "question": "The 'Rolling Plan' concept was introduced in India by the:",
+    "options": [
+      "Indian National Congress government",
+      "Janata Party government",
+      "United Front government",
+      "National Democratic Alliance government"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Rolling Plan' concept was introduced in India by the Janata Party government in 1978. It was a new approach to planning that aimed to make the planning process more flexible and responsive to the changing economic situation.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 25,
+    "question": "The 'Contingency Fund of India' is at the disposal of the:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Finance Minister",
+      "Comptroller and Auditor General"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Contingency Fund of India is at the disposal of the President of India. It is used to meet unforeseen expenditure pending its authorization by the Parliament.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 26,
+    "question": "The ancient city of 'Pataliputra' was founded by:",
+    "options": [
+      "Bimbisara",
+      "Ajatashatru",
+      "Udayin",
+      "Chandragupta Maurya"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ancient city of Pataliputra, which was the capital of the Magadhan empire, was founded by Udayin, the son and successor of Ajatashatru.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 27,
+    "question": "The 'Ryotwari System' of land revenue was introduced by the British in:",
+    "options": [
+      "Bengal",
+      "Madras and Bombay",
+      "Punjab",
+      "United Provinces"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Ryotwari System' of land revenue was introduced by the British in the Madras and Bombay presidencies. Under this system, the land revenue was collected directly from the ryots or cultivators.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 28,
+    "question": "The 'Tropic of Cancer' does not pass through which of the following Indian states?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Odisha",
+      "West Bengal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Tropic of Cancer passes through eight Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does not pass through Odisha.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 29,
+    "question": "The 'Disinvestment' process in India was started in the year:",
+    "options": [
+      "1990",
+      "1991",
+      "1992",
+      "1993"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The disinvestment process in India was started in the year 1991 as a part of the economic reforms initiated by the then government. It involves the sale of a part of the government's equity in public sector undertakings.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 30,
+    "question": "The 'Council of Ministers' is collectively responsible to the:",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "correctAnswer": 3,
+    "explanation": "According to Article 75(3) of the Indian Constitution, the Council of Ministers is collectively responsible to the Lok Sabha, the lower house of the Parliament.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 31,
+    "question": "The famous 'Iron Pillar' near the Qutub Minar in Delhi is believed to have been built during the reign of the:",
+    "options": [
+      "Mauryas",
+      "Guptas",
+      "Kushanas",
+      "Sultans of Delhi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The famous 'Iron Pillar' near the Qutub Minar in Delhi is believed to have been built during the reign of the Gupta dynasty, probably in the 4th century AD. It is famous for its rust-resistant composition.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 32,
+    "question": "The 'Sarkaria Commission' was set up to review the relations between:",
+    "options": [
+      "The President and the Prime Minister",
+      "The legislature and the executive",
+      "The Centre and the States",
+      "The judiciary and the executive"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Sarkaria Commission' was set up in 1983 to review the relations between the Centre and the States. It submitted its report in 1988 and made several important recommendations to improve the federal system in the country.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 33,
+    "question": "The 'Duncan Passage' is located between:",
+    "options": [
+      "South Andaman and Little Andaman",
+      "Little Andaman and Car Nicobar",
+      "Car Nicobar and Little Nicobar",
+      "Little Nicobar and Great Nicobar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'Duncan Passage' is a strait in the Indian Ocean. It is located between South Andaman and Little Andaman islands.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 34,
+    "question": "The 'National Development Council' (NDC) is chaired by the:",
+    "options": [
+      "President of India",
+      "Vice-President of India",
+      "Prime Minister of India",
+      "Finance Minister of India"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The National Development Council (NDC) is the apex body for decision-making and deliberation on development matters in India. It is chaired by the Prime Minister of India.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 35,
+    "question": "The 'Zero Hour' in the Indian Parliament starts at:",
+    "options": [
+      "10:00 AM",
+      "11:00 AM",
+      "12:00 PM",
+      "1:00 PM"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Zero Hour' in the Indian Parliament is the time when Members of Parliament (MPs) can raise issues of urgent public importance. It starts at 12:00 PM, immediately after the Question Hour.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 36,
+    "question": "The 'Poona Pact' was an agreement between Mahatma Gandhi and:",
+    "options": [
+      "Lord Irwin",
+      "Muhammad Ali Jinnah",
+      "B. R. Ambedkar",
+      "Jawaharlal Nehru"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Poona Pact' was an agreement between Mahatma Gandhi and B. R. Ambedkar on behalf of the depressed classes and upper-caste Hindu leaders on the reservation of electoral seats for the depressed classes in the legislature of British India.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 37,
+    "question": "The 'Instrument of Instructions' contained in the Government of India Act, 1935 have been incorporated in the Constitution of India in the year 1950 as:",
+    "options": [
+      "Fundamental Rights",
+      "Directive Principles of State Policy",
+      "Fundamental Duties",
+      "Emergency Provisions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Instrument of Instructions' contained in the Government of India Act, 1935 have been incorporated in the Constitution of India in the year 1950 as the Directive Principles of State Policy.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 38,
+    "question": "The 'Loktak Lake', the largest freshwater lake in Northeast India, is located in the state of:",
+    "options": [
+      "Manipur",
+      "Mizoram",
+      "Nagaland",
+      "Meghalaya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loktak Lake is the largest freshwater lake in Northeast India, located in the state of Manipur. It is famous for the phumdis (heterogeneous mass of vegetation, soil, and organic matter at various stages of decomposition) floating over it.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 39,
+    "question": "The 'Goods and Services Tax' (GST) was introduced in India with effect from:",
+    "options": [
+      "April 1, 2017",
+      "July 1, 2017",
+      "April 1, 2018",
+      "July 1, 2018"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Goods and Services Tax (GST) was introduced in India with effect from July 1, 2017. It is an indirect tax that has replaced many indirect taxes in India such as the excise duty, VAT, services tax, etc.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 40,
+    "question": "The 'Anti-Defection Law' in India is provided for in the:",
+    "options": [
+      "Eighth Schedule to the Constitution",
+      "Ninth Schedule to the Constitution",
+      "Tenth Schedule to the Constitution",
+      "Eleventh Schedule to the Constitution"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Anti-Defection Law' in India is provided for in the Tenth Schedule to the Constitution. It was added to the Constitution by the 52nd Amendment Act of 1985.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 41,
+    "question": "The 'Treaty of Srirangapatna' was signed between Tipu Sultan and:",
+    "options": [
+      "Robert Clive",
+      "Warren Hastings",
+      "Lord Cornwallis",
+      "Lord Wellesley"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Treaty of Srirangapatna' was signed in 1792 between Tipu Sultan, the ruler of Mysore, and the British East India Company, represented by Lord Cornwallis. The treaty ended the Third Anglo-Mysore War.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 42,
+    "question": "The 'Indian National Army' (INA) was founded by:",
+    "options": [
+      "Subhas Chandra Bose",
+      "Rash Behari Bose",
+      "Mohan Singh",
+      "Shah Nawaz Khan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Indian National Army (INA) was founded by Captain Mohan Singh in 1942 in Southeast Asia during World War II. Subhas Chandra Bose later revived it and led it to fight against the British.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 43,
+    "question": "The 'Chilika Lake', the largest coastal lagoon in India, is located in the state of:",
+    "options": [
+      "Andhra Pradesh",
+      "Odisha",
+      "Tamil Nadu",
+      "West Bengal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chilika Lake is the largest coastal lagoon in India and the second largest in the world. It is located in the state of Odisha.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 44,
+    "question": "The 'Pradhan Mantri Jan Dhan Yojana' (PMJDY) was launched in the year:",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is a national mission for financial inclusion to ensure access to financial services, namely, banking/ savings & deposit accounts, remittance, credit, insurance, pension in an affordable manner. It was launched in the year 2014.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 45,
+    "question": "The 'Right to Property' was removed from the list of Fundamental Rights by the:",
+    "options": [
+      "42nd Amendment Act",
+      "44th Amendment Act",
+      "52nd Amendment Act",
+      "61st Amendment Act"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Right to Property' was removed from the list of Fundamental Rights by the 44th Amendment Act of 1978. It is now a legal right under Article 300-A of the Constitution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 46,
+    "question": "The 'First Battle of Panipat' was fought between:",
+    "options": [
+      "Babur and Ibrahim Lodi",
+      "Akbar and Hemu",
+      "Humayun and Sher Shah Suri",
+      "Ahmad Shah Abdali and the Marathas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The First Battle of Panipat was fought on 21 April 1526 between the invading forces of Babur and the Lodi dynasty. It marked the beginning of the Mughal Empire in India.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 47,
+    "question": "The 'Vaikom Satyagraha' was launched in the state of:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Vaikom Satyagraha was a movement in Travancore (modern-day Kerala) for the rights of the depressed classes to use the public roads around the Vaikom temple.",
+    "topic": "Indian History",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 48,
+    "question": "The 'Nathula Pass' connects India with:",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "China",
+      "Myanmar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Nathula Pass is a mountain pass in the Himalayas in East Sikkim district. It connects the Indian state of Sikkim with China's Tibet Autonomous Region.",
+    "topic": "Geography",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 49,
+    "question": "The 'Monetary Policy' in India is formulated by the:",
+    "options": [
+      "Ministry of Finance",
+      "Reserve Bank of India (RBI)",
+      "NITI Aayog",
+      "Securities and Exchange Board of India (SEBI)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Monetary Policy in India is formulated by the Monetary Policy Committee (MPC) of the Reserve Bank of India (RBI). The primary objective of the monetary policy is to maintain price stability while keeping in mind the objective of growth.",
+    "topic": "Economics",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 50,
+    "question": "The 'Writ of Mandamus' can be issued by the Supreme Court or a High Court to:",
+    "options": [
+      "An inferior court to stop proceedings in a particular case",
+      "A public official to perform his public duty",
+      "A person who has illegally usurped a public office",
+      "Bring the body of a person before the court"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The writ of mandamus is issued by a superior court to a subordinate court or a public official to perform a public duty. It is a command to do something.",
+    "topic": "Indian Constitution",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 51,
+    "question": "Find the next number in the series: 3, 7, 13, 21, 31, ...",
+    "options": [
+      "41",
+      "43",
+      "45",
+      "47"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The difference between consecutive terms is increasing by 2. (7-3=4, 13-7=6, 21-13=8, 31-21=10). The next difference will be 12. So, the next number is 31 + 12 = 43.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 52,
+    "question": "A man is facing north-west. He turns 90 degrees in the clockwise direction, then 180 degrees in the anti-clockwise direction and then another 90 degrees in the same direction. Which direction is he facing now?",
+    "options": [
+      "South-West",
+      "South-East",
+      "West",
+      "East"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Initial direction: North-West. After 90 degrees clockwise: North-East. After 180 degrees anti-clockwise: South-West. After another 90 degrees anti-clockwise: South-East.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 53,
+    "question": "If 'A' is the brother of 'B', 'C' is the sister of 'A', 'D' is the brother of 'E' and 'E' is the daughter of 'B', then who is the uncle of 'D'?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "correctAnswer": 0,
+    "explanation": "D is the brother of E, and E is the daughter of B. So, D is the son of B. A is the brother of B. Therefore, A is the uncle of D.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 54,
+    "question": "In a certain code language, 'COMPUTER' is written as 'RFUVQNPC'. How will 'MEDICINE' be written in that code language?",
+    "options": [
+      "MFEDJJOE",
+      "EOJDEJFM",
+      "MFEJDJOE",
+      "EOJDJEFM"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Each letter in the word is moved one step backward to obtain the corresponding letter of the code, except for the first and last letters which are moved one step forward.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 55,
+    "question": "A and B can do a piece of work in 12 days, B and C in 15 days, and C and A in 20 days. In how many days can they do it all working together?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2(A+B+C)'s 1 day's work = (1/12 + 1/15 + 1/20) = 1/5. (A+B+C)'s 1 day's work = 1/10. So, they can do the work together in 10 days.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 56,
+    "question": "What is the angle between the two hands of a clock at 4:20?",
+    "options": [
+      "0 degrees",
+      "5 degrees",
+      "10 degrees",
+      "20 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Angle = |(60H - 11M)/2|. Here, H=4, M=20. Angle = |(60*4 - 11*20)/2| = |(240 - 220)/2| = 10 degrees.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 57,
+    "question": "A train 150m long is running at a speed of 90 km/hr. How long will it take to cross a platform 250m long?",
+    "options": [
+      "12 seconds",
+      "16 seconds",
+      "20 seconds",
+      "24 seconds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed = 90 km/hr = 25 m/s. Total distance = 150 + 250 = 400m. Time = Distance/Speed = 400/25 = 16 seconds.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 58,
+    "question": "The average of 5 numbers is 27. If one number is excluded, the average becomes 25. What is the excluded number?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sum of 5 numbers = 27 * 5 = 135. Sum of 4 numbers = 25 * 4 = 100. Excluded number = 135 - 100 = 35.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 59,
+    "question": "A man buys an article for Rs. 27.50 and sells it for Rs. 28.60. Find his gain percent.",
+    "options": [
+      "2%",
+      "3%",
+      "4%",
+      "5%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gain = 28.60 - 27.50 = 1.10. Gain % = (1.10/27.50) * 100 = 4%.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 60,
+    "question": "What is the least number that must be added to 1056 to get a number exactly divisible by 23?",
+    "options": [
+      "2",
+      "18",
+      "21",
+      "22"
+    ],
+    "correctAnswer": 0,
+    "explanation": "On dividing 1056 by 23, we get a remainder of 21. The number to be added is 23 - 21 = 2.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 61,
+    "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+    "options": [
+      "Rs. 650",
+      "Rs. 690",
+      "Rs. 698",
+      "Rs. 700"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SI for 1 year = 854 - 815 = 39. SI for 3 years = 39 * 3 = 117. Principal = 815 - 117 = 698.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 62,
+    "question": "The ratio of the ages of two persons is 4:7 and the age of one of them is greater than that of the other by 30 years. The sum of their ages is:",
+    "options": [
+      "100 years",
+      "110 years",
+      "120 years",
+      "140 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let their ages be 4x and 7x. Then, 7x - 4x = 30, so 3x = 30 and x = 10. Sum of their ages = 4x + 7x = 11x = 110 years.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 63,
+    "question": "If a man can row at the rate of 5 km/hr in still water and his rate against the current is 3.5 km/hr, then the man's rate along the current is:",
+    "options": [
+      "4.25 km/hr",
+      "6 km/hr",
+      "6.5 km/hr",
+      "8.5 km/hr"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let the man's rate in still water be x and the rate of the current be y. Then, x=5, x-y=3.5. So, y=1.5. Rate along the current = x+y = 5+1.5 = 6.5 km/hr.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 64,
+    "question": "A, B and C enter into a partnership. A invests some money at the beginning, B invests double the amount after 6 months and C invests thrice the amount after 8 months. If the annual profit be Rs. 27000, C's share is:",
+    "options": [
+      "Rs. 8625",
+      "Rs. 9000",
+      "Rs. 10800",
+      "Rs. 11250"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ratio of their capitals = (x*12) : (2x*6) : (3x*4) = 12x : 12x : 12x = 1:1:1. C's share = (1/3) * 27000 = 9000.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 65,
+    "question": "A cone and a hemisphere have equal bases and equal volumes. The ratio of their heights is:",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "3:1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let the radius of the base be r and the height of the cone be h. Then, (1/3) * pi * r^2 * h = (2/3) * pi * r^3. So, h = 2r. Ratio of heights = h:r = 2r:r = 2:1.",
+    "topic": "Mental Ability",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 66,
+    "question": "The 'James Webb Space Telescope' was launched by NASA in collaboration with which of the following space agencies?",
+    "options": [
+      "European Space Agency (ESA) and Canadian Space Agency (CSA)",
+      "Roscosmos and Japan Aerospace Exploration Agency (JAXA)",
+      "Indian Space Research Organisation (ISRO) and China National Space Administration (CNSA)",
+      "German Aerospace Center (DLR) and French Space Agency (CNES)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The James Webb Space Telescope was launched by NASA in collaboration with the European Space Agency (ESA) and the Canadian Space Agency (CSA). It is the most powerful space telescope ever built.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 67,
+    "question": "Who among the following was awarded the Nobel Prize in Literature for the year 2023?",
+    "options": [
+      "Annie Ernaux",
+      "Abdulrazak Gurnah",
+      "Louise Glück",
+      "Jon Fosse"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Nobel Prize in Literature for the year 2023 was awarded to Jon Fosse 'for his innovative plays and prose which give voice to the unsayable'.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 68,
+    "question": "The 'G20 Summit' for the year 2023 was held in which of the following cities?",
+    "options": [
+      "Rome, Italy",
+      "Bali, Indonesia",
+      "New Delhi, India",
+      "Rio de Janeiro, Brazil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The G20 Summit for the year 2023 was held in New Delhi, India. It was the first time that India hosted the G20 Summit.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following countries won the FIFA Women's World Cup 2023?",
+    "options": [
+      "Spain",
+      "England",
+      "Australia",
+      "Sweden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spain won the FIFA Women's World Cup 2023 by defeating England in the final. It was Spain's first ever Women's World Cup title.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 70,
+    "question": "The 'AUKUS' is a trilateral security pact between which of the following countries?",
+    "options": [
+      "Australia, United Kingdom, and United States",
+      "Australia, United States, and Japan",
+      "India, United States, and Australia",
+      "United Kingdom, United States, and Canada"
+    ],
+    "correctAnswer": 0,
+    "explanation": "AUKUS is a trilateral security pact between Australia, the United Kingdom, and the United States. The pact is aimed at countering China's growing influence in the Indo-Pacific region.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 71,
+    "question": "Who among the following has been appointed as the new Chief of the Defence Staff (CDS) of India?",
+    "options": [
+      "General Manoj Pande",
+      "General Anil Chauhan",
+      "General Bipin Rawat",
+      "General Manoj Mukund Naravane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "General Anil Chauhan has been appointed as the new Chief of the Defence Staff (CDS) of India. He is the second person to hold this post, after the death of General Bipin Rawat in a helicopter crash.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 72,
+    "question": "The 'Dadasaheb Phalke Award' for the year 2021 was conferred upon which of the following personalities?",
+    "options": [
+      "Amitabh Bachchan",
+      "Rajinikanth",
+      "Asha Parekh",
+      "Waheeda Rehman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Dadasaheb Phalke Award for the year 2021 was conferred upon the veteran actress Waheeda Rehman for her outstanding contribution to the growth and development of Indian cinema.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 73,
+    "question": "The 'SCO Summit' for the year 2023 was held in which of the following cities?",
+    "options": [
+      "Samarkand, Uzbekistan",
+      "Dushanbe, Tajikistan",
+      "New Delhi, India",
+      "Astana, Kazakhstan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The SCO Summit for the year 2023 was held in New Delhi, India, under the chairmanship of India.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following films won the 'Best Feature Film' award at the 69th National Film Awards?",
+    "options": [
+      "Rocketry: The Nambi Effect",
+      "Sardar Udham",
+      "RRR",
+      "The Kashmir Files"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The film 'Rocketry: The Nambi Effect' won the 'Best Feature Film' award at the 69th National Film Awards.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 75,
+    "question": "The 'BRICS Summit' for the year 2023 was held in which of the following cities?",
+    "options": [
+      "Johannesburg, South Africa",
+      "Beijing, China",
+      "Brasilia, Brazil",
+      "New Delhi, India"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The BRICS Summit for the year 2023 was held in Johannesburg, South Africa.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 76,
+    "question": "Who among the following has been elected as the new President of the World Bank?",
+    "options": [
+      "David Malpass",
+      "Kristalina Georgieva",
+      "Ajay Banga",
+      "Ngozi Okonjo-Iweala"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ajay Banga, an Indian-American business executive, has been elected as the new President of the World Bank. He is the first person of Indian origin to hold this position.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 77,
+    "question": "The 'Operation Kaveri' was launched by the Government of India to evacuate its citizens from which of the following countries?",
+    "options": [
+      "Ukraine",
+      "Sudan",
+      "Afghanistan",
+      "Yemen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Operation Kaveri' was launched by the Government of India to evacuate its citizens from Sudan, which was witnessing intense fighting between the army and a paramilitary group.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following countries has become the newest member of the NATO alliance?",
+    "options": [
+      "Sweden",
+      "Finland",
+      "Ukraine",
+      "Georgia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Finland has become the newest member of the NATO alliance, after its application was ratified by all the member countries.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 79,
+    "question": "The 'World Press Freedom Index' is published by which of the following organizations?",
+    "options": [
+      "UNESCO",
+      "Reporters Without Borders",
+      "Amnesty International",
+      "Human Rights Watch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'World Press Freedom Index' is published annually by the international non-governmental organization, Reporters Without Borders.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 80,
+    "question": "The 'Sampriti' is a joint military exercise between India and which of the following countries?",
+    "options": [
+      "Nepal",
+      "Sri Lanka",
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Sampriti' is a joint military exercise between the armies of India and Bangladesh. The exercise is aimed at enhancing interoperability between the two armies.",
+    "topic": "Current Affairs",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is not a greenhouse gas?",
+    "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrous oxide",
+      "Oxygen"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Oxygen is not a greenhouse gas. Greenhouse gases are those that trap heat in the atmosphere, leading to global warming. Carbon dioxide, methane, and nitrous oxide are the main greenhouse gases.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 82,
+    "question": "The 'pH' of a neutral solution is:",
+    "options": [
+      "Less than 7",
+      "Equal to 7",
+      "Greater than 7",
+      "Equal to 0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pH scale measures the acidity or alkalinity of a solution. A pH of 7 is neutral, a pH less than 7 is acidic, and a pH greater than 7 is alkaline.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 83,
+    "question": "The 'Mitochondria' are known as the 'powerhouses' of the cell because they:",
+    "options": [
+      "Synthesize proteins",
+      "Store genetic material",
+      "Generate energy in the form of ATP",
+      "Control all the activities of the cell"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mitochondria are responsible for generating most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy. That is why they are known as the 'powerhouses' of the cell.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 84,
+    "question": "The 'Law of Inertia' is also known as:",
+    "options": [
+      "Newton's First Law of Motion",
+      "Newton's Second Law of Motion",
+      "Newton's Third Law of Motion",
+      "Law of Conservation of Momentum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'Law of Inertia' is also known as Newton's First Law of Motion. It states that an object at rest will stay at rest and an object in motion will stay in motion with the same speed and in the same direction unless acted upon by an unbalanced force.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following vitamins is essential for the clotting of blood?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vitamin K is essential for the synthesis of certain proteins that are required for blood clotting. A deficiency of vitamin K can lead to excessive bleeding.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 86,
+    "question": "The 'Ozone layer' in the Earth's atmosphere is important because it:",
+    "options": [
+      "Absorbs harmful ultraviolet radiation from the sun",
+      "Regulates the Earth's temperature",
+      "Protects the Earth from meteoroids",
+      "Is essential for the process of photosynthesis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ozone layer is a region of the Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation. It thus protects life on Earth from the harmful effects of UV radiation.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 87,
+    "question": "The 'Bhopal gas tragedy' of 1984 was caused by the leakage of which of the following gases?",
+    "options": [
+      "Methyl isocyanate",
+      "Phosgene",
+      "Carbon monoxide",
+      "Sulphur dioxide"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Bhopal gas tragedy was caused by the leakage of methyl isocyanate (MIC) gas from a pesticide plant in Bhopal, India. It was one of the world's worst industrial disasters.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 88,
+    "question": "The 'Doppler effect' is the change in frequency of a wave in relation to an observer who is moving relative to the wave source. It is used in which of the following applications?",
+    "options": [
+      "Radar systems",
+      "Medical imaging",
+      "Astronomy",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Doppler effect is used in a wide range of applications, including radar systems (to measure the speed of objects), medical imaging (to measure blood flow), and astronomy (to measure the speed of stars and galaxies).",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is not a vector quantity?",
+    "options": [
+      "Displacement",
+      "Velocity",
+      "Speed",
+      "Acceleration"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A vector quantity is a quantity that has both magnitude and direction. Speed has only magnitude, so it is a scalar quantity. Displacement, velocity, and acceleration are all vector quantities.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 90,
+    "question": "The 'Haber process' is used for the industrial synthesis of which of the following compounds?",
+    "options": [
+      "Ammonia",
+      "Sulphuric acid",
+      "Nitric acid",
+      "Hydrochloric acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Haber process is an artificial nitrogen fixation process and is the main industrial procedure for the production of ammonia.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 91,
+    "question": "The 'Green Revolution' in India was primarily focused on increasing the production of:",
+    "options": [
+      "Rice and wheat",
+      "Pulses and oilseeds",
+      "Cotton and jute",
+      "Sugarcane and tea"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Green Revolution was a period of rapid increase in the production of food grains, particularly rice and wheat, in India in the 1960s. It was achieved through the use of high-yielding varieties of seeds, fertilizers, and irrigation.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 92,
+    "question": "The 'Cryogenic engines' used in space launch vehicles use:",
+    "options": [
+      "Liquid hydrogen as fuel and liquid oxygen as oxidizer",
+      "Solid propellants",
+      "Hypergolic propellants",
+      "Nuclear propulsion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cryogenic engines use liquid hydrogen as fuel and liquid oxygen as oxidizer. These propellants are stored at very low temperatures, hence the name 'cryogenic'.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 93,
+    "question": "The 'DNA fingerprinting' technique was developed by:",
+    "options": [
+      "Alec Jeffreys",
+      "James Watson and Francis Crick",
+      "Har Gobind Khorana",
+      "Louis Pasteur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The DNA fingerprinting technique was developed by the British geneticist Alec Jeffreys in 1984. It is a powerful tool for identifying individuals based on their DNA.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 94,
+    "question": "The 'Richter scale' is used to measure the magnitude of:",
+    "options": [
+      "Earthquakes",
+      "Tsunamis",
+      "Volcanic eruptions",
+      "Hurricanes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Richter scale is a logarithmic scale used to measure the magnitude of earthquakes. Each whole number increase on the scale represents a tenfold increase in the measured amplitude.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 95,
+    "question": "The 'LASER' is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation. The acronym LASER stands for:",
+    "options": [
+      "Light Amplification by Stimulated Emission of Radiation",
+      "Light Absorption by Stimulated Emission of Radiation",
+      "Light Amplification by Spontaneous Emission of Radiation",
+      "Light Absorption by Spontaneous Emission of Radiation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The acronym LASER stands for 'Light Amplification by Stimulated Emission of Radiation'.",
+    "topic": "General Science",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 96,
+    "question": "The famous 'Ajanta Caves' are located in the state of:",
+    "options": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Ajanta Caves are a series of 30 rock-cut Buddhist cave monuments located in the Aurangabad district of Maharashtra. They are a UNESCO World Heritage Site.",
+    "topic": "Art and Culture",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 97,
+    "question": "The 'Kathakali' is a classical Indian dance form that originated in the state of:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kathakali is a classical Indian dance form that originated in the state of Kerala. It is known for its elaborate costumes, make-up, and facial expressions.",
+    "topic": "Art and Culture",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 98,
+    "question": "The famous book 'The Discovery of India' was written by:",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The book 'The Discovery of India' was written by Jawaharlal Nehru, the first Prime Minister of India, during his imprisonment at Ahmednagar fort in 1942-45.",
+    "topic": "Literature",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 99,
+    "question": "The 'Jnanpith Award' is the highest literary award in India. Who was the first recipient of this award?",
+    "options": [
+      "G. Sankara Kurup",
+      "Tarashankar Bandopadhyay",
+      "K. V. Puttappa",
+      "Umashankar Joshi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Jnanpith Award was instituted in 1961. The first recipient of the award was the Malayalam writer G. Sankara Kurup in 1965.",
+    "topic": "Literature",
+    "difficulty": "Difficult"
+  },
+  {
+    "id": 100,
+    "question": "The famous 'Khajuraho Group of Monuments' are located in the state of:",
+    "options": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Khajuraho Group of Monuments is a group of Hindu and Jain temples in the Chhatarpur district of Madhya Pradesh. They are a UNESCO World Heritage Site.",
+    "topic": "Art and Culture",
+    "difficulty": "Difficult"
   }
-];
+]
 
 // Function to get mock test by ID
 export const getMockTestById = (id) => {

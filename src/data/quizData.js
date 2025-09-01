@@ -10734,6 +10734,7506 @@ export const QUIZ_DATA = {
       "explanation": "MHA is the common abbreviation for the **Ministry of Home Affairs**. This ministry is primarily responsible for the maintenance of internal security and domestic policy. The Union Home Minister is its head.",
       "difficulty": "Easy",
       "hint": "This ministry is responsible for internal security."
+    },
+        {
+      "level": 503,
+      "mainsubject": "Political Science",
+      "question": "The 'doctrine of colourable legislation' is a legal principle that restrains a legislature from:",
+      "options": [
+        "Passing laws that are too vague.",
+        "Passing laws on a subject that is not in its jurisdiction, by pretending to legislate on a subject within its jurisdiction.",
+        "Passing laws that violate Fundamental Rights.",
+        "Passing laws with retrospective effect."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The doctrine of colourable legislation is used to determine the competency of a legislature to enact a particular law. It means that what cannot be done directly, cannot be done indirectly. If a legislature is prohibited from legislating on a particular subject, it cannot make a law on that subject by giving it a different name or colour. The court looks at the substance of the law, not just its form.",
+      "difficulty": "Hard",
+      "hint": "This doctrine is based on the maxim 'what you cannot do directly, you cannot do indirectly'."
+    },
+    {
+      "level": 504,
+      "mainsubject": "Political Science",
+      "question": "The 'VVPAT' (Voter Verifiable Paper Audit Trail) system was first used in an entire state assembly election in:",
+      "options": [
+        "Nagaland in 2013",
+        "Goa in 2017",
+        "Karnataka in 2018",
+        "Delhi in 2015"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The VVPAT system, which allows voters to verify that their vote was cast as intended, was first used on a large scale across all constituencies of a state during the **Goa assembly elections in 2017**. This was a significant step in enhancing the transparency and verifiability of electronic voting.",
+      "difficulty": "Hard",
+      "hint": "This milestone in electoral transparency occurred in a small coastal state."
+    },
+    {
+      "level": 505,
+      "mainsubject": "Political Science",
+      "question": "The '2G Spectrum Allocation' case, which brought the concept of 'zero-loss theory' into public discourse, was investigated by which agency?",
+      "options": [
+        "The Enforcement Directorate (ED)",
+        "The Central Vigilance Commission (CVC)",
+        "The Central Bureau of Investigation (CBI)",
+        "The Serious Fraud Investigation Office (SFIO)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The investigation into the 2G spectrum allocation case was primarily conducted by the **Central Bureau of Investigation (CBI)**, monitored by the Supreme Court. The Comptroller and Auditor General (CAG) had estimated a massive presumptive loss to the exchequer, which was famously countered with a 'zero-loss theory' by a minister.",
+      "difficulty": "Medium",
+      "hint": "India's premier investigating agency handled this high-profile corruption case."
+    },
+    {
+      "level": 506,
+      "mainsubject": "Political Science",
+      "question": "The 'Subordinate Courts' in a district are under the direct control of the:",
+      "options": [
+        "State Government",
+        "Governor",
+        "High Court of the State",
+        "District Judge"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The control over district courts and other subordinate courts, including the posting, promotion, and grant of leave to persons belonging to the judicial service of a state, is vested in the **High Court of the State** (Article 235). This provision ensures the independence of the subordinate judiciary from the executive.",
+      "difficulty": "Easy",
+      "hint": "The state's highest court supervises the lower judiciary."
+    },
+    {
+      "level": 507,
+      "mainsubject": "Political Science",
+      "question": "The 42nd Amendment Act, 1976, made the advice of the Council of Ministers binding on the President. The 44th Amendment Act, 1978, modified this by:",
+      "options": [
+        "Making the advice non-binding.",
+        "Allowing the President to return the advice for reconsideration once.",
+        "Requiring the advice to be approved by Parliament.",
+        "Allowing the President to seek the Supreme Court's opinion on the advice."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 44th Amendment Act, 1978, provided a crucial safeguard. It added a proviso to Article 74(1) which empowers the President to require the Council of Ministers to reconsider its advice, either generally or otherwise. However, the President **shall act in accordance with the advice tendered after such reconsideration**. Thus, he can return it only once.",
+      "difficulty": "Medium",
+      "hint": "This amendment provided a limited check on the cabinet's power while upholding its supremacy."
+    },
+    {
+      "level": 508,
+      "mainsubject": "Political Science",
+      "question": "The 'Appropriation Bill' is a bill that gives power to the government to:",
+      "options": [
+        "Introduce new taxes",
+        "Alter existing tax rates",
+        "Withdraw money from the Consolidated Fund of India",
+        "Create a new ministry or department"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An Appropriation Bill is a money bill that allows the government to **withdraw funds from the Consolidated Fund of India** to meet its expenditure during the financial year. No money can be withdrawn from the Consolidated Fund except under appropriation made by law. This is a key tool of parliamentary control over the executive.",
+      "difficulty": "Medium",
+      "hint": "This bill is the legal authorization for government spending."
+    },
+    {
+      "level": 509,
+      "mainsubject": "Political Science",
+      "question": "The 'Ahmadiyya' and 'Lahori' groups are sub-sects of which religious community, often a subject of minority rights discussions in South Asia?",
+      "options": [
+        "Sikhism",
+        "Zoroastrianism",
+        "Islam",
+        "Jainism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ahmadiyya and Lahori groups are sub-sects of **Islam**. Their status is a significant issue in countries like Pakistan, where they are considered non-Muslims by the state. This has implications for minority rights and freedom of religion discussions in the region.",
+      "difficulty": "Hard",
+      "hint": "These groups are followers of Mirza Ghulam Ahmad."
+    },
+    {
+      "level": 510,
+      "mainsubject": "Political Science",
+      "question": "The term 'bicameralism' refers to the presence of two houses in the legislature. Which of the following states does NOT have a bicameral legislature?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "West Bengal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**West Bengal** currently has a unicameral legislature (only a Legislative Assembly). The six states with bicameral legislatures are Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh. West Bengal had a Legislative Council earlier but it was abolished in 1969.",
+      "difficulty": "Medium",
+      "hint": "Consider which of these states is not in the current list of six states with a legislative council."
+    },
+    {
+      "level": 511,
+      "mainsubject": "Political Science",
+      "question": "The 'Prevention of Insults to National Honour Act' was enacted in which year?",
+      "options": [
+        "1950",
+        "1961",
+        "1971",
+        "2002"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Prevention of Insults to National Honour Act was enacted in **1971**. This law prohibits the desecration of or insult to the country's national symbols, including the National Flag, the Constitution, the National Anthem, and the Indian map.",
+      "difficulty": "Hard",
+      "hint": "This law was enacted in the year of a major military victory for India."
+    },
+    {
+      "level": 512,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'cooperative federalism' implies:",
+      "options": [
+        "A strict separation of powers between the Centre and States.",
+        "The subordination of States to the Centre.",
+        "Collaboration and coordination between the Centre and States to solve common problems.",
+        "Competition among States for resources."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cooperative federalism is a model where the Centre, States, and local governments share power and **collaborate on policy matters**. It emphasizes partnership and coordination rather than a rigid hierarchy or strict separation. Institutions like the NITI Aayog, GST Council, and Inter-State Council are mechanisms for promoting cooperative federalism.",
+      "difficulty": "Easy",
+      "hint": "The term emphasizes partnership between different levels of government."
+    },
+    {
+      "level": 513,
+      "mainsubject": "Political Science",
+      "question": "The 'Shreya Singhal v. Union of India' case is a landmark Supreme Court judgment related to:",
+      "options": [
+        "The right to privacy",
+        "Freedom of speech and expression on the internet",
+        "Environmental protection",
+        "The validity of the Aadhaar scheme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the Shreya Singhal v. Union of India case (2015), the Supreme Court delivered a landmark judgment on online speech and internet freedom. The Court struck down **Section 66A of the Information Technology Act, 2000**, which criminalized sending 'offensive' messages online, as unconstitutional for being vague and violating the freedom of speech and expression.",
+      "difficulty": "Medium",
+      "hint": "This case is famous for striking down a controversial section of the IT Act."
+    },
+    {
+      "level": 514,
+      "mainsubject": "Political Science",
+      "question": "The term 'judicial overreach' is used when the judiciary:",
+      "options": [
+        "Refuses to hear a case",
+        "Interprets the constitution",
+        "Is perceived to have encroached upon the functions of the legislature or the executive",
+        "Reviews its own judgments"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Judicial overreach is a critical term used when the judiciary is perceived to be acting beyond its jurisdiction and interfering in the domains of the legislature (law-making) or the executive (policy implementation). It is seen as a negative consequence of judicial activism, where the judiciary is seen as violating the principle of separation of powers.",
+      "difficulty": "Easy",
+      "hint": "This term suggests that the judiciary has crossed its constitutional boundaries."
+    },
+    {
+      "level": 515,
+      "mainsubject": "Political Science",
+      "question": "The 'National Disaster Response Force' (NDRF) functions under the Union Ministry of:",
+      "options": [
+        "Defence",
+        "Environment, Forest and Climate Change",
+        "Home Affairs",
+        "Jal Shakti"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Disaster Response Force (NDRF) is a specialized force constituted for the purpose of special response to a threatening disaster situation or disaster. It functions under the **Ministry of Home Affairs** and is governed by the Disaster Management Act, 2005.",
+      "difficulty": "Medium",
+      "hint": "The ministry responsible for internal security also oversees disaster management."
+    },
+    {
+      "level": 516,
+      "mainsubject": "Political Science",
+      "question": "The 'Prorogation' of a house of Parliament means:",
+      "options": [
+        "The termination of a sitting of the House",
+        "The termination of a session of the House",
+        "The dissolution of the Lok Sabha",
+        "A recess during a session"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prorogation means the **termination of a session of the House** by an order made by the President. It is different from adjournment, which only terminates a sitting, and dissolution, which ends the very life of the Lok Sabha.",
+      "difficulty": "Easy",
+      "hint": "This term refers to the end of a session, not just a day's meeting."
+    },
+    {
+      "level": 517,
+      "mainsubject": "Political Science",
+      "question": "The 'Santhali' language was added to the Eighth Schedule of the Constitution by which amendment?",
+      "options": [
+        "71st Amendment Act",
+        "92nd Amendment Act",
+        "97th Amendment Act",
+        "103rd Amendment Act"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The **92nd Constitutional Amendment Act of 2003** added four languages to the Eighth Schedule: Bodo, Dogri, Maithili, and **Santhali**. This took the total number of official languages in the schedule to 22.",
+      "difficulty": "Hard",
+      "hint": "This amendment in the early 2000s added four languages together."
+    },
+    {
+      "level": 518,
+      "mainsubject": "Political Science",
+      "question": "The 'Right to Information' is considered a fundamental right implicit in:",
+      "options": [
+        "Article 14 (Right to Equality)",
+        "Article 19(1)(a) (Right to Freedom of Speech and Expression)",
+        "Article 21 (Right to Life and Personal Liberty)",
+        "Article 32 (Right to Constitutional Remedies)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Supreme Court has held in several judgments that the Right to Information is a fundamental right implicit in the **Right to Freedom of Speech and Expression** guaranteed by Article 19(1)(a). The Court has reasoned that freedom of speech is meaningless without access to information.",
+      "difficulty": "Medium",
+      "hint": "Freedom of speech is dependent on the freedom to access information."
+    },
+    {
+      "level": 519,
+      "mainsubject": "Political Science",
+      "question": "The 'National Anthem' of India was first sung at the Calcutta Session of the Indian National Congress in which year?",
+      "options": [
+        "1905",
+        "1911",
+        "1919",
+        "1929"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Jana Gana Mana', the National Anthem of India, was first publicly sung on 27 December **1911** at the Calcutta (now Kolkata) Session of the Indian National Congress. It was composed by Rabindranath Tagore. The Constituent Assembly adopted it as the National Anthem on 24 January 1950.",
+      "difficulty": "Medium",
+      "hint": "This event took place in the same year the capital of British India was shifted from Calcutta to Delhi."
+    },
+    {
+      "level": 520,
+      "mainsubject": "Political Science",
+      "question": "The 'Chief Vigilance Commissioner' (CVC) is appointed by the President on the recommendation of a committee consisting of:",
+      "options": [
+        "The Prime Minister, the Home Minister, and the Chief Justice of India",
+        "The Prime Minister, the Home Minister, and the Leader of the Opposition in the Lok Sabha",
+        "The Prime Minister, the Speaker of the Lok Sabha, and the Chief Justice of India",
+        "The President, the Prime Minister, and the Chief Justice of India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chief Vigilance Commissioner is appointed by the President on the recommendation of a three-member committee consisting of the **Prime Minister (as Chairperson), the Union Minister of Home Affairs, and the Leader of the Opposition in the Lok Sabha**.",
+      "difficulty": "Hard",
+      "hint": "The selection committee for this anti-corruption watchdog includes the head of government, the home minister, and the leader of the opposition."
+    },
+    {
+      "level": 521,
+      "mainsubject": "Political Science",
+      "question": "The 'Financial Stability and Development Council' (FSDC) is an apex-level body chaired by the:",
+      "options": [
+        "Governor of the RBI",
+        "Prime Minister",
+        "Finance Minister",
+        "Cabinet Secretary"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Financial Stability and Development Council (FSDC) was set up by the government to strengthen and institutionalize the mechanism for maintaining financial stability and enhancing inter-regulatory coordination. It is chaired by the **Union Finance Minister**. Its members include the heads of all financial sector regulators (RBI, SEBI, etc.).",
+      "difficulty": "Hard",
+      "hint": "The head of the finance ministry presides over this council of financial regulators."
+    },
+    {
+      "level": 522,
+      "mainsubject": "Political Science",
+      "question": "The 'Prevention of Terrorism Act' (POTA), 2002, was repealed in which year?",
+      "options": [
+        "2004",
+        "2006",
+        "2008",
+        "It was never repealed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Prevention of Terrorism Act (POTA), 2002, was a controversial anti-terrorism law. It was repealed in **2004** by the newly elected UPA government, which had promised its repeal in its election manifesto. Some of its provisions were later incorporated into the Unlawful Activities (Prevention) Act (UAPA).",
+      "difficulty": "Medium",
+      "hint": "This controversial anti-terror law was repealed by the UPA-I government."
+    },
+    {
+      "level": 523,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'creamy layer' in reservations for OBCs is based on:",
+      "options": [
+        "Caste",
+        "Religion",
+        "Economic status",
+        "Social and economic status"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The concept of 'creamy layer' is based on the **social and economic status** of individuals within the OBCs. The Supreme Court, in the Indra Sawhney case, held that the benefit of reservation should not be extended to the socially advanced sections of the OBCs. The criteria for identifying the creamy layer are primarily based on income and the status of parents' posts.",
+      "difficulty": "Medium",
+      "hint": "This exclusion principle is based on socio-economic advancement, not just income."
+    },
+    {
+      "level": 524,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian National Army' (INA) trials were held at the:",
+      "options": [
+        "Lahore Fort",
+        "Cellular Jail, Andaman",
+        "Red Fort, Delhi",
+        "Viceroy's House, Shimla"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The famous INA trials, also known as the Red Fort trials, were the British Indian court-martials of a number of officers of the Indian National Army (INA) between November 1945 and May 1946. They were held at the historic **Red Fort in Delhi**. The trials sparked widespread protests across India.",
+      "difficulty": "Medium",
+      "hint": "These historic post-WWII trials were held at a famous Mughal monument in the capital."
+    },
+    {
+      "level": 525,
+      "mainsubject": "Political Science",
+      "question": "The term 'locus standi' means:",
+      "options": [
+        "A pending case",
+        "The right or capacity to bring an action or to appear in a court",
+        "A decided case that serves as a precedent",
+        "A law that is no longer in effect"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Locus standi is a Latin term that means **'the right or capacity to bring an action or to appear in a court'**. Traditionally, only a person whose own rights were violated could approach a court. However, the concept has been relaxed in India, especially with the advent of Public Interest Litigation (PIL), where a person can approach the court on behalf of others.",
+      "difficulty": "Hard",
+      "hint": "This legal term refers to the standing of a person to sue."
+    },
+    {
+      "level": 526,
+      "mainsubject": "Political Science",
+      "question": "The 'Comptroller and Auditor General' (CAG) can be removed from office in the same manner as:",
+      "options": [
+        "The President of India",
+        "The Prime Minister of India",
+        "A Judge of the Supreme Court",
+        "The Chief Election Commissioner"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To ensure the independence of the office, the CAG is provided with security of tenure. He can be removed by the President only on the basis of a resolution passed to that effect by both the Houses of Parliament with a special majority, either on the ground of proved misbehaviour or incapacity. This is the **same manner as a judge of the Supreme Court**.",
+      "difficulty": "Easy",
+      "hint": "The removal process for this auditor is as stringent as for the highest judicial officers."
+    },
+    {
+      "level": 527,
+      "mainsubject": "Political Science",
+      "question": "The 'Model Code of Conduct' for elections comes into effect from:",
+      "options": [
+        "The date of notification of elections",
+        "The date of announcement of the election schedule by the Election Commission",
+        "The first day of filing nominations",
+        "30 days before the date of polling"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Model Code of Conduct comes into immediate effect from the moment the **Election Commission announces the schedule for elections** at a press conference. It remains in force until the entire process of elections is completed.",
+      "difficulty": "Easy",
+      "hint": "The rules of the game begin the moment the referee blows the whistle."
+    },
+    {
+      "level": 528,
+      "mainsubject": "Political Science",
+      "question": "The 'Mizoram Peace Accord' was signed in 1986 between the Government of India and the:",
+      "options": [
+        "Naga National Council (NNC)",
+        "United Liberation Front of Asom (ULFA)",
+        "Mizo National Front (MNF)",
+        "All Bodo Students Union (ABSU)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The historic Mizoram Peace Accord was signed on 30 June 1986 between the Government of India and the **Mizo National Front (MNF)**, ending two decades of insurgency and violence in the state. Following the accord, Mizoram was granted statehood in 1987.",
+      "difficulty": "Medium",
+      "hint": "This accord ended a long-standing insurgency in a northeastern state."
+    },
+    {
+      "level": 529,
+      "mainsubject": "Political Science",
+      "question": "The term 'plebiscite' refers to:",
+      "options": [
+        "A vote by the people of an entire country or district to decide on some issue, like a change in sovereignty",
+        "A method of electing representatives",
+        "The power of the people to propose a law",
+        "The power of the people to recall an elected representative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A plebiscite is a direct **vote by the entire electorate of a state or region on a specific question**, often one of national importance, such as a change in sovereignty or the adoption of a new constitution. It is a tool of direct democracy.",
+      "difficulty": "Easy",
+      "hint": "This is a form of direct democracy where people vote on a policy question."
+    },
+    {
+      "level": 530,
+      "mainsubject": "Political Science",
+      "question": "The 'National Skill Development Corporation' (NSDC) is a:",
+      "options": [
+        "Government agency",
+        "Public-private partnership company",
+        "Non-governmental organization",
+        "Constitutional body"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Skill Development Corporation (NSDC) is a not-for-profit **public-private partnership (PPP)** company. It was set up by the Ministry of Finance to promote skill development by catalyzing the creation of large, quality, for-profit vocational institutions.",
+      "difficulty": "Medium",
+      "hint": "This body for skill development operates on a PPP model."
+    },
+    {
+      "level": 531,
+      "mainsubject": "Political Science",
+      "question": "The 'Special Protection Group' (SPG) provides security to:",
+      "options": [
+        "The President of India",
+        "The Prime Minister of India and their immediate family",
+        "All cabinet ministers",
+        "The Chief Justice of India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Special Protection Group (SPG) is an elite armed force that provides proximate security to the **Prime Minister of India and members of his/her immediate family residing with him/her at the official residence**. The SPG Act has been amended over the years, and the security cover for former Prime Ministers has been changed.",
+      "difficulty": "Easy",
+      "hint": "This elite force protects the head of the government."
+    },
+    {
+      "level": 532,
+      "mainsubject": "Political Science",
+      "question": "The 'Pravasi Bharatiya Divas' is celebrated to mark:",
+      "options": [
+        "The day India became a republic",
+        "The day Swami Vivekananda addressed the Parliament of Religions",
+        "The day Mahatma Gandhi returned to India from South Africa",
+        "The day the first Indian travelled to space"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pravasi Bharatiya Divas (Non-Resident Indian Day) is celebrated on 9 January each year to mark the contribution of the overseas Indian community. This date was chosen as it was on this day in 1915 that **Mahatma Gandhi returned to India from South Africa**.",
+      "difficulty": "Easy",
+      "hint": "This day commemorates the return of the 'Father of the Nation' to India."
+    },
+    {
+      "level": 533,
+      "mainsubject": "Political Science",
+      "question": "The 'National Commission for Minorities' was set up under an Act of Parliament in which year?",
+      "options": [
+        "1988",
+        "1990",
+        "1992",
+        "1995"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Commission for Minorities was set up as a statutory body under the **National Commission for Minorities Act, 1992**. The commission was established to safeguard and protect the interests of minorities as provided in the Constitution and laws enacted by Parliament and the state legislatures.",
+      "difficulty": "Medium",
+      "hint": "This statutory body for minorities was established in the early 1990s."
+    },
+    {
+      "level": 534,
+      "mainsubject": "Political Science",
+      "question": "The 'Nirvik' scheme is related to:",
+      "options": [
+        "Women's safety",
+        "Child nutrition",
+        "Export credit insurance",
+        "Skill development for youth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The NIRVIK (Niryat Rin Vikas Yojana) scheme is an **export credit insurance scheme** implemented by the Export Credit Guarantee Corporation of India (ECGC). It aims to enhance loan availability for exporters and ease the lending process.",
+      "difficulty": "Hard",
+      "hint": "The name of this scheme is related to exports."
+    },
+    {
+      "level": 535,
+      "mainsubject": "Political Science",
+      "question": "The 'Directive Principles of State Policy' are:",
+      "options": [
+        "Justiciable",
+        "Non-justiciable",
+        "Partially justiciable",
+        "Justiciable only in certain states"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Directive Principles of State Policy (Part IV of the Constitution) are **non-justiciable**, meaning they are not enforceable by any court for their violation. However, Article 37 states that these principles are 'fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws'.",
+      "difficulty": "Easy",
+      "hint": "Unlike Fundamental Rights, you cannot go to court to enforce these."
+    },
+    {
+      "level": 536,
+      "mainsubject": "Political Science",
+      "question": "The 'Official Secrets Act' of India was first enacted by the British in:",
+      "options": [
+        "1889",
+        "1904",
+        "1923",
+        "1942"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indian Official Secrets Act was first enacted in 1904. The current version, the **Official Secrets Act of 1923**, was enacted by the British to counter espionage and seditious activities. It is India's primary anti-espionage law and has been criticized for being in conflict with the Right to Information.",
+      "difficulty": "Hard",
+      "hint": "This colonial-era law deals with espionage and state secrets."
+    },
+    {
+      "level": 537,
+      "mainsubject": "Political Science",
+      "question": "The 'BIMSTEC' is a regional organization of countries located around the:",
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "South China Sea",
+        "Indian Ocean"
+      ],
+      "correctAnswer": 2,
+      "explanation": "BIMSTEC stands for the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. It is a regional organization comprising seven member states lying in the littoral and adjacent areas of the **Bay of Bengal**. The members are Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand.",
+      "difficulty": "Easy",
+      "hint": "The name of the organization itself contains the geographical location."
+    },
+    {
+      "level": 538,
+      "mainsubject": "Political Science",
+      "question": "The 'Contempt of Parliament' is dealt with by the:",
+      "options": [
+        "Supreme Court",
+        "High Court",
+        "Parliament itself through its privilege committees",
+        "President"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Breach of privilege or contempt of the House is dealt with by the **Parliament itself**. Each House has the power to punish its members or outsiders for any act that obstructs its work or lowers its dignity. The cases are typically referred to the Committee of Privileges for examination and recommendation.",
+      "difficulty": "Medium",
+      "hint": "The legislature has the power to police itself."
+    },
+    {
+      "level": 539,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Evidence Act, 1872' was drafted by:",
+      "options": [
+        "Lord Macaulay",
+        "Sir James Stephen",
+        "Sir Henry Maine",
+        "Lord Curzon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Evidence Act, 1872, was drafted by **Sir James Fitzjames Stephen**, a prominent British jurist and historian. It is a highly influential piece of legislation that continues to govern the law of evidence in India and several other common law countries.",
+      "difficulty": "Hard",
+      "hint": "This law was drafted by a prominent British jurist of the 19th century."
+    },
+    {
+      "level": 540,
+      "mainsubject": "Political Science",
+      "question": "The 'Operation Meghdoot' was launched by the Indian military in 1984 to capture the:",
+      "options": [
+        "Kargil peaks",
+        "Siachen Glacier",
+        "Tiger Hill",
+        "Aksai Chin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Meghdoot was the codename for the Indian Armed Forces' operation launched in April 1984 to seize control of the **Siachen Glacier** in Kashmir, precipitating the Siachen conflict. It was a preemptive strike to prevent Pakistan from capturing the strategic heights.",
+      "difficulty": "Medium",
+      "hint": "This operation secured the world's highest battlefield for India."
+    },
+    {
+      "level": 541,
+      "mainsubject": "Political Science",
+      "question": "The 'Sedition law' (Section 124A of IPC) was recently kept in abeyance by a decision of the:",
+      "options": [
+        "Parliament",
+        "President",
+        "Supreme Court of India",
+        "Law Commission of India"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In May 2022, the **Supreme Court of India**, in a historic order, effectively put the colonial-era sedition law on hold. It urged the Centre and the state governments to refrain from registering any FIR, continuing any investigation, or taking any coercive measures under Section 124A of the IPC while the law is being reconsidered by the government.",
+      "difficulty": "Easy",
+      "hint": "The highest court in the country recently paused the application of this controversial law."
+    },
+    {
+      "level": 542,
+      "mainsubject": "Political Science",
+      "question": "The 'Lokpal and Lokayuktas Act' was passed in which year?",
+      "options": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Lokpal and Lokayuktas Act, which provides for the establishment of a Lokpal for the Union and Lokayukta for States to inquire into allegations of corruption, was passed by the Parliament of India in **2013**. It came into force in January 2014.",
+      "difficulty": "Easy",
+      "hint": "This anti-corruption law was passed in the final years of the UPA-II government."
+    },
+    {
+      "level": 543,
+      "mainsubject": "Political Science",
+      "question": "The 'National Commission for Protection of Child Rights' (NCPCR) is a:",
+      "options": [
+        "Constitutional body",
+        "Statutory body",
+        "Executive body",
+        "Non-governmental organization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Commission for Protection of Child Rights (NCPCR) is a **statutory body** set up in March 2007 under the Commissions for Protection of Child Rights (CPCR) Act, 2005. Its mandate is to ensure that all laws, policies, programmes, and administrative mechanisms are in consonance with the child rights perspective as enshrined in the Constitution and the UN Convention on the Rights of the Child.",
+      "difficulty": "Medium",
+      "hint": "This body for child rights was created by an Act of Parliament."
+    },
+    {
+      "level": 544,
+      "mainsubject": "Political Science",
+      "question": "The 'Indus Waters Treaty' of 1960 was brokered by the:",
+      "options": [
+        "United Nations",
+        "World Bank",
+        "United States of America",
+        "United Kingdom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indus Waters Treaty is a water-distribution treaty between India and Pakistan, signed in 1960. The treaty was brokered by the **World Bank (International Bank for Reconstruction and Development)**. It is one of the most successful water-sharing agreements in the world.",
+      "difficulty": "Medium",
+      "hint": "A major international financial institution helped mediate this treaty."
+    },
+    {
+      "level": 545,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Foreign Service' (IFS) is under the administrative control of the:",
+      "options": [
+        "Prime Minister's Office",
+        "Ministry of External Affairs",
+        "Ministry of Home Affairs",
+        "Cabinet Secretariat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Foreign Service (IFS) is the diplomatic service of the Government of India. It is under the administrative control of the **Ministry of External Affairs**. IFS officers staff the diplomatic missions of India abroad and manage the country's foreign relations.",
+      "difficulty": "Easy",
+      "hint": "The ministry responsible for foreign policy controls this service."
+    },
+    {
+      "level": 546,
+      "mainsubject": "Political Science",
+      "question": "The 'Chit Funds Act' is an example of legislation on a subject in the:",
+      "options": [
+        "Union List",
+        "State List",
+        "Concurrent List",
+        "Residuary List"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chit funds are a traditional form of saving and borrowing in India. The subject 'Chit funds' is listed in the **Concurrent List** of the Seventh Schedule. This means that both the Parliament and the state legislatures can make laws on this subject. The central government has enacted the Chit Funds Act, 1982.",
+      "difficulty": "Hard",
+      "hint": "This is a subject of shared legislative competence."
+    },
+    {
+      "level": 547,
+      "mainsubject": "Political Science",
+      "question": "The 'National Anthem' must be played and the 'National Flag' must be hoisted in which of the following?",
+      "options": [
+        "Cinema halls before a movie",
+        "Private functions",
+        "Official government functions",
+        "It is not mandatory anywhere"
+      ],
+      "correctAnswer": 3,
+      "explanation": "According to the Flag Code of India and orders of the Ministry of Home Affairs, playing the National Anthem and hoisting the National Flag are part of the protocol for **official government functions** and certain ceremonial occasions. A Supreme Court order making it mandatory in cinema halls was later modified to make it optional.",
+      "difficulty": "Medium",
+      "hint": "The rules for national symbols are most stringent for official events."
+    },
+    {
+      "level": 548,
+      "mainsubject": "Political Science",
+      "question": "The 'Right of Children to Free and Compulsory Education Act' (RTE Act) was enacted in:",
+      "options": [
+        "2002",
+        "2005",
+        "2009",
+        "2012"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Right of Children to Free and Compulsory Education Act, or RTE Act, was enacted by the Parliament of India in **2009**. The Act describes the modalities of the importance of free and compulsory education for children between 6 and 14 in India under Article 21A of the Indian Constitution.",
+      "difficulty": "Easy",
+      "hint": "This Act was passed to implement the 86th Amendment."
+    },
+    {
+      "level": 549,
+      "mainsubject": "Political Science",
+      "question": "The 'Quad' or Quadrilateral Security Dialogue is an informal strategic forum between which four countries?",
+      "options": [
+        "India, USA, UK, Japan",
+        "India, USA, Australia, Japan",
+        "India, USA, France, Japan",
+        "India, USA, South Korea, Japan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Quadrilateral Security Dialogue (Quad) is a strategic security dialogue between **India, the United States, Australia, and Japan**. The dialogue was initiated in 2007 and has been revived in recent years to counter China's growing influence in the Indo-Pacific region.",
+      "difficulty": "Easy",
+      "hint": "This is a strategic grouping of four major democracies in the Indo-Pacific."
+    },
+    {
+      "level": 550,
+      "mainsubject": "Political Science",
+      "question": "The 'Naxalite' movement in India originated in the Naxalbari village of which state?",
+      "options": [
+        "Andhra Pradesh",
+        "Odisha",
+        "Bihar",
+        "West Bengal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Naxalite movement originated in 1967 in the village of Naxalbari in the Darjeeling district of **West Bengal**. It began as a peasant and tribal uprising against local landlords and has since grown into a widespread Maoist insurgency in several parts of India.",
+      "difficulty": "Easy",
+      "hint": "The name of the movement comes from the village where it began."
+    },
+    {
+      "level": 551,
+      "mainsubject": "Political Science",
+      "question": "The 'Enforcement Directorate' (ED) is a law enforcement and economic intelligence agency responsible for fighting:",
+      "options": [
+        "Terrorism",
+        "Cyber crime",
+        "Economic crimes like money laundering and foreign exchange violations",
+        "Narcotics trafficking"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Enforcement Directorate (ED) is a specialized financial investigation agency under the Department of Revenue, Ministry of Finance. It is responsible for enforcing two key laws: the Foreign Exchange Management Act (FEMA) and the Prevention of Money Laundering Act (PMLA). Thus, it fights **economic crimes**.",
+      "difficulty": "Easy",
+      "hint": "This agency's focus is on financial and foreign exchange laws."
+    },
+    {
+      "level": 552,
+      "mainsubject": "Political Science",
+      "question": "The 'S. K. Dhar Commission' was appointed in 1948 to examine the:",
+      "options": [
+        "Feasibility of reorganization of states on a linguistic basis",
+        "Working of the federal system",
+        "Need for a uniform civil code",
+        "Relationship between the President and the Prime Minister"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The S. K. Dhar Commission was appointed by the Constituent Assembly in 1948 to examine the **feasibility of reorganizing the states on a linguistic basis**. The commission recommended that the reorganization should be based on administrative convenience rather than on a linguistic basis. This was followed by the JVP Committee which also rejected language as the basis for reorganization.",
+      "difficulty": "Medium",
+      "hint": "This was the first commission to look into the linguistic reorganization of states."
+    },
+    {
+      "level": 553,
+      "mainsubject": "Political Science",
+      "question": "The 'Panchayati Raj' was given constitutional status by which amendment?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "74th Amendment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Panchayati Raj institutions were given constitutional status by the **73rd Constitutional Amendment Act of 1992**. The Act added a new Part-IX to the Constitution titled 'The Panchayats' and a new Eleventh Schedule containing 29 functional items for the panchayats.",
+      "difficulty": "Easy",
+      "hint": "This amendment deals with rural local self-government."
+    },
+    {
+      "level": 554,
+      "mainsubject": "Political Science",
+      "question": "The 'National Archives of India' is located in:",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai",
+        "New Delhi"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Archives of India, which is the custodian of the non-current records of the Government of India, is located in **New Delhi**. It functions as an Attached Office of the Ministry of Culture.",
+      "difficulty": "Easy",
+      "hint": "This important repository of historical records is located in the national capital."
+    },
+    {
+      "level": 555,
+      "mainsubject": "Political Science",
+      "question": "The 'Nirbhaya Act' is the popular name for the:",
+      "options": [
+        "Juvenile Justice (Care and Protection of Children) Act, 2015",
+        "Protection of Women from Domestic Violence Act, 2005",
+        "Criminal Law (Amendment) Act, 2013",
+        "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Nirbhaya Act' is the popular name given to the **Criminal Law (Amendment) Act, 2013**. This Act was passed in the aftermath of the 2012 Delhi gang rape case to amend the Indian Penal Code, Criminal Procedure Code, and the Indian Evidence Act to introduce stricter laws for sexual offences.",
+      "difficulty": "Easy",
+      "hint": "This Act was named after the victim of the 2012 Delhi gang rape case."
+    },
+    {
+      "level": 556,
+      "mainsubject": "Political Science",
+      "question": "The 'CBI Academy' is located in:",
+      "options": [
+        "New Delhi",
+        "Mussoorie",
+        "Hyderabad",
+        "Ghaziabad"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The CBI Academy, which is the main training institution for the Central Bureau of Investigation, is located in **Ghaziabad**, Uttar Pradesh, near Delhi. It provides training to CBI officers as well as police officers from states and other countries.",
+      "difficulty": "Hard",
+      "hint": "This premier training academy is located in a city in the National Capital Region (NCR)."
+    },
+    {
+      "level": 557,
+      "mainsubject": "Political Science",
+      "question": "The term 'filibuster' in a legislative context means:",
+      "options": [
+        "A procedure to end a debate and take a vote",
+        "A tactic of delaying or blocking a legislative proposal by speaking at an excessive length",
+        "A secret ballot vote",
+        "A formal proposal by a member"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A filibuster is a political procedure where one or more members of a legislature debate over a proposed piece of legislation so as to **delay or entirely prevent a decision being made on the proposal**. It is sometimes referred to as 'talking a bill to death' and is a prominent feature of the United States Senate.",
+      "difficulty": "Medium",
+      "hint": "This is a tactic of obstruction by prolonged speech."
+    },
+    {
+      "level": 558,
+      "mainsubject": "Political Science",
+      "question": "The 'National Centre for Good Governance' (NCGG) is an autonomous institution under the:",
+      "options": [
+        "Prime Minister's Office",
+        "Ministry of Home Affairs",
+        "Department of Administrative Reforms and Public Grievances",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Centre for Good Governance (NCGG) is an autonomous institution under the **Department of Administrative Reforms and Public Grievances**, which itself is under the Ministry of Personnel, Public Grievances and Pensions. Its objective is to promote good governance through capacity building, policy reforms, and research.",
+      "difficulty": "Hard",
+      "hint": "This institution is under the department responsible for administrative reforms."
+    },
+    {
+      "level": 559,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Council of World Affairs' (ICWA) is a think tank based in:",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Kolkata",
+        "New Delhi"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Indian Council of World Affairs (ICWA) is an Indian think tank exclusively devoted to the study of foreign policy and international affairs. It is located in **New Delhi**. By an Act of Parliament in 2001, it has been declared an 'institution of national importance'.",
+      "difficulty": "Medium",
+      "hint": "This foreign policy think tank is located in the national capital."
+    },
+    {
+      "level": 560,
+      "mainsubject": "Political Science",
+      "question": "The 'Green Revolution' in India was primarily focused on increasing the production of:",
+      "options": [
+        "Pulses and oilseeds",
+        "Wheat and rice",
+        "Cotton and jute",
+        "Sugarcane and tea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Green Revolution, which began in the 1960s, was a period of major agricultural transformation in India. It was primarily focused on increasing the production of food grains, especially **wheat and rice**, through the use of high-yielding variety (HYV) seeds, fertilizers, and irrigation.",
+      "difficulty": "Easy",
+      "hint": "This agricultural revolution was aimed at achieving food self-sufficiency."
+    },
+    {
+      "level": 561,
+      "mainsubject": "Political Science",
+      "question": "The 'National Song' of India, 'Vande Mataram', was adopted by the Constituent Assembly on:",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "24 January 1950",
+        "26 January 1950"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Song, 'Vande Mataram', composed by Bankim Chandra Chatterjee, was adopted by the Constituent Assembly on **24 January 1950**. On the same day, the National Anthem 'Jana Gana Mana' was also adopted, and Dr. Rajendra Prasad was elected as the first President of India.",
+      "difficulty": "Medium",
+      "hint": "It was adopted two days before the Constitution came into full force."
+    },
+    {
+      "level": 562,
+      "mainsubject": "Political Science",
+      "question": "The 'White Revolution' in India is associated with:",
+      "options": [
+        "Increased cotton production",
+        "Increased milk production",
+        "Increased fish production",
+        "Increased egg production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The White Revolution, also known as Operation Flood, was a program launched in the 1970s to make India a self-sufficient nation in **milk production**. Dr. Verghese Kurien is known as the 'Father of the White Revolution' in India.",
+      "difficulty": "Easy",
+      "hint": "This revolution is also known as Operation Flood."
+    },
+    {
+      "level": 563,
+      "mainsubject": "Political Science",
+      "question": "The 'National Judicial Data Grid' (NJDG) is a national database of:",
+      "options": [
+        "Judges' performance records",
+        "Orders, judgments, and case details of courts",
+        "Lawyers' registration details",
+        "Police FIRs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Judicial Data Grid (NJDG) is a flagship project of the e-Courts initiative. It is a database of **orders, judgments, and case details of the District & Subordinate Courts and High Courts** across the country. It provides a comprehensive picture of judicial proceedings and pendency.",
+      "difficulty": "Medium",
+      "hint": "This is a digital repository of judicial case information."
+    },
+    {
+      "level": 564,
+      "mainsubject": "Political Science",
+      "question": "The 'Election Commission of India' is not concerned with the elections to:",
+      "options": [
+        "The President and Vice President",
+        "The Parliament",
+        "The State Legislatures",
+        "Panchayats and Municipalities"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Election Commission of India is responsible for conducting elections for the offices of the President and Vice President, the Parliament, and the State Legislatures. The elections to the **Panchayats and Municipalities** are conducted by the respective State Election Commissions.",
+      "difficulty": "Easy",
+      "hint": "Local body elections are handled by a separate state-level body."
+    },
+    {
+      "level": 565,
+      "mainsubject": "Political Science",
+      "question": "The 'Fundamental Rights' are enshrined in which Part of the Constitution?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IV-A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Fundamental Rights, which are the basic human rights of all citizens, are enshrined in **Part III** (Articles 12 to 35) of the Constitution of India. Part II deals with Citizenship, Part IV with Directive Principles, and Part IV-A with Fundamental Duties.",
+      "difficulty": "Easy",
+      "hint": "This part is often called the 'Magna Carta' of India."
+    },
+    {
+      "level": 566,
+      "mainsubject": "Political Science",
+      "question": "The 'Nirbhay' is a:",
+      "options": [
+        "Main Battle Tank",
+        "Subsonic Cruise Missile",
+        "Naval Frigate",
+        "Air-to-Air Missile"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nirbhay is a long-range, all-weather, **subsonic cruise missile** developed in India by the Defence Research and Development Organisation (DRDO).",
+      "difficulty": "Hard",
+      "hint": "This is a type of long-range guided missile."
+    },
+    {
+      "level": 567,
+      "mainsubject": "Political Science",
+      "question": "The term 'judicial activism' was first coined in:",
+      "options": [
+        "India",
+        "The United Kingdom",
+        "The United States of America",
+        "Australia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The term 'judicial activism' was coined for the first time by Arthur Schlesinger Jr., an American historian and educator, in a Fortune magazine article in 1947. The concept itself refers to judicial rulings that are suspected of being based on personal opinion, rather than on existing law.",
+      "difficulty": "Medium",
+      "hint": "This term originated in a country with a strong tradition of judicial review."
+    },
+    {
+      "level": 568,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Railway' system was introduced during the tenure of which Governor-General?",
+      "options": [
+        "Lord Cornwallis",
+        "Lord William Bentinck",
+        "Lord Dalhousie",
+        "Lord Curzon"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indian Railway system was introduced during the tenure of **Lord Dalhousie**, who was the Governor-General of India from 1848 to 1856. The first passenger train ran between Bori Bunder (Bombay) and Thane in 1853. Dalhousie is often regarded as the 'Father of Indian Railways'.",
+      "difficulty": "Easy",
+      "hint": "This Governor-General is also known for the 'Doctrine of Lapse'."
+    },
+    {
+      "level": 569,
+      "mainsubject": "Political Science",
+      "question": "The 'DRDO' (Defence Research and Development Organisation) was established in:",
+      "options": [
+        "1947",
+        "1958",
+        "1969",
+        "1982"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Defence Research and Development Organisation (DRDO) was established in **1958** by amalgamating the then-existing Technical Development Establishment and the Directorate of Technical Development and Production with the Defence Science Organisation. It is the premier agency under the Ministry of Defence responsible for military's research and development.",
+      "difficulty": "Medium",
+      "hint": "This premier defence research organization was formed about a decade after independence."
+    },
+    {
+      "level": 570,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Information Commission' is a:",
+      "options": [
+        "Constitutional body",
+        "Statutory body",
+        "Executive body",
+        "Quasi-judicial body"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Central Information Commission is both a **statutory body** (created under the RTI Act, 2005) and a **quasi-judicial body**. It is considered quasi-judicial because it has the powers of a civil court to hear appeals against the decisions of public information officers and to impose penalties. Among the given options, 'Quasi-judicial body' best describes its function, though 'Statutory body' is also correct in describing its origin.",
+      "difficulty": "Medium",
+      "hint": "This body has the power to adjudicate disputes and impose penalties."
+    },
+    {
+      "level": 571,
+      "mainsubject": "Political Science",
+      "question": "The 'Chipko Movement' was a social-ecological movement that started in the 1970s in which state?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand (then part of Uttar Pradesh)",
+        "Jharkhand (then part of Bihar)",
+        "Assam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chipko Movement was a non-violent social and ecological movement by rural villagers, particularly women, in India in the 1970s. It started in the Chamoli district of **Uttarakhand (which was then part of Uttar Pradesh)**. The movement's main objective was to protect trees and forests from being cut down by the government and contractors.",
+      "difficulty": "Easy",
+      "hint": "The name of this movement means 'to stick' or 'to hug' in Hindi."
+    },
+    {
+      "level": 572,
+      "mainsubject": "Political Science",
+      "question": "The 'JVP Committee' was appointed to re-examine the recommendations of the S. K. Dhar Commission. The 'P' in JVP stands for:",
+      "options": [
+        "Prasad (Rajendra Prasad)",
+        "Patel (Vallabhbhai Patel)",
+        "Pant (Govind Ballabh Pant)",
+        "Prakash (Jayaprakash Narayan)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The JVP Committee was a three-member committee appointed by the Congress in 1948. The members were **J**awaharlal Nehru, **V**allabhbhai **P**atel, and **P**attabhi Sitaramayya. The committee also rejected language as the basis for the reorganization of states.",
+      "difficulty": "Easy",
+      "hint": "The three members were prominent leaders of the Indian National Congress."
+    },
+    {
+      "level": 573,
+      "mainsubject": "Political Science",
+      "question": "The 'Nirankari' and 'Namdhari' are sects associated with:",
+      "options": [
+        "Hinduism",
+        "Sikhism",
+        "Buddhism",
+        "Jainism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Nirankari and Namdhari movements were reformist movements that originated within **Sikhism** in the 19th century. They aimed to purify the religion and bring it back to its original principles.",
+      "difficulty": "Hard",
+      "hint": "These reform movements originated in Punjab."
+    },
+    {
+      "level": 574,
+      "mainsubject": "Political Science",
+      "question": "The 'National Security Guard' (NSG) was raised in 1984 as a federal contingency force to counter:",
+      "options": [
+        "Insurgency in the North-East",
+        "Naxalism in Central India",
+        "Terrorist activities and hijacking",
+        "Cross-border infiltration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Security Guard (NSG) was raised in 1984 as a Federal Contingency Deployment Force to tackle all facets of **terrorism in the country**. The NSG is a counter-terrorism unit under the Ministry of Home Affairs. They are often referred to as 'Black Cats' because of their black uniform.",
+      "difficulty": "Medium",
+      "hint": "This elite force is often referred to as the 'Black Cats'."
+    },
+    {
+      "level": 575,
+      "mainsubject": "Political Science",
+      "question": "The 'Golden Quadrilateral' is a network of highways connecting which four major Indian cities?",
+      "options": [
+        "Delhi, Mumbai, Bengaluru, Kolkata",
+        "Delhi, Mumbai, Chennai, Kolkata",
+        "Delhi, Mumbai, Hyderabad, Kolkata",
+        "Delhi, Ahmedabad, Chennai, Kolkata"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Golden Quadrilateral is a national highway network connecting most of the major industrial, agricultural, and cultural centres of India. It forms a quadrilateral connecting the four major metro cities of India: **Delhi (north), Kolkata (east), Mumbai (west), and Chennai (south)**.",
+      "difficulty": "Easy",
+      "hint": "It connects the four largest metropolitan cities in the four corners of the country."
+    },
+    {
+      "level": 576,
+      "mainsubject": "Political Science",
+      "question": "The 'Bandipur National Park', a famous tiger reserve, is located in which state?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bandipur National Park, established in 1974 as a tiger reserve under Project Tiger, is located in the state of **Karnataka**. It is part of the Nilgiri Biosphere Reserve.",
+      "difficulty": "Easy",
+      "hint": "This national park is located in the state known for its IT hub, Bengaluru."
+    },
+    {
+      "level": 577,
+      "mainsubject": "Political Science",
+      "question": "The 'Operation Ganga' was an initiative by the Government of India to evacuate Indian citizens from:",
+      "options": [
+        "Afghanistan",
+        "Ukraine",
+        "Sudan",
+        "Yemen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Ganga was an evacuation mission launched by the Government of India in February 2022 to bring back its citizens stranded in **Ukraine** following the Russian invasion.",
+      "difficulty": "Easy",
+      "hint": "This evacuation took place from a European country that was recently invaded."
+    },
+    {
+      "level": 578,
+      "mainsubject": "Political Science",
+      "question": "The 'Ghadar Party' was a revolutionary group organized by Indians primarily in which country?",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "Canada and the United States",
+        "Singapore"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ghadar Party was an international political movement founded by expatriate Indians to overthrow British rule in India. It was primarily organized by Indians in the **United States and Canada** and had its headquarters in San Francisco.",
+      "difficulty": "Medium",
+      "hint": "This revolutionary movement was based in North America."
+    },
+    {
+      "level": 579,
+      "mainsubject": "Political Science",
+      "question": "The 'National Health Mission' (NHM) has two sub-missions, the National Rural Health Mission (NRHM) and the:",
+      "options": [
+        "National Urban Health Mission (NUHM)",
+        "National Child Health Mission (NCHM)",
+        "National Women's Health Mission (NWHM)",
+        "National Ayush Mission (NAM)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The National Health Mission (NHM) has two sub-missions: the National Rural Health Mission (NRHM), which was launched in 2005, and the **National Urban Health Mission (NUHM)**, which was launched in 2013. The NHM aims to provide universal access to equitable, affordable, and quality health care services.",
+      "difficulty": "Easy",
+      "hint": "The two sub-missions cover the rural and urban populations."
+    },
+    {
+      "level": 580,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Civil Service' was introduced during the British rule. Who is known as the 'Father of the Indian Civil Service'?",
+      "options": [
+        "Lord Cornwallis",
+        "Warren Hastings",
+        "Lord Curzon",
+        "Lord Wellesley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "**Lord Cornwallis** is known as the 'Father of the Indian Civil Service' for his role in reforming and modernizing the civil services in India. He introduced the system of covenanted and uncovenanted civil services.",
+      "difficulty": "Medium",
+      "hint": "This Governor-General is also associated with the 'Permanent Settlement' in Bengal."
+    },
+    {
+      "level": 581,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Statistical Institute' (ISI) was founded by:",
+      "options": [
+        "C.V. Raman",
+        "P.C. Mahalanobis",
+        "S. Chandrasekhar",
+        "Homi J. Bhabha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Statistical Institute (ISI), a renowned academic institution, was founded in 1931 by **Prasanta Chandra Mahalanobis** in Kolkata. Mahalanobis is also known as the 'father of Indian statistics' and was instrumental in formulating India's Second Five-Year Plan.",
+      "difficulty": "Medium",
+      "hint": "This institute was founded by the architect of India's five-year plans."
+    },
+    {
+      "level": 582,
+      "mainsubject": "Political Science",
+      "question": "The 'National Panchayati Raj Day' is celebrated in India on:",
+      "options": [
+        "2nd October",
+        "26th January",
+        "24th April",
+        "15th August"
+      ],
+      "correctAnswer": 3,
+      "explanation": "National Panchayati Raj Day is celebrated every year on **24th April**. This day marks the passing of the 73rd Constitutional Amendment Act, 1992, which came into force on this date in 1993, giving constitutional status to the Panchayati Raj institutions.",
+      "difficulty": "Easy",
+      "hint": "This day commemorates the date the 73rd Amendment came into force."
+    },
+    {
+      "level": 583,
+      "mainsubject": "Political Science",
+      "question": "The 'Fame India' scheme is related to the promotion of:",
+      "options": [
+        "Handicrafts",
+        "Organic farming",
+        "Electric vehicles",
+        "Tourism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The FAME (Faster Adoption and Manufacturing of Hybrid and Electric vehicles) India scheme is part of the National Electric Mobility Mission Plan. It is aimed at promoting **electric mobility** by providing incentives for the purchase of electric and hybrid vehicles.",
+      "difficulty": "Easy",
+      "hint": "This scheme's name is an acronym related to electric mobility."
+    },
+    {
+      "level": 584,
+      "mainsubject": "Political Science",
+      "question": "The 'National Green Tribunal' (NGT) deals with civil cases related to:",
+      "options": [
+        "Environmental protection and conservation of forests",
+        "Consumer disputes",
+        "Taxation disputes",
+        "Company law disputes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The National Green Tribunal (NGT) is a specialized judicial body that deals with civil cases involving substantial questions relating to the **environment and the enforcement of any legal right relating to the environment**. It draws inspiration from Article 21 of the Constitution, which assures the citizens of India the right to a healthy environment.",
+      "difficulty": "Easy",
+      "hint": "The name of this tribunal indicates its area of jurisdiction."
+    },
+    {
+      "level": 585,
+      "mainsubject": "Political Science",
+      "question": "The 'Operation Sadbhavana' is an initiative of the Indian Army in:",
+      "options": [
+        "The North-East states",
+        "Jammu & Kashmir and Ladakh",
+        "The Naxal-affected areas",
+        "Coastal regions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Operation Sadbhavana (Goodwill) is a unique humane initiative undertaken by the Indian Army in **Jammu & Kashmir and Ladakh** to address the aspirations of the people. It is a welfare initiative that includes running schools, providing medical care, and undertaking community development projects to win the hearts and minds of the local population.",
+      "difficulty": "Medium",
+      "hint": "This 'hearts and minds' operation is conducted in the northernmost union territories."
+    },
+    {
+      "level": 586,
+      "mainsubject": "Political Science",
+      "question": "The 'Nehru-Liaquat Pact' of 1950 was an agreement between India and Pakistan regarding the:",
+      "options": [
+        "Resolution of the Kashmir dispute",
+        "Demarcation of the international border",
+        "Sharing of river waters",
+        "Protection of the rights of minorities in both countries"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Nehru-Liaquat Pact, also known as the Delhi Pact, was a bilateral agreement signed in 1950 between India and Pakistan. Its main purpose was to provide a framework for the **protection of the rights of the minority populations** in both countries and to prevent communal riots and migration.",
+      "difficulty": "Medium",
+      "hint": "This pact was aimed at addressing the post-partition communal situation."
+    },
+    {
+      "level": 587,
+      "mainsubject": "Political Science",
+      "question": "The 'National Cyber Security Policy' was launched in which year?",
+      "options": [
+        "2008",
+        "2011",
+        "2013",
+        "2016"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Cyber Security Policy was launched in **2013** by the Government of India. The policy aims to protect the public and private infrastructure from cyber attacks and to safeguard the information and communication technology infrastructure of the country.",
+      "difficulty": "Hard",
+      "hint": "This policy was formulated to address the growing threats in cyberspace."
+    },
+    {
+      "level": 588,
+      "mainsubject": "Political Science",
+      "question": "The 'Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act' was enacted in:",
+      "options": [
+        "1955",
+        "1976",
+        "1989",
+        "2005"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act was enacted by the Parliament of India in **1989**. The Act is aimed at preventing atrocities and hate crimes against members of the Scheduled Castes and Scheduled Tribes.",
+      "difficulty": "Medium",
+      "hint": "This major social justice legislation was passed at the end of the 1980s."
+    },
+    {
+      "level": 589,
+      "mainsubject": "Political Science",
+      "question": "The 'Nirbhaya Fund' is a non-lapsable corpus fund administered by the:",
+      "options": [
+        "Ministry of Women and Child Development",
+        "Ministry of Home Affairs",
+        "Department of Economic Affairs, Ministry of Finance",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Nirbhaya Fund is administered by the **Department of Economic Affairs** of the Ministry of Finance. The Ministry of Women and Child Development is the nodal ministry to appraise and recommend proposals to be funded under it. It is a non-lapsable corpus fund, meaning the unspent balance does not lapse at the end of the financial year.",
+      "difficulty": "Hard",
+      "hint": "The administration of this fund lies with the finance ministry."
+    },
+    {
+      "level": 590,
+      "mainsubject": "Political Science",
+      "question": "The 'Sagarmala Project' is a strategic initiative for:",
+      "options": [
+        "Highway development",
+        "Port-led development",
+        "Inland waterways development",
+        "Coastal tourism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sagarmala Project is a flagship programme of the Ministry of Shipping to promote **port-led development** in the country. It aims to harness India's 7,500 km long coastline, 14,500 km of potentially navigable waterways, and strategic location on key international maritime trade routes.",
+      "difficulty": "Easy",
+      "hint": "The name 'Sagar' means ocean, pointing to its maritime focus."
+    },
+    {
+      "level": 591,
+      "mainsubject": "Political Science",
+      "question": "The 'Atal Tunnel', the world's longest highway tunnel above 10,000 feet, connects Manali to:",
+      "options": [
+        "Leh in Ladakh",
+        "The Lahaul-Spiti Valley in Himachal Pradesh",
+        "Jammu in Jammu & Kashmir",
+        "Gangtok in Sikkim"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Atal Tunnel is a highway tunnel built under the Rohtang Pass in the eastern Pir Panjal range of the Himalayas. It connects Manali to the **Lahaul-Spiti Valley** in Himachal Pradesh, providing all-weather connectivity and reducing the travel time significantly.",
+      "difficulty": "Easy",
+      "hint": "This tunnel bypasses the treacherous Rohtang Pass."
+    },
+    {
+      "level": 592,
+      "mainsubject": "Political Science",
+      "question": "The term 'TINA factor' in politics stands for:",
+      "options": [
+        "There Is No Alternative",
+        "The Indian National Alliance",
+        "Taxation and Investment National Accord",
+        "Technology, Innovation, and National Advancement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The TINA (an acronym for '**There Is No Alternative**') factor is a slogan often used to signify that a particular policy or leader is the only feasible option available. It suggests a lack of viable alternatives, compelling voters or decision-makers to stick with the status quo.",
+      "difficulty": "Medium",
+      "hint": "This acronym describes a situation with a perceived lack of choice."
+    },
+    {
+      "level": 593,
+      "mainsubject": "Political Science",
+      "question": "The 'Poona Pact' was an agreement between Mahatma Gandhi and:",
+      "options": [
+        "Lord Irwin",
+        "Muhammad Ali Jinnah",
+        "B. R. Ambedkar",
+        "Jawaharlal Nehru"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Poona Pact was an agreement signed in 1932 between Mahatma Gandhi and **Dr. B. R. Ambedkar** on behalf of the depressed classes and upper-caste Hindu leaders. The agreement abandoned the idea of separate electorates for the depressed classes (as proposed in the Communal Award) but reserved seats for them in the provincial legislatures.",
+      "difficulty": "Easy",
+      "hint": "This agreement was related to the representation of the depressed classes."
+    },
+    {
+      "level": 594,
+      "mainsubject": "Political Science",
+      "question": "The 'National Judicial Appointments Commission' (NJAC) was declared unconstitutional by the Supreme Court because it violated the:",
+      "options": [
+        "Principle of federalism",
+        "Independence of the judiciary",
+        "Right to equality",
+        "Parliamentary sovereignty"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Supreme Court, in its 2015 judgment, struck down the 99th Constitutional Amendment Act and the NJAC Act, holding that they violated the **independence of the judiciary**, which is a part of the 'basic structure' of the Constitution. The Court found that the inclusion of the Union Law Minister in the NJAC and the clause allowing for the veto of a nomination by any two members undermined judicial primacy in appointments.",
+      "difficulty": "Medium",
+      "hint": "The court's decision was based on protecting a core tenet of the 'basic structure'."
+    },
+    {
+      "level": 595,
+      "mainsubject": "Political Science",
+      "question": "The 'GATT' (General Agreement on Tariffs and Trade) was the predecessor to the:",
+      "options": [
+        "World Bank",
+        "International Monetary Fund (IMF)",
+        "World Trade Organization (WTO)",
+        "United Nations Conference on Trade and Development (UNCTAD)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The General Agreement on Tariffs and Trade (GATT) was a legal agreement that governed international trade from 1948 until it was replaced by the **World Trade Organization (WTO)** in 1995. The WTO is a full-fledged international organization, whereas GATT was essentially a multilateral agreement.",
+      "difficulty": "Easy",
+      "hint": "This global trade body was established in the mid-1990s."
+    },
+    {
+      "level": 596,
+      "mainsubject": "Political Science",
+      "question": "The 'NSSO' (National Sample Survey Office) is a part of which Union Ministry?",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Home Affairs",
+        "Ministry of Statistics and Programme Implementation",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Sample Survey Office (NSSO) is the largest organization in India conducting regular socio-economic surveys. It functions under the **Ministry of Statistics and Programme Implementation**. In 2019, the NSSO was merged with the Central Statistics Office (CSO) to form the National Statistical Office (NSO).",
+      "difficulty": "Medium",
+      "hint": "This organization deals with the collection of statistical data."
+    },
+    {
+      "level": 597,
+      "mainsubject": "Political Science",
+      "question": "The 'Article 35A' of the Indian Constitution, which was abrogated in 2019, gave special rights to the:",
+      "options": [
+        "Tribal population of the North-East",
+        "Permanent residents of Jammu and Kashmir",
+        "Linguistic minorities",
+        "Religious minorities"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 35A empowered the Jammu and Kashmir state legislature to define the state's **'permanent residents'** and grant them special rights and privileges in public sector jobs, acquisition of property, scholarships, and other public aid. It was abrogated along with Article 370 in August 2019.",
+      "difficulty": "Easy",
+      "hint": "This article was unique to the former state of Jammu and Kashmir."
+    },
+    {
+      "level": 598,
+      "mainsubject": "Political Science",
+      "question": "The 'Simla Agreement' of 1972 was signed between India and Pakistan after the:",
+      "options": [
+        "1947-48 war",
+        "1965 war",
+        "1971 war (Bangladesh Liberation War)",
+        "1999 Kargil conflict"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Simla Agreement was a peace treaty signed in 1972 between India (led by Indira Gandhi) and Pakistan (led by Zulfikar Ali Bhutto) following the **1971 Bangladesh Liberation War**. The agreement aimed to resolve bilateral issues peacefully and paved the way for the recognition of Bangladesh.",
+      "difficulty": "Easy",
+      "hint": "This agreement followed the war that led to the creation of Bangladesh."
+    },
+    {
+      "level": 599,
+      "mainsubject": "Political Science",
+      "question": "The 'National Development Council' (NDC) was an executive body whose functions have now been largely absorbed by the:",
+      "options": [
+        "Parliament",
+        "Inter-State Council",
+        "Governing Council of NITI Aayog",
+        "Union Cabinet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Development Council (NDC) was the apex body for approving Five-Year Plans. With the abolition of the Planning Commission and the end of the Five-Year Plan era, the NDC has become largely redundant. Its functions of deliberating on development issues with the states have been effectively taken over by the **Governing Council of the NITI Aayog**.",
+      "difficulty": "Medium",
+      "hint": "The successor to the Planning Commission also took over the functions of this council."
+    },
+    {
+      "level": 600,
+      "mainsubject": "Political Science",
+      "question": "The 'PM-WANI' scheme is related to:",
+      "options": [
+        "Women's entrepreneurship",
+        "Setting up of public Wi-Fi networks",
+        "Direct income support for artisans",
+        "Financial inclusion for street vendors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The PM-WANI (Prime Minister's Wi-Fi Access Network Interface) scheme aims to proliferate broadband through **public Wi-Fi networks**. The scheme seeks to create a large number of Wi-Fi hotspots, especially in rural areas, to boost internet connectivity and digital inclusion.",
+      "difficulty": "Medium",
+      "hint": "This scheme is aimed at improving internet access across the country."
+    },
+    {
+      "level": 601,
+      "mainsubject": "Political Science",
+      "question": "The 'Non-Aligned Movement' (NAM) was founded with a key role played by which Indian Prime Minister?",
+      "options": [
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Jawaharlal Nehru",
+        "Rajiv Gandhi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Jawaharlal Nehru** was one of the principal architects of the Non-Aligned Movement (NAM), which was founded in 1961. NAM was a forum of nearly 120 developing world states that were not formally aligned with or against any major power bloc during the Cold War. It was a cornerstone of India's foreign policy for decades.",
+      "difficulty": "Easy",
+      "hint": "India's first Prime Minister was a leading figure in this movement of newly independent nations."
+    },
+    {
+      "level": 602,
+      "mainsubject": "Political Science",
+      "question": "The 'National Commission to Review the Working of the Constitution' submitted its report in which year?",
+      "options": [
+        "2000",
+        "2002",
+        "2005",
+        "2007"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Commission to Review the Working of the Constitution, headed by Justice M.N. Venkatachaliah, was set up in 2000. It submitted its comprehensive report to the government in **2002**, with a wide range of recommendations for constitutional, legal, and electoral reforms.",
+      "difficulty": "Hard",
+      "hint": "This commission submitted its report during the tenure of the Atal Bihari Vajpayee government."
+    },
+    {
+      "level": 603,
+      "mainsubject": "Political Science",
+      "question": "The 'Atal Pension Yojana' (APY) is a government scheme focused on providing pensions to workers in the:",
+      "options": [
+        "Organized sector",
+        "Unorganized sector",
+        "Agricultural sector only",
+        "IT sector"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Atal Pension Yojana (APY) is a social security scheme primarily aimed at providing a defined pension to workers in the **unorganized sector**. It encourages them to save for their retirement and provides a guaranteed monthly pension of Rs. 1,000 to Rs. 5,000 after the age of 60.",
+      "difficulty": "Easy",
+      "hint": "This pension scheme targets workers who do not have formal social security benefits."
+    },
+    {
+      "level": 604,
+      "mainsubject": "Political Science",
+      "question": "The 'Gorkhaland Territorial Administration' (GTA) is a semi-autonomous administrative body for the Darjeeling hills in which state?",
+      "options": [
+        "Sikkim",
+        "Assam",
+        "West Bengal",
+        "Nagaland"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Gorkhaland Territorial Administration (GTA) is a semi-autonomous council for the Darjeeling and Kalimpong hills in **West Bengal**. It was formed in 2012 to replace the Darjeeling Gorkha Hill Council, as part of an agreement to grant more autonomy to the region.",
+      "difficulty": "Medium",
+      "hint": "This autonomous body is located in a state known for its tea gardens."
+    },
+    {
+      "level": 605,
+      "mainsubject": "Political Science",
+      "question": "The 'National Waterway 1' connects which two cities on the Ganga river system?",
+      "options": [
+        "Prayagraj and Haldia",
+        "Haridwar and Patna",
+        "Varanasi and Kolkata",
+        "Delhi and Farakka"
+      ],
+      "correctAnswer": 1,
+      "explanation": "National Waterway 1 (NW-1) or the Ganga-Bhagirathi-Hooghly river system runs from **Prayagraj (Allahabad) in Uttar Pradesh to Haldia in West Bengal**. It is the longest national waterway in India.",
+      "difficulty": "Medium",
+      "hint": "This waterway connects a major pilgrimage city in UP to a major port in West Bengal."
+    },
+    {
+      "level": 606,
+      "mainsubject": "Political Science",
+      "question": "The 'Operation Vijay' was the codename for the Indian military operation during the:",
+      "options": [
+        "1971 Bangladesh Liberation War",
+        "1984 Operation Blue Star",
+        "1999 Kargil War",
+        "1961 Annexation of Goa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indian Armed Forces' operation to clear the Kargil sector of intruders during the **1999 Kargil War** was codenamed 'Operation Vijay'. Confusingly, the 1961 operation to annex Goa was also named 'Operation Vijay'. However, in modern context, the term primarily refers to the Kargil conflict.",
+      "difficulty": "Easy",
+      "hint": "This codename means 'Victory' in Hindi."
+    },
+    {
+      "level": 607,
+      "mainsubject": "Political Science",
+      "question": "The 'National Intelligence Grid' or NATGRID is a robust intelligence gathering mechanism set up to:",
+      "options": [
+        "Conduct foreign intelligence operations",
+        "Provide intelligence to the armed forces",
+        "Link various databases of security agencies to provide comprehensive intelligence patterns",
+        "Monitor social media"
+      ],
+      "correctAnswer": 3,
+      "explanation": "NATGRID is a master database project conceived in the aftermath of the 2008 Mumbai attacks. Its primary aim is to **link the databases of various security and intelligence agencies** (like immigration, banking, tax records, etc.) to create a comprehensive intelligence picture that can be accessed by authorized agencies to counter terrorism and crime.",
+      "difficulty": "Medium",
+      "hint": "This is a large-scale data-linking project for security purposes."
+    },
+    {
+      "level": 608,
+      "mainsubject": "Political Science",
+      "question": "The 'Kalapani' territorial dispute is a border issue between India and:",
+      "options": [
+        "China",
+        "Bangladesh",
+        "Nepal",
+        "Bhutan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Kalapani territorial dispute is a border dispute between India and **Nepal**. The area is a patch of land near the India-Nepal border, close to the Lipulekh Pass on the India-China border, which is one of the approved routes for the Kailash-Mansarovar yatra.",
+      "difficulty": "Medium",
+      "hint": "This border dispute is with a Himalayan neighbor."
+    },
+    {
+      "level": 609,
+      "mainsubject": "Political Science",
+      "question": "The 'National Commission for Denotified, Nomadic and Semi-Nomadic Tribes' (NCDNT) was headed by:",
+      "options": [
+        "Kaka Kalelkar",
+        "B.P. Mandal",
+        "Balkrishna Renke",
+        "Justice Rajinder Sachar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Commission for Denotified, Nomadic and Semi-Nomadic Tribes (NCDNT) was constituted in 2006 and was chaired by **Balkrishna Sidram Renke**. It submitted its report in 2008, highlighting the severe social and economic deprivation of these communities.",
+      "difficulty": "Hard",
+      "hint": "This commission was named after its chairman who studied the issues of these marginalized communities."
+    },
+    {
+      "level": 610,
+      "mainsubject": "Political Science",
+      "question": "The 'Justice Rajinder Sachar Committee' was constituted to study the:",
+      "options": [
+        "Social, economic, and educational status of the Muslim community in India",
+        "Conditions of tribal populations",
+        "Functioning of the criminal justice system",
+        "Need for police reforms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sachar Committee, headed by former Chief Justice of the Delhi High Court Rajinder Sachar, was appointed in 2005 by the Prime Minister. Its mandate was to prepare a report on the **social, economic, and educational condition of the Muslim community of India**. The report, submitted in 2006, highlighted the backwardness of the community in various parameters.",
+      "difficulty": "Medium",
+      "hint": "This committee's report was a comprehensive study on the condition of a major religious minority."
+    },
+    {
+      "level": 611,
+      "mainsubject": "Political Science",
+      "question": "The 'National Disaster Management Act' was passed in which year?",
+      "options": [
+        "2002",
+        "2004",
+        "2005",
+        "2008"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Disaster Management Act was passed by the Government of India in **2005**, in the aftermath of the 2004 Indian Ocean tsunami. The Act provides for the establishment of the National Disaster Management Authority (NDMA) and State Disaster Management Authorities (SDMAs) to create a holistic and integrated approach to disaster management.",
+      "difficulty": "Easy",
+      "hint": "This act was passed in the year following a major natural disaster."
+    },
+    {
+      "level": 612,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Antarctic Programme' is a multi-disciplinary, multi-institutional program under the control of the:",
+      "options": [
+        "Ministry of Earth Sciences",
+        "Ministry of Science and Technology",
+        "Department of Space",
+        "Ministry of External Affairs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian Antarctic Programme is managed by the National Centre for Polar and Ocean Research, which is an autonomous institution of the **Ministry of Earth Sciences**. India maintains two research stations in Antarctica: 'Maitri' and 'Bharati'.",
+      "difficulty": "Medium",
+      "hint": "This scientific program is managed by the ministry that deals with oceans and earth sciences."
+    },
+    {
+      "level": 613,
+      "mainsubject": "Political Science",
+      "question": "The 'CVC' (Central Vigilance Commission) is conceived to be the apex vigilance institution, free of control from any executive authority. It submits its report to the:",
+      "options": [
+        "Prime Minister",
+        "Home Minister",
+        "Parliament",
+        "President"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Central Vigilance Commission (CVC) presents its annual report to the **President of India**. The President then places this report before each House of Parliament. The report details the work done by the commission and points out systemic failures that lead to corruption.",
+      "difficulty": "Medium",
+      "hint": "This anti-corruption watchdog reports to the Head of State."
+    },
+    {
+      "level": 614,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Space Research Organisation' (ISRO) was formed in which year?",
+      "options": [
+        "1958",
+        "1962",
+        "1969",
+        "1975"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indian Space Research Organisation (ISRO) was formed on 15 August **1969**, superseding the erstwhile Indian National Committee for Space Research (INCOSPAR). It is the national space agency of India, operating under the Department of Space (DOS), which is directly overseen by the Prime Minister of India.",
+      "difficulty": "Easy",
+      "hint": "India's space agency was formed in the same year as the first moon landing."
+    },
+    {
+      "level": 615,
+      "mainsubject": "Political Science",
+      "question": "The 'Atal Mission for Rejuvenation and Urban Transformation' (AMRUT) replaced which earlier scheme?",
+      "options": [
+        "Smart Cities Mission",
+        "Jawaharlal Nehru National Urban Renewal Mission (JNNURM)",
+        "National Urban Livelihoods Mission (NULM)",
+        "Swachh Bharat Mission (Urban)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Atal Mission for Rejuvenation and Urban Transformation (AMRUT) was launched in 2015 and it replaced the **Jawaharlal Nehru National Urban Renewal Mission (JNNURM)**, which was the previous flagship programme for urban development.",
+      "difficulty": "Medium",
+      "hint": "This new urban mission replaced the one named after the first Prime Minister."
+    },
+    {
+      "level": 616,
+      "mainsubject": "Political Science",
+      "question": "The 'National Population Register' (NPR) is a register of the:",
+      "options": [
+        "Citizens of India",
+        "Usual residents of the country",
+        "Voters of the country",
+        "Families below the poverty line"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Population Register (NPR) is a register of the **usual residents** of the country. A usual resident is defined as a person who has resided in a local area for the past 6 months or more or a person who intends to reside in that area for the next 6 months or more. It is being prepared under the provisions of the Citizenship Act, 1955.",
+      "difficulty": "Medium",
+      "hint": "This register includes all residents, not just citizens."
+    },
+    {
+      "level": 617,
+      "mainsubject": "Political Science",
+      "question": "The 'Crime and Criminal Tracking Network and Systems' (CCTNS) is a project under the:",
+      "options": [
+        "Supreme Court of India",
+        "Ministry of Law and Justice",
+        "Ministry of Home Affairs",
+        "National Investigation Agency"
+      ],
+      "correctAnswer": 3,
+      "explanation": "CCTNS is a Mission Mode Project under the National e-Governance Plan of the Government of India. It is implemented by the **Ministry of Home Affairs**. The project aims to create a comprehensive and integrated system for enhancing the efficiency and effectiveness of policing at all levels, especially at the police station level.",
+      "difficulty": "Medium",
+      "hint": "This project for modernizing police functions is overseen by the ministry for internal security."
+    },
+    {
+      "level": 618,
+      "mainsubject": "Political Science",
+      "question": "The 'National Intelligence Agency' (NIA) can investigate terror-related crimes across India without needing special permission from the:",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Supreme Court",
+        "States"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The NIA Act, 2008, gives the agency concurrent jurisdiction, which empowers the Central Agency to probe terror attacks in any part of the country, covering offences including a challenge to the country's sovereignty and integrity. The NIA can investigate such cases **without needing special permission from the states**, which makes it a truly federal agency.",
+      "difficulty": "Medium",
+      "hint": "The central nature of this agency allows it to bypass a certain level of government for investigations."
+    },
+    {
+      "level": 619,
+      "mainsubject": "Political Science",
+      "question": "The 'UIDAI' (Unique Identification Authority of India), which issues Aadhaar numbers, is a statutory authority under the:",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Finance",
+        "Ministry of Electronics and Information Technology",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The UIDAI was initially established as an attached office of the Planning Commission. It was later made a statutory authority in 2016 with the passing of the Aadhaar Act. It now functions under the **Ministry of Electronics and Information Technology (MeitY)**.",
+      "difficulty": "Easy",
+      "hint": "This authority is under the ministry responsible for digital India initiatives."
+    },
+    {
+      "level": 620,
+      "mainsubject": "Political Science",
+      "question": "The 'Sardar Sarovar Dam' is a major multi-purpose project on which river?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Narmada",
+        "Tapti"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sardar Sarovar Dam is a concrete gravity dam built on the **Narmada river** in Gujarat. It is part of the Narmada Valley Project and is one of the largest and most controversial dam projects in India.",
+      "difficulty": "Easy",
+      "hint": "This dam is associated with the 'Narmada Bachao Andolan'."
+    },
+    {
+      "level": 621,
+      "mainsubject": "Political Science",
+      "question": "The 'Tehri Dam', one of the tallest dams in the world, is located in which state?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Sikkim",
+        "Arunachal Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tehri Dam is a multi-purpose rock and earth-fill embankment dam on the Bhagirathi River near Tehri in **Uttarakhand**, India. It is the tallest dam in India.",
+      "difficulty": "Easy",
+      "hint": "This dam is located in the 'Land of the Gods'."
+    },
+    {
+      "level": 622,
+      "mainsubject": "Political Science",
+      "question": "The 'National Mission for Clean Ganga' (NMCG) is the implementation wing of the:",
+      "options": [
+        "Namami Gange Programme",
+        "Jal Jeevan Mission",
+        "Swachh Bharat Mission",
+        "National River Conservation Plan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The National Mission for Clean Ganga (NMCG) acts as the implementation arm of the National Ganga River Basin Authority (NGRBA), which was constituted under the Environment (Protection) Act, 1986. It is responsible for implementing the **Namami Gange Programme**, an integrated conservation mission to clean and rejuvenate the Ganga river.",
+      "difficulty": "Easy",
+      "hint": "This mission implements the flagship program for cleaning the Ganga."
+    },
+    {
+      "level": 623,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Ujjwala Yojana' (PMUY) is a scheme for providing:",
+      "options": [
+        "Electricity connections to rural households",
+        "Financial assistance for building toilets",
+        "LPG connections to women from below poverty line households",
+        "Health insurance for all"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Pradhan Mantri Ujjwala Yojana is a flagship scheme of the Ministry of Petroleum & Natural Gas. It was launched in 2016 with an objective to make clean cooking fuel such as **LPG available to the rural and deprived households** which were otherwise using traditional cooking fuels such as firewood, coal, cow-dung cakes etc.",
+      "difficulty": "Easy",
+      "hint": "This scheme aims to provide clean cooking fuel."
+    },
+    {
+      "level": 624,
+      "mainsubject": "Political Science",
+      "question": "The 'National Health Policy' of India was last released in which year?",
+      "options": [
+        "2002",
+        "2009",
+        "2015",
+        "2017"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The most recent National Health Policy of India was released in **2017**. It replaced the previous policy of 2002. The policy aims to achieve universal health coverage and deliver quality health care services to all at affordable costs.",
+      "difficulty": "Medium",
+      "hint": "This policy was released a few years ago and aims for universal health coverage."
+    },
+    {
+      "level": 625,
+      "mainsubject": "Political Science",
+      "question": "The 'National Career Service' (NCS) portal is an initiative of which ministry?",
+      "options": [
+        "Ministry of Education",
+        "Ministry of Skill Development and Entrepreneurship",
+        "Ministry of Labour and Employment",
+        "Ministry of Micro, Small and Medium Enterprises"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Career Service (NCS) is a Mission Mode Project launched by the **Ministry of Labour and Employment**. The NCS portal serves as a one-stop-shop for job seekers, employers, counselors, and training providers, aiming to bridge the gap between job seekers and employers.",
+      "difficulty": "Medium",
+      "hint": "This job portal is managed by the ministry that deals with labour."
+    },
+    {
+      "level": 626,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Suraksha Bima Yojana' (PMSBY) is a scheme for:",
+      "options": [
+        "Life insurance",
+        "Accident insurance",
+        "Health insurance",
+        "Crop insurance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pradhan Mantri Suraksha Bima Yojana is a government-backed **accident insurance** scheme. It is available to people between 18 and 70 years of age with a bank account. It provides a one-year cover for death or disability due to an accident.",
+      "difficulty": "Easy",
+      "hint": "This scheme provides coverage against accidental death and disability."
+    },
+    {
+      "level": 627,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Jeevan Jyoti Bima Yojana' (PMJJBY) is a scheme for:",
+      "options": [
+        "Life insurance",
+        "Accident insurance",
+        "Health insurance",
+        "Crop insurance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Pradhan Mantri Jeevan Jyoti Bima Yojana is a government-backed **life insurance** scheme. It is available to people between 18 and 50 years of age with a bank account. It provides a one-year cover, renewable from year to year, offering coverage for death due to any reason.",
+      "difficulty": "Easy",
+      "hint": "This scheme provides coverage for death due to any cause."
+    },
+    {
+      "level": 628,
+      "mainsubject": "Political Science",
+      "question": "The 'National Company Law Tribunal' (NCLT) was constituted under the:",
+      "options": [
+        "Companies Act, 1956",
+        "Companies Act, 2013",
+        "Insolvency and Bankruptcy Code, 2016",
+        "SEBI Act, 1992"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Company Law Tribunal (NCLT) is a quasi-judicial body in India that adjudicates issues relating to Indian companies. It was constituted on 1st June 2016 under the **Companies Act, 2013**. It is also the adjudicating authority for insolvency resolution processes under the Insolvency and Bankruptcy Code, 2016.",
+      "difficulty": "Medium",
+      "hint": "This tribunal was created by the new company law."
+    },
+    {
+      "level": 629,
+      "mainsubject": "Political Science",
+      "question": "The 'National Payments Corporation of India' (NPCI), which developed UPI, is an initiative of:",
+      "options": [
+        "The Government of India and NITI Aayog",
+        "The Reserve Bank of India (RBI) and Indian Banks' Association (IBA)",
+        "The Ministry of Finance and SEBI",
+        "A consortium of private technology companies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Payments Corporation of India (NPCI) is an umbrella organization for operating retail payments and settlement systems in India. It is an initiative of the **Reserve Bank of India (RBI) and the Indian Banks' Association (IBA)** under the provisions of the Payment and Settlement Systems Act, 2007.",
+      "difficulty": "Medium",
+      "hint": "This payment systems organization is a joint initiative of the central bank and the association of banks."
+    },
+    {
+      "level": 630,
+      "mainsubject": "Political Science",
+      "question": "The 'Vande Bharat Mission' was an initiative by the Government of India to:",
+      "options": [
+        "Promote domestic tourism",
+        "Bring back Indian nationals stranded abroad during the COVID-19 pandemic",
+        "Clean the major rivers of India",
+        "Connect all state capitals by high-speed trains"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Vande Bharat Mission was a massive repatriation operation launched by the Government of India starting from May 2020, to **bring back Indian nationals stranded in foreign countries** due to the travel restrictions imposed during the COVID-19 pandemic. It was one of the largest evacuations of civilians by a country.",
+      "difficulty": "Easy",
+      "hint": "This was a major repatriation effort during the pandemic."
+    },
+    {
+      "level": 631,
+      "mainsubject": "Political Science",
+      "question": "The 'Vande Bharat Express' is a:",
+      "options": [
+        "Repatriation flight service",
+        "High-speed passenger train",
+        "Naval warship",
+        "COVID-19 vaccine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Vande Bharat Express, also known as Train 18, is an Indian semi-**high-speed passenger train**. It is designed and manufactured in India and is a major step in modernizing the country's railway network.",
+      "difficulty": "Easy",
+      "hint": "This is a modern, indigenously manufactured train."
+    },
+    {
+      "level": 632,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Matsya Sampada Yojana' (PMMSY) is a scheme for the development of the:",
+      "options": [
+        "Forestry sector",
+        "Fisheries sector",
+        "Mining sector",
+        "Handloom sector"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pradhan Mantri Matsya Sampada Yojana (PMMSY) is a flagship scheme for focused and sustainable development of the **fisheries sector** in the country. It aims to enhance fish production, boost exports, and double the incomes of fishers and fish farmers.",
+      "difficulty": "Easy",
+      "hint": "'Matsya' is the Sanskrit word for fish."
+    },
+    {
+      "level": 633,
+      "mainsubject": "Political Science",
+      "question": "The 'Operation Samudra Setu' was a naval operation to:",
+      "options": [
+        "Conduct anti-piracy patrols in the Indian Ocean",
+        "Provide disaster relief to neighboring countries",
+        "Repatriate Indian citizens from overseas during the COVID-19 pandemic",
+        "Secure India's maritime trade routes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Operation Samudra Setu (Sea Bridge) was a naval operation launched by the Indian Navy to **repatriate Indian citizens from overseas** during the COVID-19 pandemic. It was conducted in conjunction with the Vande Bharat Mission, which primarily used flights.",
+      "difficulty": "Easy",
+      "hint": "This was the naval component of the COVID-19 repatriation effort."
+    },
+    {
+      "level": 634,
+      "mainsubject": "Political Science",
+      "question": "The 'National Centre for Disease Control' (NCDC), formerly the National Institute of Communicable Diseases, is located in:",
+      "options": [
+        "Pune",
+        "Hyderabad",
+        "Bengaluru",
+        "New Delhi"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Centre for Disease Control (NCDC) is an institute under the Indian Directorate General of Health Services, Ministry of Health and Family Welfare. It is located in **New Delhi**. It functions as the nodal agency in the country for disease surveillance.",
+      "difficulty": "Medium",
+      "hint": "India's premier institution for disease control is located in the national capital."
+    },
+    {
+      "level": 635,
+      "mainsubject": "Political Science",
+      "question": "The 'National Crisis Management Committee' (NCMC) is headed by the:",
+      "options": [
+        "Prime Minister",
+        "Home Minister",
+        "National Security Advisor",
+        "Cabinet Secretary"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Crisis Management Committee (NCMC) is a high-level committee headed by the **Cabinet Secretary**. It is responsible for dealing with major crises that have serious national implications and for coordinating the response of various ministries and departments.",
+      "difficulty": "Hard",
+      "hint": "The country's top civil servant heads this crisis management body."
+    },
+    {
+      "level": 636,
+      "mainsubject": "Political Science",
+      "question": "The 'Chief of the Air Staff' is the professional head of the:",
+      "options": [
+        "Indian Army",
+        "Indian Navy",
+        "Indian Air Force",
+        "Indian Coast Guard"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Chief of the Air Staff is the professional head and commander of the **Indian Air Force**. The position is always held by a four-star Air Chief Marshal.",
+      "difficulty": "Easy",
+      "hint": "The name of the position indicates the branch of the armed forces."
+    },
+    {
+      "level": 637,
+      "mainsubject": "Political Science",
+      "question": "The 'Chief of the Naval Staff' is the professional head of the:",
+      "options": [
+        "Indian Army",
+        "Indian Navy",
+        "Indian Air Force",
+        "Indian Coast Guard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chief of the Naval Staff is the professional head and commander of the **Indian Navy**. The position is always held by a four-star Admiral.",
+      "difficulty": "Easy",
+      "hint": "The name of the position indicates the branch of the armed forces."
+    },
+    {
+      "level": 638,
+      "mainsubject": "Political Science",
+      "question": "The 'Chief of the Army Staff' is the professional head of the:",
+      "options": [
+        "Indian Army",
+        "Indian Navy",
+        "Indian Air Force",
+        "Indian Coast Guard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Chief of the Army Staff is the professional head and commander of the **Indian Army**. The position is always held by a four-star General.",
+      "difficulty": "Easy",
+      "hint": "The name of the position indicates the branch of the armed forces."
+    },
+    {
+      "level": 639,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Coast Guard' (ICG) is a maritime law enforcement and search and rescue agency that operates under the:",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Defence",
+        "Ministry of Shipping",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Coast Guard (ICG) operates under the **Ministry of Defence**. While it has a separate identity from the Indian Navy, it works in close cooperation with the Navy, the Department of Fisheries, the Department of Revenue (Customs), and the Central and State police forces.",
+      "difficulty": "Medium",
+      "hint": "This maritime security force is under the same ministry as the armed forces."
+    },
+    {
+      "level": 640,
+      "mainsubject": "Political Science",
+      "question": "The 'National Investigation Agency' (NIA) was established under the NIA Act of:",
+      "options": [
+        "2002",
+        "2005",
+        "2008",
+        "2013"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Investigation Agency (NIA) was constituted under the **National Investigation Agency (NIA) Act of 2008**. The agency was created in the aftermath of the 2008 Mumbai terror attacks to serve as the Central Counter-Terrorism Law Enforcement Agency.",
+      "difficulty": "Easy",
+      "hint": "This agency was created in the year of the Mumbai terror attacks."
+    },
+    {
+      "level": 641,
+      "mainsubject": "Political Science",
+      "question": "The 'Serious Fraud Investigation Office' (SFIO) is a multi-disciplinary organization that investigates:",
+      "options": [
+        "Terror financing",
+        "Major corporate frauds",
+        "Cyber crimes",
+        "Tax evasion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Serious Fraud Investigation Office (SFIO) is a statutory corporate fraud investigating agency in India. It is under the jurisdiction of the Ministry of Corporate Affairs and is tasked with investigating complex cases of **major corporate fraud**. It was given statutory status by the Companies Act, 2013.",
+      "difficulty": "Medium",
+      "hint": "This agency specializes in complex white-collar crimes."
+    },
+    {
+      "level": 642,
+      "mainsubject": "Political Science",
+      "question": "The 'Securities and Exchange Board of India' (SEBI) is the regulator for the:",
+      "options": [
+        "Banking sector",
+        "Insurance sector",
+        "Securities and commodity market",
+        "Pension sector"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the **securities and commodity market** in India. It was established in 1988 and given statutory powers in 1992 through the SEBI Act. Its main function is to protect the interests of investors in securities and to promote the development of, and to regulate the securities market.",
+      "difficulty": "Easy",
+      "hint": "This body regulates the stock markets."
+    },
+    {
+      "level": 643,
+      "mainsubject": "Political Science",
+      "question": "The 'Insurance Regulatory and Development Authority of India' (IRDAI) is the regulator for the:",
+      "options": [
+        "Banking sector",
+        "Insurance sector",
+        "Securities market",
+        "Pension sector"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) is a statutory body responsible for regulating and promoting the **insurance and re-insurance industries** in India. It was constituted by the IRDA Act, 1999.",
+      "difficulty": "Easy",
+      "hint": "The name of this body clearly indicates its area of regulation."
+    },
+    {
+      "level": 644,
+      "mainsubject": "Political Science",
+      "question": "The 'Pension Fund Regulatory and Development Authority' (PFRDA) is the regulator for the:",
+      "options": [
+        "Banking sector",
+        "Insurance sector",
+        "Securities market",
+        "Pension sector"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Pension Fund Regulatory and Development Authority (PFRDA) is the statutory authority established by an Act of Parliament to regulate, promote and ensure orderly growth of the **National Pension System (NPS)** and other pension schemes.",
+      "difficulty": "Easy",
+      "hint": "The name of this body clearly indicates its area of regulation."
+    },
+    {
+      "level": 645,
+      "mainsubject": "Political Science",
+      "question": "The 'National Bank for Agriculture and Rural Development' (NABARD) is:",
+      "options": [
+        "A commercial bank",
+        "A cooperative bank",
+        "An apex development financial institution",
+        "A private sector bank"
+      ],
+      "correctAnswer": 3,
+      "explanation": "NABARD is an **apex development financial institution** in India. It is responsible for matters concerning policy, planning, and operations in the field of credit for agriculture and other economic activities in rural areas. It was established in 1982 on the recommendations of the B. Sivaraman Committee.",
+      "difficulty": "Easy",
+      "hint": "This institution is the top bank for rural and agricultural finance."
+    },
+    {
+      "level": 646,
+      "mainsubject": "Political Science",
+      "question": "The 'Small Industries Development Bank of India' (SIDBI) is:",
+      "options": [
+        "A commercial bank",
+        "An apex regulatory body",
+        "A principal financial institution for the MSME sector",
+        "A subsidiary of the State Bank of India"
+      ],
+      "correctAnswer": 3,
+      "explanation": "SIDBI is the **principal financial institution** for the promotion, financing, and development of the Micro, Small, and Medium Enterprise (MSME) sector in India. It was established in 1990 through an Act of Parliament.",
+      "difficulty": "Easy",
+      "hint": "This financial institution focuses on small-scale industries."
+    },
+    {
+      "level": 647,
+      "mainsubject": "Political Science",
+      "question": "The 'National Housing Bank' (NHB) is the apex financial institution for:",
+      "options": [
+        "Rural housing",
+        "Urban housing",
+        "Housing finance",
+        "Slum redevelopment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Housing Bank (NHB) is an apex financial institution for **housing finance**. It was set up in 1988 under the National Housing Bank Act, 1987. It is a wholly owned subsidiary of the Reserve Bank of India. Its primary role is to promote housing finance institutions and to provide financial and other support to such institutions.",
+      "difficulty": "Easy",
+      "hint": "The name of this institution indicates its focus on the housing sector."
+    },
+    {
+      "level": 648,
+      "mainsubject": "Political Science",
+      "question": "The 'Food Safety and Standards Authority of India' (FSSAI) is a statutory body under the:",
+      "options": [
+        "Ministry of Agriculture and Farmers' Welfare",
+        "Ministry of Health and Family Welfare",
+        "Ministry of Consumer Affairs, Food and Public Distribution",
+        "Ministry of Food Processing Industries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The FSSAI is a statutory body established under the Food Safety and Standards Act, 2006. It is responsible for protecting and promoting public health through the regulation and supervision of food safety. It is under the administrative control of the **Ministry of Health and Family Welfare**.",
+      "difficulty": "Easy",
+      "hint": "Food safety is considered a public health issue."
+    },
+    {
+      "level": 649,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Drugs Standard Control Organization' (CDSCO) is the national regulatory body for:",
+      "options": [
+        "Traditional medicines",
+        "Cosmetics, pharmaceuticals and medical devices",
+        "Narcotic drugs",
+        "Food supplements"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Central Drugs Standard Control Organization (CDSCO) is India's national regulatory body for **cosmetics, pharmaceuticals and medical devices**. It functions under the Ministry of Health and Family Welfare. It is responsible for the approval of new drugs, conduct of clinical trials, and laying down the standards for drugs.",
+      "difficulty": "Easy",
+      "hint": "This body is India's equivalent of the US FDA."
+    },
+    {
+      "level": 650,
+      "mainsubject": "Political Science",
+      "question": "The 'Telecom Regulatory Authority of India' (TRAI) was established in which year?",
+      "options": [
+        "1991",
+        "1997",
+        "2000",
+        "2005"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Telecom Regulatory Authority of India (TRAI) was established in **1997** by an Act of Parliament to regulate telecommunication services in India. It was set up to create a level playing field and promote fair competition in the telecom sector, which was opened up to private players.",
+      "difficulty": "Medium",
+      "hint": "This telecom watchdog was established after the sector was liberalized."
+    },
+    {
+      "level": 651,
+      "mainsubject": "Political Science",
+      "question": "The 'National Commission for Safai Karamcharis' is a:",
+      "options": [
+        "Constitutional body",
+        "Statutory body",
+        "Executive body",
+        "Non-statutory body"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Commission for Safai Karamcharis was initially established as a statutory body in 1994 for a period of three years. Its tenure was extended from time to time, but the Act expired in 2004. Since then, it has been continuing as a **non-statutory body** of the Ministry of Social Justice and Empowerment, with its tenure being extended through government resolutions.",
+      "difficulty": "Hard",
+      "hint": "This commission's legal status has changed over time."
+    },
+    {
+      "level": 652,
+      "mainsubject": "Political Science",
+      "question": "The 'Bureau of Indian Standards' (BIS) is the National Standards Body of India working under the aegis of the:",
+      "options": [
+        "Ministry of Science and Technology",
+        "Ministry of Commerce and Industry",
+        "Ministry of Consumer Affairs, Food & Public Distribution",
+        "Ministry of Heavy Industries"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Bureau of Indian Standards (BIS) is the National Standards Body of India established under the BIS Act 2016. It works under the aegis of the **Ministry of Consumer Affairs, Food & Public Distribution**. It is responsible for the harmonious development of the activities of standardization, marking, and quality certification of goods.",
+      "difficulty": "Medium",
+      "hint": "This standards body is under the ministry responsible for consumer protection."
+    },
+    {
+      "level": 653,
+      "mainsubject": "Political Science",
+      "question": "The 'National Book Trust' (NBT), India, is an apex body established by the Government of India in 1957. It functions under the:",
+      "options": [
+        "Ministry of Culture",
+        "Ministry of Education",
+        "Ministry of Information and Broadcasting",
+        "Ministry of External Affairs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Book Trust (NBT) is an Indian publishing house and autonomous body under the **Ministry of Education**. It was founded in 1957. Its activities include publishing, promotion of books and reading, promotion of Indian books abroad, and assistance to authors and publishers.",
+      "difficulty": "Medium",
+      "hint": "This book promotion body is under the ministry responsible for education."
+    },
+    {
+      "level": 654,
+      "mainsubject": "Political Science",
+      "question": "The 'Lalit Kala Akademi' or the National Academy of Art is an autonomous organisation established in New Delhi in 1954. It is funded by the:",
+      "options": [
+        "Ministry of Education",
+        "Ministry of Tourism",
+        "Ministry of Culture",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Lalit Kala Akademi is India's national academy of fine arts. It is an autonomous organisation established in 1954 to promote and propagate understanding of Indian art, both within and outside the country. It is funded by the **Ministry of Culture**.",
+      "difficulty": "Easy",
+      "hint": "This national academy for art is under the ministry responsible for cultural affairs."
+    },
+    {
+      "level": 655,
+      "mainsubject": "Political Science",
+      "question": "The 'Sangeet Natak Akademi' or the National Academy of Music, Dance and Drama is an autonomous body funded by the:",
+      "options": [
+        "Ministry of Education",
+        "Ministry of Tourism",
+        "Ministry of Culture",
+        "Ministry of Information and Broadcasting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sangeet Natak Akademi is the apex body in the field of performing arts in the country. It was set up by the Indian government in 1952 to preserve and promote the vast intangible heritage of India's diverse culture expressed in the forms of music, dance and drama. It is an autonomous body of the **Ministry of Culture**.",
+      "difficulty": "Easy",
+      "hint": "This national academy for performing arts is under the ministry responsible for cultural affairs."
+    },
+    {
+      "level": 656,
+      "mainsubject": "Political Science",
+      "question": "The 'Sahitya Akademi' is India's National Academy of Letters. It is an autonomous organisation under the:",
+      "options": [
+        "Ministry of Education",
+        "Ministry of External Affairs",
+        "Ministry of Information and Broadcasting",
+        "Ministry of Culture"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Sahitya Akademi is an organisation dedicated to the promotion of literature in the languages of India. It was founded in 1954. It is an autonomous organisation under the **Ministry of Culture**. It is known for its prestigious annual Sahitya Akademi Award.",
+      "difficulty": "Easy",
+      "hint": "This national academy for literature is under the ministry responsible for cultural affairs."
+    },
+    {
+      "level": 657,
+      "mainsubject": "Political Science",
+      "question": "The 'National School of Drama' (NSD) is a theatre training institute situated in New Delhi. It is an autonomous organization under the:",
+      "options": [
+        "Ministry of Education",
+        "Ministry of Information and Broadcasting",
+        "Ministry of Youth Affairs and Sports",
+        "Ministry of Culture"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National School of Drama is one of the foremost theatre training institutions in the world. It was set up in 1959 as a constituent unit of the Sangeet Natak Akademi and became an independent school in 1975. It is an autonomous organization under the **Ministry of Culture**.",
+      "difficulty": "Easy",
+      "hint": "This premier theatre institute is under the ministry responsible for cultural affairs."
+    },
+    {
+      "level": 658,
+      "mainsubject": "Political Science",
+      "question": "The 'Archaeological Survey of India' (ASI) is an Indian government agency attached to the:",
+      "options": [
+        "Ministry of Tourism",
+        "Ministry of Culture",
+        "Ministry of Urban Development",
+        "Ministry of Education"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Archaeological Survey of India (ASI) is the premier organization for the archaeological researches and protection of the cultural heritage of the nation. It functions as an attached office of the **Ministry of Culture**. It was founded in 1861 by Alexander Cunningham.",
+      "difficulty": "Easy",
+      "hint": "This agency for ancient monuments and sites is under the ministry responsible for cultural affairs."
+    },
+    {
+      "level": 659,
+      "mainsubject": "Political Science",
+      "question": "The 'National Museum', New Delhi, one of the largest museums in India, functions under the:",
+      "options": [
+        "Prime Minister's Office",
+        "Ministry of Tourism",
+        "Ministry of Education",
+        "Ministry of Culture"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Museum in New Delhi was established in 1949. It holds a variety of articles ranging from pre-historic era to modern works of art. It functions under the administrative control of the **Ministry of Culture**.",
+      "difficulty": "Easy",
+      "hint": "This major national museum is under the ministry responsible for cultural affairs."
+    },
+    {
+      "level": 660,
+      "mainsubject": "Political Science",
+      "question": "The 'National Film Development Corporation of India' (NFDC) is the central agency to encourage high quality Indian cinema. It is under the:",
+      "options": [
+        "Ministry of Culture",
+        "Ministry of Information and Broadcasting",
+        "Ministry of Tourism",
+        "Ministry of External Affairs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Film Development Corporation of India (NFDC) is the central agency established to encourage the good cinema movement in the country. It functions under the **Ministry of Information and Broadcasting**. It is involved in film financing, production, and distribution.",
+      "difficulty": "Easy",
+      "hint": "This body for promoting cinema is under the ministry that deals with media and broadcasting."
+    },
+    {
+      "level": 661,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Board of Film Certification' (CBFC), often referred to as the censor board, is a statutory body under the:",
+      "options": [
+        "Ministry of Culture",
+        "Ministry of Home Affairs",
+        "Ministry of Law and Justice",
+        "Ministry of Information and Broadcasting"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Central Board of Film Certification (CBFC) is a statutory censorship and classification body under the **Ministry of Information and Broadcasting**. It is tasked with regulating the public exhibition of films under the provisions of the Cinematograph Act 1952.",
+      "difficulty": "Easy",
+      "hint": "This film certification body is under the ministry that deals with media and broadcasting."
+    },
+    {
+      "level": 662,
+      "mainsubject": "Political Science",
+      "question": "The 'Press Council of India' is a:",
+      "options": [
+        "Constitutional body",
+        "Statutory, quasi-judicial body",
+        "Executive body",
+        "Private association of journalists"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Press Council of India is a **statutory, adjudicating organization** formed in 1966 by the Parliament. It is the self-regulatory watchdog of the press, for the press and by the press, that operates under the Press Council Act of 1978. It is a quasi-judicial body.",
+      "difficulty": "Medium",
+      "hint": "This watchdog for the press was created by an Act of Parliament."
+    },
+    {
+      "level": 663,
+      "mainsubject": "Political Science",
+      "question": "The 'Prasar Bharati' is India's public service broadcaster. It is a statutory autonomous body which includes:",
+      "options": [
+        "Doordarshan Television Network only",
+        "All India Radio only",
+        "Both Doordarshan and All India Radio",
+        "The Press Information Bureau"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prasar Bharati is India's largest public broadcasting agency. It is a statutory autonomous body set up by an Act of Parliament and which comprises the **Doordarshan Television Network and All India Radio**, which were earlier media units of the Ministry of Information and Broadcasting.",
+      "difficulty": "Easy",
+      "hint": "This public broadcaster includes both the public television and radio networks."
+    },
+    {
+      "level": 664,
+      "mainsubject": "Political Science",
+      "question": "The 'Forest Survey of India' (FSI), which prepares the 'State of Forest Report', has its headquarters in:",
+      "options": [
+        "New Delhi",
+        "Shimla",
+        "Dehradun",
+        "Bhopal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Forest Survey of India (FSI) is a national organization under the Ministry of Environment, Forest and Climate Change. It is responsible for forest surveys, studies, and research. Its headquarters is located in **Dehradun**, Uttarakhand.",
+      "difficulty": "Medium",
+      "hint": "This organization is headquartered in a city known for its forest research institute."
+    },
+    {
+      "level": 665,
+      "mainsubject": "Political Science",
+      "question": "The 'Zoological Survey of India' (ZSI) has its headquarters in:",
+      "options": [
+        "New Delhi",
+        "Kolkata",
+        "Chennai",
+        "Mumbai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Zoological Survey of India (ZSI), founded in 1916, is a premier Indian organisation in zoological research and studies. It is under the Ministry of Environment, Forest and Climate Change. Its headquarters is located in **Kolkata**, West Bengal.",
+      "difficulty": "Medium",
+      "hint": "This organization for animal studies is headquartered in the former capital of British India."
+    },
+    {
+      "level": 666,
+      "mainsubject": "Political Science",
+      "question": "The 'Botanical Survey of India' (BSI) has its headquarters in:",
+      "options": [
+        "New Delhi",
+        "Kolkata",
+        "Dehradun",
+        "Bengaluru"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Botanical Survey of India (BSI) is the apex research organization under the Ministry of Environment, Forest and Climate Change for carrying out taxonomic and floristic studies on wild plant resources of the country. It was founded in 1890 and its headquarters is in **Kolkata**, West Bengal.",
+      "difficulty": "Medium",
+      "hint": "This organization for plant studies is headquartered in the same city as the Zoological Survey of India."
+    },
+    {
+      "level": 667,
+      "mainsubject": "Political Science",
+      "question": "The 'National Biodiversity Authority' (NBA) is a statutory autonomous body headquartered in:",
+      "options": [
+        "New Delhi",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Biodiversity Authority (NBA) was established in 2003 to implement India's Biological Diversity Act (2002). It is a statutory autonomous body under the Ministry of Environment, Forest and Climate Change. It is headquartered in **Chennai**, Tamil Nadu.",
+      "difficulty": "Hard",
+      "hint": "This authority for biodiversity is headquartered in a major southern coastal city."
+    },
+    {
+      "level": 668,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Zoo Authority' (CZA) is a statutory body under the Ministry of Environment, Forest and Climate Change. Its main objective is to:",
+      "options": [
+        "Manage all zoos in India directly",
+        "Enforce minimum standards and norms for animal upkeep in the zoos",
+        "Promote wildlife tourism",
+        "Conduct research on captive animals"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Central Zoo Authority (CZA) is the body of the government of India responsible for oversight of zoos. Its main objective is to **enforce minimum standards and norms for the upkeep and healthcare of animals in Indian zoos** and to control the proliferation of zoos. It does not manage zoos directly.",
+      "difficulty": "Medium",
+      "hint": "This body acts as a regulator for zoos, not a direct manager."
+    },
+    {
+      "level": 669,
+      "mainsubject": "Political Science",
+      "question": "The 'Animal Welfare Board of India' is a statutory advisory body on Animal Welfare Laws. It was established under the Prevention of Cruelty to Animals Act of:",
+      "options": [
+        "1950",
+        "1960",
+        "1972",
+        "1986"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Animal Welfare Board of India was established in 1962 under Section 4 of the **Prevention of Cruelty to Animals Act, 1960**. Its purpose is to advise the Government of India on animal welfare laws and to promote animal welfare in the country.",
+      "difficulty": "Medium",
+      "hint": "This board was created under the main law for preventing animal cruelty, passed in the early 1960s."
+    },
+    {
+      "level": 670,
+      "mainsubject": "Political Science",
+      "question": "The 'Wildlife Crime Control Bureau' (WCCB) is a statutory multi-disciplinary body established to combat:",
+      "options": [
+        "Cruelty to domestic animals",
+        "Organized wildlife crime",
+        "Illegal deforestation",
+        "Pollution of water bodies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Wildlife Crime Control Bureau (WCCB) is a statutory body established by the Government of India under the Ministry of Environment, Forest and Climate Change to combat **organized wildlife crime** in the country. It was established under the Wildlife (Protection) Act, 1972.",
+      "difficulty": "Easy",
+      "hint": "The name of this bureau indicates its focus on crime related to wildlife."
+    },
+    {
+      "level": 671,
+      "mainsubject": "Political Science",
+      "question": "The 'National Ganga River Basin Authority' (NGRBA) was established in 2009 and is chaired by the:",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Minister of Environment, Forest and Climate Change",
+        "Minister of Jal Shakti"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Ganga River Basin Authority (NGRBA) was a financing, planning, implementing, monitoring and coordinating authority for the Ganges River, functioning under the Ministry of Water Resources. It was established in 2009 and was chaired by the **Prime Minister of India**. It has since been replaced by the National Council for Rejuvenation, Protection and Management of River Ganga.",
+      "difficulty": "Medium",
+      "hint": "The head of the government chairs this apex body for the Ganga."
+    },
+    {
+      "level": 672,
+      "mainsubject": "Political Science",
+      "question": "The 'National Afforestation and Eco-Development Board' (NAEB) is under the:",
+      "options": [
+        "Ministry of Agriculture and Farmers' Welfare",
+        "Ministry of Rural Development",
+        "Ministry of Environment, Forest and Climate Change",
+        "Ministry of Tribal Affairs"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Afforestation and Eco-Development Board (NAEB) was constituted in 1992. It is under the **Ministry of Environment, Forest and Climate Change**. It is responsible for promoting afforestation, tree planting, ecological restoration, and eco-development activities in the country.",
+      "difficulty": "Medium",
+      "hint": "This board for tree planting is under the ministry responsible for forests."
+    },
+    {
+      "level": 673,
+      "mainsubject": "Political Science",
+      "question": "The 'National Tiger Conservation Authority' (NTCA) is a statutory body constituted under the:",
+      "options": [
+        "Environment (Protection) Act, 1986",
+        "Biological Diversity Act, 2002",
+        "Forest (Conservation) Act, 1980",
+        "Wildlife (Protection) Act, 1972"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Tiger Conservation Authority (NTCA) is a statutory body under the Ministry of Environment, Forests and Climate Change. It was constituted under enabling provisions of the **Wildlife (Protection) Act, 1972**, as amended in 2006, for strengthening tiger conservation. It is the governing body for 'Project Tiger'.",
+      "difficulty": "Medium",
+      "hint": "This body for tiger conservation was created under the main law for wildlife protection."
+    },
+    {
+      "level": 674,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Pollution Control Board' (CPCB) is a statutory organisation constituted under the:",
+      "options": [
+        "Water (Prevention and Control of Pollution) Act, 1974",
+        "Air (Prevention and Control of Pollution) Act, 1981",
+        "Environment (Protection) Act, 1986",
+        "National Green Tribunal Act, 2010"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Central Pollution Control Board (CPCB) is a statutory organisation under the Ministry of Environment, Forest and Climate Change. It was constituted in September 1974 under the **Water (Prevention and Control of Pollution) Act, 1974**. It was later entrusted with powers and functions under the Air (Prevention and Control of Pollution) Act, 1981.",
+      "difficulty": "Medium",
+      "hint": "This pollution control board was first established under the Water Act."
+    },
+    {
+      "level": 675,
+      "mainsubject": "Political Science",
+      "question": "The 'National Museum of Natural History' (NMNH) in New Delhi is an institution devoted to environmental education. It is under the:",
+      "options": [
+        "Ministry of Culture",
+        "Ministry of Science and Technology",
+        "Ministry of Earth Sciences",
+        "Ministry of Environment, Forest and Climate Change"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Museum of Natural History (NMNH) is a museum focusing on natural history, located in New Delhi. It is an institution under the **Ministry of Environment, Forest and Climate Change**. Its main objective is to provide environmental education and create awareness about nature and the environment.",
+      "difficulty": "Medium",
+      "hint": "This museum of nature is under the ministry responsible for the environment."
+    },
+    {
+      "level": 676,
+      "mainsubject": "Political Science",
+      "question": "The 'Survey of India' is the national mapping agency of the country. It is under the:",
+      "options": [
+        "Ministry of Defence",
+        "Ministry of Home Affairs",
+        "Ministry of Science and Technology",
+        "Ministry of Earth Sciences"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Survey of India is India's central engineering agency in charge of mapping and surveying. It was established in 1767. It is under the Department of Science and Technology, **Ministry of Science and Technology**. Its headquarters is in Dehradun, Uttarakhand.",
+      "difficulty": "Medium",
+      "hint": "This scientific organization for mapping is under the ministry for science."
+    },
+    {
+      "level": 677,
+      "mainsubject": "Political Science",
+      "question": "The 'National Atlas and Thematic Mapping Organisation' (NATMO) is an organisation under the:",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Culture",
+        "Ministry of Science and Technology",
+        "Ministry of Education"
+      ],
+      "correctAnswer": 3,
+      "explanation": "NATMO is a subordinate office under the Department of Science & Technology, **Ministry of Science and Technology**. It is the sole authorized agency for the compilation of the National Atlas of India. Its headquarters is in Kolkata, West Bengal.",
+      "difficulty": "Hard",
+      "hint": "This organization for creating thematic maps is under the ministry for science."
+    },
+    {
+      "level": 678,
+      "mainsubject": "Political Science",
+      "question": "The 'National Crime Records Bureau' (NCRB) is an Indian government agency responsible for collecting and analysing crime data. It is under the:",
+      "options": [
+        "Prime Minister's Office",
+        "Ministry of Home Affairs",
+        "Ministry of Statistics and Programme Implementation",
+        "Cabinet Secretariat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Crime Records Bureau (NCRB) was set up in 1986 to function as a repository of information on crime and criminals so as to assist the investigators in linking crime to the perpetrators. It functions under the **Ministry of Home Affairs**.",
+      "difficulty": "Easy",
+      "hint": "The agency that keeps records of crime is under the ministry for internal security."
+    },
+    {
+      "level": 679,
+      "mainsubject": "Political Science",
+      "question": "The 'Bureau of Police Research and Development' (BPR&D) was set up to identify the needs and problems of the police in India. It is under the:",
+      "options": [
+        "Cabinet Secretariat",
+        "Prime Minister's Office",
+        "Ministry of Defence",
+        "Ministry of Home Affairs"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Bureau of Police Research and Development (BPR&D) was set up in 1970 to undertake research and development in the police sphere. It is an important institution under the **Ministry of Home Affairs**.",
+      "difficulty": "Medium",
+      "hint": "This R&D wing for the police is under the ministry for internal security."
+    },
+    {
+      "level": 680,
+      "mainsubject": "Political Science",
+      "question": "The 'Narcotics Control Bureau' (NCB) is the chief law enforcement and intelligence agency of India responsible for fighting drug trafficking. It is under the:",
+      "options": [
+        "Ministry of Health and Family Welfare",
+        "Ministry of Social Justice and Empowerment",
+        "Ministry of Home Affairs",
+        "Ministry of Finance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Narcotics Control Bureau (NCB) was created in 1986 under the Narcotic Drugs and Psychotropic Substances Act, 1985. It is the apex coordinating agency under the **Ministry of Home Affairs** for matters related to drug law enforcement.",
+      "difficulty": "Easy",
+      "hint": "This agency for fighting drug crime is under the ministry for internal security."
+    },
+    {
+      "level": 681,
+      "mainsubject": "Political Science",
+      "question": "The 'Sashastra Seema Bal' (SSB) is a border guarding force of India deployed along its border with:",
+      "options": [
+        "Pakistan and Bangladesh",
+        "China",
+        "Myanmar",
+        "Nepal and Bhutan"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Sashastra Seema Bal (SSB) is one of India's Central Armed Police Forces. It is currently deployed along the Indo-**Nepal** and Indo-**Bhutan** borders. It is under the administrative control of the Ministry of Home Affairs.",
+      "difficulty": "Medium",
+      "hint": "This force guards India's open borders with two Himalayan neighbors."
+    },
+    {
+      "level": 682,
+      "mainsubject": "Political Science",
+      "question": "The 'Indo-Tibetan Border Police' (ITBP) is deployed along India's border with:",
+      "options": [
+        "Pakistan",
+        "Bangladesh",
+        "China (Tibet Autonomous Region)",
+        "Myanmar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indo-Tibetan Border Police (ITBP) is India's primary border patrol organization for its border with the **Tibet Autonomous Region of China**. It is one of the five Central Armed Police Forces of India, under the Ministry of Home Affairs.",
+      "difficulty": "Easy",
+      "hint": "The name of this force indicates the border it guards."
+    },
+    {
+      "level": 683,
+      "mainsubject": "Political Science",
+      "question": "The 'Assam Rifles' is a Central Armed Police Force that operates under the Ministry of Home Affairs, but its operational control rests with the:",
+      "options": [
+        "Prime Minister's Office",
+        "Indian Army",
+        "Ministry of Defence",
+        "Chief Minister of Assam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Assam Rifles has a unique dual control structure. While its administrative control is with the Ministry of Home Affairs, its operational control is with the **Indian Army**. It is the oldest paramilitary force of India and is primarily responsible for guarding the Indo-Myanmar border and for counter-insurgency operations in the North-East.",
+      "difficulty": "Hard",
+      "hint": "This paramilitary force has a unique dual control structure."
+    },
+    {
+      "level": 684,
+      "mainsubject": "Political Science",
+      "question": "The 'Border Security Force' (BSF) is responsible for guarding India's land border with:",
+      "options": [
+        "China and Nepal",
+        "Myanmar and Bhutan",
+        "Pakistan and Bangladesh",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Border Security Force (BSF) is India's primary border guarding organisation on its land border. It is responsible for guarding India's international borders with **Pakistan and Bangladesh**. It is under the Ministry of Home Affairs.",
+      "difficulty": "Easy",
+      "hint": "This force guards India's borders on its western and eastern fronts."
+    },
+    {
+      "level": 685,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Industrial Security Force' (CISF) is a unique paramilitary force responsible for providing security cover to:",
+      "options": [
+        "VIPs and vital installations",
+        "International borders",
+        "Industrial units, government infrastructure projects and facilities",
+        "Railway stations and trains"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Central Industrial Security Force (CISF) is primarily responsible for providing security cover to over 300 industrial units, government infrastructure projects, and facilities located all over India. These include atomic power plants, space installations, airports, seaports, power plants, and sensitive Government buildings.",
+      "difficulty": "Easy",
+      "hint": "The name of this force indicates its primary area of responsibility."
+    },
+    {
+      "level": 686,
+      "mainsubject": "Political Science",
+      "question": "The 'Central Reserve Police Force' (CRPF) is India's largest Central Armed Police Force. Its primary role is to:",
+      "options": [
+        "Guard the international borders",
+        "Provide security to industrial units",
+        "Assist the State/Union Territories in police operations to maintain law and order and contain insurgency",
+        "Conduct counter-terrorism operations"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The primary role of the CRPF is to **assist the State/Union Territory police forces in maintaining law and order and containing insurgency**. It is the main internal security force of the country. It also has specialized wings like the Rapid Action Force (RAF) and the Commando Battalion for Resolute Action (CoBRA).",
+      "difficulty": "Easy",
+      "hint": "This is the main internal security and anti-insurgency force of the Union."
+    },
+    {
+      "level": 687,
+      "mainsubject": "Political Science",
+      "question": "The 'Directorate of Revenue Intelligence' (DRI) is the apex intelligence and investigative agency for matters relating to violations of the:",
+      "options": [
+        "Income Tax Act",
+        "Customs Act",
+        "Companies Act",
+        "Prevention of Money Laundering Act"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Directorate of Revenue Intelligence (DRI) is the major intelligence agency of India for anti-smuggling matters. It works under the Central Board of Indirect Taxes and Customs. Its primary responsibility is to detect and curb smuggling of contraband, including drug trafficking and illicit international trade in wildlife and environmentally sensitive items, as well as to combat commercial frauds related to international trade and evasion of **Customs duty**.",
+      "difficulty": "Hard",
+      "hint": "This intelligence agency deals with smuggling and customs duty evasion."
+    },
+    {
+      "level": 688,
+      "mainsubject": "Political Science",
+      "question": "The 'National Technical Research Organisation' (NTRO) is a technical intelligence agency under the:",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Defence",
+        "National Security Advisor in the Prime Minister's Office",
+        "Cabinet Secretariat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Technical Research Organisation (NTRO) is a highly specialized technical intelligence gathering agency. It is under the control of the **National Security Advisor in the Prime Minister's Office**. It provides technical intelligence to other agencies on internal and external security matters.",
+      "difficulty": "Hard",
+      "hint": "This technical intelligence agency is under the NSA."
+    },
+    {
+      "level": 689,
+      "mainsubject": "Political Science",
+      "question": "The 'Defence Intelligence Agency' (DIA) is an organisation responsible for providing and coordinating intelligence for the:",
+      "options": [
+        "Indian Army",
+        "Indian Navy",
+        "Indian Air Force",
+        "Indian Armed Forces"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Defence Intelligence Agency (DIA) was created in 2002. It is responsible for providing and coordinating defence and military intelligence for the **Indian Armed Forces** (i.e., for all three services). It is the nodal agency for all defence-related intelligence.",
+      "difficulty": "Medium",
+      "hint": "This agency coordinates intelligence for all three branches of the military."
+    },
+    {
+      "level": 690,
+      "mainsubject": "Political Science",
+      "question": "The 'Intelligence Bureau' (IB) is India's domestic internal security and counter-intelligence agency. It is under the:",
+      "options": [
+        "Ministry of Defence",
+        "Ministry of Home Affairs",
+        "Cabinet Secretariat",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Intelligence Bureau (IB) is India's premier domestic intelligence agency. It is under the authority of the **Ministry of Home Affairs**. It is one of the oldest such organizations in the world.",
+      "difficulty": "Easy",
+      "hint": "The domestic intelligence agency is under the ministry for internal security."
+    },
+    {
+      "level": 691,
+      "mainsubject": "Political Science",
+      "question": "The 'Research and Analysis Wing' (RAW) is the foreign intelligence agency of India. It is under the direct command of the:",
+      "options": [
+        "Home Minister",
+        "Defence Minister",
+        "Prime Minister",
+        "National Security Advisor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Research and Analysis Wing (RAW) is the foreign intelligence agency of India. The head of RAW, designated 'Secretary (Research)', reports directly to the **Prime Minister**. The agency is under the administrative control of the Cabinet Secretariat, which is under the Prime Minister.",
+      "difficulty": "Medium",
+      "hint": "The foreign intelligence agency reports directly to the head of the government."
+    },
+    {
+      "level": 692,
+      "mainsubject": "Political Science",
+      "question": "The 'Srimandir Parikrama project' is a heritage corridor development project around the:",
+      "options": [
+        "Kashi Vishwanath Temple, Varanasi",
+        "Jagannath Temple, Puri",
+        "Meenakshi Temple, Madurai",
+        "Sun Temple, Konark"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Srimandir Parikrama project is a massive heritage corridor project being developed around the **Jagannath Temple in Puri, Odisha**. The project aims to provide expansive, pilgrim-focused corridors around the temple for the benefit of devotees.",
+      "difficulty": "Medium",
+      "hint": "This project is associated with a famous temple in Odisha."
+    },
+    {
+      "level": 693,
+      "mainsubject": "Political Science",
+      "question": "The 'Kashi Vishwanath Corridor' is a major development project in which city?",
+      "options": [
+        "Ayodhya",
+        "Mathura",
+        "Varanasi",
+        "Haridwar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Kashi Vishwanath Corridor project is an ambitious project in **Varanasi**, Uttar Pradesh. It connects the Kashi Vishwanath Temple with the banks of the river Ganga. The project aims to decongest the area and provide better facilities for pilgrims.",
+      "difficulty": "Easy",
+      "hint": "This corridor is in the parliamentary constituency of the Prime Minister."
+    },
+    {
+      "level": 694,
+      "mainsubject": "Political Science",
+      "question": "The term 'Hindu rate of growth' was coined by economist Raj Krishna to describe the slow growth rate of the Indian economy during:",
+      "options": [
+        "The British colonial period",
+        "The period from the 1950s to the 1980s",
+        "The period after the 1991 economic reforms",
+        "The 21st century"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'Hindu rate of growth' is a term referring to the low annual growth rate of the planned economy of India before the liberalizations of 1991. The term was coined by Indian economist Raj Krishna in 1978 to describe the slow average growth rate of about 3.5% per year from the **1950s to the 1980s**.",
+      "difficulty": "Medium",
+      "hint": "This term describes the growth rate during the era of the planned economy."
+    },
+    {
+      "level": 695,
+      "mainsubject": "Political Science",
+      "question": "The 'Narasimham Committee' reports of 1991 and 1998 are associated with reforms in the:",
+      "options": [
+        "Taxation system",
+        "Electoral system",
+        "Banking sector",
+        "Civil services"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Narasimham Committee, chaired by M. Narasimham, was set up to recommend reforms in the Indian financial system. Its two reports, in 1991 and 1998, are considered landmark documents that paved the way for major reforms in the **banking sector** of India, including the reduction of statutory liquidity ratio (SLR) and cash reserve ratio (CRR).",
+      "difficulty": "Medium",
+      "hint": "This committee was instrumental in modernizing India's financial system."
+    },
+    {
+      "level": 696,
+      "mainsubject": "Political Science",
+      "question": "The 'Kelkar Committee' report of 2015 dealt with:",
+      "options": [
+        "Revisiting and revitalising the Public-Private Partnership (PPP) model",
+        "The direct tax code",
+        "The implementation of GST",
+        "The fiscal consolidation roadmap"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The committee headed by Vijay Kelkar was constituted in 2015 to review the experience of the Public-Private Partnership (PPP) model in India. Its report recommended several measures to **revisit and revitalise the PPP model** of infrastructure development, including changes in the risk-sharing mechanism and dispute resolution.",
+      "difficulty": "Hard",
+      "hint": "This committee focused on a model for infrastructure development."
+    },
+    {
+      "level": 697,
+      "mainsubject": "Political Science",
+      "question": "The 'Abhijit Sen Committee' was constituted to formulate a long-term policy on:",
+      "options": [
+        "Food grains",
+        "Pulses",
+        "Sugar",
+        "Edible oils"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Abhijit Sen Committee was constituted by the government to study the commodity futures market and to formulate a long-term policy on **food grains**. The committee made recommendations on issues like minimum support price, procurement, and public distribution system.",
+      "difficulty": "Hard",
+      "hint": "This committee focused on a long-term policy for staple food items."
+    },
+    {
+      "level": 698,
+      "mainsubject": "Political Science",
+      "question": "The 'U.K. Sinha Committee' was constituted by SEBI to suggest measures for the problems faced by:",
+      "options": [
+        "Mutual funds",
+        "Small and medium enterprises (SMEs)",
+        "Retail investors",
+        "The MSME sector"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The U.K. Sinha Committee was constituted by the Reserve Bank of India (not SEBI) in 2019. It was an expert committee on the **Micro, Small and Medium Enterprises (MSME) sector**. The committee made recommendations to address the challenges faced by the MSME sector, including issues of credit, market access, and technology.",
+      "difficulty": "Hard",
+      "hint": "This committee, headed by a former SEBI chairman, focused on the small-scale industrial sector."
+    },
+    {
+      "level": 699,
+      "mainsubject": "Political Science",
+      "question": "The 'Bimal Jalan Committee' was constituted by the RBI to:",
+      "options": [
+        "Review the monetary policy framework",
+        "Suggest reforms in the banking sector",
+        "Review the existing economic capital framework of the RBI",
+        "Examine the issue of bank mergers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Bimal Jalan Committee was an expert committee constituted by the Reserve Bank of India (RBI) to **review the existing economic capital framework of the RBI**. The committee's recommendations dealt with the appropriate level of reserves that the RBI should hold and the transfer of its surplus profits to the government.",
+      "difficulty": "Hard",
+      "hint": "This committee dealt with the issue of the central bank's surplus reserves."
+    },
+    {
+      "level": 700,
+      "mainsubject": "Political Science",
+      "question": "The 'Bibek Debroy Committee' made recommendations for the:",
+      "options": [
+        "Restructuring of the Railways",
+        "Reform of the tax administration",
+        "Merger of public sector banks",
+        "Revitalization of the power sector"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bibek Debroy Committee was a high-level committee constituted in 2014 for the **mobilization of resources and restructuring of the Indian Railways**. The committee made several sweeping recommendations, including the setting up of an independent regulator, encouraging private entry, and separating the core functions of the railways.",
+      "difficulty": "Hard",
+      "hint": "This committee, headed by a prominent economist, focused on a major public utility."
+    },
+    {
+      "level": 701,
+      "mainsubject": "Political Science",
+      "question": "The term 'Blue Water Navy' refers to a navy that can:",
+      "options": [
+        "Operate only in coastal waters",
+        "Operate in deep waters far from its home base",
+        "Operate only in rivers",
+        "Specialize in submarine warfare"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A 'Blue Water Navy' is a maritime force capable of operating globally, essentially across the deep waters of open oceans. It is a navy that can **project power far from its home country's shores**. The Indian Navy is considered a blue-water navy.",
+      "difficulty": "Medium",
+      "hint": "This term describes a navy with a global operational reach."
+    },
+    {
+      "level": 702,
+      "mainsubject": "Political Science",
+      "question": "The 'National Institute of Virology' (NIV), which was at the forefront of COVID-19 research in India, is located in:",
+      "options": [
+        "New Delhi",
+        "Bengaluru",
+        "Hyderabad",
+        "Pune"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Institute of Virology (NIV) is one of the major institutes of the Indian Council of Medical Research (ICMR). It is a premier institute for research in virology. The NIV is located in **Pune**, Maharashtra.",
+      "difficulty": "Easy",
+      "hint": "This key virology lab is located in a major city in Maharashtra."
+    },
+     {
+      "level": 703,
+      "mainsubject": "Political Science",
+      "question": "The 'National e-Vidhan Application' (NeVA) is a Mission Mode Project to digitize and make the functioning of:",
+      "options": [
+        "All courts in India paperless",
+        "All central government offices paperless",
+        "All State Legislatures paperless",
+        "All Panchayats in India paperless"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National e-Vidhan Application (NeVA) is a project to make **all State Legislatures paperless**, thereby transforming them into 'Digital Legislatures'. It is a part of the Digital India Programme and is implemented by the Ministry of Parliamentary Affairs. It aims to make the functioning of all 31 State Assemblies/Councils efficient, transparent, and accountable.",
+      "difficulty": "Medium",
+      "hint": "The term 'Vidhan' refers to the legislature in Hindi."
+    },
+    {
+      "level": 704,
+      "mainsubject": "Political Science",
+      "question": "Which of the following Fundamental Rights is also known as the 'golden triangle' of the Constitution?",
+      "options": [
+        "Articles 19, 20, and 21",
+        "Articles 14, 15, and 16",
+        "Articles 25, 26, and 27",
+        "Articles 14, 19, and 21"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Articles 14 (Right to Equality), 19 (Right to Freedom), and 21 (Right to Life and Personal Liberty)** are collectively known as the 'golden triangle' of the Indian Constitution. The Supreme Court has held that these three articles are intrinsically linked and must be read together. Any law or state action must satisfy the tests of all three articles to be considered constitutionally valid.",
+      "difficulty": "Hard",
+      "hint": "This trio of articles forms the core of individual liberty and protection against state action."
+    },
+    {
+      "level": 705,
+      "mainsubject": "Political Science",
+      "question": "The 'National Data Sharing and Accessibility Policy' (NDSAP) was launched in which year?",
+      "options": [
+        "2005",
+        "2009",
+        "2012",
+        "2015"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Data Sharing and Accessibility Policy (NDSAP) was launched by the Government of India in **2012**. The policy aims to provide proactive access to government-owned shareable data (along with its metadata) in a machine-readable format, thereby facilitating access to and sharing of data for scientific, economic, and social developmental purposes.",
+      "difficulty": "Hard",
+      "hint": "This open data policy was launched in the early 2010s."
+    },
+    {
+      "level": 706,
+      "mainsubject": "Political Science",
+      "question": "The 'Department for Promotion of Industry and Internal Trade' (DPIIT) is under which Union Ministry?",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Commerce and Industry",
+        "Ministry of Corporate Affairs",
+        "Ministry of Micro, Small and Medium Enterprises"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Department for Promotion of Industry and Internal Trade (DPIIT) is a central government department under the **Ministry of Commerce and Industry**. It is responsible for the formulation and implementation of promotional and developmental measures for the growth of the industrial sector, and it also handles matters related to intellectual property rights and foreign direct investment (FDI).",
+      "difficulty": "Medium",
+      "hint": "This department is under the ministry responsible for trade and industry."
+    },
+    {
+      "level": 707,
+      "mainsubject": "Political Science",
+      "question": "The 'Geographical Indications of Goods (Registration and Protection) Act' was passed in India in which year?",
+      "options": [
+        "1991",
+        "1999",
+        "2003",
+        "2008"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Geographical Indications of Goods (Registration and Protection) Act was enacted by the Parliament of India in **1999**. This Act was passed to comply with India's obligations under the TRIPS Agreement of the WTO. The first product to get a GI tag in India was Darjeeling Tea in 2004-05.",
+      "difficulty": "Medium",
+      "hint": "This law to protect products with specific geographical origins was passed at the end of the 20th century."
+    },
+    {
+      "level": 708,
+      "mainsubject": "Political Science",
+      "question": "The 'Chola' dynasty, known for its powerful navy and local self-government, ruled primarily in which modern-day state?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Chola dynasty was a Tamil thalassocratic empire of southern India, one of the longest-ruling dynasties in world history. Their heartland was the fertile valley of the Kaveri River, but they ruled a significantly larger area at the height of their power, primarily in modern-day **Tamil Nadu**.",
+      "difficulty": "Easy",
+      "hint": "This ancient dynasty is associated with the Tamil language and the Kaveri river."
+    },
+    {
+      "level": 709,
+      "mainsubject": "Political Science",
+      "question": "The 'National Mission on Edible Oils - Oil Palm' (NMEO-OP) is a centrally sponsored scheme aimed at increasing the production of:",
+      "options": [
+        "Mustard oil",
+        "Sunflower oil",
+        "Groundnut oil",
+        "Crude palm oil"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The National Mission on Edible Oils - Oil Palm (NMEO-OP) is a government initiative to boost the domestic production of **crude palm oil**. The scheme aims to reduce India's heavy reliance on imports of edible oils and to increase the income of farmers.",
+      "difficulty": "Easy",
+      "hint": "The name of the mission specifies the type of oil it focuses on."
+    },
+    {
+      "level": 710,
+      "mainsubject": "Political Science",
+      "question": "The 'Vittala Temple' at Hampi, famous for its stone chariot and musical pillars, was built during the reign of which empire?",
+      "options": [
+        "Chola Empire",
+        "Pandyan Empire",
+        "Vijayanagara Empire",
+        "Hoysala Empire"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Vittala Temple is the most famous and elaborate temple in Hampi, which was the capital of the **Vijayanagara Empire**. The temple was built in the 15th century during the reign of Devaraya II and was enhanced by Krishnadevaraya. Hampi is a UNESCO World Heritage Site in Karnataka.",
+      "difficulty": "Medium",
+      "hint": "This temple is a prime example of the architecture of a major South Indian empire with its capital in modern-day Karnataka."
+    },
+    {
+      "level": 711,
+      "mainsubject": "Political Science",
+      "question": "The 'National Startup Day' is celebrated in India on:",
+      "options": [
+        "January 16",
+        "March 16",
+        "August 16",
+        "November 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Government of India has declared **January 16** as National Startup Day. The announcement was made by Prime Minister Narendra Modi in 2022 to celebrate the spirit of entrepreneurship and the startup ecosystem in the country.",
+      "difficulty": "Easy",
+      "hint": "This day is celebrated in the first month of the year."
+    },
+    {
+      "level": 712,
+      "mainsubject": "Political Science",
+      "question": "The 'Veer Baal Diwas' is observed in India on December 26 to commemorate the martyrdom of the sons of:",
+      "options": [
+        "Guru Nanak Dev",
+        "Guru Gobind Singh",
+        "Guru Tegh Bahadur",
+        "Maharaja Ranjit Singh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Veer Baal Diwas is observed on December 26 to mark the martyrdom of the two younger sons of the tenth Sikh Guru, **Guru Gobind Singh**. Sahibzadas Zorawar Singh and Fateh Singh were martyred at the tender ages of 9 and 6 respectively by the Mughal forces in Sirhind.",
+      "difficulty": "Easy",
+      "hint": "This day commemorates the sacrifice of the sons of the tenth Sikh Guru."
+    },
+    {
+      "level": 713,
+      "mainsubject": "Political Science",
+      "question": "The term 'Angel Tax' is a tax levied on:",
+      "options": [
+        "Foreign institutional investors",
+        "Capital gains from the sale of shares",
+        "The excess premium received by an unlisted company from an investor for its shares",
+        "High-value transactions"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Angel tax' is a term used to refer to the income tax payable on the capital raised by unlisted companies via the issue of shares where the share price is seen in excess of the fair market value of the shares. The **excess premium** is treated as income and taxed. This tax typically affects startups that raise funding from angel investors.",
+      "difficulty": "Hard",
+      "hint": "This controversial tax affects startups raising funds from early-stage investors."
+    },
+    {
+      "level": 714,
+      "mainsubject": "Political Science",
+      "question": "The 'Hague Convention' is a set of international treaties primarily dealing with:",
+      "options": [
+        "Environmental protection",
+        "Rules of warfare",
+        "International trade",
+        "Private international law and cross-border legal issues"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Hague Conference on Private International Law is an intergovernmental organization that develops and services multilateral legal instruments to promote the harmonization of **private international law**. The Hague Conventions deal with a wide range of issues, including international child abduction, intercountry adoption, and the service of legal documents abroad.",
+      "difficulty": "Hard",
+      "hint": "This set of treaties deals with legal conflicts that cross national borders."
+    },
+    {
+      "level": 715,
+      "mainsubject": "Political Science",
+      "question": "The 'United Nations Convention on the Law of the Sea' (UNCLOS) was adopted in which year?",
+      "options": [
+        "1958",
+        "1967",
+        "1982",
+        "1994"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The United Nations Convention on the Law of the Sea (UNCLOS) was adopted and signed in **1982**. It is an international agreement that establishes a legal framework for all marine and maritime activities. It is often referred to as the 'Constitution of the Seas'.",
+      "difficulty": "Medium",
+      "hint": "This 'constitution of the seas' was adopted in the early 1980s."
+    },
+    {
+      "level": 716,
+      "mainsubject": "Political Science",
+      "question": "The term 'Deep Blue' is sometimes used to refer to the:",
+      "options": [
+        "Indian Navy's submarine fleet",
+        "A supercomputer developed by C-DAC",
+        "A chess-playing computer developed by IBM",
+        "A mission to explore the deep ocean"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Deep Blue was a **chess-playing supercomputer developed by IBM**. It is known for being the first computer to win a chess game and a chess match against a reigning world champion, Garry Kasparov, under regular time controls in 1997.",
+      "difficulty": "Hard",
+      "hint": "This famous computer is known for defeating a chess grandmaster."
+    },
+    {
+      "level": 717,
+      "mainsubject": "Political Science",
+      "question": "The 'Global Gender Gap Report' is an annual publication of the:",
+      "options": [
+        "United Nations Women",
+        "World Bank",
+        "World Economic Forum",
+        "Oxfam International"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Global Gender Gap Report is an annual report published by the **World Economic Forum (WEF)**. It benchmarks countries on their progress towards gender parity in four key dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment.",
+      "difficulty": "Medium",
+      "hint": "This report is published by a famous international organization based in Switzerland."
+    },
+    {
+      "level": 718,
+      "mainsubject": "Political Science",
+      "question": "The 'Ease of Doing Business' report was an annual report published by the:",
+      "options": [
+        "World Trade Organization",
+        "World Economic Forum",
+        "International Monetary Fund",
+        "World Bank Group"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Ease of Doing Business report was an annual report published by the **World Bank Group**. It measured and ranked countries on the ease with which a small to medium-sized enterprise can operate in their regulatory environment. The publication of the report was discontinued in 2021 due to data irregularities.",
+      "difficulty": "Easy",
+      "hint": "This influential, though now discontinued, ranking was published by a major international financial institution."
+    },
+    {
+      "level": 719,
+      "mainsubject": "Political Science",
+      "question": "The 'Financial Action Task Force' (FATF) is an intergovernmental organization that sets standards and promotes effective implementation of measures to combat:",
+      "options": [
+        "Tax evasion",
+        "Cyber crime",
+        "Money laundering and terrorist financing",
+        "Intellectual property theft"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Financial Action Task Force (FATF) is a global watchdog organization whose mandate is to combat **money laundering and terrorist financing**. It maintains a 'grey list' and a 'black list' of countries that are not taking adequate measures to counter these financial crimes.",
+      "difficulty": "Easy",
+      "hint": "This global watchdog maintains a 'grey list' of countries."
+    },
+    {
+      "level": 720,
+      "mainsubject": "Political Science",
+      "question": "The 'SWIFT' (Society for Worldwide Interbank Financial Telecommunication) is a network that enables financial institutions worldwide to:",
+      "options": [
+        "Regulate stock markets",
+        "Provide credit ratings",
+        "Send and receive information about financial transactions securely",
+        "Set international interest rates"
+      ],
+      "correctAnswer": 3,
+      "explanation": "SWIFT is a member-owned cooperative that provides a secure messaging network for financial institutions. It enables banks and other financial institutions to **send and receive information about financial transactions** in a secure, standardized, and reliable environment. It does not hold funds or manage accounts on behalf of customers.",
+      "difficulty": "Medium",
+      "hint": "This is a secure messaging system for banks."
+    },
+    {
+      "level": 721,
+      "mainsubject": "Political Science",
+      "question": "The term 'Carbon Footprint' refers to:",
+      "options": [
+        "The amount of carbon stored in a forest",
+        "The total amount of greenhouse gases produced to directly and indirectly support human activities",
+        "A tax on carbon emissions",
+        "A tradable permit for carbon emissions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A carbon footprint is the **total amount of greenhouse gases (including carbon dioxide and methane)** that are generated by our actions. It is a measure of the impact of human activities on the environment in terms of the amount of greenhouse gases produced, measured in units of carbon dioxide equivalent.",
+      "difficulty": "Easy",
+      "hint": "This is a measure of an individual's or organization's environmental impact."
+    },
+    {
+      "level": 722,
+      "mainsubject": "Political Science",
+      "question": "The 'Paris Agreement' is a landmark international treaty on:",
+      "options": [
+        "Nuclear disarmament",
+        "International trade",
+        "Climate change",
+        "Protection of the ozone layer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Paris Agreement is a legally binding international treaty on **climate change**. It was adopted by 196 Parties at COP 21 in Paris, in 2015. Its goal is to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels.",
+      "difficulty": "Easy",
+      "hint": "This agreement was adopted at a major climate conference in the French capital."
+    },
+    {
+      "level": 723,
+      "mainsubject": "Political Science",
+      "question": "The 'Kyoto Protocol' was an international treaty that committed state parties to reduce:",
+      "options": [
+        "Poverty levels",
+        "Greenhouse gas emissions",
+        "Ozone-depleting substances",
+        "Nuclear arsenals"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kyoto Protocol was an international treaty that extended the 1992 United Nations Framework Convention on Climate Change (UNFCCC). It committed state parties to reduce **greenhouse gas emissions**, based on the scientific consensus that global warming is occurring and it is extremely likely that human-made CO2 emissions have predominantly caused it.",
+      "difficulty": "Easy",
+      "hint": "This treaty, named after a Japanese city, was a precursor to the Paris Agreement."
+    },
+    {
+      "level": 724,
+      "mainsubject": "Political Science",
+      "question": "The 'Montreal Protocol' is an international treaty designed to protect the:",
+      "options": [
+        "Ozone layer",
+        "Biodiversity",
+        "Wetlands",
+        "Endangered species"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is a landmark multilateral environmental agreement that regulates the production and consumption of nearly 100 man-made chemicals referred to as ozone-depleting substances (ODS). It is designed to protect the **ozone layer** by phasing out the production of these substances.",
+      "difficulty": "Easy",
+      "hint": "This treaty, named after a Canadian city, deals with a specific layer of the Earth's atmosphere."
+    },
+    {
+      "level": 725,
+      "mainsubject": "Political Science",
+      "question": "The 'Ramsar Convention' is an international treaty for the conservation and sustainable use of:",
+      "options": [
+        "Forests",
+        "Deserts",
+        "Wetlands",
+        "Coral reefs"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ramsar Convention on Wetlands of International Importance Especially as Waterfowl Habitat is an international treaty for the conservation and sustainable use of **wetlands**. It is named after the city of Ramsar in Iran, where the convention was signed in 1971.",
+      "difficulty": "Easy",
+      "hint": "This convention is named after the Iranian city where it was signed."
+    },
+    {
+      "level": 726,
+      "mainsubject": "Political Science",
+      "question": "The term 'BRICS' refers to an association of five major emerging economies. The 'S' in BRICS stands for:",
+      "options": [
+        "Singapore",
+        "South Korea",
+        "South Africa",
+        "Sri Lanka"
+      ],
+      "correctAnswer": 3,
+      "explanation": "BRICS is the acronym for an association of five major emerging national economies: Brazil, Russia, India, China, and **South Africa**. Originally the first four were grouped as 'BRIC' in 2001; South Africa was added to the bloc in 2010.",
+      "difficulty": "Easy",
+      "hint": "This country is the only African nation in the group."
+    },
+    {
+      "level": 727,
+      "mainsubject": "Political Science",
+      "question": "The 'New Development Bank' (NDB) is a multilateral development bank established by the:",
+      "options": [
+        "G20 countries",
+        "SAARC countries",
+        "ASEAN countries",
+        "BRICS countries"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The New Development Bank (NDB), formerly referred to as the BRICS Development Bank, is a multilateral development bank established by the **BRICS states** (Brazil, Russia, India, China, and South Africa). The bank is headquartered in Shanghai, China.",
+      "difficulty": "Easy",
+      "hint": "This bank is an initiative of the BRICS group."
+    },
+    {
+      "level": 728,
+      "mainsubject": "Political Science",
+      "question": "The 'ASEAN' (Association of Southeast Asian Nations) is a regional intergovernmental organization. Which of the following is NOT a member of ASEAN?",
+      "options": [
+        "Indonesia",
+        "Vietnam",
+        "Thailand",
+        "India"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**India** is not a member of ASEAN, but it is a dialogue partner. ASEAN is a regional organization comprising ten countries in Southeast Asia: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam.",
+      "difficulty": "Easy",
+      "hint": "This regional bloc consists of Southeast Asian nations."
+    },
+    {
+      "level": 729,
+      "mainsubject": "Political Science",
+      "question": "The 'North Atlantic Treaty Organization' (NATO) is a:",
+      "options": [
+        "Economic alliance",
+        "Military alliance",
+        "Cultural alliance",
+        "Trade bloc"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NATO is an intergovernmental **military alliance** between 32 member states – 30 European and 2 North American. It was established in the aftermath of World War II. The organization implements the North Atlantic Treaty, which was signed in 1949. Article 5 of the treaty states that an attack on one member is an attack on all.",
+      "difficulty": "Easy",
+      "hint": "This is a collective defense alliance."
+    },
+    {
+      "level": 730,
+      "mainsubject": "Political Science",
+      "question": "The term 'Brexit' refers to the withdrawal of which country from the European Union?",
+      "options": [
+        "Greece",
+        "Italy",
+        "Spain",
+        "The United Kingdom"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Brexit is a portmanteau of 'British exit', which refers to the withdrawal of the **United Kingdom** from the European Union (EU). The UK officially left the EU on 31 January 2020, following a referendum held in 2016.",
+      "difficulty": "Easy",
+      "hint": "The name is a combination of 'British' and 'exit'."
+    },
+    {
+      "level": 731,
+      "mainsubject": "Political Science",
+      "question": "The 'International Court of Justice' (ICJ), the principal judicial organ of the United Nations, is located in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "The Hague, Netherlands",
+        "Vienna, Austria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The International Court of Justice (ICJ) is located in the Peace Palace in **The Hague, Netherlands**. It is the only one of the six principal organs of the United Nations not located in New York City.",
+      "difficulty": "Easy",
+      "hint": "This city is known as the international city of peace and justice."
+    },
+    {
+      "level": 732,
+      "mainsubject": "Political Science",
+      "question": "The 'United Nations Security Council' (UNSC) has how many permanent members?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "All UN members"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The United Nations Security Council is composed of 15 members. There are **five permanent members**: China, France, Russia, the United Kingdom, and the United States. These permanent members have the power of veto. There are also 10 non-permanent members elected for two-year terms.",
+      "difficulty": "Easy",
+      "hint": "These are the major victorious powers of World War II."
+    },
+    {
+      "level": 733,
+      "mainsubject": "Political Science",
+      "question": "The 'Universal Declaration of Human Rights' (UDHR) was adopted by the UN General Assembly in which year?",
+      "options": [
+        "1945",
+        "1948",
+        "1950",
+        "1966"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Universal Declaration of Human Rights (UDHR) is a milestone document in the history of human rights. It was proclaimed by the United Nations General Assembly in Paris on 10 December **1948**. This date is now celebrated as Human Rights Day.",
+      "difficulty": "Medium",
+      "hint": "This declaration was adopted a few years after the end of World War II."
+    },
+    {
+      "level": 734,
+      "mainsubject": "Political Science",
+      "question": "The 'International Criminal Court' (ICC) has jurisdiction to prosecute individuals for:",
+      "options": [
+        "All types of international crimes",
+        "Genocide, crimes against humanity, war crimes, and the crime of aggression",
+        "Disputes between states",
+        "Terrorism and drug trafficking"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Criminal Court (ICC) is an intergovernmental organization and international tribunal that sits in The Hague, Netherlands. The ICC has the jurisdiction to prosecute individuals for the international crimes of **genocide, crimes against humanity, war crimes, and the crime of aggression**. It is a court of last resort and can only act when national courts are unwilling or unable to.",
+      "difficulty": "Medium",
+      "hint": "This court prosecutes the gravest crimes of concern to the international community."
+    },
+    {
+      "level": 735,
+      "mainsubject": "Political Science",
+      "question": "The 'World Health Organization' (WHO) is a specialized agency of the United Nations. Its headquarters is in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "London, UK"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health. Its headquarters is located in **Geneva, Switzerland**. It was established on 7 April 1948, which is commemorated as World Health Day.",
+      "difficulty": "Easy",
+      "hint": "Many international organizations are headquartered in this Swiss city."
+    },
+    {
+      "level": 736,
+      "mainsubject": "Political Science",
+      "question": "The 'UNESCO' (United Nations Educational, Scientific and Cultural Organization) has its headquarters in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations aimed at promoting world peace and security through international cooperation in education, arts, sciences, and culture. Its headquarters is located in **Paris, France**.",
+      "difficulty": "Easy",
+      "hint": "This UN agency is headquartered in the French capital."
+    },
+    {
+      "level": 737,
+      "mainsubject": "Political Science",
+      "question": "The 'Food and Agriculture Organization' (FAO) is a specialized agency of the United Nations that leads international efforts to defeat hunger. Its headquarters is in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Food and Agriculture Organization (FAO) is a specialized agency of the United Nations that leads international efforts to defeat hunger and improve nutrition and food security. Its headquarters is located in **Rome, Italy**.",
+      "difficulty": "Medium",
+      "hint": "This UN agency is headquartered in the Italian capital."
+    },
+    {
+      "level": 738,
+      "mainsubject": "Political Science",
+      "question": "The 'United Nations Children's Fund' (UNICEF) has its headquarters in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The United Nations Children's Fund (UNICEF), originally known as the United Nations International Children's Emergency Fund, is a United Nations agency responsible for providing humanitarian and developmental aid to children worldwide. Its headquarters is in **New York City, USA**.",
+      "difficulty": "Easy",
+      "hint": "This UN agency is headquartered in the same city as the UN General Assembly."
+    },
+    {
+      "level": 739,
+      "mainsubject": "Political Science",
+      "question": "The 'International Monetary Fund' (IMF) and the 'World Bank' are often called the Bretton Woods twins because they were conceived at a conference in Bretton Woods, New Hampshire, USA. Their headquarters are in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Washington, D.C., USA",
+        "London, UK"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Both the International Monetary Fund (IMF) and the World Bank have their headquarters in **Washington, D.C., USA**. They were established at the Bretton Woods Conference in 1944 to rebuild the international economic system after World War II.",
+      "difficulty": "Easy",
+      "hint": "These twin financial institutions are headquartered in the US capital."
+    },
+    {
+      "level": 740,
+      "mainsubject": "Political Science",
+      "question": "The 'Amnesty International' is a non-governmental organization that focuses on:",
+      "options": [
+        "Environmental protection",
+        "Human rights",
+        "Economic development",
+        "Disaster relief"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Amnesty International is a global non-governmental organization focused on the protection of **human rights**. It was founded in London in 1961. It campaigns for a world where everyone enjoys the rights enshrined in the Universal Declaration of Human Rights and other international human rights standards.",
+      "difficulty": "Easy",
+      "hint": "This is one of the most well-known human rights NGOs in the world."
+    },
+    {
+      "level": 741,
+      "mainsubject": "Political Science",
+      "question": "The 'Greenpeace' is a non-governmental organization that focuses on:",
+      "options": [
+        "Environmentalism",
+        "Human rights",
+        "Economic development",
+        "Nuclear disarmament"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Greenpeace is a global non-governmental organization that focuses on **environmentalism**. It was founded in 1971 in Canada. Its goal is to 'ensure the ability of the Earth to nurture life in all its diversity'. It is known for its direct action campaigns.",
+      "difficulty": "Easy",
+      "hint": "The name of this NGO indicates its focus on the environment."
+    },
+    {
+      "level": 742,
+      "mainsubject": "Political Science",
+      "question": "The 'Interpol' (International Criminal Police Organization) is an intergovernmental organization that facilitates worldwide police cooperation. Its headquarters is in:",
+      "options": [
+        "The Hague, Netherlands",
+        "Brussels, Belgium",
+        "Lyon, France",
+        "Geneva, Switzerland"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Interpol is an intergovernmental organization that facilitates international police cooperation and crime control. Its headquarters is in **Lyon, France**. It is the world's largest international police organization.",
+      "difficulty": "Medium",
+      "hint": "This international police organization is headquartered in a major city in France."
+    },
+    {
+      "level": 743,
+      "mainsubject": "Political Science",
+      "question": "The 'Group of Seven' (G7) is an intergovernmental political forum consisting of seven of the world's most advanced economies. Which of the following is NOT a member of the G7?",
+      "options": [
+        "Canada",
+        "France",
+        "Italy",
+        "Russia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Russia** is not a member of the G7. The G7 members are Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. The European Union is a 'non-enumerated' member. Russia was part of the G8 from 1997 until it was suspended in 2014 after its annexation of Crimea.",
+      "difficulty": "Easy",
+      "hint": "This country was suspended from the G8 in 2014."
+    },
+    {
+      "level": 744,
+      "mainsubject": "Political Science",
+      "question": "The 'Organisation of the Petroleum Exporting Countries' (OPEC) is an intergovernmental organization of oil-exporting nations. Its headquarters is in:",
+      "options": [
+        "Riyadh, Saudi Arabia",
+        "Dubai, UAE",
+        "Vienna, Austria",
+        "Baghdad, Iraq"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The headquarters of OPEC is in **Vienna, Austria**. This is notable because Austria is not an OPEC member country. OPEC was founded in Baghdad, Iraq, in 1960.",
+      "difficulty": "Medium",
+      "hint": "The headquarters of this oil cartel is located in a non-member European country."
+    },
+    {
+      "level": 745,
+      "mainsubject": "Political Science",
+      "question": "The 'Commonwealth of Nations' is a political association of 56 member states, the vast majority of which are former territories of the:",
+      "options": [
+        "French Empire",
+        "Spanish Empire",
+        "British Empire",
+        "Portuguese Empire"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Commonwealth of Nations is a voluntary association of 56 independent and equal sovereign states. Its roots go back to the **British Empire**. The vast majority of its members are former British colonies or dependencies.",
+      "difficulty": "Easy",
+      "hint": "This is a post-colonial organization."
+    },
+    {
+      "level": 746,
+      "mainsubject": "Political Science",
+      "question": "The 'International Atomic Energy Agency' (IAEA) is the world's central intergovernmental forum for scientific and technical co-operation in the nuclear field. It is widely known as the UN's:",
+      "options": [
+        "Nuclear watchdog",
+        "Energy bank",
+        "Disarmament committee",
+        "Development agency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The IAEA is an international organization that seeks to promote the peaceful use of nuclear energy and to inhibit its use for any military purpose, including nuclear weapons. It is widely known as the world's **'nuclear watchdog'**. It reports to both the UN General Assembly and the Security Council.",
+      "difficulty": "Easy",
+      "hint": "This agency monitors the peaceful use of nuclear technology."
+    },
+    {
+      "level": 747,
+      "mainsubject": "Political Science",
+      "question": "The 'World Intellectual Property Organization' (WIPO) is one of the 15 specialized agencies of the United Nations. Its headquarters is in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "London, UK"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The World Intellectual Property Organization (WIPO) is the global forum for intellectual property (IP) services, policy, information, and cooperation. It is a self-funding agency of the United Nations, with its headquarters in **Geneva, Switzerland**.",
+      "difficulty": "Medium",
+      "hint": "This UN agency for IP is headquartered in a Swiss city."
+    },
+    {
+      "level": 748,
+      "mainsubject": "Political Science",
+      "question": "The 'International Labour Organization' (ILO) is a United Nations agency whose mandate is to advance social and economic justice through setting international labour standards. Its headquarters is in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Labour Organization (ILO) is a UN agency dealing with labour issues, particularly international labour standards, social protection, and work opportunities for all. Its headquarters is in **Geneva, Switzerland**. It was founded in 1919 as part of the League of Nations.",
+      "difficulty": "Easy",
+      "hint": "This UN agency for labour rights is headquartered in a Swiss city."
+    },
+    {
+      "level": 749,
+      "mainsubject": "Political Science",
+      "question": "The 'Bank for International Settlements' (BIS) is an international financial institution owned by central banks that 'fosters international monetary and financial cooperation and serves as a bank for central banks'. Its headquarters is in:",
+      "options": [
+        "Geneva, Switzerland",
+        "Basel, Switzerland",
+        "Zurich, Switzerland",
+        "Bern, Switzerland"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Bank for International Settlements (BIS) is based in **Basel, Switzerland**. It is the world's oldest international financial organization. It is often called the 'central bank for central banks' because it provides banking services to central banks and other international organizations.",
+      "difficulty": "Hard",
+      "hint": "This 'central bank for central banks' is located in a Swiss city known for its banking sector."
+    },
+    {
+      "level": 750,
+      "mainsubject": "Political Science",
+      "question": "The 'Asian Development Bank' (ADB) is a regional development bank established to promote social and economic development in Asia. Its headquarters is in:",
+      "options": [
+        "Manila, Philippines",
+        "Jakarta, Indonesia",
+        "Bangkok, Thailand",
+        "Singapore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Asian Development Bank (ADB) is a regional development bank headquartered in **Manila, Philippines**. It was established in 1966. Japan and the United States are the largest shareholders of the bank.",
+      "difficulty": "Medium",
+      "hint": "This regional bank is headquartered in the capital of the Philippines."
+    },
+    {
+      "level": 751,
+      "mainsubject": "Political Science",
+      "question": "The 'African Development Bank' (AfDB) is a multilateral development finance institution. Its headquarters is in:",
+      "options": [
+        "Nairobi, Kenya",
+        "Lagos, Nigeria",
+        "Johannesburg, South Africa",
+        "Abidjan, Côte d'Ivoire"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The African Development Bank Group (AfDB) is a multilateral development finance institution headquartered in **Abidjan, Côte d'Ivoire**. It was founded in 1964. Its mission is to fight poverty and improve living conditions on the continent through promoting the investment of public and private capital in projects and programs.",
+      "difficulty": "Hard",
+      "hint": "This regional bank is headquartered in a West African country."
+    },
+    {
+      "level": 752,
+      "mainsubject": "Political Science",
+      "question": "The 'Asian Infrastructure Investment Bank' (AIIB) is a multilateral development bank that aims to support the building of infrastructure in the Indo-Pacific region. It is headquartered in:",
+      "options": [
+        "Shanghai, China",
+        "Beijing, China",
+        "Hong Kong",
+        "Mumbai, India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank headquartered in **Beijing, China**. It was proposed by China and began operations in 2016. China is the largest shareholder of the bank, followed by India.",
+      "difficulty": "Easy",
+      "hint": "This new infrastructure bank is headquartered in the Chinese capital."
+    },
+    {
+      "level": 753,
+      "mainsubject": "Political Science",
+      "question": "The 'Organization for Economic Co-operation and Development' (OECD) is an intergovernmental organization with 38 member countries, founded to stimulate economic progress and world trade. Its headquarters is in:",
+      "options": [
+        "London, UK",
+        "Brussels, Belgium",
+        "Geneva, Switzerland",
+        "Paris, France"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Organisation for Economic Co-operation and Development (OECD) is an international organization that works to build better policies for better lives. Its headquarters is in **Paris, France**. Most OECD members are high-income economies with a very high Human Development Index and are regarded as developed countries.",
+      "difficulty": "Medium",
+      "hint": "This 'club of rich countries' is headquartered in the French capital."
+    },
+    {
+      "level": 754,
+      "mainsubject": "Political Science",
+      "question": "The 'International Energy Agency' (IEA) is a Paris-based autonomous intergovernmental organisation established in the framework of the OECD. It was founded in the aftermath of the:",
+      "options": [
+        "1973 oil crisis",
+        "1979 energy crisis",
+        "1991 Gulf War",
+        "2008 financial crisis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The International Energy Agency (IEA) was established in 1974 in the wake of the **1973 oil crisis**. Its initial role was to help countries co-ordinate a collective response to major disruptions in the supply of oil. Its mandate has since expanded to cover the entire global energy system.",
+      "difficulty": "Medium",
+      "hint": "This agency was created in response to a major global oil shock."
+    },
+    {
+      "level": 755,
+      "mainsubject": "Political Science",
+      "question": "The 'International Renewable Energy Agency' (IRENA) is an intergovernmental organisation that supports countries in their transition to a sustainable energy future. Its headquarters is in:",
+      "options": [
+        "Abu Dhabi, UAE",
+        "Doha, Qatar",
+        "Riyadh, Saudi Arabia",
+        "Muscat, Oman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The International Renewable Energy Agency (IRENA) is the first international organisation to focus exclusively on renewable energy. Its headquarters is located in **Abu Dhabi, United Arab Emirates**. This is significant as it is located in a major hydrocarbon-producing country.",
+      "difficulty": "Hard",
+      "hint": "This agency for renewable energy is headquartered in a major oil-producing country."
+    },
+    {
+      "level": 756,
+      "mainsubject": "Political Science",
+      "question": "The 'International Solar Alliance' (ISA) is an alliance of more than 120 countries initiated by India. Its headquarters is in:",
+      "options": [
+        "New Delhi, India",
+        "Gurugram, India",
+        "Bengaluru, India",
+        "Mumbai, India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Solar Alliance (ISA) is an initiative that was launched by the Prime Minister of India and the President of France in 2015. It is the first international intergovernmental organization to be headquartered in India. Its headquarters is in **Gurugram, Haryana**.",
+      "difficulty": "Easy",
+      "hint": "This international organization's headquarters is located in a major satellite city of Delhi."
+    },
+    {
+      "level": 757,
+      "mainsubject": "Political Science",
+      "question": "The 'Asia-Pacific Economic Cooperation' (APEC) is an inter-governmental forum for 21 member economies in the Pacific Rim that promotes free trade. Its headquarters is in:",
+      "options": [
+        "Singapore",
+        "Bangkok, Thailand",
+        "Jakarta, Indonesia",
+        "Kuala Lumpur, Malaysia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Asia-Pacific Economic Cooperation (APEC) is a regional economic forum established in 1989. Its headquarters (Secretariat) is located in **Singapore**.",
+      "difficulty": "Hard",
+      "hint": "This forum for Pacific Rim economies is headquartered in a major city-state in Southeast Asia."
+    },
+    {
+      "level": 758,
+      "mainsubject": "Political Science",
+      "question": "The 'OPEC+' is a loosely affiliated group of oil-exporting nations consisting of the 13 OPEC members and:",
+      "options": [
+        "10 other major oil-exporting nations, including Russia",
+        "The G7 countries",
+        "The European Union",
+        "The major oil-importing nations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "OPEC+ is a group of oil-producing nations that consists of the members of the Organization of the Petroleum Exporting Countries (OPEC) along with a group of **other major oil-exporting countries**, most notably Russia. The group was formed in 2016 to have more control over the global oil market.",
+      "difficulty": "Medium",
+      "hint": "This expanded group includes a major non-OPEC oil producer."
+    },
+    {
+      "level": 759,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Ocean Rim Association' (IORA) is an international organisation consisting of coastal states bordering the Indian Ocean. Its Secretariat is in:",
+      "options": [
+        "Colombo, Sri Lanka",
+        "Port Louis, Mauritius",
+        "Jakarta, Indonesia",
+        "New Delhi, India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian Ocean Rim Association (IORA) is a regional forum, tripartite in nature, bringing together representatives of Government, Business and Academia, for promoting co-operation and closer interaction among them. Its Secretariat is based in **Port Louis, Mauritius**.",
+      "difficulty": "Hard",
+      "hint": "This organization's secretariat is located in an island nation in the Indian Ocean."
+    },
+    {
+      "level": 760,
+      "mainsubject": "Political Science",
+      "question": "The 'Gulf Cooperation Council' (GCC) is a regional, intergovernmental, political, and economic union consisting of all Arab states of the Persian Gulf, except for:",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Yemen",
+        "Jordan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Gulf Cooperation Council (GCC) is a political and economic alliance of six Middle Eastern countries—Saudi Arabia, Kuwait, the United Arab Emirates, Qatar, Bahrain, and Oman. The GCC was formed in 1981. **Iraq** is the only Arab state of the Persian Gulf that is not a member of the council.",
+      "difficulty": "Medium",
+      "hint": "This Arab state of the Persian Gulf is not part of the monarchical alliance."
+    },
+    {
+      "level": 761,
+      "mainsubject": "Political Science",
+      "question": "The 'Arab League' is a regional organization in the Arab world, which is located in North Africa, West Asia, and East Africa. Its headquarters is in:",
+      "options": [
+        "Riyadh, Saudi Arabia",
+        "Cairo, Egypt",
+        "Amman, Jordan",
+        "Baghdad, Iraq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The League of Arab States, commonly known as the Arab League, is a regional organization of Arab states. It was formed in 1945. Its headquarters is located in **Cairo, Egypt**.",
+      "difficulty": "Medium",
+      "hint": "This pan-Arab organization is headquartered in the most populous Arab country."
+    },
+    {
+      "level": 762,
+      "mainsubject": "Political Science",
+      "question": "The 'Organization of Islamic Cooperation' (OIC) is an international organization founded in 1969, consisting of 57 member states. It is the second-largest inter-governmental organization after the United Nations. Its headquarters is in:",
+      "options": [
+        "Istanbul, Turkey",
+        "Tehran, Iran",
+        "Cairo, Egypt",
+        "Jeddah, Saudi Arabia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Organisation of Islamic Cooperation (OIC) is an international organization of Muslim-majority countries. The organization states that it is 'the collective voice of the Muslim world'. Its administrative headquarters is in **Jeddah, Saudi Arabia**.",
+      "difficulty": "Medium",
+      "hint": "This pan-Islamic organization is headquartered in a major city in Saudi Arabia."
+    },
+    {
+      "level": 763,
+      "mainsubject": "Political Science",
+      "question": "The 'African Union' (AU) is a continental union consisting of 55 member states that make up the countries of Africa. Its headquarters is in:",
+      "options": [
+        "Lagos, Nigeria",
+        "Cairo, Egypt",
+        "Addis Ababa, Ethiopia",
+        "Nairobi, Kenya"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The African Union (AU) is a continental body consisting of the 55 member states that make up the countries of the African Continent. It was officially launched in 2002 as a successor to the Organisation of African Unity (OAU). Its headquarters is in **Addis Ababa, Ethiopia**.",
+      "difficulty": "Medium",
+      "hint": "This continental body is headquartered in the capital of Ethiopia."
+    },
+    {
+      "level": 764,
+      "mainsubject": "Political Science",
+      "question": "The 'European Union' (EU) is a political and economic union of 27 member states that are located primarily in Europe. Its de facto capital and the headquarters of the European Commission and the Council of the European Union is in:",
+      "options": [
+        "Berlin, Germany",
+        "Paris, France",
+        "Brussels, Belgium",
+        "Strasbourg, France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The European Union does not have an official capital. However, **Brussels, Belgium**, is considered its de facto capital as it hosts the official seats of the European Commission, Council of the European Union, and European Council, as well as a seat of the European Parliament.",
+      "difficulty": "Easy",
+      "hint": "This city is often considered the capital of Europe."
+    },
+    {
+      "level": 765,
+      "mainsubject": "Political Science",
+      "question": "The 'European Parliament' is the directly elected parliamentary institution of the European Union. Its official seat is in:",
+      "options": [
+        "Brussels, Belgium",
+        "Luxembourg City, Luxembourg",
+        "Frankfurt, Germany",
+        "Strasbourg, France"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The official seat of the European Parliament is in **Strasbourg, France**, where plenary sessions are held. However, committee meetings and some plenary sessions are held in Brussels, and the Secretariat is based in Luxembourg. This multi-location arrangement is a subject of some controversy.",
+      "difficulty": "Medium",
+      "hint": "The official seat of this parliament is in a French city near the German border."
+    },
+    {
+      "level": 766,
+      "mainsubject": "Political Science",
+      "question": "The 'European Central Bank' (ECB) is the central bank for the euro and administers monetary policy of the Eurozone. Its headquarters is in:",
+      "options": [
+        "Brussels, Belgium",
+        "Paris, France",
+        "Frankfurt, Germany",
+        "Amsterdam, Netherlands"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The European Central Bank (ECB) is the central bank of the 20 European Union countries which have adopted the euro. Its headquarters is in **Frankfurt, Germany**.",
+      "difficulty": "Medium",
+      "hint": "The central bank for the Euro is located in Germany's financial capital."
+    },
+    {
+      "level": 767,
+      "mainsubject": "Political Science",
+      "question": "The 'Schengen Area' is an area comprising 29 European countries that have officially abolished all passport and all other types of border control at their mutual borders. The 'Schengen Agreement' was signed in:",
+      "options": [
+        "Schengen, Luxembourg",
+        "Schengen, Germany",
+        "Schengen, France",
+        "Schengen, Belgium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Schengen Agreement is a treaty which led to the creation of Europe's Schengen Area of free movement. It was signed in 1985 in the town of **Schengen, Luxembourg**. The town is located near the tripoint where the borders of Germany, France, and Luxembourg meet.",
+      "difficulty": "Medium",
+      "hint": "This agreement was signed in a small town in a small European country."
+    },
+    {
+      "level": 768,
+      "mainsubject": "Political Science",
+      "question": "The 'Nordic Council' is a geopolitical inter-parliamentary forum for cooperation among the Nordic countries. Which of the following is NOT a Nordic country?",
+      "options": [
+        "Denmark",
+        "Finland",
+        "Norway",
+        "Netherlands"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The **Netherlands** is not a Nordic country; it is considered part of Western Europe. The Nordic countries are generally considered to be Denmark, Finland, Iceland, Norway, and Sweden, including their associated territories.",
+      "difficulty": "Easy",
+      "hint": "This country is famous for its tulips and windmills, but is not part of Scandinavia."
+    },
+    {
+      "level": 769,
+      "mainsubject": "Political Science",
+      "question": "The 'Mercosur' is a South American trade bloc. Which of the following is a full member of Mercosur?",
+      "options": [
+        "Chile",
+        "Peru",
+        "Colombia",
+        "Argentina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Mercosur's full members are **Argentina**, Brazil, Paraguay, and Uruguay. Venezuela was a full member but has been suspended since 2016. Bolivia is in the process of becoming a full member. Other South American countries like Chile, Colombia, and Peru are associate members.",
+      "difficulty": "Medium",
+      "hint": "This is one of the two largest countries in the South American trade bloc."
+    },
+    {
+      "level": 770,
+      "mainsubject": "Political Science",
+      "question": "The 'Andean Community' is a free trade area with the objective of creating a customs union comprising the South American countries of:",
+      "options": [
+        "Argentina, Brazil, Paraguay, Uruguay",
+        "Bolivia, Colombia, Ecuador, Peru",
+        "Chile, Venezuela, Guyana, Suriname",
+        "All of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Andean Community is a customs union comprising the South American countries of **Bolivia, Colombia, Ecuador, and Peru**. The trade bloc was called the Andean Pact until 1996 and came into existence with the signing of the Cartagena Agreement in 1969.",
+      "difficulty": "Hard",
+      "hint": "This trade bloc is named after a major mountain range in South America."
+    },
+    {
+      "level": 771,
+      "mainsubject": "Political Science",
+      "question": "The 'United States–Mexico–Canada Agreement' (USMCA) replaced which earlier trade agreement?",
+      "options": [
+        "GATT",
+        "NAFTA",
+        "APEC",
+        "TPP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The USMCA is a free trade agreement between Canada, Mexico, and the United States. It replaced the **North American Free Trade Agreement (NAFTA)**, which had been in force since 1994. The USMCA came into effect in 2020.",
+      "difficulty": "Easy",
+      "hint": "This new trade agreement replaced an older one between the same three North American countries."
+    },
+    {
+      "level": 772,
+      "mainsubject": "Political Science",
+      "question": "The 'Comprehensive and Progressive Agreement for Trans-Pacific Partnership' (CPTPP) is a trade agreement between 11 countries in the Indo-Pacific. Which major country withdrew from the original TPP, leading to the creation of the CPTPP?",
+      "options": [
+        "China",
+        "India",
+        "The United States",
+        "Russia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Trans-Pacific Partnership (TPP) was a proposed trade agreement that was not ratified. After the **United States** withdrew from the agreement in 2017, the remaining countries negotiated a new trade agreement called the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).",
+      "difficulty": "Medium",
+      "hint": "The withdrawal of this major Pacific power led to the renegotiation of the trade deal."
+    },
+    {
+      "level": 773,
+      "mainsubject": "Political Science",
+      "question": "The 'Regional Comprehensive Economic Partnership' (RCEP) is a free trade agreement in the Asia-Pacific region between the ten ASEAN states and five of its FTA partners. Which country participated in the negotiations but decided not to join the agreement?",
+      "options": [
+        "China",
+        "Japan",
+        "Australia",
+        "India"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Regional Comprehensive Economic Partnership (RCEP) includes the ten ASEAN countries, as well as China, Japan, South Korea, Australia, and New Zealand. **India** was a negotiating partner but decided not to join the agreement in 2019, citing concerns about the impact on its domestic industries.",
+      "difficulty": "Easy",
+      "hint": "This major South Asian economy opted out of the world's largest trade bloc."
+    },
+    {
+      "level": 774,
+      "mainsubject": "Political Science",
+      "question": "The term 'balkanization' refers to:",
+      "options": [
+        "The process of forming a large federal state",
+        "The process of economic integration",
+        "The fragmentation of a larger region or state into smaller, mutually hostile states or regions",
+        "The adoption of a common currency"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Balkanization is a geopolitical term for the process of **fragmentation or division of a region or state into smaller regions or states that are often hostile or uncooperative with one another**. The term is derived from the political fragmentation of the Balkan Peninsula in the early 20th century.",
+      "difficulty": "Medium",
+      "hint": "This term is derived from the name of a peninsula in Southeast Europe."
+    },
+    {
+      "level": 775,
+      "mainsubject": "Political Science",
+      "question": "The 'Iron Curtain' was a political boundary dividing Europe into two separate areas from the end of World War II until the end of the Cold War. The term was popularized by:",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Joseph Stalin",
+        "Winston Churchill",
+        "Harry S. Truman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The term 'Iron Curtain' was used to describe the ideological conflict and physical boundary dividing Europe into two separate areas from 1945 until the end of the Cold War in 1991. The term was popularized by former British Prime Minister **Winston Churchill** in a famous speech in 1946.",
+      "difficulty": "Easy",
+      "hint": "A famous British wartime leader popularized this term."
+    },
+    {
+      "level": 776,
+      "mainsubject": "Political Science",
+      "question": "The 'Marshall Plan' was an American initiative passed in 1948 to:",
+      "options": [
+        "Provide military aid to countries threatened by communism",
+        "Provide foreign aid to Western Europe to help rebuild after World War II",
+        "Establish the United Nations",
+        "Create the NATO alliance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Marshall Plan, officially the European Recovery Program, was a U.S. program providing aid to Western Europe following the devastation of World War II. It was enacted in 1948 and provided more than $15 billion to help finance rebuilding efforts on the continent. It aimed to prevent the spread of communism by stabilizing the economies of these countries.",
+      "difficulty": "Medium",
+      "hint": "This was a massive economic aid program for post-war Europe."
+    },
+    {
+      "level": 777,
+      "mainsubject": "Political Science",
+      "question": "The 'Truman Doctrine' was an American foreign policy whose stated purpose was to:",
+      "options": [
+        "Promote free trade",
+        "Provide economic aid to developing countries",
+        "Counter Soviet geopolitical expansion during the Cold War",
+        "Encourage decolonization"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Truman Doctrine was a foreign policy initiative announced by U.S. President Harry S. Truman in 1947. Its primary goal was to contain the geopolitical expansion of the Soviet Union during the Cold War. It pledged to provide political, military, and economic assistance to all democratic nations under threat from external or internal authoritarian forces.",
+      "difficulty": "Medium",
+      "hint": "This doctrine was a key element of the US policy of containment."
+    },
+    {
+      "level": 778,
+      "mainsubject": "Political Science",
+      "question": "The 'Cuban Missile Crisis' of 1962 was a direct and dangerous confrontation between the United States and:",
+      "options": [
+        "China",
+        "The Soviet Union",
+        "Cuba",
+        "The United Kingdom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Cuban Missile Crisis was a 13-day confrontation in October 1962 between the United States and the **Soviet Union** initiated by the American discovery of Soviet ballistic missile deployment in Cuba. The confrontation is often considered the closest the Cold War came to escalating into a full-scale nuclear war.",
+      "difficulty": "Easy",
+      "hint": "This Cold War standoff brought the world to the brink of nuclear war."
+    },
+    {
+      "level": 779,
+      "mainsubject": "Political Science",
+      "question": "The term 'détente' refers to a period of:",
+      "options": [
+        "Increased hostility between superpowers",
+        "The easing of strained relations, especially in a political situation",
+        "Rapid military buildup",
+        "Economic recession"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Détente is a French term meaning 'release from tension'. In politics, it refers to a period of **easing of strained relations** between countries. The most famous period of détente occurred during the Cold War between the United States and the Soviet Union in the 1970s.",
+      "difficulty": "Easy",
+      "hint": "This French term means a relaxation of tensions."
+    },
+    {
+      "level": 780,
+      "mainsubject": "Political Science",
+      "question": "The concepts of 'Perestroika' (restructuring) and 'Glasnost' (openness) were introduced in the Soviet Union by which leader?",
+      "options": [
+        "Leonid Brezhnev",
+        "Yuri Andropov",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Perestroika (economic restructuring) and Glasnost (political openness) were the twin policies introduced in the Soviet Union in the late 1980s by its leader **Mikhail Gorbachev**. These reforms are often credited with contributing to the end of the Cold War and the dissolution of the Soviet Union.",
+      "difficulty": "Easy",
+      "hint": "These reforms were introduced by the last leader of the Soviet Union."
+    },
+    {
+      "level": 781,
+      "mainsubject": "Political Science",
+      "question": "The 'Velvet Revolution' refers to the non-violent transition of power in 1989 in which country?",
+      "options": [
+        "Poland",
+        "Hungary",
+        "Czechoslovakia",
+        "Romania"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Velvet Revolution was a non-violent transition of power in what was then **Czechoslovakia**, which took place from November 17 to December 29, 1989. The revolution saw the overthrow of the one-party rule of the Communist Party of Czechoslovakia and the subsequent peaceful dissolution of the country into the Czech Republic and Slovakia.",
+      "difficulty": "Medium",
+      "hint": "This peaceful revolution led to the end of communist rule in a Central European country."
+    },
+    {
+      "level": 782,
+      "mainsubject": "Political Science",
+      "question": "The 'apartheid' was a system of institutionalised racial segregation that existed in which country?",
+      "options": [
+        "Rhodesia (now Zimbabwe)",
+        "South West Africa (now Namibia)",
+        "South Africa",
+        "Angola"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Apartheid was a system of institutionalised racial segregation and discrimination that existed in **South Africa** from 1948 until the early 1990s. The system was based on white supremacy and the segregation of the majority black African population.",
+      "difficulty": "Easy",
+      "hint": "This system of racial segregation was famously opposed by Nelson Mandela."
+    },
+    {
+      "level": 783,
+      "mainsubject": "Political Science",
+      "question": "The 'Good Friday Agreement' was a major political development in the peace process of which region?",
+      "options": [
+        "The Middle East",
+        "The Balkans",
+        "Northern Ireland",
+        "Kashmir"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Good Friday Agreement, or Belfast Agreement, was a pair of agreements signed on 10 April 1998 that ended most of the violence of the Troubles, a political conflict in **Northern Ireland**. It was a major milestone in the Northern Ireland peace process.",
+      "difficulty": "Medium",
+      "hint": "This agreement brought peace to a long-running conflict in a part of the UK."
+    },
+    {
+      "level": 784,
+      "mainsubject": "Political Science",
+      "question": "The 'Arab Spring' was a series of anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world starting in late 2010. It began in which country?",
+      "options": [
+        "Egypt",
+        "Libya",
+        "Syria",
+        "Tunisia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Arab Spring began in **Tunisia** in December 2010 following the self-immolation of Mohamed Bouazizi, a street vendor. The protests led to the overthrow of President Zine El Abidine Ben Ali and sparked a wave of similar protests across the Arab world.",
+      "difficulty": "Medium",
+      "hint": "This wave of protests began in a North African country."
+    },
+    {
+      "level": 785,
+      "mainsubject": "Political Science",
+      "question": "The 'Belt and Road Initiative' (BRI) is a global infrastructure development strategy adopted by which country?",
+      "options": [
+        "India",
+        "Japan",
+        "The United States",
+        "China"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Belt and Road Initiative (BRI) is a global infrastructure development strategy adopted by the **Chinese government** in 2013 to invest in nearly 70 countries and international organizations. It is a centerpiece of Chinese foreign policy.",
+      "difficulty": "Easy",
+      "hint": "This massive infrastructure project is also known as the 'New Silk Road'."
+    },
+    {
+      "level": 786,
+      "mainsubject": "Political Science",
+      "question": "The 'International North–South Transport Corridor' (INSTC) is a multi-modal network of ship, rail, and road route for moving freight between India, Iran, Azerbaijan, Russia, Central Asia and Europe. The project was initiated by:",
+      "options": [
+        "India, Iran, and Russia",
+        "India, China, and Russia",
+        "India, Iran, and Turkey",
+        "India, Russia, and the EU"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The International North–South Transport Corridor (INSTC) is a 7,200-km-long multi-modal network of ship, rail, and road route. The agreement was first signed in 2000 by **India, Iran, and Russia**.",
+      "difficulty": "Hard",
+      "hint": "This transport corridor was initiated by three major regional powers."
+    },
+    {
+      "level": 787,
+      "mainsubject": "Political Science",
+      "question": "The 'Abraham Accords' are a series of joint normalization statements initially between Israel, the United Arab Emirates, and Bahrain, brokered by which country?",
+      "options": [
+        "Russia",
+        "The United Kingdom",
+        "The United States",
+        "France"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Abraham Accords are a series of treaties normalizing diplomatic relations between Israel and several Arab nations. The initial agreements between Israel, the UAE, and Bahrain were brokered by the **United States** in 2020.",
+      "difficulty": "Medium",
+      "hint": "These recent peace deals in the Middle East were brokered by a major world power."
+    },
+    {
+      "level": 788,
+      "mainsubject": "Political Science",
+      "question": "The 'Genocide Convention' is an international treaty that criminalizes genocide and obligates state parties to enforce its prohibition. It was adopted by the UN in:",
+      "options": [
+        "1945",
+        "1948",
+        "1951",
+        "1966"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Convention on the Prevention and Punishment of the Crime of Genocide was adopted by the United Nations General Assembly on 9 December **1948** as General Assembly Resolution 260. The Convention entered into force in 1951.",
+      "difficulty": "Medium",
+      "hint": "This important human rights treaty was adopted in the same year as the UDHR."
+    },
+    {
+      "level": 789,
+      "mainsubject": "Political Science",
+      "question": "The term 'soft power' refers to the ability of a country to persuade other countries to do what it wants without force or coercion. The term was coined by:",
+      "options": [
+        "Henry Kissinger",
+        "Samuel P. Huntington",
+        "Francis Fukuyama",
+        "Joseph Nye"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The term 'soft power' was coined in the late 1980s by **Joseph Nye**, an American political scientist. He defined it as the ability to attract and co-opt, rather than coerce. Soft power is based on the attractiveness of a country's culture, political ideals, and policies.",
+      "difficulty": "Medium",
+      "hint": "This concept was developed by a prominent Harvard University professor."
+    },
+    {
+      "level": 790,
+      "mainsubject": "Political Science",
+      "question": "The 'Clash of Civilizations' is a theory that people's cultural and religious identities will be the primary source of conflict in the post-Cold War world. It was proposed by:",
+      "options": [
+        "Francis Fukuyama",
+        "Samuel P. Huntington",
+        "Joseph Nye",
+        "Zbigniew Brzezinski"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'Clash of Civilizations' is a theory proposed by political scientist **Samuel P. Huntington** in a 1993 article and a 1996 book. He argued that future wars would be fought not between countries, but between cultures.",
+      "difficulty": "Medium",
+      "hint": "This controversial theory of post-Cold War conflict was proposed by a well-known political scientist."
+    },
+    {
+      "level": 791,
+      "mainsubject": "Political Science",
+      "question": "The book 'The End of History and the Last Man' (1992) argues that the worldwide spread of liberal democracies may signal the end point of humanity's sociocultural evolution. It was written by:",
+      "options": [
+        "Samuel P. Huntington",
+        "Joseph Nye",
+        "Francis Fukuyama",
+        "Noam Chomsky"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'The End of History and the Last Man' is a 1992 book of political philosophy by American political scientist **Francis Fukuyama**. He argues that the advent of Western liberal democracy may signal the endpoint of humanity's ideological evolution and the final form of human government.",
+      "difficulty": "Medium",
+      "hint": "This influential book was written at the end of the Cold War."
+    },
+    {
+      "level": 792,
+      "mainsubject": "Political Science",
+      "question": "The 'Agenda 21' is a non-binding action plan of the United Nations with regard to sustainable development. It was an outcome of the:",
+      "options": [
+        "Stockholm Conference, 1972",
+        "Earth Summit in Rio de Janeiro, 1992",
+        "Kyoto Protocol, 1997",
+        "Paris Agreement, 2015"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Agenda 21 is a comprehensive plan of action to be taken globally, nationally and locally by organizations of the United Nations System, Governments, and Major Groups in every area in which human impacts on the environment. It was an outcome of the **United Nations Conference on Environment and Development (UNCED), also known as the Earth Summit, held in Rio de Janeiro, Brazil, in 1992**.",
+      "difficulty": "Medium",
+      "hint": "This sustainable development plan was an outcome of the 1992 Earth Summit."
+    },
+    {
+      "level": 793,
+      "mainsubject": "Political Science",
+      "question": "The 'Sustainable Development Goals' (SDGs) are a collection of 17 interlinked global goals designed to be a 'blueprint to achieve a better and more sustainable future for all'. They were set up in 2015 by the:",
+      "options": [
+        "World Bank",
+        "World Economic Forum",
+        "United Nations General Assembly",
+        "G20"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 as a universal call to action to end poverty, protect the planet and ensure that all people enjoy peace and prosperity by 2030. They were set up by the **United Nations General Assembly** and are intended to be achieved by the year 2030.",
+      "difficulty": "Easy",
+      "hint": "These global goals were adopted by the main deliberative body of the UN."
+    },
+    {
+      "level": 794,
+      "mainsubject": "Political Science",
+      "question": "The 'Millennium Development Goals' (MDGs) were eight international development goals for the year 2015 that had been established following the Millennium Summit of the United Nations in 2000. They were succeeded by the:",
+      "options": [
+        "Agenda 21",
+        "Paris Agreement",
+        "Sustainable Development Goals (SDGs)",
+        "Kyoto Protocol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Millennium Development Goals (MDGs) were the world's time-bound and quantified targets for addressing extreme poverty in its many dimensions. They were succeeded in 2015 by the **Sustainable Development Goals (SDGs)**, which are a new, universal set of goals, targets and indicators that UN member states will be expected to use to frame their agendas and political policies over the next 15 years.",
+      "difficulty": "Easy",
+      "hint": "These goals were the successors to the MDGs."
+    },
+    {
+      "level": 795,
+      "mainsubject": "Political Science",
+      "question": "The 'Human Development Index' (HDI) is a statistic composite index of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development. It is published by the:",
+      "options": [
+        "World Bank",
+        "International Monetary Fund",
+        "United Nations Development Programme (UNDP)",
+        "World Health Organization"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Human Development Index (HDI) was created to emphasize that people and their capabilities should be the ultimate criteria for assessing the development of a country, not economic growth alone. It is a part of the Human Development Report, which is published annually by the **United Nations Development Programme (UNDP)**.",
+      "difficulty": "Easy",
+      "hint": "This index is published by the development arm of the UN."
+    },
+    {
+      "level": 796,
+      "mainsubject": "Political Science",
+      "question": "The term 'Demographic Dividend' refers to:",
+      "options": [
+        "The economic growth potential that can result from shifts in a population's age structure",
+        "The distribution of a population among different religious groups",
+        "The migration of people from rural to urban areas",
+        "The increase in a country's population"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The demographic dividend refers to the **economic growth potential** that can result from shifts in a population's age structure, mainly when the share of the working-age population (15 to 64) is larger than the non-working-age share of the population (14 and younger, and 65 and older).",
+      "difficulty": "Medium",
+      "hint": "This term refers to the economic benefit of having a large working-age population."
+    },
+    {
+      "level": 797,
+      "mainsubject": "Political Science",
+      "question": "The 'Fertility Rate' of a country is the:",
+      "options": [
+        "Number of live births per 1,000 people in a year",
+        "Number of deaths per 1,000 people in a year",
+        "Average number of children that would be born to a woman over her lifetime",
+        "Difference between the birth rate and the death rate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Total Fertility Rate (TFR) of a population is the **average number of children that would be born to a woman over her lifetime** if she were to experience the exact current age-specific fertility rates through her lifetime. A TFR of about 2.1 is considered the replacement level fertility.",
+      "difficulty": "Medium",
+      "hint": "This is a measure of the average number of children per woman."
+    },
+    {
+      "level": 798,
+      "mainsubject": "Political Science",
+      "question": "The 'Infant Mortality Rate' (IMR) is the number of deaths of children under one year of age per:",
+      "options": [
+        "100 live births",
+        "1,000 live births",
+        "10,000 live births",
+        "100,000 live births"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Infant Mortality Rate (IMR) is the number of deaths of infants under one year old per **1,000 live births**. This rate is often used as an indicator of the level of health in a country.",
+      "difficulty": "Easy",
+      "hint": "This key health indicator is measured per thousand."
+    },
+    {
+      "level": 799,
+      "mainsubject": "Political Science",
+      "question": "The 'Maternal Mortality Ratio' (MMR) is the number of maternal deaths during a given time period per:",
+      "options": [
+        "1,000 live births",
+        "10,000 live births",
+        "100,000 live births",
+        "1,000,000 live births"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Maternal Mortality Ratio (MMR) is the annual number of female deaths from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes) during pregnancy and childbirth or within 42 days of termination of pregnancy, per **100,000 live births**.",
+      "difficulty": "Medium",
+      "hint": "This key health indicator is measured per hundred thousand."
+    },
+    {
+      "level": 800,
+      "mainsubject": "Political Science",
+      "question": "The term 'Sex Ratio' is the number of females per:",
+      "options": [
+        "100 males",
+        "1,000 males",
+        "10,000 males",
+        "100,000 males"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sex Ratio is used to describe the number of females per **1,000 males** in a population. It is an important social indicator to measure the extent of prevailing equity between males and females in a society at a given point of time.",
+      "difficulty": "Easy",
+      "hint": "This demographic indicator is measured per thousand."
+    },
+    {
+      "level": 801,
+      "mainsubject": "Political Science",
+      "question": "The term 'Gini Coefficient' is a measure of:",
+      "options": [
+        "Economic growth",
+        "Poverty",
+        "Income or wealth inequality",
+        "Human development"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Gini coefficient is a measure of statistical dispersion intended to represent the **income inequality or the wealth inequality** within a nation or a social group. A Gini coefficient of zero expresses perfect equality, where all values are the same, while a Gini coefficient of one (or 100%) expresses maximal inequality among values.",
+      "difficulty": "Medium",
+      "hint": "This is a statistical measure of inequality."
+    },
+    {
+      "level": 802,
+      "mainsubject": "Political Science",
+      "question": "The 'Lorenz Curve' is a graphical representation of:",
+      "options": [
+        "The distribution of income or of wealth",
+        "The relationship between inflation and unemployment",
+        "The relationship between tax rates and tax revenue",
+        "The growth of a country's GDP over time"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Lorenz curve is a graph on which the cumulative percentage of total national income (or wealth) is plotted against the cumulative percentage of the corresponding population. The extent to which the curve sags below a straight diagonal line indicates the degree of inequality of distribution. It is often used to represent income distribution.",
+      "difficulty": "Medium",
+      "hint": "This curve is a graphical tool to show inequality."
+    },
+        {
+      "level": 803,
+      "mainsubject": "Political Science",
+      "question": "The 'Phillips Curve' in economics describes a historical inverse relationship between:",
+      "options": [
+        "Economic growth and inequality",
+        "Rates of unemployment and corresponding rates of inflation",
+        "Government spending and tax revenue",
+        "Interest rates and investment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Phillips Curve, proposed by A. W. Phillips, describes an economic concept suggesting a stable and inverse relationship between **rates of unemployment and the corresponding rates of inflation** within an economy. The theory states that with economic growth comes inflation, which in turn should lead to more jobs and less unemployment. However, the concept of 'stagflation' in the 1970s challenged this theory.",
+      "difficulty": "Medium",
+      "hint": "This is a key concept in macroeconomics relating jobs and price levels."
+    },
+    {
+      "level": 804,
+      "mainsubject": "Political Science",
+      "question": "The 'Laffer Curve' is a theoretical representation of the relationship between:",
+      "options": [
+        "Government spending and GDP growth",
+        "Inflation and unemployment",
+        "Tax rates and the amount of tax revenue collected by governments",
+        "Interest rates and money supply"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Laffer Curve is a theory in supply-side economics that illustrates a theoretical relationship between **rates of taxation and the resulting levels of government tax revenue**. The curve suggests that as tax rates increase from low levels, tax revenue increases. However, if tax rates reach a certain level and continue to rise, tax revenue begins to decrease as high tax rates discourage work and investment.",
+      "difficulty": "Medium",
+      "hint": "This curve suggests that there is an optimal tax rate for maximizing revenue."
+    },
+    {
+      "level": 805,
+      "mainsubject": "Political Science",
+      "question": "The 'Kuznets Curve' is a hypothesis in economics that as an economy develops, market forces first increase and then decrease:",
+      "options": [
+        "Economic inequality",
+        "Population growth",
+        "Environmental degradation",
+        "Unemployment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Kuznets Curve is a hypothesis that graphs the idea that as an economy develops, **economic inequality** first increases over time and then at a certain average income, it begins to decrease. The curve is a U-shaped or inverted U-shaped graph.",
+      "difficulty": "Hard",
+      "hint": "This curve describes the relationship between development and inequality."
+    },
+    {
+      "level": 806,
+      "mainsubject": "Political Science",
+      "question": "The term 'fiscal deficit' refers to the difference between the government's total expenditure and its:",
+      "options": [
+        "Total revenue",
+        "Total revenue excluding borrowings",
+        "Tax revenue only",
+        "Revenue from disinvestment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fiscal deficit is the difference between the government's total expenditure and its total receipts, **excluding borrowings**. A fiscal deficit situation occurs when a government's expenditure exceeds its revenue. This difference has to be met by borrowing. A high fiscal deficit can be a cause for concern.",
+      "difficulty": "Easy",
+      "hint": "This is a key indicator of a government's financial health, representing its total borrowing needs."
+    },
+    {
+      "level": 807,
+      "mainsubject": "Political Science",
+      "question": "The term 'revenue deficit' refers to the excess of:",
+      "options": [
+        "Total expenditure over total receipts",
+        "Revenue expenditure over revenue receipts",
+        "Capital expenditure over capital receipts",
+        "Total borrowings"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The revenue deficit is the excess of the government's **revenue expenditure over its revenue receipts**. It shows that the government's own earnings are not sufficient to meet its day-to-day operating expenses. It is an important indicator of the government's fiscal health.",
+      "difficulty": "Easy",
+      "hint": "This deficit relates to the government's current income and expenditure."
+    },
+    {
+      "level": 808,
+      "mainsubject": "Political Science",
+      "question": "The term 'primary deficit' is the fiscal deficit minus:",
+      "options": [
+        "Interest payments",
+        "Subsidies",
+        "Defence expenditure",
+        "Salaries and pensions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The primary deficit is defined as the fiscal deficit of the current year minus **interest payments** on previous borrowings. It shows the borrowing requirements of the government, exclusive of interest. A zero primary deficit means that the government has to borrow only for making interest payments.",
+      "difficulty": "Medium",
+      "hint": "This deficit shows the borrowing required for current year's expenses, excluding past obligations."
+    },
+    {
+      "level": 809,
+      "mainsubject": "Political Science",
+      "question": "The 'Fiscal Responsibility and Budget Management (FRBM) Act' was enacted in 2003 to:",
+      "options": [
+        "Promote foreign investment",
+        "Control inflation",
+        "Introduce fiscal discipline in India",
+        "Regulate the stock market"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in 2003. Its primary objective is to **introduce transparency and fiscal discipline** in the government's fiscal operations. It aims to reduce the country's fiscal deficit and eliminate the revenue deficit over a period of time.",
+      "difficulty": "Easy",
+      "hint": "This act aims to ensure responsible management of government finances."
+    },
+    {
+      "level": 810,
+      "mainsubject": "Political Science",
+      "question": "The term 'monetary policy' is the policy adopted by the central bank of a nation to control the:",
+      "options": [
+        "Government's spending and taxation",
+        "Money supply and credit conditions",
+        "Foreign trade",
+        "Stock market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Monetary policy is the policy adopted by the monetary authority of a nation (the central bank, like the RBI in India) to control either the interest rate payable for very short-term borrowing or the **money supply**, often as an attempt to reduce inflation or the interest rate to ensure price stability and general trust in the currency.",
+      "difficulty": "Easy",
+      "hint": "This policy deals with money and interest rates."
+    },
+    {
+      "level": 811,
+      "mainsubject": "Political Science",
+      "question": "The term 'fiscal policy' refers to the use of:",
+      "options": [
+        "Interest rates and money supply to manage the economy",
+        "Government spending and taxation to influence the economy",
+        "Trade barriers to protect domestic industries",
+        "Foreign exchange rates to manage the balance of payments"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fiscal policy is the use of **government revenue collection (mainly taxes) and expenditure (spending)** to influence a country's economy. It is the sister strategy to monetary policy by which a central bank influences a nation's money supply. Fiscal policy is formulated by the government, not the central bank.",
+      "difficulty": "Easy",
+      "hint": "This policy deals with government's income and expenditure."
+    },
+    {
+      "level": 812,
+      "mainsubject": "Political Science",
+      "question": "The 'Monetary Policy Committee' (MPC) of the Reserve Bank of India is responsible for fixing the:",
+      "options": [
+        "Fiscal deficit target",
+        "GDP growth rate",
+        "Benchmark policy interest rate (repo rate)",
+        "Tax rates"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Monetary Policy Committee (MPC) is a six-member committee of the Reserve Bank of India, headed by the Governor. It is responsible for fixing the **benchmark policy interest rate (the repo rate)** to contain inflation within the target level. It was set up in 2016.",
+      "difficulty": "Easy",
+      "hint": "This committee decides on the key interest rate to control inflation."
+    },
+    {
+      "level": 813,
+      "mainsubject": "Political Science",
+      "question": "The term 'repo rate' is the rate at which:",
+      "options": [
+        "Commercial banks lend to the RBI",
+        "The RBI lends to commercial banks",
+        "Commercial banks lend to customers",
+        "The RBI lends to the government"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The repo rate is the rate at which the **Reserve Bank of India lends money to commercial banks** against the security of government bonds. It is a key tool of monetary policy. When the RBI wants to make it more expensive for banks to borrow, it increases the repo rate; this, in turn, helps to control inflation.",
+      "difficulty": "Easy",
+      "hint": "This is the rate at which banks borrow from the central bank."
+    },
+    {
+      "level": 814,
+      "mainsubject": "Political Science",
+      "question": "The term 'reverse repo rate' is the rate at which:",
+      "options": [
+        "Commercial banks lend to the RBI",
+        "The RBI lends to commercial banks",
+        "Commercial banks lend to customers",
+        "The RBI lends to the government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The reverse repo rate is the rate at which the **Reserve Bank of India borrows money from commercial banks**. In other words, it is the rate at which commercial banks park their surplus funds with the RBI. It is another tool of monetary policy used to absorb liquidity from the system.",
+      "difficulty": "Easy",
+      "hint": "This is the rate at which the central bank borrows from banks."
+    },
+    {
+      "level": 815,
+      "mainsubject": "Political Science",
+      "question": "The 'Cash Reserve Ratio' (CRR) is the fraction of the total deposits of a commercial bank which it has to keep with:",
+      "options": [
+        "Itself in cash",
+        "The State Bank of India",
+        "The Reserve Bank of India",
+        "The Ministry of Finance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Cash Reserve Ratio (CRR) is a specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or as deposits with the **Reserve Bank of India**. The RBI can change the CRR to control the amount of money available with the banks for making loans.",
+      "difficulty": "Easy",
+      "hint": "This is a mandatory reserve that banks must keep with the central bank."
+    },
+    {
+      "level": 816,
+      "mainsubject": "Political Science",
+      "question": "The 'Statutory Liquidity Ratio' (SLR) is the minimum percentage of deposits that a commercial bank has to maintain in the form of:",
+      "options": [
+        "Cash with the RBI",
+        "Liquid assets like cash, gold, and government securities",
+        "Loans to priority sectors",
+        "Deposits with other commercial banks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Statutory Liquidity Ratio (SLR) is the minimum percentage of deposits that a commercial bank has to maintain in the form of **liquid assets, such as cash, gold, and unencumbered government-approved securities**. It is another tool of monetary policy to control credit growth.",
+      "difficulty": "Easy",
+      "hint": "This ratio refers to the liquid assets that banks must hold."
+    },
+    {
+      "level": 817,
+      "mainsubject": "Political Science",
+      "question": "The 'Marginal Standing Facility' (MSF) is a window for banks to borrow from the RBI in an emergency situation when:",
+      "options": [
+        "The repo rate is too high",
+        "Inter-bank liquidity dries up completely",
+        "The reverse repo rate is too low",
+        "The government needs to borrow money"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Marginal Standing Facility (MSF) is a window for scheduled commercial banks to borrow overnight from the RBI when **inter-bank liquidity dries up completely** and they are unable to borrow from other sources. Banks can borrow by pledging government securities at a rate higher than the repo rate.",
+      "difficulty": "Medium",
+      "hint": "This is an emergency borrowing window for banks."
+    },
+    {
+      "level": 818,
+      "mainsubject": "Political Science",
+      "question": "The 'Bank Rate' is the rate at which the RBI is ready to buy or rediscount bills of exchange or other commercial papers. It is also known as the:",
+      "options": [
+        "Repo rate",
+        "Reverse repo rate",
+        "Discount rate",
+        "Prime lending rate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Bank Rate, also known as the **discount rate**, is the rate at which the RBI lends long-term to commercial banks. It is different from the repo rate, which is for short-term lending. A change in the bank rate affects the cost of borrowing for commercial banks and thus influences the credit supply.",
+      "difficulty": "Medium",
+      "hint": "This is a long-term lending rate of the central bank."
+    },
+    {
+      "level": 819,
+      "mainsubject": "Political Science",
+      "question": "The 'Open Market Operations' (OMO) refer to the buying and selling of:",
+      "options": [
+        "Foreign exchange by the RBI",
+        "Government securities by the RBI",
+        "Gold by the RBI",
+        "Shares of public sector undertakings"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Open Market Operations (OMO) are the sale and purchase of **government securities and treasury bills by the RBI** in the open market. The objective of OMO is to regulate the money supply in the economy. When the RBI wants to increase the money supply, it buys government securities, and when it wants to reduce the money supply, it sells them.",
+      "difficulty": "Easy",
+      "hint": "This is a major tool for managing liquidity in the economy."
+    },
+    {
+      "level": 820,
+      "mainsubject": "Political Science",
+      "question": "The term 'inflation' refers to a sustained increase in the:",
+      "options": [
+        "Price of a single good",
+        "General price level of goods and services",
+        "Supply of money",
+        "Wages of workers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Inflation is the rate of increase in prices over a given period of time. It is a broad measure, such as the overall increase in prices or the increase in the cost of living in a country. It is a sustained increase in the **general price level of goods and services** in an economy, which reduces the purchasing power of currency.",
+      "difficulty": "Easy",
+      "hint": "This is a general rise in the price level."
+    },
+    {
+      "level": 821,
+      "mainsubject": "Political Science",
+      "question": "The 'Consumer Price Index' (CPI) measures the change in prices paid by:",
+      "options": [
+        "Producers for raw materials",
+        "Wholesalers for bulk goods",
+        "Consumers for a basket of consumer goods and services",
+        "The government for its purchases"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Consumer Price Index (CPI) is a measure that examines the weighted average of prices of a **basket of consumer goods and services**, such as transportation, food, and medical care. It is calculated by taking price changes for each item in the predetermined basket of goods and averaging them. Changes in the CPI are used to assess price changes associated with the cost of living.",
+      "difficulty": "Easy",
+      "hint": "This index measures retail inflation."
+    },
+    {
+      "level": 822,
+      "mainsubject": "Political Science",
+      "question": "The 'Wholesale Price Index' (WPI) measures the change in the price of goods:",
+      "options": [
+        "At the retail level",
+        "Sold in bulk by wholesale businesses to other businesses",
+        "Imported from other countries",
+        "Produced in the agricultural sector"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Wholesale Price Index (WPI) measures and tracks the changes in the price of goods **before they reach consumers**. It is a measure of the average change in prices of goods in the wholesale market or at the wholesale level. It is published by the Office of Economic Adviser, Ministry of Commerce and Industry.",
+      "difficulty": "Easy",
+      "hint": "This index measures inflation at the wholesale level."
+    },
+    {
+      "level": 823,
+      "mainsubject": "Political Science",
+      "question": "The 'base year' for the current series of the Consumer Price Index (CPI) in India is:",
+      "options": [
+        "2004-05",
+        "2011-12",
+        "2012",
+        "2015"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The base year for the all-India Consumer Price Index (CPI) was revised from 2010=100 to **2012=100** in 2015. The base year for the Wholesale Price Index (WPI) is 2011-12. The base year is a benchmark year against which the price changes are compared.",
+      "difficulty": "Medium",
+      "hint": "This is the current benchmark year for retail inflation."
+    },
+    {
+      "level": 824,
+      "mainsubject": "Political Science",
+      "question": "The term 'stagflation' describes a situation of:",
+      "options": [
+        "High inflation and high economic growth",
+        "Low inflation and low economic growth",
+        "Persistent high inflation combined with high unemployment and stagnant demand",
+        "Deflation and economic recession"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Stagflation is a situation in an economy where the inflation rate is high, the economic growth rate slows, and unemployment remains steadily high. It presents a dilemma for economic policy, since actions intended to lower inflation may exacerbate unemployment, and vice versa.",
+      "difficulty": "Medium",
+      "hint": "This is a combination of stagnation and inflation."
+    },
+    {
+      "level": 825,
+      "mainsubject": "Political Science",
+      "question": "The 'Gross Domestic Product' (GDP) is the total monetary or market value of all the:",
+      "options": [
+        "Goods and services produced by the citizens of a country, both within and outside the country",
+        "Finished goods and services produced within a country's borders in a specific time period",
+        "Goods and services produced by the public sector",
+        "Goods and services exported by a country"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gross Domestic Product (GDP) is the total market value of all the **finished goods and services produced within a country's borders** in a specific time period. It functions as a comprehensive scorecard of a given country’s economic health.",
+      "difficulty": "Easy",
+      "hint": "The 'D' in GDP stands for 'Domestic'."
+    },
+    {
+      "level": 826,
+      "mainsubject": "Political Science",
+      "question": "The 'Gross National Product' (GNP) is calculated by taking the GDP and adding the:",
+      "options": [
+        "Income earned by foreign residents in the country",
+        "Net income earned by its nationals from overseas",
+        "Total value of imports",
+        "Total value of government subsidies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gross National Product (GNP) is the total value of all finished goods and services produced by a country's citizens in a given financial year, irrespective of their location. It is calculated as: GNP = GDP + **Net Factor Income from Abroad** (which is the income earned by Indian nationals overseas minus the income earned by foreign nationals in India).",
+      "difficulty": "Easy",
+      "hint": "The 'N' in GNP stands for 'National', referring to the income of nationals."
+    },
+    {
+      "level": 827,
+      "mainsubject": "Political Science",
+      "question": "The 'Net Domestic Product' (NDP) is the GDP minus:",
+      "options": [
+        "Taxes",
+        "Subsidies",
+        "Depreciation",
+        "Imports"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Net Domestic Product (NDP) is the annual measure of the economic output of a nation that is adjusted to account for depreciation. It is calculated by subtracting **depreciation** (the decrease in the value of assets) from the Gross Domestic Product (GDP). NDP = GDP - Depreciation.",
+      "difficulty": "Easy",
+      "hint": "'Net' in economics usually implies that depreciation has been subtracted."
+    },
+    {
+      "level": 828,
+      "mainsubject": "Political Science",
+      "question": "The term 'GDP at factor cost' is calculated by subtracting ________ from 'GDP at market price'.",
+      "options": [
+        "Depreciation",
+        "Subsidies",
+        "Net indirect taxes (Indirect taxes - Subsidies)",
+        "Direct taxes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "GDP at market price includes the effect of indirect taxes and subsidies. To get GDP at factor cost (which represents the income earned by the factors of production), we need to subtract the net effect of these. So, GDP at Factor Cost = GDP at Market Price - **Net Indirect Taxes** (which is Indirect Taxes minus Subsidies).",
+      "difficulty": "Medium",
+      "hint": "This calculation removes the effect of government taxes and subsidies from the market price."
+    },
+    {
+      "level": 829,
+      "mainsubject": "Political Science",
+      "question": "The current series of national accounts in India uses the concept of 'Gross Value Added' (GVA) at basic prices to measure economic output. GVA at basic prices is:",
+      "options": [
+        "GDP at market prices - Net taxes on products",
+        "GDP at factor cost + Net taxes on production",
+        "GDP at market prices + Subsidies on products",
+        "GDP at factor cost - Depreciation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Central Statistics Office (CSO) now uses Gross Value Added (GVA) at basic prices to measure economic activity. The relationship is: **GVA at basic prices = GDP at market prices - Net product taxes** (Product taxes - Product subsidies). GVA gives a picture of the state of economic activity from the producers' side or supply side.",
+      "difficulty": "Hard",
+      "hint": "GVA is a measure of output from the supply side."
+    },
+    {
+      "level": 830,
+      "mainsubject": "Political Science",
+      "question": "The 'Human Development Report' which includes the Human Development Index (HDI) is an annual report published by the:",
+      "options": [
+        "World Bank",
+        "UNESCO",
+        "UNICEF",
+        "United Nations Development Programme (UNDP)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Human Development Report is an annual report published by the Human Development Report Office of the **United Nations Development Programme (UNDP)**. The report was first launched in 1990 by the Pakistani economist Mahbub ul Haq and Indian Nobel laureate Amartya Sen.",
+      "difficulty": "Easy",
+      "hint": "This report is published by the development arm of the UN."
+    },
+    {
+      "level": 831,
+      "mainsubject": "Political Science",
+      "question": "The 'Green GDP' is an index of economic growth with the:",
+      "options": [
+        "Environmental consequences of that growth factored in",
+        "Contribution of the agricultural sector factored in",
+        "Impact of inflation factored in",
+        "Distribution of income factored in"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Green GDP is a term used for expressing GDP after adjusting for **environmental degradation**. It is an index of economic growth with the environmental consequences of that growth factored into a country's conventional GDP. It monetizes the loss of biodiversity and accounts for costs caused by climate change.",
+      "difficulty": "Easy",
+      "hint": "This is a measure of sustainable economic growth."
+    },
+    {
+      "level": 832,
+      "mainsubject": "Political Science",
+      "question": "The term 'jobless growth' refers to a situation where the:",
+      "options": [
+        "Economy is not growing and unemployment is rising",
+        "Economy is growing but the number of jobs is not increasing at the same pace",
+        "Unemployment rate is falling but the economy is not growing",
+        "Economy is in a recession"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jobless growth is a phenomenon where a macroeconomy experiences growth while maintaining or decreasing its level of employment. It means the **economy is growing in terms of GDP, but the number of new jobs created is not sufficient** to absorb the growing labour force.",
+      "difficulty": "Easy",
+      "hint": "This term describes economic growth that does not create employment."
+    },
+    {
+      "level": 833,
+      "mainsubject": "Political Science",
+      "question": "The 'disguised unemployment' is a situation where:",
+      "options": [
+        "People are unemployed for a part of the year",
+        "People are employed below their skill level",
+        "More people are employed than are actually needed",
+        "People are not willing to work at the existing wage rate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Disguised unemployment, also known as hidden unemployment, is a situation in which **more people are employed than are actually needed** to do a job. It occurs when a part of the labour force is either left without work or is working in a redundant manner where worker productivity is essentially zero. It is a common feature of the agricultural sector in developing countries.",
+      "difficulty": "Easy",
+      "hint": "This type of unemployment is common in agriculture."
+    },
+    {
+      "level": 834,
+      "mainsubject": "Political Science",
+      "question": "The term 'frictional unemployment' refers to unemployment that results from:",
+      "options": [
+        "A downturn in the economy",
+        "A mismatch between the skills of workers and the skills required for available jobs",
+        "The time it takes for workers to search for a new job or to transition from one job to another",
+        "Seasonal changes in the demand for labour"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Frictional unemployment is the result of voluntary employment transitions within an economy. It refers to the **temporary unemployment that occurs when people are in between jobs** or are entering the labour force for the first time. It is a natural part of a dynamic economy.",
+      "difficulty": "Easy",
+      "hint": "This is a temporary form of unemployment that occurs when people are job-searching."
+    },
+    {
+      "level": 835,
+      "mainsubject": "Political Science",
+      "question": "The term 'structural unemployment' refers to unemployment that results from:",
+      "options": [
+        "A downturn in the economy",
+        "A long-term mismatch between the skills of workers and the skills required for available jobs",
+        "The time it takes for workers to search for a new job",
+        "Seasonal changes in the demand for labour"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Structural unemployment is a form of unemployment caused by a **mismatch between the skills that workers in the economy can offer, and the skills demanded of workers by employers**. It is a more long-term problem than frictional unemployment and is often caused by technological changes or shifts in the economy.",
+      "difficulty": "Easy",
+      "hint": "This type of unemployment is due to a skills mismatch."
+    },
+    {
+      "level": 836,
+      "mainsubject": "Political Science",
+      "question": "The term 'cyclical unemployment' refers to unemployment that results from:",
+      "options": [
+        "A downturn in the business cycle",
+        "A mismatch between the skills of workers and the skills required for available jobs",
+        "The time it takes for workers to search for a new job",
+        "Seasonal changes in the demand for labour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cyclical unemployment is the component of overall unemployment that results directly from cycles of economic upturn and downturn. It is the result of **a general lack of demand for goods and services in the economy**, which leads to businesses laying off workers. It rises during recessions and falls during economic expansions.",
+      "difficulty": "Easy",
+      "hint": "This type of unemployment is related to the business cycle."
+    },
+    {
+      "level": 837,
+      "mainsubject": "Political Science",
+      "question": "The 'seasonal unemployment' is a situation where people are unemployed at certain times of the year because:",
+      "options": [
+        "They are in between jobs",
+        "Their skills are no longer in demand",
+        "The economy is in a recession",
+        "The industry they work in does not produce goods or services all year round"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Seasonal unemployment occurs when people are unemployed at certain times of the year because **the industry they work in does not need their labour all year round**. Examples include agriculture, tourism, and construction.",
+      "difficulty": "Easy",
+      "hint": "This type of unemployment is linked to the changing seasons."
+    },
+    {
+      "level": 838,
+      "mainsubject": "Political Science",
+      "question": "The 'Five Year Plans' in India were formulated by the:",
+      "options": [
+        "Parliament",
+        "Finance Commission",
+        "National Development Council",
+        "Planning Commission"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Five Year Plans for the social and economic development of India were formulated and supervised by the **Planning Commission**, an extra-constitutional body established in 1950. The plans were then approved by the National Development Council (NDC). The Planning Commission has been replaced by the NITI Aayog since 2015, and the Five Year Plan system has been discontinued.",
+      "difficulty": "Easy",
+      "hint": "This body was the main architect of India's planned economy."
+    },
+    {
+      "level": 839,
+      "mainsubject": "Political Science",
+      "question": "The 'First Five Year Plan' of India (1951-56) was based on the:",
+      "options": [
+        "Harrod-Domar model",
+        "Mahalanobis model",
+        "Gadgil formula",
+        "Nehruvian model"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The First Five Year Plan was based on the **Harrod-Domar model**, which is a macroeconomic model of economic growth. The plan's main focus was on the development of the agricultural sector to address the food crisis and inflation.",
+      "difficulty": "Medium",
+      "hint": "This model emphasizes the role of savings and investment in economic growth."
+    },
+    {
+      "level": 840,
+      "mainsubject": "Political Science",
+      "question": "The 'Second Five Year Plan' of India (1956-61) was based on the:",
+      "options": [
+        "Harrod-Domar model",
+        "Mahalanobis model",
+        "Gadgil formula",
+        "Gandhian model"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Second Five Year Plan was based on the **Mahalanobis model**, developed by the Indian statistician P.C. Mahalanobis. The plan's main focus was on rapid industrialization, with a particular emphasis on the development of heavy industries and capital goods.",
+      "difficulty": "Medium",
+      "hint": "This model emphasized industrialization and was developed by a famous Indian statistician."
+    },
+    {
+      "level": 841,
+      "mainsubject": "Political Science",
+      "question": "The term 'plan holiday' refers to the period:",
+      "options": [
+        "1966-69",
+        "1978-80",
+        "1990-92",
+        "All of the above"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The term 'plan holiday' is often used to refer to periods when the regular Five Year Plans were suspended and replaced by annual plans. This happened three times: from **1966 to 1969** due to the Indo-Pak war and drought, from **1978 to 1980** when the Janata Party government introduced the 'rolling plan', and from **1990 to 1992** due to political instability and the economic crisis.",
+      "difficulty": "Medium",
+      "hint": "There were multiple breaks in the five-year planning cycle."
+    },
+    {
+      "level": 842,
+      "mainsubject": "Political Science",
+      "question": "The 'Twelfth Five Year Plan' (2012-17) was the last of the Five Year Plans. Its main theme was:",
+      "options": [
+        "Inclusive Growth",
+        "Sustainable Growth",
+        "Faster, More Inclusive and Sustainable Growth",
+        "Growth with Social Justice and Equality"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main theme of the Twelfth Five Year Plan was '**Faster, More Inclusive and Sustainable Growth**'. It was the last Five Year Plan of India, as the Planning Commission was replaced by the NITI Aayog.",
+      "difficulty": "Medium",
+      "hint": "The theme of the final five-year plan was a comprehensive one."
+    },
+    {
+      "level": 843,
+      "mainsubject": "Political Science",
+      "question": "The 'National Institution for Transforming India' (NITI Aayog) was established in which year?",
+      "options": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NITI Aayog was established on **January 1, 2015**, by a resolution of the Union Cabinet. It replaced the 65-year-old Planning Commission. It serves as the apex public policy think tank of the Government of India.",
+      "difficulty": "Easy",
+      "hint": "This body was established shortly after the new government took office in 2014."
+    },
+    {
+      "level": 844,
+      "mainsubject": "Political Science",
+      "question": "The 'NITI Aayog' is chaired by the:",
+      "options": [
+        "President",
+        "Vice President",
+        "Prime Minister",
+        "Finance Minister"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The chairperson of the NITI Aayog is the **Prime Minister of India**. The Governing Council of NITI Aayog comprises the Chief Ministers of all the States and Union Territories with Legislatures and Lt. Governors of other Union Territories.",
+      "difficulty": "Easy",
+      "hint": "The head of the government chairs this policy think tank."
+    },
+    {
+      "level": 845,
+      "mainsubject": "Political Science",
+      "question": "Which of the following is NOT one of the two main 'hubs' of NITI Aayog?",
+      "options": [
+        "Team India Hub",
+        "Knowledge and Innovation Hub",
+        "Policy and Programme Hub",
+        "Cooperative Federalism Hub"
+      ],
+      "correctAnswer": 4,
+      "explanation": "NITI Aayog has two main hubs: the **Team India Hub** and the **Knowledge and Innovation Hub**. The Team India Hub acts as the interface between the States and the Centre, fostering cooperative federalism. The Knowledge and Innovation Hub is responsible for building the institution's think-tank capabilities.",
+      "difficulty": "Hard",
+      "hint": "One hub focuses on Centre-State relations, and the other on research and innovation."
+    },
+    {
+      "level": 846,
+      "mainsubject": "Political Science",
+      "question": "The 'Atal Innovation Mission' (AIM) is a flagship initiative of the:",
+      "options": [
+        "Ministry of Education",
+        "Ministry of Science and Technology",
+        "NITI Aayog",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Atal Innovation Mission (AIM) is a flagship initiative set up by the **NITI Aayog** to promote a culture of innovation and entrepreneurship in the country. AIM's objectives are to create and promote an ecosystem of innovation and entrepreneurship at various levels - schools, universities, research institutions, etc.",
+      "difficulty": "Easy",
+      "hint": "This innovation mission is an initiative of the government's policy think tank."
+    },
+    {
+      "level": 847,
+      "mainsubject": "Political Science",
+      "question": "The 'Aspirational Districts Programme' is an initiative of the:",
+      "options": [
+        "Ministry of Rural Development",
+        "Ministry of Home Affairs",
+        "Prime Minister's Office",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Aspirational Districts Programme was launched by the **NITI Aayog** in 2018. The programme aims to quickly and effectively transform some of the most underdeveloped districts of the country by focusing on key development indicators.",
+      "difficulty": "Easy",
+      "hint": "This district development program is an initiative of the government's policy think tank."
+    },
+    {
+      "level": 848,
+      "mainsubject": "Political Science",
+      "question": "The term 'Washington Consensus' refers to a set of free-market economic policies supported by prominent economists and international organisations located in Washington, D.C. It generally advocates for:",
+      "options": [
+        "Increased government spending and state-led industrialization",
+        "Trade protectionism and import substitution",
+        "Fiscal discipline, privatization, and trade liberalization",
+        "Universal basic income and wealth taxes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Washington Consensus is a set of 10 economic policy prescriptions considered to constitute the 'standard' reform package promoted for crisis-wracked developing countries. The recommendations included **fiscal policy discipline, privatization of state enterprises, and liberalization of foreign trade and investment**.",
+      "difficulty": "Hard",
+      "hint": "This set of policies is associated with neoliberalism and globalization."
+    },
+    {
+      "level": 849,
+      "mainsubject": "Political Science",
+      "question": "The 'Economic Liberalization' in India was launched in 1991 in response to a:",
+      "options": [
+        "Balance of payments crisis",
+        "High inflation crisis",
+        "Food security crisis",
+        "Political instability crisis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The economic liberalization in India was initiated in 1991 in response to a severe **balance of payments crisis**. India's foreign exchange reserves had dwindled to a point where they were barely enough to cover a few weeks of imports. This crisis prompted the government to launch a series of radical economic reforms.",
+      "difficulty": "Easy",
+      "hint": "The 1991 reforms were triggered by a foreign exchange crisis."
+    },
+    {
+      "level": 850,
+      "mainsubject": "Political Science",
+      "question": "The 'LPG' model of reforms in India refers to:",
+      "options": [
+        "Labour, Production, Growth",
+        "Land, Power, Goods",
+        "Liberalization, Privatization, Globalization",
+        "Liquidity, Profitability, Growth"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The LPG model of reforms, introduced in 1991, stands for **Liberalization, Privatization, and Globalization**. Liberalization refers to the loosening of government regulations. Privatization refers to the transfer of ownership of public sector enterprises to the private sector. Globalization refers to the integration of the Indian economy with the world economy.",
+      "difficulty": "Easy",
+      "hint": "This is the acronym for the 1991 economic reforms."
+    },
+    {
+      "level": 851,
+      "mainsubject": "Political Science",
+      "question": "The 'Special Economic Zones' (SEZs) are areas in a country that are subject to different economic regulations than other regions within the same country. The SEZ Act in India was passed in:",
+      "options": [
+        "1991",
+        "2000",
+        "2005",
+        "2009"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Special Economic Zones (SEZ) Act was passed by the Parliament of India in **2005**. The Act was enacted to provide a framework for the establishment, development, and management of SEZs, which are created to promote exports and attract foreign investment by offering tax incentives and a more liberal regulatory environment.",
+      "difficulty": "Medium",
+      "hint": "This act to create export-oriented enclaves was passed in the mid-2000s."
+    },
+    {
+      "level": 852,
+      "mainsubject": "Political Science",
+      "question": "The term 'disinvestment' refers to the:",
+      "options": [
+        "Sale of government securities in the open market",
+        "Withdrawal of foreign investment from the country",
+        "Sale or liquidation of assets or subsidiaries by the government",
+        "Reduction in government spending"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Disinvestment, also known as divestment, refers to the **sale or liquidation of assets by an organization or government**. In the Indian context, it typically refers to the government selling its stake in public sector undertakings (PSUs) to raise funds and to improve the efficiency of these enterprises.",
+      "difficulty": "Easy",
+      "hint": "This is the process of the government selling its shares in public sector companies."
+    },
+    {
+      "level": 853,
+      "mainsubject": "Political Science",
+      "question": "The 'Minimum Support Price' (MSP) is a form of market intervention by the Government of India to:",
+      "options": [
+        "Insure farmers against crop failure",
+        "Provide a safety net or insurance to farmers to protect them from a sharp fall in farm prices",
+        "Provide subsidized inputs to farmers",
+        "Provide food grains to the poor at subsidized prices"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Minimum Support Price (MSP) is the price at which the government purchases crops from the farmers, whatever may be the price for the crops. The MSP is announced by the government at the beginning of the sowing season for certain crops to **provide a safety net to farmers** and to encourage higher investment and production.",
+      "difficulty": "Easy",
+      "hint": "This is a price guarantee for farmers."
+    },
+    {
+      "level": 854,
+      "mainsubject": "Political Science",
+      "question": "The 'Commission for Agricultural Costs and Prices' (CACP) is an attached office of the Ministry of Agriculture and Farmers' Welfare. It recommends:",
+      "options": [
+        "The loan waiver for farmers",
+        "The budget for the agricultural sector",
+        "The Minimum Support Prices (MSPs) for various crops",
+        "The import and export policy for agricultural products"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Commission for Agricultural Costs and Prices (CACP) is an expert body that **recommends the Minimum Support Prices (MSPs)** for various agricultural crops to the Government of India. The final decision on the level of MSPs is taken by the Cabinet Committee on Economic Affairs (CCEA).",
+      "difficulty": "Easy",
+      "hint": "This body provides the expert recommendation for MSPs."
+    },
+    {
+      "level": 855,
+      "mainsubject": "Political Science",
+      "question": "The 'Food Corporation of India' (FCI) is a statutory body under the Ministry of Consumer Affairs, Food and Public Distribution. Its primary duty is to:",
+      "options": [
+        "Recommend MSPs for crops",
+        "Undertake purchase, storage, movement, transport, distribution and sale of food grains",
+        "Regulate the quality of food products",
+        "Promote food processing industries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Food Corporation of India (FCI) was set up in 1965. Its primary duty is to **undertake purchase, storage, movement, transport, distribution and sale of food grains** and other foodstuffs. It is the main agency responsible for the procurement of crops at MSP and for maintaining the buffer stock of food grains.",
+      "difficulty": "Easy",
+      "hint": "This is the main government agency for food grain management."
+    },
+    {
+      "level": 856,
+      "mainsubject": "Political Science",
+      "question": "The 'Public Distribution System' (PDS) is an Indian food security system established by the Government of India to distribute:",
+      "options": [
+        "Food and non-food items to India's poor at subsidized rates",
+        "Cash transfers to the poor",
+        "Free meals to school children",
+        "Subsidized loans to farmers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Public Distribution System (PDS) is a system for the distribution of **food grains and other essential commodities to the poor at subsidized prices**. It operates through a network of fair price shops. The PDS is a crucial part of the government's food security system.",
+      "difficulty": "Easy",
+      "hint": "This system provides subsidized food through 'ration shops'."
+    },
+    {
+      "level": 857,
+      "mainsubject": "Political Science",
+      "question": "The 'National Food Security Act, 2013' provides for food and nutritional security by ensuring access to adequate quantity of quality food at affordable prices. It covers up to:",
+      "options": [
+        "50% of the urban population and 75% of the rural population",
+        "75% of the urban population and 50% of the rural population",
+        "100% of the population below the poverty line",
+        "All citizens of India"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The National Food Security Act, 2013, provides for subsidized food grains to up to **75% of the rural population and up to 50% of the urban population**. The beneficiaries are entitled to receive 5 kg of food grains per person per month at subsidized prices.",
+      "difficulty": "Medium",
+      "hint": "The act has a higher coverage in rural areas than in urban areas."
+    },
+    {
+      "level": 858,
+      "mainsubject": "Political Science",
+      "question": "The 'Antyodaya Anna Yojana' (AAY) is a scheme for the:",
+      "options": [
+        "Mid-day meals for school children",
+        "Nutritional support for pregnant women",
+        "Poorest of the poor families",
+        "Urban homeless population"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Antyodaya Anna Yojana (AAY) is a sponsored scheme to provide highly subsidized food to millions of the **poorest of the poor families**. These families are identified by the respective State governments and are provided with 35 kg of food grains per family per month at a highly subsidized price.",
+      "difficulty": "Easy",
+      "hint": "'Antyodaya' means the upliftment of the last person."
+    },
+    {
+      "level": 859,
+      "mainsubject": "Political Science",
+      "question": "The 'Midday Meal Scheme', now known as PM-POSHAN, is a school meal programme of the Government of India designed to:",
+      "options": [
+        "Improve the nutritional standing of school-age children nationwide",
+        "Promote school enrollment and attendance",
+        "Provide employment to women",
+        "Both a and b"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Midday Meal Scheme is a centrally sponsored scheme designed to better the nutritional standing of school-age children nationwide. It also aims to **increase enrollment, retention, and attendance** in schools and to reduce the dropout rates. Thus, it has both nutritional and educational objectives.",
+      "difficulty": "Easy",
+      "hint": "This scheme has both health and education goals."
+    },
+    {
+      "level": 860,
+      "mainsubject": "Political Science",
+      "question": "The 'Integrated Child Development Services' (ICDS) is a government programme which provides food, preschool education, primary healthcare, immunization, health check-up and referral services to:",
+      "options": [
+        "Children under 6 years of age and their mothers",
+        "School-going children only",
+        "Adolescent girls only",
+        "All children up to the age of 14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The ICDS is one of the world's largest and unique programmes for early childhood care and development. It provides a package of services to **children in the age group 0-6 years, pregnant women, and lactating mothers**. The services are provided through a network of Anganwadi Centres.",
+      "difficulty": "Easy",
+      "hint": "This program targets young children and their mothers through Anganwadi centres."
+    },
+    {
+      "level": 861,
+      "mainsubject": "Political Science",
+      "question": "The 'Mahatma Gandhi National Rural Employment Guarantee Act' (MGNREGA), 2005, guarantees at least:",
+      "options": [
+        "50 days of wage employment in a financial year",
+        "100 days of wage employment in a financial year",
+        "150 days of wage employment in a financial year",
+        "A full year of wage employment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "MGNREGA is a landmark social security and labour law that aims to guarantee the 'right to work'. It aims to enhance livelihood security in rural areas by providing at least **100 days of guaranteed wage employment** in a financial year to every household whose adult members volunteer to do unskilled manual work.",
+      "difficulty": "Easy",
+      "hint": "This act guarantees a certain number of days of work."
+    },
+    {
+      "level": 862,
+      "mainsubject": "Political Science",
+      "question": "The 'National Rural Livelihoods Mission' (NRLM), now known as Deendayal Antyodaya Yojana-NRLM, aims to:",
+      "options": [
+        "Provide wage employment",
+        "Promote self-employment and organization of the rural poor",
+        "Provide rural housing",
+        "Construct rural roads"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Rural Livelihoods Mission (NRLM) is a poverty alleviation project implemented by the Ministry of Rural Development. The mission aims at creating efficient and effective institutional platforms for the rural poor, enabling them to increase household income through **sustainable livelihood enhancements and improved access to financial services**. It focuses on promoting self-help groups (SHGs).",
+      "difficulty": "Easy",
+      "hint": "This mission focuses on promoting self-help groups for livelihood."
+    },
+    {
+      "level": 863,
+      "mainsubject": "Political Science",
+      "question": "The 'National Urban Livelihoods Mission' (NULM), now known as Deendayal Antyodaya Yojana-NULM, aims to:",
+      "options": [
+        "Provide housing in urban areas",
+        "Reduce poverty and vulnerability of the urban poor households",
+        "Develop smart cities",
+        "Provide sanitation facilities in urban areas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Urban Livelihoods Mission (NULM) aims to **reduce poverty and vulnerability of the urban poor households** by enabling them to access gainful self-employment and skilled wage employment opportunities. The mission also aims at providing shelter equipped with essential services to the urban homeless in a phased manner.",
+      "difficulty": "Easy",
+      "hint": "This is the urban counterpart of the NRLM."
+    },
+    {
+      "level": 864,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Awas Yojana - Urban' (PMAY-U) is a mission to provide:",
+      "options": [
+        "Housing for all in urban areas by 2022",
+        "Rental housing for migrant workers",
+        "Subsidized home loans",
+        "All of the above"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Pradhan Mantri Awas Yojana - Urban (PMAY-U) is a flagship mission of the Government of India launched in 2015. It aims to provide **housing for all in urban areas** by the year 2022 (the deadline has since been extended). The mission has several components, including slum redevelopment, credit-linked subsidy schemes, affordable housing in partnership, and beneficiary-led construction.",
+      "difficulty": "Easy",
+      "hint": "'Awas' means housing in Hindi."
+    },
+    {
+      "level": 865,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Awas Yojana - Gramin' (PMAY-G) is a mission to provide:",
+      "options": [
+        "Housing for all in rural areas",
+        "Rural employment",
+        "Rural sanitation",
+        "Rural electrification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Pradhan Mantri Awas Yojana - Gramin (PMAY-G) is a social welfare program to provide **housing for the rural poor** in India. It was launched in 2016 and replaced the earlier Indira Awaas Yojana. The objective is to provide a pucca house with basic amenities to all houseless households and those households living in kutcha and dilapidated houses by a certain deadline.",
+      "difficulty": "Easy",
+      "hint": "'Gramin' means rural in Hindi."
+    },
+    {
+      "level": 866,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Gram Sadak Yojana' (PMGSY) is a nationwide plan in India to provide:",
+      "options": [
+        "All-weather road connectivity to unconnected habitations",
+        "Housing in rural areas",
+        "Electricity to all villages",
+        "Internet connectivity in villages"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Pradhan Mantri Gram Sadak Yojana (PMGSY) was launched in 2000 to provide **all-weather road connectivity** in rural areas of the country. The programme's primary objective is to connect all unconnected habitations with a population of a specified size with an all-weather road.",
+      "difficulty": "Easy",
+      "hint": "'Sadak' means road in Hindi."
+    },
+    {
+      "level": 867,
+      "mainsubject": "Political Science",
+      "question": "The 'Smart Cities Mission' is a mission of the Government of India to:",
+      "options": [
+        "Develop 100 cities across the country making them citizen friendly and sustainable",
+        "Provide free Wi-Fi in all cities",
+        "Build new satellite towns around major cities",
+        "Construct metro rail in all major cities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Smart Cities Mission is an urban renewal and retrofitting program by the Government of India with the mission to **develop 100 cities across the country making them citizen friendly and sustainable**. The focus is on sustainable and inclusive development and the idea is to look at compact areas, create a replicable model which will act like a lighthouse to other aspiring cities.",
+      "difficulty": "Easy",
+      "hint": "This is a major urban development program."
+    },
+    {
+      "level": 868,
+      "mainsubject": "Political Science",
+      "question": "The 'Jal Jeevan Mission' is a central government initiative to provide:",
+      "options": [
+        "Safe and adequate drinking water through individual household tap connections by 2024 to all households in rural India",
+        "Irrigation facilities to all farms",
+        "Clean drinking water in urban areas",
+        "Inter-linking of rivers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Jal Jeevan Mission is a flagship programme of the Government of India which envisages the supply of 55 litres of water per person per day to every rural household through Functional Household Tap Connections (FHTC) by 2024. It aims to provide **safe and adequate drinking water through individual household tap connections**.",
+      "difficulty": "Easy",
+      "hint": "This mission aims to provide 'Har Ghar Jal' (water to every home)."
+    },
+    {
+      "level": 869,
+      "mainsubject": "Political Science",
+      "question": "The 'Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan' (PM-KUSUM) scheme is related to:",
+      "options": [
+        "Providing crop insurance",
+        "Promoting organic farming",
+        "Installation of solar pumps and grid-connected solar power plants in rural areas",
+        "Providing direct income support to farmers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The PM-KUSUM scheme is aimed at ensuring energy security for farmers in India, along with honouring India’s commitment to de-dieselise the farm sector. The scheme has three components aimed at the **installation of solar pumps, solarisation of existing grid-connected agricultural pumps, and installation of grid-connected solar power plants**.",
+      "difficulty": "Medium",
+      "hint": "'Urja' means energy in Hindi."
+    },
+    {
+      "level": 870,
+      "mainsubject": "Political Science",
+      "question": "The 'National Education Policy 2020' proposes to replace the 10+2 school curriculum structure with a new pedagogical and curricular structure of:",
+      "options": [
+        "5+3+3+4",
+        "3+5+3+4",
+        "5+3+4+3",
+        "4+3+3+5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The National Education Policy 2020 proposes to replace the existing 10+2 structure with a new **5+3+3+4** curricular structure corresponding to ages 3-8, 8-11, 11-14, and 14-18 years respectively. This is a major structural change in the school education system.",
+      "difficulty": "Easy",
+      "hint": "This is a new structure for school education."
+    },
+    {
+      "level": 871,
+      "mainsubject": "Political Science",
+      "question": "The 'National Recruitment Agency' (NRA) has been set up to conduct a Common Eligibility Test (CET) for recruitment to:",
+      "options": [
+        "All central government posts",
+        "All posts in the banking sector",
+        "Non-gazetted posts in the central government and public sector banks",
+        "All Group A and Group B posts in the central government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Recruitment Agency (NRA) has been established to conduct a Common Eligibility Test (CET) to screen/shortlist candidates for **Group-B and Group-C (non-technical) posts**. To begin with, it will cover recruitments made by the Staff Selection Commission (SSC), the Railway Recruitment Boards (RRBs), and the Institute of Banking Personnel Selection (IBPS).",
+      "difficulty": "Easy",
+      "hint": "This agency aims to streamline the recruitment process for non-gazetted posts."
+    },
+    {
+      "level": 872,
+      "mainsubject": "Political Science",
+      "question": "The 'Production Linked Incentive' (PLI) scheme is an initiative of the Government of India to:",
+      "options": [
+        "Provide direct subsidies to farmers",
+        "Encourage foreign companies to invest in India",
+        "Boost domestic manufacturing and reduce import dependence",
+        "Promote exports of services"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Production Linked Incentive (PLI) scheme is a cornerstone of the government's 'Atmanirbhar Bharat' (self-reliant India) campaign. It aims to **boost domestic manufacturing** and cut down on import bills by giving companies incentives on incremental sales from products manufactured in domestic units.",
+      "difficulty": "Easy",
+      "hint": "This scheme incentivizes manufacturing in India."
+    },
+    {
+      "level": 873,
+      "mainsubject": "Political Science",
+      "question": "The 'National Asset Reconstruction Company Ltd.' (NARCL), also known as the bad bank, has been set up to:",
+      "options": [
+        "Provide loans to infrastructure projects",
+        "Manage the assets of public sector undertakings",
+        "Acquire stressed assets (bad loans) from commercial banks",
+        "Invest in the stock market on behalf of the government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Asset Reconstruction Company Ltd. (NARCL) has been incorporated under the Companies Act and has been set up as a 'bad bank'. Its primary function is to **acquire stressed assets (non-performing assets or bad loans)** from commercial banks, thereby cleaning up their balance sheets and enabling them to lend more.",
+      "difficulty": "Easy",
+      "hint": "This is a 'bad bank'."
+    },
+    {
+      "level": 874,
+      "mainsubject": "Political Science",
+      "question": "The 'National Monetisation Pipeline' (NMP) is an initiative for:",
+      "options": [
+        "Printing more currency",
+        "Selling public sector undertakings",
+        "Asset monetisation of core assets of the Central Government in various sectors",
+        "Borrowing from the RBI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The National Monetisation Pipeline (NMP) is a programme for **asset monetisation of brownfield (existing) infrastructure assets** of the Central Government. It involves leasing out these assets to private players for a specific period in return for an upfront payment or a revenue share. The ownership of the assets remains with the government.",
+      "difficulty": "Easy",
+      "hint": "This is a plan to generate revenue from existing government assets."
+    },
+    {
+      "level": 875,
+      "mainsubject": "Political Science",
+      "question": "The 'PM Gati Shakti' is a National Master Plan for:",
+      "options": [
+        "High-speed rail development",
+        "Multi-modal connectivity and infrastructure development",
+        "Universal healthcare",
+        "Rural electrification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PM Gati Shakti is a National Master Plan for **multi-modal connectivity**. It is a digital platform that brings together 16 Ministries including Railways and Roadways for integrated planning and coordinated implementation of infrastructure connectivity projects.",
+      "difficulty": "Easy",
+      "hint": "'Gati Shakti' means 'the power of speed' in Hindi."
+    },
+    {
+      "level": 876,
+      "mainsubject": "Political Science",
+      "question": "The term 'cryptocurrency' refers to a:",
+      "options": [
+        "Digital currency issued by a central bank",
+        "Digital or virtual currency secured by cryptography",
+        "Loyalty point system used by e-commerce websites",
+        "Form of foreign exchange"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A cryptocurrency is a **digital or virtual currency that is secured by cryptography**, which makes it nearly impossible to counterfeit or double-spend. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Bitcoin is the most well-known example.",
+      "difficulty": "Easy",
+      "hint": "Bitcoin is a famous example of this."
+    },
+    {
+      "level": 877,
+      "mainsubject": "Political Science",
+      "question": "The term 'blockchain' refers to a:",
+      "options": [
+        "Type of computer virus",
+        "Secure method of online payment",
+        "Distributed, decentralized, and often public, digital ledger",
+        "Form of artificial intelligence"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A blockchain is a **distributed database or ledger that is shared among the nodes of a computer network**. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions.",
+      "difficulty": "Easy",
+      "hint": "This is the underlying technology of cryptocurrencies."
+    },
+    {
+      "level": 878,
+      "mainsubject": "Political Science",
+      "question": "The term 'non-fungible token' (NFT) refers to a:",
+      "options": [
+        "Type of cryptocurrency",
+        "Unique digital identifier that cannot be copied, substituted, or subdivided",
+        "Method of data encryption",
+        "Form of digital contract"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A non-fungible token (NFT) is a **unique digital identifier that is recorded in a blockchain and is used to certify ownership and authenticity**. It cannot be copied, substituted, or subdivided. NFTs are often used to represent ownership of digital assets like art, music, or videos.",
+      "difficulty": "Medium",
+      "hint": "These are unique digital assets."
+    },
+    {
+      "level": 879,
+      "mainsubject": "Political Science",
+      "question": "The term 'Metaverse' refers to a:",
+      "options": [
+        "New social media platform",
+        "Hypothetical iteration of the Internet as a single, universal, and immersive virtual world",
+        "Type of artificial intelligence",
+        "New operating system for computers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Metaverse is a concept of a **persistent, online, 3D universe that combines multiple different virtual spaces**. It can be thought of as a future iteration of the internet. The metaverse will allow users to work, meet, game, and socialize together in these 3D spaces.",
+      "difficulty": "Easy",
+      "hint": "This is a concept of a virtual shared space."
+    },
+    {
+      "level": 880,
+      "mainsubject": "Political Science",
+      "question": "The term 'Web 3.0' refers to a new phase of the internet's evolution based on:",
+      "options": [
+        "Social media and user-generated content",
+        "Static web pages",
+        "Decentralization, blockchain technologies, and artificial intelligence",
+        "Mobile computing and cloud services"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Web 3.0 represents the next phase of the internet's evolution. The key concepts of Web 3.0 are **decentralization, openness, and greater user utility**. It is often envisioned as a decentralized internet built on blockchain technology, where users have more control over their data.",
+      "difficulty": "Medium",
+      "hint": "This is the next generation of the internet, focusing on decentralization."
+    },
+    {
+      "level": 881,
+      "mainsubject": "Political Science",
+      "question": "The term 'Artificial Intelligence' (AI) refers to the simulation of:",
+      "options": [
+        "Human emotions in robots",
+        "Human intelligence in machines",
+        "Virtual reality environments",
+        "Complex mathematical models"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Artificial Intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. It is the **simulation of human intelligence processes by machines**, especially computer systems.",
+      "difficulty": "Easy",
+      "hint": "This is a field of computer science that deals with intelligent machines."
+    },
+    {
+      "level": 882,
+      "mainsubject": "Political Science",
+      "question": "The term 'Machine Learning' is a subset of AI that focuses on:",
+      "options": [
+        "Building machines that can think like humans",
+        "The use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy",
+        "Creating realistic virtual worlds",
+        "Developing computer hardware"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data. It is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence.",
+      "difficulty": "Easy",
+      "hint": "This is a method of data analysis that automates analytical model building."
+    },
+    {
+      "level": 883,
+      "mainsubject": "Political Science",
+      "question": "The term 'Deep Learning' is a subset of machine learning based on:",
+      "options": [
+        "Logical reasoning",
+        "Artificial neural networks with many layers",
+        "Statistical analysis",
+        "Genetic algorithms"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deep learning is a part of a broader family of machine learning methods based on **artificial neural networks with representation learning**. Deep learning architectures such as deep neural networks, deep belief networks and recurrent neural networks have been applied to fields including computer vision, speech recognition, and natural language processing.",
+      "difficulty": "Medium",
+      "hint": "This is inspired by the structure of the human brain."
+    },
+    {
+      "level": 884,
+      "mainsubject": "Political Science",
+      "question": "The term 'Internet of Things' (IoT) refers to a network of:",
+      "options": [
+        "Social media users",
+        "Computers and servers",
+        "Physical objects embedded with sensors, software, and other technologies that connect and exchange data over the Internet",
+        "Mobile devices"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Internet of Things (IoT) describes the network of **physical objects—'things'—that are embedded with sensors, software, and other technologies** for the purpose of connecting and exchanging data with other devices and systems over the Internet. These devices range from ordinary household objects to sophisticated industrial tools.",
+      "difficulty": "Easy",
+      "hint": "This refers to the network of connected devices."
+    },
+    {
+      "level": 885,
+      "mainsubject": "Political Science",
+      "question": "The term '5G' refers to the:",
+      "options": [
+        "Fifth version of a popular software",
+        "Fifth generation technology standard for broadband cellular networks",
+        "A type of computer processor",
+        "A satellite communication system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "5G is the **fifth-generation technology standard for broadband cellular networks**, which cellular phone companies began deploying worldwide in 2019. It is the planned successor to the 4G networks which provide connectivity to most current cellphones. 5G networks are predicted to have more than 1.7 billion subscribers and account for 25% of the worldwide mobile technology market by 2025.",
+      "difficulty": "Easy",
+      "hint": "This is the latest generation of mobile network technology."
+    },
+    {
+      "level": 886,
+      "mainsubject": "Political Science",
+      "question": "The term 'Quantum Computing' is a type of computation that harnesses the collective properties of quantum states, such as:",
+      "options": [
+        "Superposition and entanglement",
+        "Bits and bytes",
+        "Logic gates and circuits",
+        "Algorithms and data structures"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quantum computing is a revolutionary type of computing that uses the principles of quantum mechanics. It harnesses the collective properties of quantum states, such as **superposition, interference, and entanglement**, to perform calculations. Quantum computers are able to solve certain types of problems much faster than classical computers.",
+      "difficulty": "Medium",
+      "hint": "This type of computing is based on the principles of quantum mechanics."
+    },
+    {
+      "level": 887,
+      "mainsubject": "Political Science",
+      "question": "The term 'CRISPR' is a technology that can be used to:",
+      "options": [
+        "Generate electricity from nuclear fusion",
+        "Create artificial intelligence",
+        "Edit genes",
+        "Store data in DNA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea. These sequences are a key part of a technology known as CRISPR-Cas9, which allows for the **editing of genes** within organisms. It is a powerful tool for changing the DNA sequences and modifying gene function.",
+      "difficulty": "Medium",
+      "hint": "This is a revolutionary gene-editing technology."
+    },
+    {
+      "level": 888,
+      "mainsubject": "Political Science",
+      "question": "The term 'Gig Economy' refers to a labour market characterized by:",
+      "options": [
+        "Permanent, full-time jobs",
+        "The prevalence of short-term contracts or freelance work as opposed to permanent jobs",
+        "A high demand for skilled workers",
+        "A low unemployment rate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The gig economy is a labour market characterized by the **prevalence of short-term contracts or freelance work**, as opposed to permanent jobs. In a gig economy, instead of a regular wage, workers get paid for the 'gigs' they do, such as food delivery or a car ride.",
+      "difficulty": "Easy",
+      "hint": "This refers to a work environment based on short-term 'gigs'."
+    },
+    {
+      "level": 889,
+      "mainsubject": "Political Science",
+      "question": "The term 'Circular Economy' is a model of production and consumption which involves:",
+      "options": [
+        "A linear 'take-make-waste' model",
+        "Sharing, leasing, reusing, repairing, refurbishing and recycling existing materials and products as long as possible",
+        "Maximizing the extraction of raw materials",
+        "Focusing on the production of single-use products"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A circular economy is an economic system aimed at eliminating waste and the continual use of resources. It involves **sharing, leasing, reusing, repairing, refurbishing and recycling existing materials and products** for as long as possible. In this way, the life cycle of products is extended.",
+      "difficulty": "Easy",
+      "hint": "This is a regenerative approach to the economy."
+    },
+    {
+      "level": 890,
+      "mainsubject": "Political Science",
+      "question": "The 'Davos Summit' is the informal name for the annual meeting of the:",
+      "options": [
+        "United Nations General Assembly",
+        "G7",
+        "World Bank and IMF",
+        "World Economic Forum"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Davos Summit is the common name for the annual meeting of the **World Economic Forum (WEF)**, which is held in Davos, Switzerland. The meeting brings together top business leaders, international political leaders, economists, and other influential figures to discuss the most pressing issues facing the world.",
+      "difficulty": "Easy",
+      "hint": "This high-profile meeting is held in a Swiss mountain resort."
+    },
+    {
+      "level": 891,
+      "mainsubject": "Political Science",
+      "question": "The 'Raisina Dialogue' is an annual multilateral conference held in New Delhi. It is organized by the:",
+      "options": [
+        "NITI Aayog and the World Economic Forum",
+        "Observer Research Foundation and the Ministry of External Affairs",
+        "Vivekananda International Foundation and the Ministry of Home Affairs",
+        "India Foundation and the Prime Minister's Office"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Raisina Dialogue is India's premier conference on geopolitics and geoeconomics. It is held annually in New Delhi. The conference is hosted by the **Observer Research Foundation (ORF)**, an independent think tank, in collaboration with the **Ministry of External Affairs of India**.",
+      "difficulty": "Medium",
+      "hint": "This conference is named after Raisina Hill, where the seat of the Indian government is located."
+    },
+    {
+      "level": 892,
+      "mainsubject": "Political Science",
+      "question": "The 'Shangri-La Dialogue' is an annual 'Track One' inter-governmental security conference held in Singapore. It is organized by the:",
+      "options": [
+        "Government of Singapore",
+        "ASEAN Secretariat",
+        "International Institute for Strategic Studies (IISS)",
+        "United Nations"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Shangri-La Dialogue is a 'Track One' defence summit held annually in Singapore by the **International Institute for Strategic Studies (IISS)**, a British think tank. The dialogue is attended by defence ministers, permanent heads of ministries and military chiefs of 28 Asia-Pacific states.",
+      "difficulty": "Hard",
+      "hint": "This major Asian security summit is organized by a British think tank."
+    },
+    {
+      "level": 893,
+      "mainsubject": "Political Science",
+      "question": "The 'Munich Security Conference' is an annual conference on international security policy that is held in Munich, Germany. It is:",
+      "options": [
+        "An official meeting of NATO",
+        "A meeting of the G7 leaders",
+        "An independent forum for debate",
+        "A United Nations conference"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Munich Security Conference is an **independent forum** for discussion on international security policy. It is not an official government event. It brings together heads of state, ministers, leading figures of international and non-governmental organizations, as well as high-ranking representatives from industry, media, academia, and civil society.",
+      "difficulty": "Medium",
+      "hint": "This is a major non-governmental forum on security policy."
+    },
+    {
+      "level": 894,
+      "mainsubject": "Political Science",
+      "question": "The term 'deep state' refers to a:",
+      "options": [
+        "Secret government agency",
+        "Type of governance in which a state is perceived to be controlled by a clandestine network of individuals operating independently of the elected leadership",
+        "Form of authoritarian government",
+        "Shadow cabinet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The deep state is a concept concerning the potential existence of a **clandestine network of non-elected government officials and other influential figures** who operate conspiratorially to manipulate or control the state, without respect for the democratically elected leadership.",
+      "difficulty": "Medium",
+      "hint": "This is a conspiracy theory about a hidden government."
+    },
+    {
+      "level": 895,
+      "mainsubject": "Political Science",
+      "question": "The term 'geopolitics' refers to the study of the effects of:",
+      "options": [
+        "Geography (human and physical) on politics and international relations",
+        "The economy on politics",
+        "Culture on politics",
+        "History on politics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geopolitics is the study of the effects of **earth's geography (human and physical) on politics and international relations**. It is a method of studying foreign policy to understand, explain and predict international political behavior through geographical variables.",
+      "difficulty": "Easy",
+      "hint": "The name itself combines geography and politics."
+    },
+    {
+      "level": 896,
+      "mainsubject": "Political Science",
+      "question": "The term 'realpolitik' is a political philosophy that emphasizes:",
+      "options": [
+        "Ideology and ethics",
+        "Practical and material factors rather than ideological or moral considerations",
+        "International cooperation",
+        "Democratic principles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Realpolitik is a system of politics or principles based on **practical rather than moral or ideological considerations**. It refers to politics or diplomacy based primarily on considerations of given circumstances and factors, rather than explicit ideological notions or moral and ethical premises. It is often associated with power politics.",
+      "difficulty": "Medium",
+      "hint": "This is a pragmatic approach to politics, focusing on power."
+    },
+    {
+      "level": 897,
+      "mainsubject": "Political Science",
+      "question": "The term 'sovereignty' refers to the:",
+      "options": [
+        "Supreme authority within a territory",
+        "Power of the judiciary",
+        "Rights of citizens",
+        "Principles of democracy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sovereignty is the defining characteristic of a state. It is the **full right and power of a governing body over itself**, without any interference from outside sources or bodies. In political theory, sovereignty is a substantive term designating supreme authority over some polity.",
+      "difficulty": "Easy",
+      "hint": "This is the concept of ultimate authority."
+    },
+    {
+      "level": 898,
+      "mainsubject": "Political Science",
+      "question": "The concept of the 'state of nature' is a central feature of the social contract theories of:",
+      "options": [
+        "Plato and Aristotle",
+        "Machiavelli and Bodin",
+        "Hobbes, Locke, and Rousseau",
+        "Marx and Engels"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'state of nature' is a concept used in political philosophy by social contract theorists like **Thomas Hobbes, John Locke, and Jean-Jacques Rousseau**. It is a hypothetical condition of humanity before the formation of states or governments. The philosophers had different views on what life was like in the state of nature.",
+      "difficulty": "Medium",
+      "hint": "These are the three main social contract theorists."
+    },
+    {
+      "level": 899,
+      "mainsubject": "Political Science",
+      "question": "Thomas Hobbes, in his book 'Leviathan', argued that life in the state of nature was:",
+      "options": [
+        "Peaceful and rational",
+        "Governed by natural law",
+        "Solitary, poor, nasty, brutish, and short",
+        "A golden age of freedom"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Thomas Hobbes famously argued that in the state of nature, without a common power to keep them all in awe, people are in a state of war of all against all. He described life in this state as '**solitary, poor, nasty, brutish, and short**'. This pessimistic view led him to argue for a strong, absolute sovereign to maintain order.",
+      "difficulty": "Medium",
+      "hint": "This is a famous pessimistic description of the state of nature."
+    },
+    {
+      "level": 900,
+      "mainsubject": "Political Science",
+      "question": "John Locke, in his 'Two Treatises of Government', argued that in the state of nature, people are governed by:",
+      "options": [
+        "Their passions and self-interest",
+        "The will of the strongest",
+        "A law of nature, which is reason",
+        "There are no laws in the state of nature"
+      ],
+      "correctAnswer": 3,
+      "explanation": "John Locke had a more optimistic view of the state of nature than Hobbes. He argued that it is a state of perfect freedom and equality, governed by a **law of nature**. This law of nature, which is reason, teaches all mankind that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions.",
+      "difficulty": "Medium",
+      "hint": "This philosopher had a more positive view of the state of nature."
+    },
+    {
+      "level": 901,
+      "mainsubject": "Political Science",
+      "question": "Jean-Jacques Rousseau, in his 'The Social Contract', argued that the only legitimate political authority is the authority consented to by all the people, which he called the:",
+      "options": [
+        "Sovereign",
+        "Leviathan",
+        "General will",
+        "Republic"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rousseau argued that in order to overcome the problems of the state of nature, people enter into a social contract in which they give up their individual rights to the community as a whole. This creates a new collective entity, the sovereign, whose decisions are guided by the **'general will'**. The general will is the will of the people as a whole, which aims at the common good.",
+      "difficulty": "Medium",
+      "hint": "This is Rousseau's concept of the collective will of the people."
+    },
+    {
+      "level": 902,
+      "mainsubject": "Political Science",
+      "question": "The book 'The Prince', a classic work of political philosophy, was written by:",
+      "options": [
+        "Plato",
+        "Aristotle",
+        "Niccolò Machiavelli",
+        "Thomas Hobbes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'The Prince' is a 16th-century political treatise written by the Italian diplomat and political theorist **Niccolò Machiavelli**. It is famous for its pragmatic and often ruthless advice to rulers on how to gain and maintain power. It is one of the foundational texts of modern political science.",
+      "difficulty": "Easy",
+      "hint": "This book is a famous guide for rulers."
+    },
+    {
+      "level": 903,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'separation of powers' into legislative, executive, and judicial branches was most famously articulated by:",
+      "options": [
+        "John Locke",
+        "Montesquieu",
+        "Jean-Jacques Rousseau",
+        "Voltaire"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The theory of separation of powers was most famously and systematically articulated by the French philosopher **Montesquieu** in his book 'The Spirit of the Laws' (1748). He argued that to prevent tyranny, the legislative, executive, and judicial powers of government should be assigned to different bodies. This idea had a profound influence on the framers of the US Constitution.",
+      "difficulty": "Easy",
+      "hint": "This French philosopher is credited with this theory."
+    },
+    {
+      "level": 904,
+      "mainsubject": "Political Science",
+      "question": "The book 'Das Kapital', a foundational theoretical text in communist and socialist thought, was written by:",
+      "options": [
+        "Vladimir Lenin",
+        "Friedrich Engels",
+        "Leon Trotsky",
+        "Karl Marx"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Das Kapital' (Capital: A Critique of Political Economy) is a foundational work of political economy and critique of capitalism written by **Karl Marx**. The book analyzes the economic patterns underpinning the capitalist mode of production. Volumes II and III were completed and published by his collaborator Friedrich Engels after Marx's death.",
+      "difficulty": "Easy",
+      "hint": "This is the most famous work of the father of communism."
+    },
+    {
+      "level": 905,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'utilitarianism', which holds that the best moral action is the one that maximizes utility or well-being for the greatest number of people, is most famously associated with:",
+      "options": [
+        "Immanuel Kant",
+        "John Stuart Mill and Jeremy Bentham",
+        "John Rawls",
+        "Robert Nozick"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Utilitarianism is a family of consequentialist ethical theories. Its core idea is that the morality of an action is determined by its outcome. The most influential proponents of utilitarianism were the English philosophers **Jeremy Bentham** and **John Stuart Mill**.",
+      "difficulty": "Medium",
+      "hint": "These two British philosophers are the main figures of this ethical theory."
+    },
+    {
+      "level": 906,
+      "mainsubject": "Political Science",
+      "question": "John Rawls, in his book 'A Theory of Justice', proposes a thought experiment where people make decisions about the principles of justice from behind a:",
+      "options": [
+        "Veil of Ignorance",
+        "Iron Curtain",
+        "Wall of Separation",
+        "Golden Mean"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In 'A Theory of Justice', John Rawls proposes a thought experiment called the 'original position', in which people are to choose the principles of justice for their society from behind a '**Veil of Ignorance**'. This veil prevents them from knowing their own social status, talents, race, religion, etc. Rawls argues that from this impartial position, people would choose principles that are fair to all.",
+      "difficulty": "Medium",
+      "hint": "This is Rawls's famous thought experiment for choosing principles of justice."
+    },
+    {
+      "level": 907,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'negative liberty' refers to:",
+      "options": [
+        "The absence of freedom",
+        "Freedom from interference by other people",
+        "The freedom to achieve one's potential",
+        "The power or capacity to act in a certain way"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Negative liberty is the freedom from interference by other people. It is primarily concerned with freedom from external restraint and contrasts with positive liberty (the possession of the power and resources to fulfill one's own potential). The distinction was famously articulated by Isaiah Berlin.",
+      "difficulty": "Medium",
+      "hint": "This is freedom 'from' something."
+    },
+    {
+      "level": 908,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'positive liberty' refers to:",
+      "options": [
+        "Freedom from interference by other people",
+        "The absence of constraints",
+        "The possession of the power and resources to fulfill one's own potential",
+        "The freedom to do whatever one wants"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Positive liberty is the possession of the capacity to act upon one's free will. It is the freedom 'to' achieve one's potential and act as one's own master. This contrasts with negative liberty, which is freedom from external restraint.",
+      "difficulty": "Medium",
+      "hint": "This is freedom 'to' do something."
+    },
+    {
+      "level": 909,
+      "mainsubject": "Political Science",
+      "question": "The term 'anarchy' in political philosophy refers to a society:",
+      "options": [
+        "In a state of chaos and disorder",
+        "Ruled by a single dictator",
+        "Without a publicly enforced government or political authority",
+        "With a very weak government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In political philosophy, 'anarchy' is the state of a society being freely constituted **without authorities or a governing body**. It may also refer to a society or group of people that entirely rejects a hierarchical rule. While in common usage it implies chaos, in political theory it refers to the absence of a state.",
+      "difficulty": "Easy",
+      "hint": "This term literally means 'without rulers'."
+    },
+    {
+      "level": 910,
+      "mainsubject": "Political Science",
+      "question": "The political ideology of 'fascism' is characterized by:",
+      "options": [
+        "Extreme nationalism, authoritarianism, and militarism",
+        "Individualism, liberty, and democracy",
+        "Communism and a classless society",
+        "Internationalism and free trade"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fascism is a far-right, authoritarian, ultranationalist political ideology and movement, characterized by a dictatorial leader, centralized autocracy, militarism, forcible suppression of opposition, belief in a natural social hierarchy, and subordination of individual interests for the perceived good of the nation.",
+      "difficulty": "Easy",
+      "hint": "This ideology was associated with leaders like Mussolini and Hitler."
+    },
+    {
+      "level": 911,
+      "mainsubject": "Political Science",
+      "question": "The term 'communism' is a political and economic ideology whose ultimate goal is the establishment of a:",
+      "options": [
+        "Capitalist society",
+        "Monarchy",
+        "Communist society, a socioeconomic order structured upon the ideas of common ownership of the means of production and the absence of social classes, money, and the state",
+        "Liberal democracy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Communism is a political and economic ideology that positions itself in opposition to liberal democracy and capitalism, advocating instead for a classless system in which the means of production are owned communally and private property is nonexistent or severely curtailed.",
+      "difficulty": "Easy",
+      "hint": "This ideology is based on the writings of Karl Marx."
+    },
+    {
+      "level": 912,
+      "mainsubject": "Political Science",
+      "question": "The term 'liberalism' is a political and moral philosophy based on:",
+      "options": [
+        "Authority, tradition, and hierarchy",
+        "Liberty, consent of the governed, and equality before the law",
+        "Nationalism and militarism",
+        "The common ownership of the means of production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Liberalism is a political and moral philosophy based on the rights of the individual, liberty, consent of the governed, and equality before the law. It is one of the most dominant political ideologies in the modern world.",
+      "difficulty": "Easy",
+      "hint": "This ideology emphasizes individual liberty."
+    },
+    {
+      "level": 913,
+      "mainsubject": "Political Science",
+      "question": "The term 'conservatism' is a political philosophy that generally emphasizes:",
+      "options": [
+        "Radical change and revolution",
+        "Tradition, hierarchy, and authority",
+        "Individual liberty and minimal government",
+        "Social equality and a welfare state"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conservatism is a political and social philosophy promoting traditional social institutions. The central tenets of conservatism may vary, but they often include an emphasis on **tradition, established institutions, hierarchy, authority, and property rights**.",
+      "difficulty": "Easy",
+      "hint": "This ideology is generally skeptical of rapid change."
+    },
+    {
+      "level": 914,
+      "mainsubject": "Political Science",
+      "question": "The term 'socialism' is a political, social, and economic philosophy encompassing a range of economic and social systems characterized by:",
+      "options": [
+        "Private ownership of the means of production",
+        "A free market and minimal government intervention",
+        "Social ownership of the means of production",
+        "A laissez-faire approach"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Socialism is a political, social, and economic philosophy characterized by **social ownership of the means of production**. This social ownership can be state/public, community, collective, cooperative, or employee. It contrasts with capitalism, which is based on private ownership of the means of production.",
+      "difficulty": "Easy",
+      "hint": "This ideology emphasizes social ownership and cooperation."
+    },
+    {
+      "level": 915,
+      "mainsubject": "Political Science",
+      "question": "The term 'libertarianism' is a political philosophy that upholds:",
+      "options": [
+        "Liberty as a core principle and seeks to maximize autonomy and political freedom",
+        "Equality as a core principle and seeks to create a classless society",
+        "Tradition as a core principle and seeks to preserve existing institutions",
+        "The authority of the state as a core principle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Libertarianism is a political philosophy that takes **individual liberty as its primary political value**. It advocates for a minimal state, or 'night-watchman state', whose only functions are to protect individuals from aggression, theft, breach of contract, and fraud.",
+      "difficulty": "Medium",
+      "hint": "This ideology advocates for maximum individual freedom and minimal government."
+    },
+    {
+      "level": 916,
+      "mainsubject": "Political Science",
+      "question": "The 'feminist movement' is a series of social and political movements and ideologies that aim to:",
+      "options": [
+        "Define and establish the political, economic, personal, and social equality of the sexes",
+        "Promote traditional gender roles",
+        "Create a matriarchal society",
+        "Advocate for the interests of women over men"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Feminism is a range of social movements, political movements, and ideologies that aim to **define and establish the political, economic, personal, and social equality of the sexes**. It incorporates the position that societies prioritize the male point of view, and that women are treated unjustly within those societies.",
+      "difficulty": "Easy",
+      "hint": "This movement advocates for gender equality."
+    },
+    {
+      "level": 917,
+      "mainsubject": "Political Science",
+      "question": "The term 'environmentalism' is a social and political movement that seeks to:",
+      "options": [
+        "Promote industrial development at all costs",
+        "Improve and protect the quality of the natural environment through changes to environmentally harmful human activities",
+        "Prioritize economic growth over environmental concerns",
+        "Exploit natural resources for human benefit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Environmentalism is a broad philosophy, ideology, and social movement regarding concerns for environmental protection and improvement of the health of the environment. It seeks to **improve and protect the quality of the natural environment** by changing environmentally harmful human activities.",
+      "difficulty": "Easy",
+      "hint": "This movement is concerned with the protection of nature."
+    },
+    {
+      "level": 918,
+      "mainsubject": "Political Science",
+      "question": "The term 'populism' refers to a political approach that strives to appeal to:",
+      "options": [
+        "The political elite",
+        "The intellectual class",
+        "Ordinary people who feel that their concerns are disregarded by established elite groups",
+        "The business community"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Populism is a political approach that seeks to appeal to **ordinary people who feel that their concerns are disregarded by established elite groups**. Populist leaders often claim to represent the 'common person' against a corrupt or out-of-touch elite.",
+      "difficulty": "Easy",
+      "hint": "This political style often pits 'the people' against 'the elite'."
+    },
+    {
+      "level": 919,
+      "mainsubject": "Political Science",
+      "question": "The term 'nationalism' is an ideology and movement that promotes the interests of a particular nation, especially with the aim of:",
+      "options": [
+        "Promoting international cooperation",
+        "Gaining and maintaining the nation's sovereignty over its homeland",
+        "Encouraging cultural diversity",
+        "Creating a global government"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nationalism is an ideology that emphasizes loyalty, devotion, or allegiance to a nation or nation-state and holds that such obligations outweigh other individual or group interests. A key aim of nationalism is to **gain and maintain the nation's sovereignty (self-governance) over its homeland**.",
+      "difficulty": "Easy",
+      "hint": "This ideology prioritizes the interests of one's own nation."
+    },
+    {
+      "level": 920,
+      "mainsubject": "Political Science",
+      "question": "The term 'globalization' refers to the:",
+      "options": [
+        "Process of increasing isolation of countries",
+        "Process of interaction and integration among people, companies, and governments worldwide",
+        "Decline of international trade",
+        "Strengthening of national borders"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Globalization is the **process of interaction and integration among people, companies, and governments worldwide**. It is primarily an economic process of interaction and integration that's associated with social and cultural aspects. It has been accelerated by advances in transportation and communication technology.",
+      "difficulty": "Easy",
+      "hint": "This is the process of the world becoming more interconnected."
+    },
+    {
+      "level": 921,
+      "mainsubject": "Political Science",
+      "question": "The term 'protectionism' is the economic policy of:",
+      "options": [
+        "Promoting free trade",
+        "Restricting imports from other countries through methods such as tariffs on imported goods, import quotas, and a variety of other government regulations",
+        "Encouraging foreign direct investment",
+        "Joining free trade agreements"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Protectionism is the economic policy of **restricting imports from other countries** through methods such as tariffs on imported goods, import quotas, and a variety of other government regulations. The goal is to protect domestic industries from foreign competition.",
+      "difficulty": "Easy",
+      "hint": "This policy aims to 'protect' domestic industries."
+    },
+    {
+      "level": 922,
+      "mainsubject": "Political Science",
+      "question": "The 'Bretton Woods system' of international financial management established the rules for commercial and financial relations among the United States, Canada, Western European countries, Australia, and Japan after 1944. It led to the creation of the:",
+      "options": [
+        "United Nations and UNESCO",
+        "WTO and APEC",
+        "IMF and the World Bank",
+        "NATO and the Warsaw Pact"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Bretton Woods system was a set of unified rules and policies that provided the framework for the global economy from the end of World War II until the early 1970s. The system led to the creation of two major international institutions: the **International Monetary Fund (IMF) and the International Bank for Reconstruction and Development (IBRD), which is now part of the World Bank Group**.",
+      "difficulty": "Easy",
+      "hint": "This system created the 'Bretton Woods twins'."
+    },
+    {
+      "level": 923,
+      "mainsubject": "Political Science",
+      "question": "The term 'neo-liberalism' is a policy model that emphasizes the value of:",
+      "options": [
+        "State-led economic development",
+        "Free-market competition, privatization, and deregulation",
+        "Protectionist trade policies",
+        "A strong welfare state"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neo-liberalism is a term used to describe a policy model of economics that transfers control of economic factors from the public sector to the private sector. It is characterized by policies such as **privatization, deregulation, free trade, and reductions in government spending**. It is often associated with the 'Washington Consensus'.",
+      "difficulty": "Medium",
+      "hint": "This is a modern form of economic liberalism."
+    },
+    {
+      "level": 924,
+      "mainsubject": "Political Science",
+      "question": "The 'Cold War' was a period of geopolitical tension between:",
+      "options": [
+        "The United States and China",
+        "The United Kingdom and France",
+        "The Soviet Union and its allies, and the United States and its allies",
+        "Germany and Japan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Cold War was a period of geopolitical tension between the **Soviet Union and the United States and their respective allies**, the Eastern Bloc and the Western Bloc. The period is generally considered to span from the end of World War II in 1945 to the dissolution of the Soviet Union in 1991.",
+      "difficulty": "Easy",
+      "hint": "This was the post-WWII standoff between the two superpowers."
+    },
+    {
+      "level": 925,
+      "mainsubject": "Political Science",
+      "question": "The 'balance of power' theory in international relations suggests that:",
+      "options": [
+        "One state should dominate all others",
+        "States may secure their survival by preventing any one state from gaining enough military power to dominate all others",
+        "International law is the most effective way to maintain peace",
+        "Economic interdependence leads to peace"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The balance of power theory suggests that national security is enhanced when military capability is distributed so that no one state is strong enough to dominate all others. The theory contends that **states will check the power of other states by balancing against them**, either through internal military buildup or through forming alliances.",
+      "difficulty": "Medium",
+      "hint": "This theory is about preventing the rise of a single dominant power."
+    },
+    {
+      "level": 926,
+      "mainsubject": "Political Science",
+      "question": "The term 'hegemony' in international relations refers to the:",
+      "options": [
+        "A state of anarchy in the international system",
+        "A balance of power between multiple states",
+        "Leadership or dominance, especially by one country or social group over others",
+        "A system of international law"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hegemony is the **political, economic, or military predominance or control of one state over others**. In ancient Greece, hegemony denoted the politico-military dominance of a city-state over other city-states. In the modern era, the term is often used to describe the dominance of a single superpower, such as the United States in the post-Cold War era.",
+      "difficulty": "Easy",
+      "hint": "This term refers to the dominance of one state."
+    },
+    {
+      "level": 927,
+      "mainsubject": "Political Science",
+      "question": "The concept of 'public opinion' refers to the:",
+      "options": [
+        "Official position of the government",
+        "Collective attitude of the citizens on a given issue or problem",
+        "Views of political experts",
+        "The content of newspaper editorials"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Public opinion is the **collective opinion on a specific topic or voting intention relevant to a society**. It is the aggregate of individual attitudes or beliefs held by the adult population. It is a crucial concept in democratic theory.",
+      "difficulty": "Easy",
+      "hint": "This is the 'voice of the people'."
+    },
+    {
+      "level": 928,
+      "mainsubject": "Political Science",
+      "question": "The term 'political culture' refers to the:",
+      "options": [
+        "Formal political institutions of a country",
+        "Set of attitudes, beliefs, and sentiments which give order and meaning to a political process",
+        "The electoral system of a country",
+        "The constitution of a country"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Political culture is the **set of shared views and normative judgments held by a population regarding its political system**. It is the composite of basic values, feelings, and knowledge that underlie the political process. It helps to shape the political behavior of citizens.",
+      "difficulty": "Medium",
+      "hint": "This refers to the psychological dimension of a political system."
+    },
+    {
+      "level": 929,
+      "mainsubject": "Political Science",
+      "question": "The term 'political socialization' refers to the process by which:",
+      "options": [
+        "People learn about politics and form their political beliefs and values",
+        "A country becomes a socialist state",
+        "Political parties are formed",
+        "Laws are made"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Political socialization is the process by which **people develop their political ideologies**. It is a lifelong process by which people form their ideas about politics and acquire political values. The family, educational system, peer groups, and the mass media all play a role in this process.",
+      "difficulty": "Easy",
+      "hint": "This is the process of learning about politics."
+    },
+    {
+      "level": 930,
+      "mainsubject": "Political Science",
+      "question": "The term 'pressure group' refers to an organization that:",
+      "options": [
+        "Seeks to win elections and form a government",
+        "Tries to influence public policy in the interest of a particular cause",
+        "Is a part of the formal government structure",
+        "Represents the interests of a foreign country"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pressure group, also known as an interest group or a lobby group, is an organization that **seeks to influence government policy** to advance its own interests or cause. Unlike political parties, pressure groups do not seek to win political office themselves.",
+      "difficulty": "Easy",
+      "hint": "These groups 'pressurize' the government to adopt certain policies."
+    },
+    {
+      "level": 931,
+      "mainsubject": "Political Science",
+      "question": "The term 'political party' refers to an organization that:",
+      "options": [
+        "Seeks to influence public policy on a single issue",
+        "Is a part of the bureaucracy",
+        "Coordinates candidates to compete in a particular country's elections",
+        "Is a non-governmental organization"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A political party is an organization that **coordinates candidates to compete in a country's elections**. It is a group of people who come together to contest elections and hold power in the government. They agree on some policies and programmes for the society with a view to promote the collective good.",
+      "difficulty": "Easy",
+      "hint": "These organizations are the main actors in electoral politics."
+    },
+    {
+      "level": 932,
+      "mainsubject": "Political Science",
+      "question": "The term 'civil society' refers to the:",
+      "options": [
+        "Government and its institutions",
+        "The military and police forces",
+        "The 'third sector' of society, distinct from government and business, and including the family and the private sphere",
+        "The business community"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Civil society is the **'aggregate of non-governmental organizations and institutions that manifest the interests and will of citizens'**. It is the space for collective action around shared interests, purposes, and values, generally distinct from government and commercial for-profit actors. It includes charities, NGOs, community groups, faith-based organizations, etc.",
+      "difficulty": "Easy",
+      "hint": "This is the sphere of social life outside of the state and the market."
+    },
+    {
+      "level": 933,
+      "mainsubject": "Political Science",
+      "question": "The term 'rule of law' means that:",
+      "options": [
+        "The ruler is above the law",
+        "The law is what the ruler says it is",
+        "No one is above the law, and everyone is subject to the law",
+        "The law can be changed at any time by the government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The rule of law is the political philosophy that **all citizens and institutions within a country, state, or community, including the rulers and the government itself, are accountable to the same laws**. It implies that no one is above the law. It is a cornerstone of modern democratic governance.",
+      "difficulty": "Easy",
+      "hint": "This principle ensures that the law is supreme."
+    },
+    {
+      "level": 934,
+      "mainsubject": "Political Science",
+      "question": "The term 'constitution' refers to a:",
+      "options": [
+        "Set of ordinary laws",
+        "Collection of historical documents",
+        "Set of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed",
+        "The political manifesto of the ruling party"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A constitution is an **aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organisation or other type of entity and commonly determine how that entity is to be governed**. It is the supreme law of the land.",
+      "difficulty": "Easy",
+      "hint": "This is the supreme law of a country."
+    },
+    {
+      "level": 935,
+      "mainsubject": "Political Science",
+      "question": "The term 'federalism' refers to a system of government in which:",
+      "options": [
+        "All power is concentrated in a central government",
+        "The central government is subordinate to the regional governments",
+        "Power is divided between a central authority and constituent political units, like states or provinces",
+        "There is no central government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Federalism is a mixed or compound mode of government that combines a general government with regional governments in a single political system. In a federal system, **power is divided between a central government and various regional governments**. Both levels of government have their own areas of jurisdiction and are independent of each other in their respective spheres.",
+      "difficulty": "Easy",
+      "hint": "This system involves a division of power between national and regional governments."
+    },
+    {
+      "level": 936,
+      "mainsubject": "Political Science",
+      "question": "The term 'unitary system' of government refers to a system in which:",
+      "options": [
+        "All power is concentrated in a central government",
+        "Power is divided between a central government and regional governments",
+        "The regional governments are more powerful than the central government",
+        "There is no central government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A unitary system of government, or unitary state, is a sovereign state governed as a single entity. The **central government is supreme**, and any administrative divisions (sub-national units) exercise only the powers that the central government chooses to delegate. The United Kingdom and France are examples of unitary states.",
+      "difficulty": "Easy",
+      "hint": "In this system, power is centralized."
+    },
+    {
+      "level": 937,
+      "mainsubject": "Political Science",
+      "question": "The term 'parliamentary system' of government is one in which:",
+      "options": [
+        "The executive and legislative branches are separate and independent",
+        "The executive branch derives its democratic legitimacy from, and is held accountable to, the legislature",
+        "The head of state is also the head of government",
+        "The judiciary is the most powerful branch of government"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A parliamentary system is a system of democratic governance of a state where the **executive derives its democratic legitimacy from its ability to command the confidence of the legislature**, typically a parliament, and is also held accountable to that parliament. In a parliamentary system, the head of government is normally a prime minister.",
+      "difficulty": "Easy",
+      "hint": "In this system, the executive is responsible to the legislature."
+    },
+    {
+      "level": 938,
+      "mainsubject": "Political Science",
+      "question": "The term 'presidential system' of government is one in which:",
+      "options": [
+        "The head of government is also the head of state and leads an executive branch that is separate from the legislative branch",
+        "The executive is responsible to the legislature",
+        "The head of state is a ceremonial monarch",
+        "The prime minister is the most powerful person in the government"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A presidential system is a system of government where a **head of government (president) leads an executive branch that is separate from the legislative branch**. The president is both the head of state and head of government and is elected independently of the legislature. The United States is the most well-known example.",
+      "difficulty": "Easy",
+      "hint": "In this system, the executive and legislative branches are separate."
+    },
+    {
+      "level": 939,
+      "mainsubject": "Political Science",
+      "question": "The term 'bicameralism' in a legislature is often justified on the grounds that:",
+      "options": [
+        "It makes the law-making process faster and more efficient",
+        "It provides for representation of different interests (like states in a federation) and allows for a more considered and thorough review of legislation",
+        "It is less expensive to maintain",
+        "It concentrates power in a single body"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bicameralism is justified on several grounds. The second chamber can act as a check on the first, preventing hasty legislation. In a federal system, it can **provide representation to the constituent units (states)**. It also allows for a **more thorough scrutiny and revision of bills**, potentially leading to better legislation.",
+      "difficulty": "Medium",
+      "hint": "Having two houses allows for checks and balances and representation of different interests."
+    },
+    {
+      "level": 940,
+      "mainsubject": "Political Science",
+      "question": "The term 'judicial review' is the power of a court to:",
+      "options": [
+        "Review the performance of lower courts",
+        "Review and potentially invalidate laws and governmental actions that are inconsistent with the constitution",
+        "Review its own previous decisions",
+        "Advise the legislature on the constitutionality of proposed laws"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Judicial review is a process under which executive or legislative actions are subject to review by the judiciary. A court with authority for judicial review may **invalidate laws and decisions that are incompatible with a higher authority**, such as the terms of a written constitution. It is a key feature of the separation of powers.",
+      "difficulty": "Easy",
+      "hint": "This is the power of the judiciary to check the constitutionality of laws."
+    },
+    {
+      "level": 941,
+      "mainsubject": "Political Science",
+      "question": "The term 'suffrage' refers to the:",
+      "options": [
+        "Right to vote",
+        "Right to stand for election",
+        "Right to form a political party",
+        "Right to protest"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Suffrage, political franchise, or simply franchise, is the **right to vote** in public, political elections and referendums. The term is also used more broadly to mean the right to run for office.",
+      "difficulty": "Easy",
+      "hint": "Universal adult suffrage is a cornerstone of democracy."
+    },
+    {
+      "level": 942,
+      "mainsubject": "Political Science",
+      "question": "The term 'gerrymandering' refers to the practice of:",
+      "options": [
+        "Manipulating the boundaries of an electoral constituency so as to favour one party or class",
+        "Bribing voters",
+        "Using government machinery for election campaigning",
+        "Spreading false information about a rival candidate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gerrymandering is a practice intended to establish a political advantage for a particular party or group by **manipulating district boundaries**. The two principal tactics used in gerrymandering are 'cracking' (diluting the voting power of the opposing party's supporters across many districts) and 'packing' (concentrating the opposing party's voting power in one district to reduce their voting power in other districts).",
+      "difficulty": "Medium",
+      "hint": "This is a form of electoral map manipulation."
+    },
+    {
+      "level": 943,
+      "mainsubject": "Political Science",
+      "question": "The 'proportional representation' system of election is one in which:",
+      "options": [
+        "The candidate with the most votes wins",
+        "The country is divided into single-member districts",
+        "The distribution of seats corresponds closely with the proportion of the total votes cast for each party",
+        "Only two parties can contest elections"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Proportional representation is an electoral system in which the **number of seats won by a party or group of candidates is proportional to the number of votes received**. For example, if a party wins 30% of the votes, it should win approximately 30% of the seats. This contrasts with the 'first-past-the-post' system used in India for Lok Sabha elections.",
+      "difficulty": "Easy",
+      "hint": "This system ensures that the seat share reflects the vote share."
+    },
+    {
+      "level": 944,
+      "mainsubject": "Political Science",
+      "question": "The term 'lobbying' refers to the act of:",
+      "options": [
+        "Contesting elections",
+        "Voting in an election",
+        "Lawfully attempting to influence the actions, policies, or decisions of government officials",
+        "Protesting against the government"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lobbying is the act of **lawfully attempting to influence the actions, policies, or decisions of government officials**, most often legislators or members of regulatory agencies. Lobbying is done by many types of people, associations and organized groups, including individuals in the private sector, corporations, fellow legislators or government officials, or advocacy groups.",
+      "difficulty": "Easy",
+      "hint": "This is a form of advocacy directed at policymakers."
+    },
+    {
+      "level": 945,
+      "mainsubject": "Political Science",
+      "question": "The 'Dalit Panthers' was a social and political organization founded in which state?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Dalit Panthers was a militant organization of Dalit youth formed in **Maharashtra** in 1972. Inspired by the Black Panther Party in the United States, it emerged as a powerful voice against caste discrimination and atrocities.",
+      "difficulty": "Medium",
+      "hint": "This militant Dalit organization was inspired by the Black Panthers."
+    },
+    {
+      "level": 946,
+      "mainsubject": "Political Science",
+      "question": "The 'Narmada Bachao Andolan' is a social movement that has been protesting against the:",
+      "options": [
+        "Construction of a nuclear power plant",
+        "Deforestation in the Western Ghats",
+        "Construction of a number of large dams on the Narmada river",
+        "Pollution of the Yamuna river"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Narmada Bachao Andolan (Save the Narmada Movement) is a social movement consisting of adivasis, farmers, environmentalists, and human rights activists against a number of large dam projects across the Narmada river. The Sardar Sarovar Dam is one of the biggest dams on the river and was one of the first focal points of the movement.",
+      "difficulty": "Easy",
+      "hint": "This movement is named after a major river in central India."
+    },
+    {
+      "level": 947,
+      "mainsubject": "Political Science",
+      "question": "The 'Tebhaga movement' was a significant peasant agitation in Bengal in the 1940s. The demand of the share-croppers was that:",
+      "options": [
+        "Their share of the produce should be increased to two-thirds",
+        "They should be given ownership of the land",
+        "The land revenue should be abolished",
+        "They should be given interest-free loans"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tebhaga movement was a militant campaign initiated in Bengal by the Kisan Sabha (peasant front of the Communist Party of India) in 1946. The demand of the sharecroppers (bargadars) was to reduce the share of the crop they had to give to the landlords from one-half to one-third. 'Tebhaga' literally means 'three shares'.",
+      "difficulty": "Hard",
+      "hint": "The name of the movement itself reveals the demand."
+    },
+    {
+      "level": 948,
+      "mainsubject": "Political Science",
+      "question": "The 'Telangana movement' was a long-standing movement that ultimately led to the:",
+      "options": [
+        "Creation of a separate state of Telangana from Andhra Pradesh",
+        "Land reforms in the Telangana region",
+        "Abolition of the Nizam's rule",
+        "Merger of Telangana with Maharashtra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Telangana movement was a political movement for the creation of a separate state of Telangana from the state of Andhra Pradesh. After decades of protests and agitations, the Parliament of India passed the Andhra Pradesh Reorganisation Act, 2014, and Telangana became the 29th state of India.",
+      "difficulty": "Easy",
+      "hint": "This movement resulted in the creation of India's newest state."
+    },
+    {
+      "level": 949,
+      "mainsubject": "Political Science",
+      "question": "The 'Silent Valley movement' in the 1970s was a successful campaign to save the Silent Valley, a pristine tropical evergreen forest in which state, from being flooded by a hydroelectric project?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Silent Valley movement was a social movement aimed at the protection of the Silent Valley, an area of tropical evergreen forest in the Palakkad district of **Kerala**, India. It was started in 1973 to save the Silent Valley Reserve Forest from being flooded by a hydroelectric project. The project was eventually called off in 1983.",
+      "difficulty": "Medium",
+      "hint": "This environmental movement took place in a state known for its lush greenery."
+    },
+    {
+      "level": 950,
+      "mainsubject": "Political Science",
+      "question": "The 'Bhoodan movement' was a voluntary land reform movement started by:",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Vinoba Bhave",
+        "Jayaprakash Narayan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Bhoodan movement (Land Gift Movement) was a voluntary land reform movement in India. It was initiated by Gandhian activist **Vinoba Bhave** in 1951 at Pochampally village in Telangana. The movement attempted to persuade wealthy landowners to voluntarily give a percentage of their land to landless people.",
+      "difficulty": "Easy",
+      "hint": "This movement was based on the idea of 'land gift'."
+    },
+    {
+      "level": 951,
+      "mainsubject": "Political Science",
+      "question": "The 'Sampoorna Kranti' (Total Revolution) was a movement started by Jayaprakash Narayan in the 1970s against the alleged corruption and misrule of which Prime Minister's government?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Rajiv Gandhi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sampoorna Kranti (Total Revolution) was a movement and call to action given by the veteran Gandhian leader Jayaprakash Narayan (JP) in 1974. He called for a 'total revolution' in the social, economic, and political spheres in order to establish a true democracy. The movement was a major challenge to the government of Prime Minister **Indira Gandhi** and was one of the factors that led to the imposition of the Emergency in 1975.",
+      "difficulty": "Medium",
+      "hint": "This movement was a major political challenge to the government that imposed the Emergency."
+    },
+    {
+      "level": 952,
+      "mainsubject": "Political Science",
+      "question": "The 'Self-Respect Movement' was a South Indian movement that aimed to achieve a society where backward castes had equal human rights. It was founded by:",
+      "options": [
+        "C. N. Annadurai",
+        "M. Karunanidhi",
+        "E. V. Ramasamy (Periyar)",
+        "K. Kamaraj"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Self-Respect Movement is a South Asian movement with the aim of achieving a society where backward castes have equal human rights, and encouraging backward castes to have self-respect in the context of a caste-based society that considered them to be a lower end of the hierarchy. It was founded in 1925 by **E. V. Ramasamy**, also known as Periyar.",
+      "difficulty": "Medium",
+      "hint": "This movement was founded by a prominent rationalist leader from Tamil Nadu."
+    },
+    {
+      "level": 953,
+      "mainsubject": "Political Science",
+      "question": "The 'Namantar Andolan' was a Dalit movement in Maharashtra to change the name of Marathwada University to:",
+      "options": [
+        "Savitribai Phule Marathwada University",
+        "Dr. Babasaheb Ambedkar Marathwada University",
+        "Jyotiba Phule Marathwada University",
+        "Chhatrapati Shahu Maharaj Marathwada University"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Namantar Andolan was a Dalit movement that started in 1978 to demand the renaming of Marathwada University in Aurangabad, Maharashtra, to **Dr. Babasaheb Ambedkar Marathwada University**. After a long and often violent struggle, the university was finally renamed in 1994.",
+      "difficulty": "Hard",
+      "hint": "The movement sought to name the university after the architect of the Indian Constitution."
+    },
+    {
+      "level": 954,
+      "mainsubject": "Political Science",
+      "question": "The term 'think tank' refers to an organization that:",
+      "options": [
+        "Is a part of a university",
+        "Performs research and advocacy concerning topics such as social policy, political strategy, economics, military, technology, and culture",
+        "Is a government agency",
+        "Is a for-profit consulting firm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A think tank, or policy institute, is a research institute that **performs research and advocacy** concerning topics such as social policy, political strategy, economics, military, technology, and culture. Most think tanks are non-governmental organizations, but some are semi-autonomous agencies within government or are associated with political parties or businesses.",
+      "difficulty": "Easy",
+      "hint": "These organizations are often called 'idea factories'."
+    },
+    {
+      "level": 955,
+      "mainsubject": "Political Science",
+      "question": "The 'Observer Research Foundation' (ORF) is a prominent Indian think tank based in:",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "New Delhi"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Observer Research Foundation (ORF) is an independent think tank based in **New Delhi**. It provides non-partisan, independent, well-researched analyses and inputs to policymakers, scholars, and the public on a wide range of issues. It is the co-organizer of the Raisina Dialogue.",
+      "difficulty": "Easy",
+      "hint": "This think tank co-organizes a major geopolitical conference in the national capital."
+    },
+    {
+      "level": 956,
+      "mainsubject": "Political Science",
+      "question": "The 'Vivekananda International Foundation' (VIF) is a think tank based in:",
+      "options": [
+        "Kolkata",
+        "Mumbai",
+        "Bengaluru",
+        "New Delhi"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Vivekananda International Foundation (VIF) is an independent, non-partisan institution based in **New Delhi** that promotes quality research and in-depth studies. It is considered to be a right-leaning think tank.",
+      "difficulty": "Medium",
+      "hint": "This think tank is named after a famous spiritual leader."
+    },
+    {
+      "level": 957,
+      "mainsubject": "Political Science",
+      "question": "The 'Centre for Policy Research' (CPR) is a leading Indian think tank based in:",
+      "options": [
+        "Mumbai",
+        "Pune",
+        "New Delhi",
+        "Hyderabad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Centre for Policy Research (CPR) is one of India's leading public policy think tanks. It was established in 1973 and is based in **New Delhi**. It is a non-profit, non-partisan, independent institution dedicated to conducting research that contributes to high quality scholarship, better policies, and a more robust public discourse.",
+      "difficulty": "Medium",
+      "hint": "This is one of the oldest and most respected policy research institutions in the national capital."
+    },
+    {
+      "level": 958,
+      "mainsubject": "Political Science",
+      "question": "The term 'track two diplomacy' refers to:",
+      "options": [
+        "Official government-to-government diplomacy",
+        "Non-governmental, informal and unofficial contacts and activities between private citizens or groups of individuals",
+        "Economic diplomacy",
+        "Military diplomacy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Track two diplomacy consists of **non-governmental, informal and unofficial contacts and activities** between private citizens or groups of individuals, sometimes called 'non-state actors'. It is a form of unofficial dialogue and problem-solving that aims to build trust and find common ground between conflicting parties, away from the formal diplomatic process ('track one diplomacy').",
+      "difficulty": "Medium",
+      "hint": "This is a form of unofficial diplomacy."
+    },
+    {
+      "level": 959,
+      "mainsubject": "Political Science",
+      "question": "The 'Gujral Doctrine' is a set of five principles to guide the conduct of foreign relations with India's immediate neighbours. It was propounded by I. K. Gujral when he was the:",
+      "options": [
+        "Prime Minister",
+        "External Affairs Minister",
+        "President",
+        "Defence Minister"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Gujral Doctrine was propounded by I. K. Gujral when he was the **External Affairs Minister** in the H. D. Deve Gowda government in 1996. The doctrine advocates that India, as the larger country, should extend unilateral concessions to its smaller neighbours and not ask for reciprocity. Gujral later became the Prime Minister.",
+      "difficulty": "Medium",
+      "hint": "He propounded this doctrine when he was the head of the foreign ministry."
+    },
+    {
+      "level": 960,
+      "mainsubject": "Political Science",
+      "question": "The 'Act East Policy' of India is an evolution of the earlier 'Look East Policy'. It focuses on:",
+      "options": [
+        "The extended neighbourhood in the Asia-Pacific region, including East Asia and Oceania",
+        "The countries of the Middle East",
+        "The countries of Central Asia",
+        "The countries of Africa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Act East Policy is a diplomatic initiative to promote economic, strategic and cultural relations with the vast **Asia-Pacific region**. It was launched in 2014 as an upgrade to the Look East Policy. While the Look East Policy focused on the ASEAN countries, the Act East Policy has a wider scope, including East Asia (Japan, South Korea) and Oceania (Australia, New Zealand).",
+      "difficulty": "Easy",
+      "hint": "This policy has a wider geographical scope than its predecessor."
+    },
+    {
+      "level": 961,
+      "mainsubject": "Political Science",
+      "question": "The 'Neighbourhood First Policy' of India is a core component of its foreign policy that focuses on:",
+      "options": [
+        "Improving relations with its immediate neighbours in South Asia",
+        "Building alliances with major world powers",
+        "Promoting trade with the European Union",
+        "Strengthening ties with African countries"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Neighbourhood First Policy is a foreign policy approach of the Indian government that prioritizes building cordial and synergistic relations with its **South Asian neighbours**. The policy focuses on enhancing physical, digital, and people-to-people connectivity, and promoting regional trade and cooperation.",
+      "difficulty": "Easy",
+      "hint": "This policy prioritizes relations with the countries of South Asia."
+    },
+    {
+      "level": 962,
+      "mainsubject": "Political Science",
+      "question": "The 'Indian Ocean Naval Symposium' (IONS) is a voluntary initiative that seeks to increase maritime co-operation among the navies of the:",
+      "options": [
+        "Littoral states of the Indian Ocean Region",
+        "Members of the Quad",
+        "Members of NATO",
+        "Members of SAARC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IONS is a voluntary and inclusive initiative that brings together navies of the **littoral states of the Indian Ocean Region** to increase maritime cooperation and enhance regional security. It was launched by India in 2008.",
+      "difficulty": "Medium",
+      "hint": "This is a maritime cooperation forum for the countries of the Indian Ocean."
+    },
+    {
+      "level": 963,
+      "mainsubject": "Political Science",
+      "question": "The 'Malabar Exercise' is a trilateral naval exercise involving the navies of:",
+      "options": [
+        "India, Sri Lanka, and Maldives",
+        "India, USA, and Japan",
+        "India, France, and UK",
+        "India, Russia, and China"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Malabar Exercise is a naval exercise involving the **United States, Japan, and India** as permanent partners. The exercise started in 1992 as a bilateral exercise between India and the United States. Japan became a permanent partner in 2015. Australia has also participated in recent editions, making it a 'Quad' naval exercise.",
+      "difficulty": "Easy",
+      "hint": "This is a key naval exercise of the 'Quad' countries."
+    },
+    {
+      "level": 964,
+      "mainsubject": "Political Science",
+      "question": "The term 'Line of Control' (LoC) refers to the military control line between the Indian and Pakistani controlled parts of the former princely state of:",
+      "options": [
+        "Junagadh",
+        "Hyderabad",
+        "Jammu and Kashmir",
+        "Punjab"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Line of Control (LoC) is the de facto border between India and Pakistan in the disputed region of **Jammu and Kashmir**. It is a military control line and does not constitute a legally recognized international boundary.",
+      "difficulty": "Easy",
+      "hint": "This is the de facto border in a disputed northern region."
+    },
+    {
+      "level": 965,
+      "mainsubject": "Political Science",
+      "question": "The 'Line of Actual Control' (LAC) is a demarcation line that separates Indian-controlled territory from:",
+      "options": [
+        "Pakistani-controlled territory",
+        "Chinese-controlled territory",
+        "Nepalese-controlled territory",
+        "Bhutanese-controlled territory"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Line of Actual Control (LAC) is the effective boundary between India and the **People's Republic of China**. The LAC is a big empty space and the Indian and Chinese armies try to patrol as much as they can. Disagreements over the exact location of the LAC have led to several border standoffs and conflicts.",
+      "difficulty": "Easy",
+      "hint": "This is the de facto border with China."
+    },
+    {
+      "level": 966,
+      "mainsubject": "Political Science",
+      "question": "The 'McMahon Line' is a boundary line between:",
+      "options": [
+        "India and Pakistan",
+        "India and Bangladesh",
+        "India and China (in the eastern sector)",
+        "India and Myanmar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The McMahon Line is the effective boundary between **China and India in the eastern sector**. The line was negotiated between Britain and Tibet as part of the 1914 Simla Convention. China disputes its legal status.",
+      "difficulty": "Medium",
+      "hint": "This is the historical boundary line in the eastern Himalayas."
+    },
+    {
+      "level": 967,
+      "mainsubject": "Political Science",
+      "question": "The 'Durand Line' is the international border between:",
+      "options": [
+        "India and Pakistan",
+        "Pakistan and Afghanistan",
+        "India and Afghanistan",
+        "Pakistan and Iran"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Durand Line is the 2,670-kilometer international land border between **Pakistan and Afghanistan**. It was established in 1893 by the British and is a major source of contention between the two countries, as Afghanistan does not recognize its legitimacy.",
+      "difficulty": "Medium",
+      "hint": "This is the disputed border between two of India's western neighbors."
+    },
+    {
+      "level": 968,
+      "mainsubject": "Political Science",
+      "question": "The 'Radcliffe Line' became the border between India and:",
+      "options": [
+        "China",
+        "Pakistan",
+        "Burma (Myanmar)",
+        "Nepal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Radcliffe Line was the boundary demarcation line between the Indian and Pakistani portions of the Punjab and Bengal provinces of British India. It was named after its architect, Sir Cyril Radcliffe, who was the chairman of the Border Commissions. It became the international border between India and **Pakistan** (including what is now Bangladesh) in 1947.",
+      "difficulty": "Easy",
+      "hint": "This was the boundary line drawn during the partition of India."
+    },
+    {
+      "level": 969,
+      "mainsubject": "Political Science",
+      "question": "The 'Palk Strait' is a strait between the Indian state of Tamil Nadu and the:",
+      "options": [
+        "Maldives",
+        "Sri Lanka",
+        "Indonesia",
+        "Myanmar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Palk Strait is a strait between the Tamil Nadu state of India and the Jaffna District of the Northern Province of **Sri Lanka**. It connects the Bay of Bengal in the northeast with Palk Bay in the southwest.",
+      "difficulty": "Easy",
+      "hint": "This strait separates India from its southern island neighbor."
+    },
+    {
+      "level": 970,
+      "mainsubject": "Political Science",
+      "question": "The 'Ten Degree Channel' separates the:",
+      "options": [
+        "Andaman Islands and Nicobar Islands",
+        "Lakshadweep and Maldives",
+        "India and Sri Lanka",
+        "North and South Andaman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ten Degree Channel is a channel that separates the **Andaman Islands and Nicobar Islands** from each other in the Bay of Bengal. It is so named as it lies on the 10-degree line of latitude, north of the equator.",
+      "difficulty": "Easy",
+      "hint": "This channel is in the Bay of Bengal."
+    },
+    {
+      "level": 971,
+      "mainsubject": "Political Science",
+      "question": "The 'Eight Degree Channel' separates the islands of:",
+      "options": [
+        "Minicoy and Maldives",
+        "Minicoy and Lakshadweep",
+        "Andaman and Nicobar",
+        "India and Sri Lanka"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The maritime boundary between the Maldives and India runs through the Eight Degree Channel. It separates the islands of **Minicoy (India) and the Maldives**. It is so named as it lies on the 8-degree line of latitude, north of the equator.",
+      "difficulty": "Medium",
+      "hint": "This channel separates India's Lakshadweep islands from a neighboring country."
+    },
+    {
+      "level": 972,
+      "mainsubject": "Political Science",
+      "question": "The 'Nine Degree Channel' separates the island of Minicoy from the:",
+      "options": [
+        "Maldives",
+        "Main Lakshadweep archipelago",
+        "Andaman Islands",
+        "Nicobar Islands"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Nine Degree Channel separates the island of Minicoy from the **main Lakshadweep archipelago**. It is so named as it lies on the 9-degree line of latitude, north of the equator.",
+      "difficulty": "Medium",
+      "hint": "This channel is located within the Lakshadweep island group."
+    },
+    {
+      "level": 973,
+      "mainsubject": "Political Science",
+      "question": "The term 'state actor' in international relations refers to a:",
+      "options": [
+        "Non-governmental organization",
+        "Transnational corporation",
+        "Sovereign state",
+        "Terrorist group"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In international relations, a 'state actor' is a **sovereign state**. States are considered the primary actors in the international system. This is in contrast to 'non-state actors', which include organizations and individuals that are not affiliated with, directed by, or funded through a government, such as NGOs, corporations, and terrorist groups.",
+      "difficulty": "Easy",
+      "hint": "This is the primary actor in the international system."
+    },
+    {
+      "level": 974,
+      "mainsubject": "Political Science",
+      "question": "The term 'non-state actor' in international relations refers to:",
+      "options": [
+        "A sovereign state",
+        "A regional organization like the EU",
+        "An individual or organization that has significant political influence but is not allied to any particular country or state",
+        "The United Nations"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A non-state actor is an **individual or organization that has significant political influence but is not allied to any particular country or state**. Examples include non-governmental organizations (NGOs), multinational corporations (MNCs), international media, and even paramilitary and terrorist groups.",
+      "difficulty": "Easy",
+      "hint": "These actors are not governments."
+    },
+    {
+      "level": 975,
+      "mainsubject": "Political Science",
+      "question": "The 'responsibility to protect' (R2P) is a global political commitment which was endorsed by the United Nations in 2005 to address four key concerns to prevent:",
+      "options": [
+        "Genocide, war crimes, ethnic cleansing and crimes against humanity",
+        "Terrorism, piracy, drug trafficking, and cyber crime",
+        "Climate change, poverty, hunger, and disease",
+        "Nuclear proliferation, illegal arms trade, human trafficking, and corruption"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Responsibility to Protect (R2P) is a global commitment to prevent the four mass atrocity crimes: **genocide, war crimes, ethnic cleansing, and crimes against humanity**. The principle is based on the idea that sovereignty is not a right, but a responsibility. If a state fails to protect its population from these crimes, the international community has a responsibility to intervene.",
+      "difficulty": "Hard",
+      "hint": "This principle deals with the most serious international crimes."
+    },
+    {
+      "level": 976,
+      "mainsubject": "Political Science",
+      "question": "The term 'failed state' refers to a political body that has:",
+      "options": [
+        "Lost a war",
+        "Disintegrated to a point where basic conditions and responsibilities of a sovereign government no longer function properly",
+        "Failed to get a loan from the IMF",
+        "Failed to get a permanent seat in the UN Security Council"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A failed state is a political body that has **disintegrated to a point where the government is no longer in control or is unable to fulfill its basic responsibilities**. Common characteristics of a failing state include a central government so weak or ineffective that it has little practical control over much of its territory; non-provision of public services; and widespread corruption and criminality.",
+      "difficulty": "Easy",
+      "hint": "This is a state that can no longer perform its basic functions."
+    },
+    {
+      "level": 977,
+      "mainsubject": "Political Science",
+      "question": "The term 'rogue state' is a controversial term used by some international theorists to describe a state that:",
+      "options": [
+        "Is a democracy",
+        "Is considered threatening to the world's peace",
+        "Is a member of the United Nations",
+        "Is a developing country"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term 'rogue state' is used to describe a state that is considered to be **threatening to the world's peace**. This could be because it is seen as seeking to acquire weapons of mass destruction, sponsoring terrorism, or severely abusing its own citizens.",
+      "difficulty": "Easy",
+      "hint": "This is a pejorative term for a country that is seen as a threat."
+    },
+    {
+      "level": 978,
+      "mainsubject": "Political Science",
+      "question": "The term 'banana republic' is a political science term for a country that is:",
+      "options": [
+        "A major exporter of bananas",
+        "Politically unstable, with an economy dependent on the export of a single limited-resource product",
+        "A tropical paradise",
+        "A constitutional monarchy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term 'banana republic' describes a **politically unstable country with an economy dependent on the export of a single limited-resource product**, such as bananas or minerals. It typically has a society of stratified social classes, including a large, impoverished working class and a ruling plutocracy of business, political, and military elites.",
+      "difficulty": "Easy",
+      "hint": "This is a pejorative term for a politically unstable country with a dependent economy."
+    },
+    {
+      "level": 979,
+      "mainsubject": "Political Science",
+      "question": "The term 'sovereign wealth fund' (SWF) refers to a:",
+      "options": [
+        "Fund to bail out bankrupt companies",
+        "State-owned investment fund that invests in real and financial assets",
+        "Fund to provide aid to foreign countries",
+        "Pension fund for government employees"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A sovereign wealth fund (SWF) is a **state-owned investment fund** comprised of money generated by the government, often derived from a country's surplus reserves. SWFs invest globally in real and financial assets such as stocks, bonds, real estate, and precious metals.",
+      "difficulty": "Medium",
+      "hint": "This is an investment fund owned by a state."
+    },
+    {
+      "level": 980,
+      "mainsubject": "Political Science",
+      "question": "The 'Nirbhaya Vahini' is a volunteer wing of the:",
+      "options": [
+        "National Commission for Women",
+        "Ministry of Home Affairs",
+        "Odisha state government",
+        "A non-governmental organization"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nirbhaya Vahini is a volunteer wing of the **Odisha state government's** transport department. The volunteers are tasked with ensuring the safety of women passengers on buses and at bus terminals.",
+      "difficulty": "Hard",
+      "hint": "This is a state-level initiative for women's safety."
+    },
+    {
+      "level": 981,
+      "mainsubject": "Political Science",
+      "question": "The 'World Happiness Report' is an annual publication of the:",
+      "options": [
+        "United Nations Sustainable Development Solutions Network",
+        "World Health Organization",
+        "World Bank",
+        "World Economic Forum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The World Happiness Report is a landmark survey of the state of global happiness. The report is published by the **United Nations Sustainable Development Solutions Network**. It ranks countries based on factors like GDP per capita, social support, healthy life expectancy, freedom, generosity, and corruption.",
+      "difficulty": "Medium",
+      "hint": "This report is published by a UN network focused on sustainable development."
+    },
+    {
+      "level": 982,
+      "mainsubject": "Political Science",
+      "question": "The 'Global Hunger Index' (GHI) is a tool for comprehensively measuring and tracking hunger at global, regional, and national levels. It is published by:",
+      "options": [
+        "The FAO and WHO",
+        "Concern Worldwide and Welthungerhilfe",
+        "Oxfam International and ActionAid",
+        "The World Food Programme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Global Hunger Index (GHI) is a peer-reviewed annual report, jointly published by **Concern Worldwide and Welthungerhilfe**. It is designed to comprehensively measure and track hunger at the global, regional, and country levels.",
+      "difficulty": "Hard",
+      "hint": "This index is published by two international humanitarian organizations."
+    },
+    {
+      "level": 983,
+      "mainsubject": "Political Science",
+      "question": "The 'Corruption Perceptions Index' is an annual index published by:",
+      "options": [
+        "The United Nations Office on Drugs and Crime",
+        "The World Bank",
+        "Transparency International",
+        "The Financial Action Task Force"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Corruption Perceptions Index (CPI) is an index which ranks countries 'by their perceived levels of public sector corruption, as determined by expert assessments and opinion surveys'. The CPI is published annually by the non-governmental organization **Transparency International**.",
+      "difficulty": "Easy",
+      "hint": "This index is published by a well-known anti-corruption NGO."
+    },
+    {
+      "level": 984,
+      "mainsubject": "Political Science",
+      "question": "The 'Democracy Index' is an index compiled by the Economist Intelligence Unit (EIU) that measures the state of democracy in 167 countries. It is based on 60 indicators grouped in five different categories. Which of the following is NOT one of those categories?",
+      "options": [
+        "Electoral process and pluralism",
+        "Functioning of government",
+        "Economic performance",
+        "Political participation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Democracy Index is based on five categories: electoral process and pluralism, civil liberties, the functioning of government, political participation, and political culture. **Economic performance** is not one of the categories used to compile the index.",
+      "difficulty": "Medium",
+      "hint": "The index focuses on political and civil factors, not economic ones."
+    },
+    {
+      "level": 985,
+      "mainsubject": "Political Science",
+      "question": "The term 'state-sponsored terrorism' refers to terrorism:",
+      "options": [
+        "Conducted by a state against its own citizens",
+        "Conducted by a state against a foreign state",
+        "In which a government provides support to non-state terrorist groups",
+        "That is sponsored by a religious group"
+      ],
+      "correctAnswer": 3,
+      "explanation": "State-sponsored terrorism is terrorism practiced by a government against its own people or in support of international terrorism. It typically refers to a situation where a **government provides support (financial, military, or logistical) to non-state terrorist groups** that carry out attacks in other countries.",
+      "difficulty": "Easy",
+      "hint": "This is when a government supports terrorist groups."
+    },
+    {
+      "level": 986,
+      "mainsubject": "Political Science",
+      "question": "The 'Financial Intelligence Unit - India' (FIU-IND) is the central national agency responsible for receiving, processing, analyzing and disseminating information relating to suspect financial transactions. It is under the:",
+      "options": [
+        "Ministry of Home Affairs",
+        "Reserve Bank of India",
+        "Ministry of Finance",
+        "Prime Minister's Office"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Financial Intelligence Unit - India (FIU-IND) was set up in 2004 as the central national agency responsible for receiving, processing, analyzing, and disseminating information relating to suspect financial transactions to enforcement agencies and foreign FIUs. It is an independent body reporting directly to the Economic Intelligence Council (EIC) headed by the **Finance Minister**.",
+      "difficulty": "Hard",
+      "hint": "This financial intelligence agency is under the finance ministry."
+    },
+    {
+      "level": 987,
+      "mainsubject": "Political Science",
+      "question": "The 'Shanghai Dialogue', which later became the Shanghai Cooperation Organisation (SCO), was originally known as the:",
+      "options": [
+        "Shanghai Five",
+        "Shanghai Six",
+        "Shanghai Cooperation Forum",
+        "Shanghai Pact"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The predecessor to the Shanghai Cooperation Organisation was the **Shanghai Five**, a mutual security agreement formed in 1996 between China, Kazakhstan, Kyrgyzstan, Russia, and Tajikistan. After the inclusion of Uzbekistan in 2001, the members renamed the organisation.",
+      "difficulty": "Medium",
+      "hint": "The original name reflected the number of founding members."
+    },
+    {
+      "level": 988,
+      "mainsubject": "Political Science",
+      "question": "The 'Chabahar Port' is a seaport in southeastern Iran. It is being developed by India as a way to gain access to the markets of:",
+      "options": [
+        "Europe",
+        "Africa",
+        "Central Asia and Afghanistan",
+        "Southeast Asia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Chabahar Port is being developed by India in Iran. The port is crucial for India as it provides a sea-land access route to **Central Asia and Afghanistan**, bypassing Pakistan. It is a key project in India's regional connectivity and strategic goals.",
+      "difficulty": "Easy",
+      "hint": "This port provides India with an alternative route to its northwest."
+    },
+    {
+      "level": 989,
+      "mainsubject": "Political Science",
+      "question": "The 'Doklam standoff' was a military border standoff between the armed forces of India and:",
+      "options": [
+        "Pakistan",
+        "China",
+        "Nepal",
+        "Bhutan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Doklam standoff was a military border standoff in 2017 between the Indian Armed Forces and the People's Liberation Army of **China** over Chinese construction of a road in Doklam, a territory disputed between China and Bhutan, which is very close to India's strategically important 'chicken's neck' corridor.",
+      "difficulty": "Easy",
+      "hint": "This was a major border standoff with India's northern neighbor."
+    },
+    {
+      "level": 990,
+      "mainsubject": "Political Science",
+      "question": "The 'Galwan Valley clash' was a violent clash between the armed forces of India and China in 2020. The Galwan Valley is located in:",
+      "options": [
+        "Arunachal Pradesh",
+        "Sikkim",
+        "Uttarakhand",
+        "Ladakh"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Galwan Valley is a valley in the Himalayan mountains that is part of the disputed Aksai Chin region. The 2020 clash took place in the Galwan River valley in the western sector of the Line of Actual Control (LAC) in **Ladakh**.",
+      "difficulty": "Easy",
+      "hint": "This clash took place in the western sector of the India-China border."
+    },
+    {
+      "level": 991,
+      "mainsubject": "Political Science",
+      "question": "The 'Sir Creek' is a disputed tidal estuary on the border of India and Pakistan. It is located in the:",
+      "options": [
+        "Rann of Kutch",
+        "Sundarbans",
+        "Gulf of Mannar",
+        "Gulf of Khambhat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sir Creek is a 96-km-long tidal estuary on the border of India and Pakistan, in the marshy salt flats of the **Rann of Kutch**. The creek is a major point of contention between the two countries, as the demarcation of the border in this area is disputed.",
+      "difficulty": "Medium",
+      "hint": "This disputed creek is in a salt marsh in Gujarat."
+    },
+    {
+      "level": 992,
+      "mainsubject": "Political Science",
+      "question": "The 'Kartarpur Corridor' connects the Dera Baba Nanak shrine in India with the Gurdwara Darbar Sahib Kartarpur in:",
+      "options": [
+        "Afghanistan",
+        "Pakistan",
+        "Nepal",
+        "Bangladesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Kartarpur Corridor is a visa-free border crossing connecting the Dera Baba Nanak shrine in Punjab, India, to the Gurdwara Darbar Sahib in Kartarpur, **Pakistan**. The corridor allows Sikh devotees from India to visit the gurdwara, which is the final resting place of Guru Nanak.",
+      "difficulty": "Easy",
+      "hint": "This corridor provides access to a major Sikh shrine in a neighboring country."
+    },
+    {
+      "level": 993,
+      "mainsubject": "Political Science",
+      "question": "The term 'two-plus-two dialogue' in diplomacy refers to a dialogue format between the:",
+      "options": [
+        "Heads of state and heads of government",
+        "Foreign and defence ministers of two countries",
+        "Finance and trade ministers of two countries",
+        "National security advisors of two countries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A 'two-plus-two dialogue' is a term used for an installation of a dialogue mechanism between two countries that consists of the **defence and foreign ministers** of both sides meeting to discuss strategic and security issues. India holds 2+2 dialogues with several key partners, including the United States, Japan, Australia, and Russia.",
+      "difficulty": "Easy",
+      "hint": "This dialogue involves the top foreign policy and defence officials."
+    },
+    {
+      "level": 994,
+      "mainsubject": "Political Science",
+      "question": "The 'Comprehensive Economic Partnership Agreement' (CEPA) is a type of:",
+      "options": [
+        "Free trade agreement",
+        "Military alliance",
+        "Cultural exchange program",
+        "Visa facilitation agreement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Comprehensive Economic Partnership Agreement (CEPA) is a type of **free trade agreement**. It is a more comprehensive agreement than a standard FTA, as it covers not only trade in goods but also trade in services, investment, intellectual property rights, and other areas of economic cooperation.",
+      "difficulty": "Easy",
+      "hint": "This is a broad-based trade agreement."
+    },
+    {
+      "level": 995,
+      "mainsubject": "Political Science",
+      "question": "The term 'currency swap' is an agreement between two central banks to:",
+      "options": [
+        "Exchange their currencies with each other",
+        "Fix the exchange rate between their currencies",
+        "Adopt a common currency",
+        "Stop using each other's currency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A currency swap agreement is a pact between two countries' central banks to **exchange their currencies**. The agreement allows the central banks to access foreign currency on demand at a pre-determined exchange rate. It is used to ensure sufficient foreign currency to meet balance of payments needs, promote trade, and maintain financial stability.",
+      "difficulty": "Medium",
+      "hint": "This is a tool for managing foreign exchange reserves."
+    },
+    {
+      "level": 996,
+      "mainsubject": "Political Science",
+      "question": "The 'Foreign Direct Investment' (FDI) is an investment made by a company or individual from one country into:",
+      "options": [
+        "The stock market of another country",
+        "Government bonds of another country",
+        "Business interests located in another country",
+        "The currency of another country"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Foreign direct investment (FDI) is an investment in the form of a controlling ownership in a **business in one country by an entity based in another country**. It is different from foreign portfolio investment, which is a more passive investment in the securities of another country.",
+      "difficulty": "Easy",
+      "hint": "This is a form of long-term investment in a foreign country."
+    },
+    {
+      "level": 997,
+      "mainsubject": "Political Science",
+      "question": "The term 'Foreign Portfolio Investment' (FPI) refers to the:",
+      "options": [
+        "Investment in physical assets like factories and buildings in a foreign country",
+        "Purchase of securities and other financial assets by investors from another country",
+        "Loans given by one country to another",
+        "Aid provided by one country to another"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Foreign portfolio investment (FPI) consists of **securities and other financial assets held by investors in another country**. It does not provide the investor with direct ownership of a company's assets and is relatively liquid depending on the market volatility. It is different from foreign direct investment (FDI), which is a more long-term and stable investment.",
+      "difficulty": "Easy",
+      "hint": "This is a form of investment in financial assets of a foreign country."
+    },
+    {
+      "level": 998,
+      "mainsubject": "Political Science",
+      "question": "The term 'current account deficit' (CAD) is a measurement of a country's trade where the value of the:",
+      "options": [
+        "Goods and services it imports exceeds the value of the products it exports",
+        "Goods and services it exports exceeds the value of the products it imports",
+        "Government's expenditure exceeds its revenue",
+        "Country's foreign assets exceeds its foreign liabilities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A current account deficit occurs when the total value of **imports of goods, services, and transfers is greater than the total value of exports**. It represents a negative net flow of income out of the country. It has to be financed by a surplus in the capital account.",
+      "difficulty": "Easy",
+      "hint": "This is when a country buys more than it sells to the world."
+    },
+    {
+      "level": 999,
+      "mainsubject": "Political Science",
+      "question": "The term 'capital account' in the balance of payments records the net change in:",
+      "options": [
+        "The export and import of goods and services",
+        "The ownership of foreign assets",
+        "The income from foreign investments",
+        "The remittances from abroad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The capital account is a record of the **inflows and outflows of capital that directly affect a nation’s foreign assets and liabilities**. It is concerned with all international trade and financial transactions. It includes foreign direct investment (FDI), foreign portfolio investment (FPI), and external borrowings.",
+      "difficulty": "Easy",
+      "hint": "This account records transactions related to assets and liabilities."
+    },
+    {
+      "level": 1000,
+      "mainsubject": "Political Science",
+      "question": "The term 'balance of payments' (BoP) of a country is a systematic record of all:",
+      "options": [
+        "Government's revenue and expenditure",
+        "Economic transactions between the residents of the country and the rest of the world",
+        "Trade in goods only",
+        "Foreign exchange reserves"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The balance of payments (BoP) of a country is a statement of all **transactions made between entities in one country and the rest of the world** over a defined period of time, such as a quarter or a year. It summarizes the international transactions of a country and includes the current account and the capital account.",
+      "difficulty": "Easy",
+      "hint": "This is a record of all of a country's international economic transactions."
+    },
+    {
+      "level": 1001,
+      "mainsubject": "Political Science",
+      "question": "The 'Foreign Exchange Reserves' of India are held by the:",
+      "options": [
+        "Government of India",
+        "State Bank of India",
+        "Reserve Bank of India",
+        "Ministry of Finance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The foreign exchange reserves of India are held and managed by the **Reserve Bank of India**. The reserves are composed of foreign currency assets, gold reserves, Special Drawing Rights (SDRs), and the reserve tranche position in the IMF.",
+      "difficulty": "Easy",
+      "hint": "The central bank is the custodian of the country's foreign exchange."
+    },
+    {
+      "level": 1002,
+      "mainsubject": "Political Science",
+      "question": "The term 'exchange rate' is the value of one nation's currency versus the:",
+      "options": [
+        "Price of gold",
+        "Price of oil",
+        "Currency of another nation or economic zone",
+        "Stock market index"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An exchange rate is the rate at which one currency will be exchanged for another. It is also regarded as the **value of one country's currency in relation to another currency**. For example, how many Indian Rupees it takes to buy one U.S. Dollar.",
+      "difficulty": "Easy",
+      "hint": "This is the price of one currency in terms of another."
     }
   ],
   Economics: [
