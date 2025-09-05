@@ -159,9 +159,97 @@ export const MOCK_TESTS_DATA = [
     isActive: true,
     createdAt: '2025-01-15'
   },
-       { id: 'mock_8',
+  { id: 'mock_8',
     // title: 'SSC CGL Mock Test 2',
     title:'PSI/ESI Mock Test 7',
+    subject: 'General Intelligence',
+    description: 'Mock test for SSC CGL Tier 1 examination',
+    totalQuestions: 100,
+    totalMarks: 150,
+    duration: 90,
+    negativeMarks: 0.25,
+    difficulty: 'Medium',
+    category: 'SSC',
+    instructions: [
+      'Total 100 questions',
+      'Each question carries 1.5 marks',
+      'Negative marking of 0.25 for wrong answers',
+      'Time limit: 90 minutes',
+      'Covers all SSC CGL topics'
+    ],
+    topics: ['General Intelligence', 'General Knowledge', 'Quantitative Aptitude', 'English Language'],
+    isActive: true,
+    createdAt: '2025-01-15'
+  },
+  { id: 'mock_9',
+    // title: 'SSC CGL Mock Test 2',
+    title:'PSI/ESI Mock Test 8',
+    subject: 'General Intelligence',
+    description: 'Mock test for SSC CGL Tier 1 examination',
+    totalQuestions: 100,
+    totalMarks: 150,
+    duration: 90,
+    negativeMarks: 0.25,
+    difficulty: 'Medium',
+    category: 'SSC',
+    instructions: [
+      'Total 100 questions',
+      'Each question carries 1.5 marks',
+      'Negative marking of 0.25 for wrong answers',
+      'Time limit: 90 minutes',
+      'Covers all SSC CGL topics'
+    ],
+    topics: ['General Intelligence', 'General Knowledge', 'Quantitative Aptitude', 'English Language'],
+    isActive: true,
+    createdAt: '2025-01-15'
+  },
+  { id: 'mock_10',
+    // title: 'SSC CGL Mock Test 2',
+    title:'PSI/ESI Mock Test 9',
+    subject: 'General Intelligence',
+    description: 'Mock test for SSC CGL Tier 1 examination',
+    totalQuestions: 100,
+    totalMarks: 150,
+    duration: 90,
+    negativeMarks: 0.25,
+    difficulty: 'Medium',
+    category: 'SSC',
+    instructions: [
+      'Total 100 questions',
+      'Each question carries 1.5 marks',
+      'Negative marking of 0.25 for wrong answers',
+      'Time limit: 90 minutes',
+      'Covers all SSC CGL topics'
+    ],
+    topics: ['General Intelligence', 'General Knowledge', 'Quantitative Aptitude', 'English Language'],
+    isActive: true,
+    createdAt: '2025-01-15'
+  },
+  { id: 'mock_11',
+    // title: 'SSC CGL Mock Test 2',
+    title:'PSI/ESI Mock Test 10',
+    subject: 'General Intelligence',
+    description: 'Mock test for SSC CGL Tier 1 examination',
+    totalQuestions: 100,
+    totalMarks: 150,
+    duration: 90,
+    negativeMarks: 0.25,
+    difficulty: 'Medium',
+    category: 'SSC',
+    instructions: [
+      'Total 100 questions',
+      'Each question carries 1.5 marks',
+      'Negative marking of 0.25 for wrong answers',
+      'Time limit: 90 minutes',
+      'Covers all SSC CGL topics'
+    ],
+    topics: ['General Intelligence', 'General Knowledge', 'Quantitative Aptitude', 'English Language'],
+    isActive: true,
+    createdAt: '2025-01-15'
+  },
+  { id: 'mock_12',
+    // title: 'SSC CGL Mock Test 2',
+    title:'PSI/ESI Mock Test 11',
     subject: 'General Intelligence',
     description: 'Mock test for SSC CGL Tier 1 examination',
     totalQuestions: 100,
@@ -11655,6 +11743,5619 @@ export const MOCK_TEST_8_QUESTIONS = [
   }
 ]
 
+export const MOCK_TEST_9_QUESTIONS =[
+  {
+    "id": 1,
+    "question": "What is the name of the boundary line between India and China?",
+    "options": [
+      "Radcliffe Line",
+      "Durand Line",
+      "McMahon Line",
+      "Line of Control"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The McMahon Line is the effective boundary between China and India. The Radcliffe Line separates India and Pakistan, while the Durand Line is the border between Pakistan and Afghanistan. The Line of Control (LoC) is a military control line between the Indian and Pakistani controlled parts of the former princely state of Jammu and Kashmir.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Dr. B.R. Ambedkar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dr. Bhimrao Ramji Ambedkar is revered as the 'Father of the Indian Constitution' for his pivotal role as the Chairman of the Drafting Committee of the Constituent Assembly, which was responsible for drafting the Constitution of India.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "The first Battle of Panipat in 1526 was fought between which two rulers?",
+    "options": [
+      "Akbar and Hemu",
+      "Babur and Ibrahim Lodi",
+      "Humayun and Sher Shah Suri",
+      "Aurangzeb and Shivaji"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The first Battle of Panipat was fought on 21 April 1526 between the invading forces of Babur and the Lodi dynasty. Babur's victory marked the beginning of the Mughal Empire in India.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78% of the air we breathe. Oxygen is the second most abundant, at about 21%.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "In which city is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The headquarters of ISRO, India's national space agency, is located in Bengaluru, Karnataka. It was formed in 1969.",
+    "topic": "Science and Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "What is the minimum age required to become the President of India?",
+    "options": [
+      "25 years",
+      "30 years",
+      "35 years",
+      "40 years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to Article 58 of the Indian Constitution, a person must have completed 35 years of age to be eligible for election as the President of India. They must also be a citizen of India and qualified for election as a member of the Lok Sabha.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "The famous 'Dandi March' led by Mahatma Gandhi was primarily a protest against?",
+    "options": [
+      "Rowlatt Act",
+      "Salt Tax",
+      "Jallianwala Bagh Massacre",
+      "Simon Commission"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Dandi March, also known as the Salt March, was an act of nonviolent civil disobedience in colonial India led by Mahatma Gandhi. The march, which took place in 1930, was a direct action campaign against the British salt tax.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is responsible for the red color of human blood?",
+    "options": [
+      "Plasma",
+      "Platelets",
+      "White Blood Cells",
+      "Hemoglobin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hemoglobin is a protein in red blood cells that contains iron and is responsible for transporting oxygen. The iron in the hemoglobin molecule binds to oxygen, and this complex is what gives blood its characteristic red color.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "The 'Green Revolution' in India is most closely associated with which crop?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Cotton",
+      "Sugarcane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Green Revolution in India refers to a period when agricultural production increased drastically due to new technologies. It was most successful in increasing the production of wheat, particularly in the states of Punjab, Haryana, and Uttar Pradesh.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The classical dance form 'Kathakali' originated from which state of India?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kathakali is a major form of classical Indian dance. It is a 'story play' genre of art, but one distinguished by its elaborately colorful make-up, costumes and face masks. It originated in the southern Indian state of Kerala during the 17th century.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Which river is known as the 'Sorrow of Bihar' due to its frequent and devastating floods?",
+    "options": [
+      "Ganges",
+      "Yamuna",
+      "Kosi",
+      "Brahmaputra"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Kosi River is known as the 'Sorrow of Bihar' because its unpredictable and frequent floods affect a large area of the state, causing immense damage to life and property.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Which amendment of the Constitution of India is known as the 'Mini-Constitution'?",
+    "options": [
+      "7th Amendment",
+      "24th Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 42nd Amendment Act of 1976 is known as the 'Mini-Constitution' due to the large number of changes it brought to the Indian Constitution. It amended the Preamble and many other articles and was enacted during the Emergency.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Who was the founder of the Maurya Empire in ancient India?",
+    "options": [
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya",
+      "Samudragupta"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE after overthrowing the Nanda Dynasty. With the help of his mentor Chanakya, he established one of the largest empires on the Indian subcontinent.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Watt",
+      "Ampere"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Ampere, often shortened to 'amp', is the base unit of electric current in the International System of Units (SI). A Volt is the unit of electric potential, an Ohm is the unit of electrical resistance, and a Watt is the unit of power.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "NITI Aayog, the premier policy think tank of the Government of India, replaced which of the following institutions?",
+    "options": [
+      "Finance Commission",
+      "Planning Commission",
+      "Election Commission",
+      "Law Commission"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NITI Aayog (National Institution for Transforming India) was formed on January 1, 2015, to replace the Planning Commission. It was established to provide strategic policy inputs and foster cooperative federalism.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The 'Chipko Movement' is primarily associated with which of the following?",
+    "options": [
+      "Water conservation",
+      "Forest conservation",
+      "Soil conservation",
+      "Wildlife protection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Chipko Movement was a forest conservation movement in India that began in 1973 in Uttarakhand. Rural villagers, primarily women, used the method of hugging trees to protect them from being felled.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "Who administers the oath of office to the Governor of a state in India?",
+    "options": [
+      "The President of India",
+      "The Chief Justice of India",
+      "The Chief Justice of the concerned High Court",
+      "The outgoing Governor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The oath of office to the Governor is administered by the Chief Justice of the High Court of the concerned state. In his/her absence, it is administered by the senior-most judge of that court available.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "The Ajanta and Ellora caves, famous for their rock-cut architecture, are located in which Indian state?",
+    "options": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Karnataka",
+      "Rajasthan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Ajanta and Ellora caves are UNESCO World Heritage Sites located in the Aurangabad district of Maharashtra. They are renowned for their magnificent paintings and sculptures, representing Buddhist, Hindu, and Jain traditions.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mars is known as the 'Red Planet' because of the reddish-iron oxide (rust) on its surface, which gives it a distinct red appearance.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "What is the term for a situation where the government's expenditure exceeds its revenue?",
+    "options": [
+      "Fiscal Surplus",
+      "Fiscal Deficit",
+      "Revenue Deficit",
+      "Monetary Inflation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A fiscal deficit occurs when a government's total expenditures exceed the revenue that it generates, excluding money from borrowings. It is a key indicator of the financial health of an economy.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "The 'Preamble' to the Indian Constitution was inspired by the constitution of which country?",
+    "options": [
+      "United Kingdom",
+      "United States of America",
+      "Ireland",
+      "Canada"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ideals of Liberty, Equality, and Fraternity in the Preamble were taken from the French Revolution, but the concept of a Preamble itself was borrowed from the Constitution of the USA, which also begins with a Preamble.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "The study of insects is known as:",
+    "options": [
+      "Ornithology",
+      "Botany",
+      "Zoology",
+      "Entomology"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Entomology is the scientific study of insects, a branch of zoology. Ornithology is the study of birds, Botany is the study of plants, and Zoology is the broad study of animals.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Who was the first woman to become the Prime Minister of a country?",
+    "options": [
+      "Indira Gandhi",
+      "Golda Meir",
+      "Sirimavo Bandaranaike",
+      "Margaret Thatcher"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sirimavo Bandaranaike of Sri Lanka (then Ceylon) became the world's first female prime minister in 1960. Indira Gandhi became India's first female PM in 1966.",
+    "topic": "World History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The Tropic of Cancer passes through how many states in India?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Tropic of Cancer (23.5°N latitude) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "Who founded the 'Brahmo Samaj' in 1828?",
+    "options": [
+      "Swami Vivekananda",
+      "Dayananda Saraswati",
+      "Raja Ram Mohan Roy",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828. It was a monotheistic reformist movement of the Hindu religion that aimed to fight against social evils like Sati, idol worship, and the caste system.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following statements about the Attorney General of India is NOT correct?",
+    "options": [
+      "He is the highest law officer in the country.",
+      "He is appointed by the President of India.",
+      "He must have the same qualifications as required for a judge of the Supreme Court.",
+      "He has the right to vote in the proceedings of the Parliament."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Attorney General has the right to speak and take part in the proceedings of both Houses of Parliament, but he does not have the right to vote. The other three statements are correct.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Consider the following pairs regarding India's nuclear power plants: 1. Tarapur - Maharashtra, 2. Rawatbhata - Gujarat, 3. Kudankulam - Tamil Nadu, 4. Kaiga - Karnataka. Which of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pair 2 is incorrect. The Rawatbhata Nuclear Power Plant is located in Rajasthan, not Gujarat. The other three pairs are correctly matched: Tarapur is in Maharashtra, Kudankulam is in Tamil Nadu, and Kaiga is in Karnataka.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "With reference to the Vijayanagara Empire, who was the Italian traveler that visited the court of Deva Raya II?",
+    "options": [
+      "Marco Polo",
+      "Ibn Battuta",
+      "Niccolò de' Conti",
+      "Abdur Razzaq"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Niccolò de' Conti, an Italian merchant and explorer, visited India during the early 15th century and gave a vivid account of the Vijayanagara Empire during the reign of Deva Raya II. Abdur Razzaq was a Persian traveler who also visited during the same period.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "What does 'VoLTE' technology, commonly seen in mobile networks, stand for?",
+    "options": [
+      "Voice over Long-Term Evolution",
+      "Video on Live Transmission",
+      "Voice on Light Extension",
+      "Video on Local Termination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "VoLTE stands for Voice over Long-Term Evolution. It is a standard for high-speed wireless communication for mobile phones and data terminals, which allows voice calls to be packaged and carried over a 4G LTE network, often resulting in better call quality.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is/are among the Directive Principles of State Policy (DPSP) under the Indian Constitution? 1. To organize village panchayats. 2. To secure a uniform civil code. 3. To separate the judiciary from the executive. 4. To protect monuments of national importance.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All four statements are part of the Directive Principles of State Policy, contained in Part IV of the Constitution. Article 40 deals with organizing village panchayats, Article 44 with a uniform civil code, Article 50 with separating judiciary from the executive, and Article 49 with protecting national monuments.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The phenomenon of 'Mirage' is caused by which of the following properties of light?",
+    "options": [
+      "Reflection",
+      "Scattering",
+      "Total Internal Reflection and Refraction",
+      "Diffraction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A mirage is a naturally occurring optical phenomenon caused by the refraction (bending) of light rays. On hot days, the air near the ground is hotter and less dense than the air above it. As light from the sky travels downwards, it bends away from the normal, and at a certain point, undergoes total internal reflection, creating an inverted image that appears like a reflection in water.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Consider the following statements about the 'Ryotwari System' of land revenue introduced by the British in India: 1. It was introduced by Thomas Munro. 2. The ownership rights were handed over to the peasants (ryots). 3. The tax was collected directly by the state from the cultivators. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. The Ryotwari System, primarily introduced in Southern India by Thomas Munro, recognized the peasants as the proprietors of the land. The British government collected taxes directly from the peasants, and the revenue rates were often high and periodically revised.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The concept of 'Judicial Review' in the Indian Constitution has been adopted from the constitution of which country?",
+    "options": [
+      "United Kingdom",
+      "United States of America",
+      "Australia",
+      "Germany"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The concept of Judicial Review, which gives the judiciary the power to examine the constitutionality of legislative enactments and executive orders, was borrowed from the Constitution of the United States of America.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following are the primary functions of the Reserve Bank of India (RBI)? 1. Issuing currency notes. 2. Acting as a banker to the government. 3. Formulating monetary policy. 4. Managing foreign exchange reserves.",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All four are key functions of the Reserve Bank of India. The RBI is the sole authority for issuing currency in India, manages the banking needs of the central and state governments, formulates and implements the nation's monetary policy to control inflation and ensure price stability, and manages the country's foreign exchange reserves under the FEMA Act.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The 'Ramsar Convention', to which India is a signatory, is associated with the conservation of:",
+    "options": [
+      "Deserts",
+      "Wetlands",
+      "Coral Reefs",
+      "Tropical Rainforests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Ramsar Convention is an international treaty for the conservation and sustainable use of wetlands. It is named after the city of Ramsar in Iran, where the treaty was signed in 1971. India has numerous Ramsar sites designated as Wetlands of International Importance.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Match the following vitamin deficiencies with their respective diseases: List I (Disease) - A. Scurvy, B. Rickets, C. Night Blindness, D. Beriberi. List II (Vitamin) - 1. Vitamin A, 2. Vitamin B1, 3. Vitamin C, 4. Vitamin D.",
+    "options": [
+      "A-3, B-4, C-1, D-2",
+      "A-2, B-1, C-4, D-3",
+      "A-3, B-1, C-4, D-2",
+      "A-4, B-3, C-2, D-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct matches are: Scurvy is caused by a deficiency of Vitamin C. Rickets, a condition that affects bone development in children, is caused by a deficiency of Vitamin D. Night Blindness is caused by a deficiency of Vitamin A. Beriberi is caused by a deficiency of Vitamin B1 (Thiamine).",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following statements regarding a 'Money Bill' in the Indian Parliament is correct?",
+    "options": [
+      "It can be introduced in either House of Parliament.",
+      "The Rajya Sabha can amend or reject a Money Bill.",
+      "The final decision on whether a bill is a Money Bill or not rests with the President.",
+      "A Money Bill can only be introduced in the Lok Sabha with the prior recommendation of the President."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A Money Bill, as defined in Article 110, can only be introduced in the Lok Sabha, and that too on the recommendation of the President. The Rajya Sabha cannot reject or amend it; it can only make recommendations, which the Lok Sabha may or may not accept. The Speaker of the Lok Sabha has the final authority to decide if a bill is a Money Bill.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The 'Doctrine of Lapse', an annexation policy followed by the British East India Company, was devised by:",
+    "options": [
+      "Lord Wellesley",
+      "Lord William Bentinck",
+      "Lord Dalhousie",
+      "Lord Canning"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Doctrine of Lapse was an annexation policy purportedly devised by Lord Dalhousie, who was the Governor-General of India from 1848 to 1856. According to this doctrine, any princely state under the direct influence of the British would automatically be annexed if the ruler was 'manifestly incompetent or died without a male heir'.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "In the context of the Indian economy, what does 'Open Market Operations' (OMO) refer to?",
+    "options": [
+      "Lending by commercial banks to industry and trade.",
+      "Borrowing by scheduled banks from the RBI.",
+      "The purchase and sale of government securities by the RBI.",
+      "Regulating the foreign exchange market."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Open Market Operations (OMO) is a monetary policy tool used by the Reserve Bank of India. It involves the buying and selling of government securities (like bonds) in the open market to regulate the money supply in the economy. Buying securities injects liquidity, while selling them absorbs liquidity.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "The Strait of Gibraltar connects which two large bodies of water?",
+    "options": [
+      "The Atlantic Ocean and the Mediterranean Sea",
+      "The Red Sea and the Mediterranean Sea",
+      "The Atlantic Ocean and the Pacific Ocean",
+      "The Indian Ocean and the Pacific Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Strait of Gibraltar is a narrow strait that connects the Atlantic Ocean to the Mediterranean Sea and separates the Iberian Peninsula in Europe from Morocco in Africa.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Which schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha (Council of States)?",
+    "options": [
+      "Third Schedule",
+      "Fourth Schedule",
+      "Fifth Schedule",
+      "Sixth Schedule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Fourth Schedule of the Constitution of India deals with the allocation of seats for states and union territories in the Rajya Sabha. The Third Schedule deals with Oaths and Affirmations, while the Fifth and Sixth schedules deal with the administration of scheduled areas and tribal areas.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The 'Ghadar Party' was founded in 1913 by Indian revolutionaries primarily in which country?",
+    "options": [
+      "Germany",
+      "United Kingdom",
+      "Canada",
+      "United States of America"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Ghadar Party was an international political movement founded by expatriate Indians to overthrow British rule in India. It was formally established in 1913 in the United States, with its headquarters in San Francisco. Lala Har Dayal was a key figure in its founding.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Why does a liquid drop tend to assume a spherical shape?",
+    "options": [
+      "Due to gravitational force",
+      "Due to atmospheric pressure",
+      "To minimize its surface area due to surface tension",
+      "Due to its viscosity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A liquid drop assumes a spherical shape because of a property called surface tension. The cohesive forces between liquid molecules cause the liquid to acquire the least possible surface area. For a given volume, a sphere has the minimum surface area, hence the spherical shape.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Consider the following statements regarding the Goods and Services Tax (GST) in India: 1. It is a destination-based consumption tax. 2. It has subsumed almost all indirect taxes except a few. 3. The GST Council is headed by the Union Finance Minister. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. GST is a comprehensive, multi-stage, destination-based tax. It has replaced many indirect taxes like excise duty, VAT, and service tax. The GST Council, the governing body for GST, is chaired by the Union Finance Minister.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The concept of 'biodiversity hotspots' was introduced by:",
+    "options": [
+      "Norman Myers",
+      "Rachel Carson",
+      "E. O. Wilson",
+      "Wangari Maathai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The concept of biodiversity hotspots was developed by British ecologist Norman Myers in 1988. A region must meet two strict criteria to qualify as a hotspot: it must contain at least 1,500 species of vascular plants as endemics, and it has to have lost at least 70% of its primary vegetation.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Which writ is issued by a higher court to a lower court or tribunal to prevent the latter from exceeding its jurisdiction?",
+    "options": [
+      "Habeas Corpus",
+      "Mandamus",
+      "Prohibition",
+      "Certiorari"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The writ of 'Prohibition' is issued by a higher court to a lower court or tribunal to forbid it from continuing proceedings in a case that is outside its jurisdiction. While 'Certiorari' is issued to quash an order already passed, 'Prohibition' is issued to prevent the order from being passed.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The 'Montagu-Chelmsford Reforms' of 1919 introduced which of the following in provincial governments?",
+    "options": [
+      "Provincial Autonomy",
+      "Separate Electorates",
+      "Dyarchy",
+      "Federal System"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Government of India Act of 1919, based on the Montagu-Chelmsford Reforms, introduced the system of 'dyarchy' in the provinces. Under this system, the provincial subjects were divided into two categories: 'transferred' and 'reserved'. The transferred subjects were administered by the governor with the aid of ministers responsible to the legislative council, while the reserved subjects were administered by the governor and his executive council without being responsible to the legislative council.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following is a crypto-currency?",
+    "options": [
+      "SWIFT",
+      "FOREX",
+      "Bitcoin",
+      "CHIPS"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bitcoin is a decentralized digital currency, also known as a cryptocurrency, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. SWIFT and CHIPS are payment messaging and settlement systems, and FOREX refers to the foreign exchange market.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The 'El Niño' phenomenon, which affects weather patterns worldwide, originates in which ocean?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": 3,
+    "explanation": "El Niño is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. It has a significant impact on weather patterns, ocean conditions, and marine fisheries across large portions of the globe, including the Indian monsoon.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Under which article of the Indian Constitution can the Parliament create a new state?",
+    "options": [
+      "Article 1",
+      "Article 2",
+      "Article 3",
+      "Article 4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article 3 of the Constitution authorizes the Parliament to (a) form a new state by separation of territory from any state or by uniting two or more states or parts of states or by uniting any territory to a part of any state, (b) increase the area of any state, (c) diminish the area of any state, (d) alter the boundaries of any state, and (e) alter the name of any state.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "What is the primary purpose of adding baking soda to food items during cooking?",
+    "options": [
+      "To enhance the flavor.",
+      "To act as a preservative.",
+      "To generate carbon dioxide, which makes the food fluffy.",
+      "To add nutritional value."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Baking soda (sodium bicarbonate) is a leavening agent. When it reacts with an acid (like buttermilk or vinegar) or heat, it releases carbon dioxide gas. These gas bubbles get trapped in the dough or batter, causing it to expand and become light and fluffy.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The 'Permanent Settlement' of Bengal was introduced in 1793 by:",
+    "options": [
+      "Robert Clive",
+      "Warren Hastings",
+      "Lord Cornwallis",
+      "Lord Wellesley"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Permanent Settlement was introduced by Lord Cornwallis in 1793. Under this system, the land revenue was fixed permanently with the zamindars, who were recognized as the owners of the land. They were required to pay a fixed amount to the company, keeping the rest for themselves.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "What is 'Stagflation'?",
+    "options": [
+      "A situation of high inflation and high economic growth.",
+      "A situation of deflation and economic recession.",
+      "A situation of high inflation combined with high unemployment and stagnant demand.",
+      "A situation where the government controls prices to stop inflation."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stagflation is a term used in economics to describe a situation characterized by three simultaneous conditions: stagnant economic growth, high inflation, and high unemployment. It is a difficult situation for policymakers as actions to lower inflation may worsen unemployment, and vice versa.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following national parks is a UNESCO World Heritage site known for its one-horned rhinoceros population?",
+    "options": [
+      "Jim Corbett National Park",
+      "Kaziranga National Park",
+      "Sundarbans National Park",
+      "Gir National Park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kaziranga National Park, located in Assam, is a UNESCO World Heritage site and is home to two-thirds of the world's great one-horned rhinoceroses. Sundarbans is known for the Royal Bengal Tiger, and Gir is the last refuge of the Asiatic Lion.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "The power of the President of India to issue an ordinance is a:",
+    "options": [
+      "Executive power",
+      "Legislative power",
+      "Judicial power",
+      "Discretionary power"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The power of the President to promulgate ordinances under Article 123 is a legislative power. It allows the President to legislate when either of the two Houses of Parliament is not in session. However, this is a temporary law and must be approved by Parliament once it reconvenes.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Consider the following statements regarding the powers of the Rajya Sabha: 1. It can authorize the Parliament to make a law on a subject enumerated in the State List. 2. It can authorize the Parliament to create new All-India Services. 3. A Money Bill must be passed by the Rajya Sabha before it can become law. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statements 1 and 2 are special powers of the Rajya Sabha. Under Article 249, it can pass a resolution empowering Parliament to legislate on a state subject. Under Article 312, it can initiate the creation of a new All-India Service. Statement 3 is incorrect; the Rajya Sabha has very limited powers regarding a Money Bill and cannot block its passage.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "With reference to the Indian freedom struggle, the 'Poona Pact' of 1932 was an agreement between:",
+    "options": [
+      "Mahatma Gandhi and Lord Irwin",
+      "The Indian National Congress and the Muslim League",
+      "Mahatma Gandhi and B.R. Ambedkar",
+      "Jawaharlal Nehru and Subhas Chandra Bose"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Poona Pact was an agreement signed in 1932 between Mahatma Gandhi and Dr. B.R. Ambedkar on behalf of the depressed classes and upper-caste Hindu leaders. It was signed to break Gandhi's fast unto death, which he undertook in protest of the British government's decision to grant separate electorates for the depressed classes in the Communal Award.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following correctly describes a 'La Niña' event?",
+    "options": [
+      "Unusual warming of the eastern tropical Pacific Ocean.",
+      "The periodic cooling of ocean surface temperatures in the central and east-central equatorial Pacific.",
+      "The seasonal reversal of winds in the Indian Ocean.",
+      "A strong cyclonic storm forming over the Atlantic Ocean."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Niña is the counterpart to El Niño. It is characterized by the below-average sea surface temperatures across the east-central equatorial Pacific. While El Niño is the 'warm phase', La Niña is considered the 'cool phase' of the larger El Niño–Southern Oscillation (ENSO) climate pattern.",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "Assertion (A): The Fundamental Duties are non-justiciable in nature. Reason (R): The Swaran Singh Committee recommended the inclusion of Fundamental Duties in the Indian Constitution. In the context of the two statements, which one is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both statements are individually true. Fundamental Duties, added by the 42nd Amendment based on the recommendations of the Swaran Singh Committee, are non-justiciable, meaning they cannot be enforced by the courts. However, the reason they are non-justiciable is not because the Swaran Singh Committee recommended them; it's a feature of the duties themselves. Thus, R is not the correct explanation of A.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "What is the 'Heisenberg Uncertainty Principle' in quantum mechanics?",
+    "options": [
+      "Energy can neither be created nor destroyed.",
+      "An electron behaves as both a particle and a wave.",
+      "It is impossible to know simultaneously the exact position and momentum of a particle.",
+      "For every action, there is an equal and opposite reaction."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Heisenberg Uncertainty Principle states that there is a fundamental limit to the precision with which certain pairs of physical properties of a particle, such as position and momentum, can be known simultaneously. The more precisely one property is measured, the less precisely the other can be controlled or known.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "Consider the following events from the Mughal period: 1. Battle of Khanwa, 2. Introduction of Din-i-Ilahi, 3. Construction of Taj Mahal, 4. Jizya re-imposed by Aurangzeb. Arrange these events in chronological order.",
+    "options": [
+      "1-2-3-4",
+      "2-1-3-4",
+      "1-2-4-3",
+      "2-1-4-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct chronological order is: 1. Battle of Khanwa (fought by Babur in 1527). 2. Introduction of Din-i-Ilahi (promulgated by Akbar in 1582). 3. Construction of Taj Mahal (commissioned by Shah Jahan, construction started in 1632). 4. Jizya re-imposed by Aurangzeb (in 1679).",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "With reference to the Indian economy, the term 'Core Inflation' is different from 'Headline Inflation' because:",
+    "options": [
+      "Core inflation includes only food and energy prices.",
+      "Core inflation excludes volatile items like food and energy prices from the inflation basket.",
+      "Core inflation is calculated on a weekly basis, while headline inflation is monthly.",
+      "Core inflation measures the change in prices of industrial goods only."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Headline inflation is a measure of the total inflation within an economy, including commodities like food and energy prices. Core inflation, on the other hand, excludes these highly volatile items. This is done to provide a more accurate picture of the underlying long-term inflation trend.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its:",
+    "options": [
+      "Advisory Jurisdiction",
+      "Appellate Jurisdiction",
+      "Original Jurisdiction",
+      "Writ Jurisdiction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Original Jurisdiction of the Supreme Court (under Article 131) extends to disputes (a) between the Government of India and one or more States; or (b) between the Government of India and any State or States on one side and one or more other States on the other. Such cases can originate directly in the Supreme Court.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "The 'Kyoto Protocol' is an international treaty that commits state parties to reduce:",
+    "options": [
+      "Ozone-depleting substances",
+      "Greenhouse gas emissions",
+      "Use of chemical fertilizers",
+      "Trans-boundary movement of hazardous waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Kyoto Protocol, adopted in 1997, is an international treaty that extended the 1992 United Nations Framework Convention on Climate Change (UNFCCC). It commits industrialized countries and economies in transition to limit and reduce greenhouse gas (GHG) emissions in accordance with agreed individual targets.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following correctly describes 'CRISPR-Cas9'?",
+    "options": [
+      "A new type of exoplanet discovered by NASA.",
+      "A supercomputer developed for weather forecasting.",
+      "A gene-editing technology that allows for the modification of DNA sequences.",
+      "A cryptocurrency platform based on blockchain technology."
+    ],
+    "correctAnswer": 2,
+    "explanation": "CRISPR-Cas9 is a revolutionary gene-editing tool that enables geneticists and medical researchers to remove, add, or alter sections of the DNA sequence. It is faster, cheaper, and more accurate than previous techniques of editing DNA and has a wide range of potential applications.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Arrange the following layers of the Earth's atmosphere in ascending order from the surface: 1. Stratosphere, 2. Troposphere, 3. Mesosphere, 4. Thermosphere.",
+    "options": [
+      "2-1-3-4",
+      "1-2-3-4",
+      "2-1-4-3",
+      "1-2-4-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct order of the atmospheric layers from the Earth's surface upwards is: Troposphere (where weather occurs), Stratosphere (contains the ozone layer), Mesosphere (where meteors burn up), and Thermosphere (where the aurora occurs).",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "The provision for a 'Joint Sitting' of both Houses of Parliament to resolve a deadlock is not applicable to:",
+    "options": [
+      "Ordinary Bills",
+      "Financial Bills (I)",
+      "Money Bills and Constitution Amendment Bills",
+      "Private Member Bills"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The provision for a joint sitting under Article 108 is available for ordinary bills and financial bills. However, it is not applicable to Money Bills (as the Rajya Sabha has limited powers) or Constitution Amendment Bills (which must be passed by each House separately by the required special majority).",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "The Lahore Session of the Indian National Congress in 1929 is historically significant because:",
+    "options": [
+      "It launched the Non-Cooperation Movement.",
+      "It passed the resolution for 'Purna Swaraj' (Complete Independence).",
+      "It decided to participate in the Round Table Conference.",
+      "It marked the split between the Moderates and Extremists."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Lahore Session, presided over by Jawaharlal Nehru, is momentous because the Indian National Congress passed the resolution declaring 'Purna Swaraj' (Complete Independence) as its goal. It also decided to boycott the Round Table Conference and authorized the launch of a program of civil disobedience.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "What is meant by the 'Phillips Curve' in economics?",
+    "options": [
+      "The relationship between tax rates and tax revenue.",
+      "The inverse relationship between the rate of unemployment and the rate of inflation.",
+      "The relationship between income inequality and economic development.",
+      "The relationship between government spending and economic growth."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Phillips Curve describes a historical inverse relationship between rates of unemployment and corresponding rates of inflation in an economy. It suggests that as unemployment decreases, inflation tends to increase, and vice versa.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "Which principle is involved in the working of a transformer?",
+    "options": [
+      "Self-Induction",
+      "Mutual Induction",
+      "Electromagnetic Interference",
+      "Joule's Law of Heating"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A transformer works on the principle of mutual induction. When an alternating current flows through the primary coil, it creates a changing magnetic flux in the iron core. This changing flux links with the secondary coil and induces an electromotive force (EMF) or voltage in it, thus transferring power from the primary to the secondary circuit.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Consider the following statements about the 'Vesara' style of temple architecture: 1. It is a hybrid of the Nagara and Dravida styles. 2. It was primarily developed by the Chalukyas of Badami. 3. The temples are typically characterized by a circular or stellar ground plan. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement 3 is incorrect. While some later Vesara temples (like those of the Hoysalas) have stellar plans, the style itself is not exclusively defined by it. Statements 1 and 2 are correct. The Vesara style combines features of both the northern (Nagara) and southern (Dravida) styles and was prominently developed by the Chalukyas of Badami and later refined by the Rashtrakutas and Hoysalas.",
+    "topic": "Art and Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Which one of the following is NOT a fundamental right guaranteed by the Constitution of India?",
+    "options": [
+      "Right to Equality",
+      "Right against Exploitation",
+      "Right to Property",
+      "Right to Freedom of Religion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Right to Property was originally a fundamental right under Article 31. However, it was removed from the list of Fundamental Rights by the 44th Amendment Act of 1978. It is now a legal right under Article 300-A of the Constitution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "The 'Ring of Fire' is a major area in the basin of which ocean, where a large number of earthquakes and volcanic eruptions occur?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Ring of Fire is a path along the Pacific Ocean characterized by active volcanoes and frequent earthquakes. It is a result of plate tectonics, specifically the movement, collision, and destruction of lithospheric plates under and around the Pacific Ocean.",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "With reference to the Indian economy, what does 'Statutory Liquidity Ratio' (SLR) mean?",
+    "options": [
+      "The fraction of deposits that commercial banks must keep with the RBI.",
+      "The interest rate at which the RBI lends to commercial banks.",
+      "The minimum percentage of deposits that commercial banks have to maintain in the form of liquid assets.",
+      "The rate at which commercial banks lend to their most creditworthy customers."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Statutory Liquidity Ratio (SLR) is the minimum percentage of a commercial bank's Net Demand and Time Liabilities (NDTL) that it has to maintain in the form of cash, gold, or government-approved securities. This is a tool used by the RBI to control the credit growth in the economy.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The 'August Offer' of 1940, made by the British government during the Second World War, proposed which of the following?",
+    "options": [
+      "Complete independence for India after the war.",
+      "Creation of a Constituent Assembly after the war.",
+      "Immediate transfer of power to an interim government.",
+      "Partition of India into two dominions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The August Offer of 1940, proposed by Viceroy Linlithgow, included the expansion of the Viceroy's Executive Council to include more Indians, the establishment of an advisory war council, and most importantly, the recognition of the Indian right to frame their own constitution, promising the establishment of a Constituent Assembly after the war.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "If the President of India wants to resign, to whom does he address his resignation letter?",
+    "options": [
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Vice-President",
+      "The Speaker of the Lok Sabha"
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to Article 56(1)(a) of the Constitution of India, the President addresses his resignation letter to the Vice-President of India. The Vice-President then communicates this to the Speaker of the Lok Sabha.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "What is 'Eutrophication'?",
+    "options": [
+      "The process of desertification due to climate change.",
+      "The enrichment of a water body with nutrients, typically compounds containing nitrogen and phosphorus.",
+      "The process of soil becoming saline due to excessive irrigation.",
+      "The accumulation of toxins in the tissues of organisms at successive levels in a food chain."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eutrophication is the process by which a body of water becomes progressively enriched with minerals and nutrients. This often leads to excessive growth of algae and other aquatic plants (algal blooms), which depletes the dissolved oxygen in the water when they die and decompose, harming other aquatic life.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "The 'Ilbert Bill controversy' during the tenure of Lord Ripon was related to:",
+    "options": [
+      "Imposing restrictions on the vernacular press.",
+      "Reforming the civil services examination.",
+      "Removing the disqualification of Indian judges to try Europeans.",
+      "Introducing local self-government in India."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Ilbert Bill was a bill introduced in 1883 that proposed to allow senior Indian magistrates to preside over cases involving British subjects in India. This was met with fierce opposition from the European community in India, leading to a major controversy and the eventual withdrawal of the bill in its original form.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The concept of 'Carbon Credits' originated from which of the following?",
+    "options": [
+      "Rio Summit (Earth Summit), 1992",
+      "Kyoto Protocol, 1997",
+      "Montreal Protocol, 1987",
+      "Paris Agreement, 2015"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbon credits and the concept of emissions trading were formalized in the Kyoto Protocol. It created a market-based mechanism where countries that have emission units to spare can sell this excess capacity to countries that are over their targets. A carbon credit is a tradable permit or certificate representing the right to emit one tonne of carbon dioxide or its equivalent.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "The procedure for the impeachment of the President of India, as laid down in Article 61, can be initiated in:",
+    "options": [
+      "The Lok Sabha only",
+      "The Rajya Sabha only",
+      "Either House of the Parliament",
+      "A joint sitting of both Houses of Parliament"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The impeachment process for the removal of the President for 'violation of the Constitution' can be initiated by either the Lok Sabha or the Rajya Sabha. The charges must be signed by at least one-fourth of the members of the House that framed the charges, and a 14-day notice must be given to the President.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "What are 'Gravitational Waves'?",
+    "options": [
+      "Waves that hold planets in their orbits.",
+      "Ripples in the curvature of spacetime that propagate as waves.",
+      "A form of electromagnetic radiation stronger than gamma rays.",
+      "The force that causes tides in the oceans."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravitational waves are 'ripples' in the fabric of spacetime caused by some of the most violent and energetic processes in the Universe—such as colliding black holes or neutron stars. Albert Einstein predicted their existence in 1916 in his general theory of relativity, and they were first directly detected in 2015 by LIGO.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "With reference to ancient Indian history, the term 'Shrenis' referred to:",
+    "options": [
+      "A type of coin used in trade.",
+      "Guilds or organizations of craftsmen and merchants.",
+      "Military units in the Mauryan army.",
+      "A category of land grants to Brahmins."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In ancient India, Shrenis were guilds or corporations of merchants, craftsmen, and artisans. These organizations were powerful institutions that regulated business, controlled quality, fixed prices, and often acted as banks, receiving deposits and lending money.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "The 'Laffer Curve' in economics illustrates the relationship between:",
+    "options": [
+      "Inflation and unemployment.",
+      "Government spending and GDP.",
+      "Rates of taxation and the resulting levels of government revenue.",
+      "Money supply and the price level."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Laffer Curve is a theoretical representation of the relationship between tax rates and the amount of tax revenue collected by governments. The curve suggests that as tax rates increase from low levels, tax revenue increases. However, if tax rates reach a certain level, they start to discourage production, and tax revenue begins to decrease.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "The 'Basic Structure Doctrine' of the Indian Constitution was propounded by the Supreme Court in which of the following cases?",
+    "options": [
+      "Golaknath case (1967)",
+      "Kesavananda Bharati case (1973)",
+      "Minerva Mills case (1980)",
+      "Shankari Prasad case (1951)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The landmark 'Basic Structure Doctrine' was laid down by the Supreme Court in the Kesavananda Bharati vs. State of Kerala case in 1973. The Court ruled that while Parliament has the power to amend the Constitution, it cannot alter its 'basic structure' or 'framework', which includes elements like supremacy of the Constitution, rule of law, separation of powers, and judicial review.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is an example of a 'geostationary' satellite?",
+    "options": [
+      "The International Space Station (ISS)",
+      "The Hubble Space Telescope",
+      "Satellites used for remote sensing like Cartosat",
+      "Communication satellites like INSAT series"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A geostationary satellite is one that orbits the Earth above the equator at an altitude of approximately 35,786 km and appears stationary from the ground. This orbit is ideal for communication and broadcasting satellites, like India's INSAT series, as the antennas on Earth do not need to rotate to track them. The ISS and Hubble are in Low Earth Orbit.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Consider the following statements regarding the office of the Speaker of the Lok Sabha: 1. The date of the election of the Speaker is fixed by the President. 2. The Speaker, upon resignation, addresses the letter of resignation to the President. 3. The Speaker can be removed by a resolution passed by a majority of all the then members of the Lok Sabha, but only after giving a 14-day advance notice. 4. The Speaker does not vacate the office immediately upon the dissolution of the Lok Sabha. Which of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement 2 is incorrect. The Speaker submits his/her resignation to the Deputy Speaker, not the President. Statement 1 is correct; the President fixes the date for the Speaker's election. Statement 3 is correct regarding the removal procedure, which requires an effective majority (majority of all the then members). Statement 4 is also correct; the Speaker continues in office until immediately before the first meeting of the new Lok Sabha after its constitution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 87,
+    "question": "Given the following statements: Assertion (A): The withdrawal of the southwest monsoon from North-West India is a more gradual process than its onset. Reason (R): The withdrawal is initiated by the southward apparent migration of the sun, leading to the weakening of the low-pressure trough over the Ganga plains. In the context of the two statements, which one of the following is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both statements are correct. The monsoon's withdrawal is indeed a more gradual process compared to its sudden 'burst' or onset. The reason for this is the southward movement of the sun, which causes the Inter-Tropical Convergence Zone (ITCZ) or the 'monsoon trough' over the northern plains to weaken and shift southwards. This gradual shift in the pressure and wind patterns leads to a phased retreat of the monsoon, making R the correct explanation for A.",
+    "topic": "Geography",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 88,
+    "question": "With reference to the 'Cabinet Mission Plan' of 1946, which of the following were its key provisions? 1. It rejected the demand for a separate state of Pakistan. 2. It proposed a three-tiered federal structure for British India. 3. It provided for the formation of an interim government. 4. It recommended that the Constituent Assembly be elected directly by the people.",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement 4 is incorrect. The Cabinet Mission Plan proposed that the members of the Constituent Assembly be elected indirectly by the members of the provincial legislative assemblies. The other three statements are correct: it rejected the demand for Pakistan, proposed a federal structure with three groups of provinces, and recommended the formation of an interim government.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following falls under the original jurisdiction of a High Court but not the Supreme Court?",
+    "options": [
+      "Disputes relating to the election of Members of Parliament and State Legislatures.",
+      "Disputes between two or more states.",
+      "Enforcement of Fundamental Rights of citizens.",
+      "Cases involving interpretation of the Constitution."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disputes relating to the election of MPs and MLAs fall under the exclusive original jurisdiction of the respective High Court. The Supreme Court has original jurisdiction in disputes between states or between the Centre and states (b). Both courts have jurisdiction for enforcing fundamental rights (c), and cases of constitutional interpretation can reach the Supreme Court through its appellate jurisdiction (d).",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 90,
+    "question": "What is 'Quantitative Easing' (QE)?",
+    "options": [
+      "A government policy of reducing public spending to control deficit.",
+      "A fiscal policy where tax rates are progressively increased.",
+      "A monetary policy where a central bank purchases government securities or other securities from the open market to increase the money supply.",
+      "An international agreement to fix currency exchange rates."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Quantitative Easing is an unconventional monetary policy tool used by central banks to stimulate the economy when traditional monetary policy is no longer effective. It involves the central bank buying long-term securities from the open market in order to increase the money supply and encourage lending and investment.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 91,
+    "question": "Consider the following statements about the 'Lokpal and Lokayuktas Act, 2013': 1. The Lokpal has jurisdiction over the Prime Minister, but with certain exceptions. 2. The Chairperson and members of the Lokpal are appointed by the President on the recommendation of a five-member selection committee. 3. Religious institutions and entities receiving foreign donations above a specified limit are brought under the jurisdiction of the Lokpal. Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. The Prime Minister is under the Lokpal's jurisdiction, but allegations of corruption related to international relations, security, public order, atomic energy, and space are excluded. The selection committee is headed by the Prime Minister. Institutions receiving foreign contributions under the FCRA above ₹10 lakh per year also come under the Lokpal's jurisdiction.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 92,
+    "question": "The 'Jet Streams' are high-altitude, fast-flowing air currents in the atmosphere. Which of the following statements about them is/are correct? 1. They are generally found in the troposphere. 2. They flow from west to east due to the Earth's rotation. 3. They play a crucial role in influencing the weather, including the Indian monsoon.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement 3 is partially correct but can be misleading as there are also easterly jet streams. However, statements 1 and 2 are more universally accurate. Jet streams are found at the tropopause, the boundary between the troposphere and the stratosphere. The major jet streams are westerly winds (flowing west to east) and are caused by a combination of a planet's rotation on its axis and atmospheric heating. They have a significant impact on global weather systems, including the Indian monsoon (both the sub-tropical westerly jet and the tropical easterly jet). Given the options, 1 and 2 are the most consistently correct statements about the primary jet streams.",
+    "topic": "Geography",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 93,
+    "question": "The 'Panchsheel' or the Five Principles of Peaceful Co-existence, were first formally enunciated in the preamble to the agreement between which two countries?",
+    "options": [
+      "India and Soviet Union",
+      "India and China",
+      "India and Pakistan",
+      "India and Indonesia (at the Bandung Conference)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Five Principles of Peaceful Coexistence, or Panchsheel, were first formally enunciated in the preamble to the 'Agreement on Trade and Intercourse between the Tibet Region of China and India', which was signed on April 29, 1954, between India and the People's Republic of China. These principles were later incorporated into various international treaties and became the cornerstone of the Non-Aligned Movement.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following motions, if passed in the Lok Sabha, amounts to a 'no-confidence' in the government? 1. Censure Motion, 2. Cut Motion on a demand for a grant, 3. Adjournment Motion, 4. Rejection of a Money Bill.",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "While a Censure Motion or Adjournment Motion expresses strong disapproval, they do not automatically require the government to resign. However, the defeat of the government on a Money Bill or the passing of a Cut Motion (specifically a policy cut motion) is considered a vote of no-confidence, and the government is expected to resign as it implies it has lost the majority support in the Lok Sabha.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 95,
+    "question": "In the context of 'Bio-remediation', what is 'Phytoremediation'?",
+    "options": [
+      "The use of microorganisms to break down environmental pollutants.",
+      "The introduction of fungi to decontaminate an area.",
+      "The use of plants to clean up contaminated soil, water, and air.",
+      "The use of genetic engineering to create pollutant-degrading bacteria."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Phytoremediation is a specific type of bioremediation that uses living green plants for the in-situ removal, degradation, or containment of contaminants in soils, sludges, sediments, surface water, and groundwater. The name comes from the Greek 'phyto' (plant) and Latin 'remedium' (restoring balance).",
+    "topic": "Environment and Ecology",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 96,
+    "question": "The recommendations of the 'Sarkaria Commission' (1983) primarily dealt with which of the following issues?",
+    "options": [
+      "Electoral reforms",
+      "Centre-State relations",
+      "Banking sector reforms",
+      "Police reforms"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sarkaria Commission, headed by Justice R.S. Sarkaria, was set up in 1983 to examine the relationship and balance of power between the central and state governments in India. Its charter was to review the working of the existing arrangements and make recommendations for reforms. It dealt extensively with legislative, administrative, and financial relations between the Centre and the States.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 97,
+    "question": "What is the 'Chandrasekhar Limit'?",
+    "options": [
+      "The maximum rotational speed of a pulsar.",
+      "The minimum distance from a black hole at which an object can escape its gravitational pull.",
+      "The maximum mass of a stable white dwarf star.",
+      "The theoretical temperature at which all molecular motion ceases."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Chandrasekhar Limit is the maximum mass at which a star near the end of its life can become a stable white dwarf. If a star's core exceeds this mass (approximately 1.4 times the mass of our Sun), it will collapse under its own gravity to form a neutron star or a black hole. It is named after the Indian-American astrophysicist Subrahmanyan Chandrasekhar.",
+    "topic": "General Science",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following are the conditions for a political party to be recognized as a 'National Party' by the Election Commission of India? 1. It is recognized as a state party in at least four states. 2. It wins at least 2% of the total seats in the Lok Sabha from not less than three different states. 3. It secures at least 6% of the valid votes polled in any four or more states in a general election to the Lok Sabha or a State Assembly. Which of the conditions are valid criteria?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "Any one of the three"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A party needs to satisfy any one of the three listed conditions to be recognized as a National Party. The conditions are: (a) Secure 6% of valid votes in four or more states in a Lok Sabha or assembly election and win 4 Lok Sabha seats; OR (b) Win 2% of seats in the Lok Sabha from at least three different states; OR (c) Be recognized as a state party in four states. The question combines parts of condition (a) and (b) into distinct points, but all are valid bases for recognition.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 99,
+    "question": "The 'Wassenaar Arrangement' is a multilateral export control regime. What does it seek to control the transfer of?",
+    "options": [
+      "Nuclear technology and materials.",
+      "Missile technology and unmanned aerial vehicles.",
+      "Chemical and biological weapons.",
+      "Conventional Arms and Dual-Use Goods and Technologies."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Wassenaar Arrangement aims to contribute to regional and international security and stability by promoting transparency and greater responsibility in transfers of conventional arms and dual-use goods and technologies. It is distinct from the Nuclear Suppliers Group (NSG), the Missile Technology Control Regime (MTCR), and the Australia Group, which control nuclear, missile, and chem-bio technologies respectively. India is a member of the Wassenaar Arrangement.",
+    "topic": "International Relations",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 100,
+    "question": "Consider the following statements regarding the 'Financial Stability and Development Council' (FSDC) in India: 1. It is a statutory body established by an act of Parliament. 2. It is chaired by the Governor of the Reserve Bank of India. 3. Its mandate includes macro-prudential supervision of the economy and resolving inter-regulatory disputes. Which of the statements given above is/are correct?",
+    "options": [
+      "3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statements 1 and 2 are incorrect. The FSDC is not a statutory body; it was established by an executive order of the Government of India. It is chaired by the Union Finance Minister, not the RBI Governor. Statement 3 is correct; the FSDC's role is to monitor the macro-economy, strengthen financial stability, and coordinate among India's various financial sector regulators (like RBI, SEBI, PFRDA, IRDAI).",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  }
+]
+
+export const MOCK_TEST_10_QUESTIONS =[
+  {
+    "id": 1,
+    "question": "Who is the author of the book 'An Autobiography: Toward Freedom'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jawaharlal Nehru, the first Prime Minister of India, wrote 'An Autobiography', also known as 'Toward Freedom'. It was written in prison between 1934 and 1935. Mahatma Gandhi's autobiography is titled 'The Story of My Experiments with Truth'.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the largest planet in our solar system?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Neptune",
+      "Earth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jupiter is the largest planet in our solar system by a significant margin. It is a gas giant with a mass more than two and a half times that of all the other planets in the solar system combined. Its most famous feature is the Great Red Spot, a giant storm raging for centuries.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "The famous 'Sun Temple' is located in which Indian state?",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Karnataka",
+      "Odisha"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Konark Sun Temple is a 13th-century CE temple at Konark in Odisha, India. It is a monumental representation of the Sun God Surya's chariot. Attributed to king Narasimhadeva I of the Eastern Ganga dynasty, it is a UNESCO World Heritage Site.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "What is the national currency of Japan?",
+    "options": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Ringgit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Japanese Yen (JPY) is the official currency of Japan. The Yuan is the currency of China, the Won is the currency of North and South Korea, and the Ringgit is the currency of Malaysia.",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "The 'Dronacharya Award' is given to honor outstanding individuals in which field?",
+    "options": [
+      "Sports (Players)",
+      "Sports (Coaches)",
+      "Literature",
+      "Social Service"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Dronacharya Award, officially known as Dronacharya Award for Outstanding Coaches in Sports and Games, is presented by the Ministry of Youth Affairs and Sports in India. It is given to coaches for their outstanding and meritorious work on a consistent basis.",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "Which part of the Indian Constitution is referred to as the 'Conscience of the Constitution'?",
+    "options": [
+      "The Preamble",
+      "Fundamental Rights and Directive Principles",
+      "Fundamental Duties",
+      "The Seventh Schedule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Granville Austin, a renowned constitutional expert, described the Fundamental Rights and the Directive Principles of State Policy as the 'Conscience of the Constitution'. These two parts together form the philosophical core and social soul of the Constitution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "The 'Vedas' are the oldest scriptures of which religion?",
+    "options": [
+      "Buddhism",
+      "Jainism",
+      "Sikhism",
+      "Hinduism"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Vedas are a large body of religious texts originating in ancient India. Composed in Vedic Sanskrit, the texts constitute the oldest layer of Sanskrit literature and the oldest scriptures of Hinduism. There are four Vedas: the Rigveda, the Yajurveda, the Samaveda, and the Atharvaveda.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Photosynthesis is the process used by plants, algae, and certain bacteria to convert light energy into chemical energy. During this process, they take in carbon dioxide (CO2) from the atmosphere and water from the soil, and using sunlight, they produce glucose (sugar for energy) and release oxygen as a byproduct.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Who was the first woman to become the President of India?",
+    "options": [
+      "Indira Gandhi",
+      "Pratibha Patil",
+      "Sarojini Naidu",
+      "Droupadi Murmu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pratibha Patil served as the 12th President of India from 2007 to 2012, becoming the first woman to hold the office. Indira Gandhi was the first female Prime Minister, and Sarojini Naidu was the first female Governor of an Indian state.",
+    "topic": "Indian Polity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The 'Suez Canal' connects which two bodies of water?",
+    "options": [
+      "The Atlantic Ocean and the Pacific Ocean",
+      "The Mediterranean Sea and the Red Sea",
+      "The Indian Ocean and the Pacific Ocean",
+      "The Black Sea and the Mediterranean Sea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez. It provides the shortest maritime route between Europe and the lands lying around the Indian and western Pacific oceans, avoiding the long journey around Africa.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The concept of 'Fundamental Duties' in the Indian Constitution was inspired by the constitution of which country?",
+    "options": [
+      "USA",
+      "UK",
+      "Former USSR (Soviet Union)",
+      "Ireland"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Fundamental Duties were incorporated into the Indian Constitution by the 42nd Amendment Act in 1976, upon the recommendations of the Swaran Singh Committee. The concept was inspired by the Constitution of the former USSR.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Who founded the 'Nalanda University', a great center of learning in ancient India?",
+    "options": [
+      "Ashoka",
+      "Harshavardhana",
+      "Samudragupta",
+      "Kumaragupta I"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nalanda University was established during the Gupta dynasty, and it is widely believed that the Gupta emperor Kumaragupta I was its founder in the 5th century CE. It became one of the most renowned Mahaviharas, or great monastic-cum-educational institutions, in the ancient world.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "What is the common name for the chemical Sodium Bicarbonate?",
+    "options": [
+      "Washing Soda",
+      "Baking Soda",
+      "Bleaching Powder",
+      "Caustic Soda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sodium Bicarbonate (NaHCO₃) is commonly known as Baking Soda. It is used as a leavening agent in baking. Washing Soda is Sodium Carbonate (Na₂CO₃), and Caustic Soda is Sodium Hydroxide (NaOH).",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The 'Headquarters' of the United Nations (UN) is located in which city?",
+    "options": [
+      "Geneva, Switzerland",
+      "The Hague, Netherlands",
+      "New York City, USA",
+      "Vienna, Austria"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The headquarters of the United Nations is located in New York City. While the UN has other important offices in Geneva, The Hague (where the International Court of Justice is located), and Vienna, the main headquarters complex is in New York.",
+    "topic": "International Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is an example of an input device in a computer?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Scanner",
+      "Speaker"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An input device is any hardware device that sends data to a computer, allowing you to interact with and control it. A scanner is an input device that captures images from photographic prints, posters, magazine pages, and similar sources for computer editing and display. Monitors, printers, and speakers are all output devices.",
+    "topic": "Science and Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The 'Elephanta Caves', a UNESCO World Heritage Site, are located near which major Indian city?",
+    "options": [
+      "Chennai",
+      "Kolkata",
+      "Mumbai",
+      "Delhi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Elephanta Caves are a network of sculpted caves located on Elephanta Island, or Gharapuri, in Mumbai Harbour, about 10 kilometers east of the city of Mumbai. The caves are famous for their rock-cut sculptures, primarily dedicated to the Hindu god Shiva.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The 'Monsoon' winds in India are an example of which type of wind system?",
+    "options": [
+      "Planetary Winds",
+      "Local Winds",
+      "Seasonal Winds",
+      "Permanent Winds"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Monsoon winds are a classic example of seasonal winds. They are large-scale sea breezes that undergo a seasonal reversal in direction. The differential heating of land and sea causes these winds to blow from the sea to the land in summer (south-west monsoon) and from the land to the sea in winter (north-east monsoon).",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "Who administers the oath of office to the Prime Minister of India?",
+    "options": [
+      "The Chief Justice of India",
+      "The outgoing Prime Minister",
+      "The President of India",
+      "The Speaker of the Lok Sabha"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Prime Minister of India is appointed by the President, who also administers the oaths of office and secrecy to the Prime Minister. The President appoints the leader of the party that holds the majority in the Lok Sabha as the Prime Minister.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "The 'Greenhouse Effect' is the process by which:",
+    "options": [
+      "Gases in the atmosphere trap the sun's heat.",
+      "The ozone layer is depleted by chemicals.",
+      "Plants are grown in glass houses to protect them.",
+      "Acid rain is formed in the atmosphere."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Greenhouse Effect is a natural process that warms the Earth's surface. When the Sun's energy reaches the Earth’s atmosphere, some of it is reflected back to space and the rest is absorbed and re-radiated by greenhouse gases (like carbon dioxide, methane, and water vapor). This trapping of heat is what keeps our planet warm enough for life to exist.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "The 'First Five-Year Plan' of India (1951-1956) was based on which economic model?",
+    "options": [
+      "Mahalanobis Model",
+      "Harrod-Domar Model",
+      "Gandhian Model",
+      "Nehruvian Model"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The First Five-Year Plan was based on the Harrod-Domar model. Its main focus was on the development of the primary sector, particularly agriculture and irrigation. The Second Five-Year Plan was based on the Mahalanobis model, which focused on rapid industrialization.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is NOT a classical language of India?",
+    "options": [
+      "Tamil",
+      "Sanskrit",
+      "Pali",
+      "Odia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Currently, six languages are granted the 'Classical Language' status in India: Tamil (declared in 2004), Sanskrit (2005), Kannada (2008), Telugu (2008), Malayalam (2013), and Odia (2014). Pali, an ancient Prakrit language, does not have this status.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "The device that converts electrical energy into mechanical energy is called a:",
+    "options": [
+      "Generator",
+      "Transformer",
+      "Electric Motor",
+      "Dynamo"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An electric motor is a device that converts electrical energy into mechanical energy. Conversely, a generator (or dynamo) is a device that converts mechanical energy into electrical energy.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Who was the last Governor-General of independent India?",
+    "options": [
+      "Lord Mountbatten",
+      "Jawaharlal Nehru",
+      "C. Rajagopalachari",
+      "Dr. Rajendra Prasad"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chakravarti Rajagopalachari, informally called Rajaji, was the last Governor-General of India. He succeeded Lord Mountbatten and served from 1948 to 1950. He was the only Indian to hold this position. The office was abolished in 1950 when India became a republic.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The 'Andaman and Nicobar Islands' are a group of islands located in which body of water?",
+    "options": [
+      "Arabian Sea",
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Laccadive Sea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Andaman and Nicobar Islands are a union territory of India consisting of 572 islands at the junction of the Bay of Bengal and the Andaman Sea. They are located southeast of the Indian mainland.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "The '74th Constitutional Amendment Act' is associated with:",
+    "options": [
+      "Panchayati Raj Institutions (Rural Local Bodies)",
+      "Urban Local Bodies (Municipalities)",
+      "The introduction of Goods and Services Tax (GST)",
+      "Granting constitutional status to the NCBC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 74th Amendment Act of 1992 gave constitutional status to Urban Local Bodies (Municipalities). It added a new Part IX-A to the Constitution, which deals with the structure, composition, powers, and functions of municipalities. The 73rd Amendment deals with rural local bodies (Panchayats).",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The writ of 'Mandamus' issued by a court is:",
+    "options": [
+      "An order to produce the body of a person.",
+      "An order from a superior court to a lower court to stop proceedings.",
+      "A command to a public official to perform their official duties.",
+      "An order to quash the decision of a lower court."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Mandamus' is a Latin term meaning 'we command'. It is a judicial writ issued as a command to an inferior court or ordering a person, corporation, or public authority to perform a public or statutory duty. It cannot be issued against a private individual or body.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Consider the following statements regarding the 'Swadeshi Movement': 1. It was launched as a protest against the Partition of Bengal in 1905. 2. It involved the boycott of British goods and the promotion of Indian-made goods. 3. It saw the first major participation of women in a nationalist movement. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. The Swadeshi Movement was a direct consequence of the British decision to partition Bengal. A key strategy was the boycott of foreign goods and the encouragement of 'swadeshi' or domestic production. The movement was also notable for the large-scale participation of students, women, and the rural populace, making it a truly mass movement.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "What is the primary difference between 'Kharif' and 'Rabi' crops in India?",
+    "options": [
+      "Kharif crops are food crops, while Rabi crops are cash crops.",
+      "Kharif crops are grown in the monsoon season, while Rabi crops are grown in the winter season.",
+      "Kharif crops require less water, while Rabi crops require extensive irrigation.",
+      "Kharif crops are grown in southern India, while Rabi crops are grown in northern India."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The primary difference is the season in which they are grown. Kharif crops (like rice, maize, cotton) are sown at the beginning of the southwest monsoon (June-July) and harvested at the end of the monsoon (September-October). Rabi crops (like wheat, barley, mustard) are sown in winter (October-December) and harvested in spring (April-June).",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "The 'Atal Pension Yojana' (APY) is a government-backed pension scheme primarily targeted at:",
+    "options": [
+      "Employees of the central government.",
+      "All citizens above the age of 60.",
+      "Workers in the unorganised sector.",
+      "Self-employed professionals."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Atal Pension Yojana (APY) was launched by the Government of India to provide a social security net for all citizens, but it is particularly focused on encouraging workers in the unorganised sector to voluntarily save for their retirement. Subscribers receive a fixed minimum pension after the age of 60 years.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "What is 'Habeas Corpus'?",
+    "options": [
+      "A writ requiring a person to perform a public duty.",
+      "A writ issued to a lower court to transfer a case.",
+      "A writ requiring a person under arrest to be brought before a judge or into court.",
+      "A writ prohibiting a lower court from proceeding in a case."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Habeas Corpus is a Latin term meaning 'you may have the body'. It is a writ of inquiry and is a recourse in law through which a person can report an unlawful detention or imprisonment to a court and request that the court order the custodian of the person, usually a prison official, to bring the prisoner to court to determine if the detention is lawful.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "Alloys are mixtures of metals or a metal and another element. Brass is an alloy of:",
+    "options": [
+      "Copper and Tin",
+      "Copper and Zinc",
+      "Iron and Carbon",
+      "Aluminum and Magnesium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brass is an alloy made primarily of copper and zinc. The proportions of zinc and copper can be varied to create a range of brasses with varying properties. Bronze is an alloy of copper and tin. Steel is an alloy of iron and carbon.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Who was the founder of the 'Satavahana' dynasty, which ruled over parts of Southern and Central India?",
+    "options": [
+      "Gautamiputra Satakarni",
+      "Simuka",
+      "Hala",
+      "Pulakeshin II"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Simuka is credited as the founder of the Satavahana dynasty, which ruled from the late 2nd century BCE onwards. Gautamiputra Satakarni was the most powerful and significant ruler of this dynasty, who revived its power.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The 'International Monetary Fund' (IMF) primarily provides:",
+    "options": [
+      "Long-term development loans for infrastructure projects.",
+      "Humanitarian aid to countries affected by disasters.",
+      "Short-term financial assistance to countries facing balance of payments problems.",
+      "Grants for promoting education and health in poor countries."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The primary mission of the IMF is to ensure the stability of the international monetary system. It does so by providing short-term to medium-term loans to member countries that are struggling with their balance of payments. These loans are often conditional on the implementation of economic reforms. The World Bank, on the other hand, focuses on long-term development projects.",
+    "topic": "International Relations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "A 'Pro-tem Speaker' of the Lok Sabha is:",
+    "options": [
+      "The Speaker of the previous Lok Sabha.",
+      "Elected by the members of the newly formed Lok Sabha.",
+      "Appointed by the President to preside over the first session of the Lok Sabha.",
+      "The Deputy Speaker officiating as Speaker."
+    ],
+    "correctAnswer": 2,
+    "explanation": "After a general election, the President appoints a senior member of the Lok Sabha as the Pro-tem Speaker. The Pro-tem Speaker's main duty is to administer the oath to the new members of the House and to preside over the sitting in which the Speaker of the Lok Sabha is elected.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The 'Roaring Forties', 'Furious Fifties', and 'Shrieking Sixties' are terms used to describe strong westerly winds found in:",
+    "options": [
+      "The Northern Hemisphere",
+      "The Southern Hemisphere",
+      "The Equatorial region",
+      "The Polar regions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "These are strong westerly winds found in the Southern Hemisphere, generally between the latitudes of 40 and 70 degrees south. Their strength is enhanced by the fact that there are no major landmasses in these latitudes to slow them down. They were historically important for sailors on the clipper route.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "What is 'Biofortification'?",
+    "options": [
+      "Using microorganisms to clean up environmental pollutants.",
+      "Adding chemical fertilizers to crops to increase yield.",
+      "The process of breeding staple crops to have higher levels of micronutrients.",
+      "Creating genetically modified crops that are resistant to pests."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biofortification is the idea of breeding crops to increase their nutritional value. This can be done either through conventional selective breeding, or through genetic engineering. It aims to combat hidden hunger or micronutrient deficiencies (like iron, zinc, and vitamin A) by making staple foods more nutritious.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following schedules was added to the Indian Constitution by the 73rd Amendment Act?",
+    "options": [
+      "Ninth Schedule",
+      "Tenth Schedule",
+      "Eleventh Schedule",
+      "Twelfth Schedule"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 73rd Amendment Act of 1992, which granted constitutional status to Panchayati Raj institutions, also added the Eleventh Schedule to the Constitution. This schedule contains 29 functional items placed within the purview of the Panchayats. The Twelfth Schedule, containing 18 items for Municipalities, was added by the 74th Amendment Act.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The 'Vernacular Press Act' of 1878, which imposed severe restrictions on the Indian language press, was enacted during the viceroyalty of:",
+    "options": [
+      "Lord Curzon",
+      "Lord Ripon",
+      "Lord Dufferin",
+      "Lord Lytton"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Vernacular Press Act was passed in 1878 by Viceroy Lord Lytton. It was designed to better control the vernacular press and effectively punish and repress seditious writing. The act was highly discriminatory as it was not applicable to the English language press. It was later repealed by Lord Ripon in 1882.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "In the context of the Indian economy, what does 'Disinvestment' mean?",
+    "options": [
+      "The withdrawal of foreign investment from the country.",
+      "The process of a company reducing its capital assets.",
+      "The liquidation of assets by the government, usually of Central and State public sector enterprises.",
+      "A reduction in public expenditure by the government."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Disinvestment is the action of an organization or government selling or liquidating an asset or subsidiary. In the Indian context, it specifically refers to the government selling its stake in Public Sector Undertakings (PSUs) to either the private sector or the public. The proceeds are often used to finance the fiscal deficit or for social sector spending.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "The 'Paris Agreement', a landmark international accord, deals with:",
+    "options": [
+      "Nuclear disarmament",
+      "International trade disputes",
+      "Combating climate change and limiting global warming",
+      "Protecting intellectual property rights"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Paris Agreement, adopted in 2015, is a legally binding international treaty on climate change. Its goal is to limit global warming to well below 2 degrees Celsius, preferably to 1.5 degrees Celsius, compared to pre-industrial levels. It works on a framework of nationally determined contributions (NDCs) from each country.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "What is an 'Adjournment Motion' in the Indian Parliament?",
+    "options": [
+      "A motion to adjourn the proceedings of the House for the day.",
+      "A motion to introduce a bill for discussion.",
+      "A motion to draw the attention of the House to a definite matter of urgent public importance.",
+      "A motion to end the session of the Parliament."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An Adjournment Motion is a parliamentary procedure used to set aside the normal business of the House and discuss a definite matter of urgent public importance. It is considered an extraordinary device as it interrupts the regular business. If admitted, it leads to a debate and can act as a censure against the government.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The 'Chola' dynasty, famous for its naval power and temple architecture, was primarily based in the delta of which river?",
+    "options": [
+      "Krishna",
+      "Godavari",
+      "Kaveri",
+      "Mahanadi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Chola dynasty was a Tamil thalassocratic (sea-faring) empire of southern India, one of the longest-ruling dynasties in world history. Their heartland was the fertile valley of the Kaveri River, and their capital was at Uraiyur, and later at Thanjavur and Gangaikonda Cholapuram.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Why does a swimming pool appear less deep than it actually is?",
+    "options": [
+      "Reflection of light",
+      "Refraction of light",
+      "Dispersion of light",
+      "Scattering of light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This phenomenon is due to the refraction of light. When light rays travel from a denser medium (water) to a rarer medium (air), they bend away from the normal. The light rays coming from the bottom of the pool bend at the water's surface before reaching our eyes. Our brain interprets these bent rays as coming from a shallower depth, creating an apparent image of the pool's bottom that is higher than the real bottom.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "What is the 'Cash Reserve Ratio' (CRR)?",
+    "options": [
+      "The rate at which RBI lends money to commercial banks.",
+      "The percentage of a bank's total deposits that it needs to maintain as liquid assets.",
+      "The share of a bank's total deposits that it is mandatory for it to maintain with the Reserve Bank of India.",
+      "The interest rate a bank pays to its depositors."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Cash Reserve Ratio (CRR) is a monetary policy tool used by the RBI. It is the specified minimum fraction of the total deposits of a commercial bank's customers that it has to hold as reserves either in cash or as deposits with the central bank. Banks do not earn any interest on the money that is held as CRR with the RBI.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The 'Red Data Book', published by the IUCN, contains lists of:",
+    "options": [
+      "Endemic plant and animal species.",
+      "Economically important species.",
+      "Threatened species of flora and fauna.",
+      "Species that have become extinct."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The IUCN Red List of Threatened Species, often referred to as the Red Data Book, is the world's most comprehensive inventory of the global conservation status of biological species. It uses a set of criteria to evaluate the extinction risk of thousands of species and subspecies. These criteria are relevant to all species and all regions of the world.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "The power to declare an area as a 'Scheduled Area' under the Fifth Schedule of the Constitution rests with:",
+    "options": [
+      "The Parliament of India",
+      "The Governor of the concerned state",
+      "The President of India",
+      "The State Legislature"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The President of India is empowered to declare an area to be a 'Scheduled Area'. The President can also increase or decrease its area, alter its boundaries, and rescind such designation, but only in consultation with the Governor of the concerned state. The Fifth Schedule deals with the administration and control of Scheduled Areas and Scheduled Tribes.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The 'Bahmani Sultanate' was a Muslim state of the Deccan in Southern India. It was founded by:",
+    "options": [
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Bahmani",
+      "Alauddin Bahman Shah (Hasan Gangu)",
+      "Mahmud Gawan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Bahmani Sultanate was founded in 1347 by Alauddin Bahman Shah, whose original name was Hasan Gangu. He led a rebellion against the Sultan of Delhi, Muhammad bin Tughlaq, and established an independent kingdom in the Deccan with its capital at Gulbarga.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following describes 'Geothermal Energy'?",
+    "options": [
+      "Energy derived from the gravitational pull of the moon.",
+      "Energy generated from the heat stored within the Earth.",
+      "Energy produced by the burning of fossil fuels.",
+      "Energy harnessed from the movement of ocean tides."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geothermal energy is the thermal energy generated and stored in the Earth. It originates from the original formation of the planet and from radioactive decay of materials. This heat can be captured and used to generate electricity or for direct heating applications.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The 'Pampas' are vast fertile lowlands located in which continent?",
+    "options": [
+      "North America",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Pampas are extensive, temperate grasslands in South America, covering more than 1,200,000 square kilometers. They are primarily located in Argentina and extend into Uruguay and Brazil. The region is known for its fertile soil, making it a prime agricultural area.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "The 'National Development Council' (NDC) in India is presided over by:",
+    "options": [
+      "The President of India",
+      "The Union Finance Minister",
+      "The Prime Minister of India",
+      "The Vice-Chairman of NITI Aayog"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The National Development Council (NDC) is the apex body for decision-making and deliberations on development matters in India, presided over by the Prime Minister. It was set up in 1952 to strengthen and mobilize the effort and resources of the nation in support of the Five-Year Plans. With the abolition of the Planning Commission, its role has become uncertain, but it has not been formally abolished.",
+    "topic": "Indian Polity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "What is the 'pH' scale used to measure?",
+    "options": [
+      "The purity of water.",
+      "The density of a liquid.",
+      "The acidity or alkalinity of a solution.",
+      "The temperature of a substance."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pH scale is a logarithmic scale used to specify the acidity or basicity (alkalinity) of an aqueous solution. A pH of 7 is neutral (like pure water). A pH less than 7 is acidic, and a pH greater than 7 is basic or alkaline.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The 'Lucknow Pact' of 1916 was a significant agreement between:",
+    "options": [
+      "The Moderates and Extremists wings of the Congress.",
+      "The Indian National Congress and the Muslim League.",
+      "Mahatma Gandhi and Lord Irwin.",
+      "The Ghadar Party and the Home Rule League."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Lucknow Pact was an agreement reached between the Indian National Congress and the Muslim League at a joint session of both the parties held in Lucknow in December 1916. Through this pact, the two parties agreed to work together towards achieving dominion status for India and put forward a joint set of demands to the British.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "What does the term 'Insolation' refer to in geography?",
+    "options": [
+      "The process of soil formation.",
+      "The incoming solar radiation that is received by the Earth's surface.",
+      "The insulating effect of the atmosphere.",
+      "The formation of islands through volcanic activity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Insolation is a measure of solar radiation energy received on a given surface area in a given time. It is the primary energy source for most processes in the Earth's atmosphere, oceans, and land surfaces. Its distribution varies with latitude, season, and time of day.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The 'Contingency Fund of India' is placed at the disposal of:",
+    "options": [
+      "The Prime Minister",
+      "The Union Finance Minister",
+      "The Parliament",
+      "The President"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Contingency Fund of India, established under Article 267(1) of the Constitution, is a fund placed at the disposal of the President of India to enable him/her to make advances to meet unforeseen expenditure pending its authorization by the Parliament. The fund is held by the Finance Secretary on behalf of the President.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following correctly describes 'Angel Tax'?",
+    "options": [
+      "A tax levied on the profits of charitable organizations.",
+      "An income tax payable on the capital raised by unlisted companies from an individual investor.",
+      "A tax subsidy given to startup companies.",
+      "A tax on imported luxury goods."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Angel tax is a term used to refer to the income tax payable on capital raised by unlisted companies via the issue of shares where the share price is seen in excess of the fair market value of the shares sold. The excess realization is considered as income and taxed accordingly. It is so named because it often affects startups raising funds from angel investors.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Consider the following statements regarding the 'Indian Councils Act of 1909' (Morley-Minto Reforms): 1. It introduced for the first time the system of separate electorates for Muslims. 2. It allowed for the appointment of Indians to the Viceroy's Executive Council. 3. It significantly increased the size of the legislative councils, both at the Centre and in the provinces. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. The Morley-Minto Reforms of 1909 are infamous for introducing separate electorates for Muslims, a move that sowed the seeds of communal politics. It also enlarged the legislative councils and, for the first time, provided for the association of Indians with the executive councils of the Viceroy and Governors. Satyendra Prasad Sinha became the first Indian to join the Viceroy's Executive Council.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following are the necessary conditions for the declaration of a 'Financial Emergency' under Article 360 of the Indian Constitution?",
+    "options": [
+      "A situation has arisen whereby the financial stability or credit of India or of any part of its territory is threatened.",
+      "The failure of a state government to comply with the directions of the central government.",
+      "The dissolution of the Lok Sabha before the passage of the annual budget.",
+      "A recommendation from the Reserve Bank of India about an impending banking crisis."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article 360 empowers the President to proclaim a Financial Emergency if he is satisfied that a situation has arisen due to which the financial stability or credit of India or any part of its territory is threatened. It does not depend on the failure of a state government or the dissolution of the Lok Sabha. A Financial Emergency has never been proclaimed in India so far.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "The 'Special 301 Report', which is sometimes seen in the news, is released by which country or organization?",
+    "options": [
+      "World Trade Organization (WTO)",
+      "World Intellectual Property Organization (WIPO)",
+      "United States Trade Representative (USTR)",
+      "European Union"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Special 301 Report' is prepared annually by the Office of the United States Trade Representative (USTR). It identifies trade barriers to U.S. companies and products due to the intellectual property laws, such as copyright, patents and trademarks, in other countries. Countries that are deemed to have inadequate IP protection are placed on a 'Priority Watch List' or 'Watch List'.",
+    "topic": "International Relations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "What is the 'Coriolis Effect'?",
+    "options": [
+      "The increase in wind speed near the equator.",
+      "The effect of Earth's rotation on the direction of winds and ocean currents.",
+      "The warming of the ocean surface in the central and eastern tropical Pacific Ocean.",
+      "The deflection of light by a massive object's gravity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Coriolis effect is a phenomenon that results from the Earth's rotation. It causes moving objects (like air currents, ocean currents, and airplanes) to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. It is a key factor in the formation of cyclones and the direction of trade winds.",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "The 'National Green Tribunal' (NGT) in India was established in 2010. Which of the following statements about it is NOT correct?",
+    "options": [
+      "It is a specialized body for effective and expeditious disposal of cases relating to environmental protection.",
+      "The NGT is bound by the procedure laid down under the Code of Civil Procedure, 1908.",
+      "The NGT has the power to provide relief and compensation for damages to persons and property.",
+      "An appeal against an order of the NGT lies to the Supreme Court."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement 2 is incorrect. The NGT is not bound by the strict procedures of the Code of Civil Procedure but is guided by principles of 'natural justice'. This allows it to be more flexible and faster in its proceedings. The other statements are correct; it is a specialized environmental court, can award compensation, and its orders can be appealed to the Supreme Court.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "The 'Mahalanobis Model', which was adopted in India's Second Five-Year Plan, laid strong emphasis on:",
+    "options": [
+      "The development of agriculture and small-scale industries.",
+      "The establishment of a self-reliant economy with a focus on food security.",
+      "The development of heavy industries and capital goods sector.",
+      "Liberalization of the economy and promotion of foreign investment."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Second Five-Year Plan (1956-61) was based on the PC Mahalanobis model. It advocated for a shift in the pattern of investment from agriculture to industry, with a special focus on the development of the heavy and capital goods industries. This was aimed at building a strong industrial base for long-term economic growth.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Assertion (A): A person can be a member of both Parliament and a State Legislature at the same time. Reason (R): The Constitution provides for double membership to ensure representation at both levels. In the context of the two statements, which one is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Both the assertion and the reason are false. The Constitution of India (Article 101) and the Representation of the People Act, 1951, explicitly prohibit dual membership. If a person is elected to both Parliament and a State Legislature, their seat in one of the houses becomes vacant if they do not resign within a specified period.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "The 'Chalukya' dynasty had its capital at which of the following places in Karnataka?",
+    "options": [
+      "Hampi",
+      "Mysore",
+      "Badami (Vatapi)",
+      "Srirangapatna"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The early Chalukyas, also known as the Chalukyas of Badami, ruled over large parts of southern and central India between the 6th and the 12th centuries. Their capital was Badami (formerly Vatapi) in the Bagalkot district of Karnataka. They are renowned for their unique style of temple architecture.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "What is 'Superconductivity'?",
+    "options": [
+      "A property of materials that allows them to conduct electricity with 100% efficiency.",
+      "A state of matter where a material exhibits zero electrical resistance and the expulsion of magnetic fields.",
+      "The ability of a material to conduct heat better than any other substance.",
+      "The phenomenon of generating electricity from light."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Superconductivity is a phenomenon of exactly zero electrical resistance and expulsion of magnetic flux fields occurring in certain materials, called superconductors, when cooled below a characteristic critical temperature. Once set in motion, an electric current in a superconductor loop can persist indefinitely with no power source.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "The 'Tenth Schedule' of the Indian Constitution, which deals with the anti-defection law, was added by which amendment?",
+    "options": [
+      "42nd Amendment Act",
+      "44th Amendment Act",
+      "52nd Amendment Act",
+      "61st Amendment Act"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Tenth Schedule, popularly known as the Anti-Defection Law, was introduced into the Constitution by the 52nd Amendment Act of 1985. It was enacted to curb the practice of political defections by legislators who would switch parties for personal gain.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following describes the difference between a 'star' and a 'planet'?",
+    "options": [
+      "Stars are larger than planets.",
+      "Stars have their own light, while planets reflect the light of a star.",
+      "Stars are stationary, while planets revolve around them.",
+      "Stars are made of gas, while planets are made of rock."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fundamental difference is that a star is a luminous celestial body that generates its own heat and light through nuclear fusion in its core. A planet is a non-luminous body that orbits a star and shines by reflecting the star's light. While stars are generally larger and gaseous, these are not the defining characteristics (e.g., gas giants are planets, and some stars like white dwarfs are very small).",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "The 'Subsidiary Alliance' system was a policy of the British East India Company. Which of the following was NOT a provision of this system?",
+    "options": [
+      "The Indian ruler had to accept the stationing of a British contingent in their territory.",
+      "The Indian ruler had to pay a subsidy for the maintenance of the British troops.",
+      "The Indian ruler was free to enter into agreements with other rulers without British consent.",
+      "A British Resident would be posted in the court of the Indian ruler."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under the Subsidiary Alliance system, pioneered by Lord Wellesley, an Indian ruler was forbidden from entering into any alliance with other powers or employing Europeans in their service without British permission. This provision effectively stripped the Indian states of their sovereignty and control over foreign policy. The other three statements were key provisions of the alliance.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "What is the 'Infant Mortality Rate' (IMR)?",
+    "options": [
+      "The number of deaths of children under five years of age per 1000 live births.",
+      "The number of deaths of infants under one year of age per 1000 live births.",
+      "The percentage of infants who die before reaching their first birthday.",
+      "The total number of infant deaths in a country in a given year."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Infant Mortality Rate (IMR) is a crucial health indicator. It is defined as the number of deaths of infants under one year of age for every 1,000 live births in a given year. The Under-Five Mortality Rate is a separate indicator that measures deaths of children under five.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "The power of the Parliament to legislate on a matter in the State List during a National Emergency is provided under which article?",
+    "options": [
+      "Article 249",
+      "Article 250",
+      "Article 252",
+      "Article 356"
+    ],
+    "correctAnswer": 1,
+    "explanation": "While Article 249 allows Parliament to legislate on a state subject if the Rajya Sabha passes a resolution, Article 250 specifically deals with the situation during a National Emergency (proclaimed under Article 352). It states that while a Proclamation of Emergency is in operation, Parliament shall have the power to make laws for the whole or any part of the territory of India with respect to any of the matters enumerated in the State List.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "The 'Nagorno-Karabakh' region, a subject of an ongoing conflict, is disputed between which two countries?",
+    "options": [
+      "Russia and Ukraine",
+      "Israel and Palestine",
+      "India and Pakistan",
+      "Armenia and Azerbaijan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nagorno-Karabakh is a landlocked region in the South Caucasus. Internationally recognized as part of Azerbaijan, most of the region is governed by the unrecognized Republic of Artsakh, which is backed by Armenia. The region has been the subject of a long-standing and violent conflict between the two nations since the late 1980s.",
+    "topic": "International Relations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Match List-I (Revolution) with List-II (Associated with): List-I: A. Golden Revolution, B. Grey Revolution, C. Pink Revolution, D. Yellow Revolution. List-II: 1. Fertilizers, 2. Oilseeds, 3. Horticulture and Honey, 4. Onion and Prawns.",
+    "options": [
+      "A-2, B-1, C-4, D-3",
+      "A-3, B-1, C-4, D-2",
+      "A-3, B-4, C-1, D-2",
+      "A-2, B-4, C-1, D-3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct matches are: A. Golden Revolution - related to the increased production of Horticulture (fruits), Honey, and Flowers. B. Grey Revolution - related to increased fertilizer production. C. Pink Revolution - related to the technological revolution in the meat and poultry processing sector, specifically Onions and Prawns. D. Yellow Revolution - related to the sudden increase in the production of edible oilseeds.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "The 'Mains-Sera-Vatteluttu' script was an ancient script used primarily in which region of India?",
+    "options": [
+      "Northern India",
+      "Eastern India",
+      "Western India",
+      "Southern India"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vatteluttu, also known as Vattezhuttu, was an abugida script that originated from the ancient Tamil-Brahmi script. It was widely used in the southern parts of present-day Tamil Nadu and in Kerala. It was one of the three main scripts used to write the Tamil language.",
+    "topic": "Art and Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "What is 'Graphene'?",
+    "options": [
+      "A radioactive isotope of hydrogen.",
+      "A compound used in the manufacturing of plastics.",
+      "An allotrope of carbon consisting of a single layer of atoms arranged in a two-dimensional honeycomb lattice.",
+      "A new type of semiconductor material."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Graphene is a single layer of carbon atoms tightly bound in a hexagonal (honeycomb) lattice. It is the thinnest compound known to man at one atom thick, the lightest material known, the strongest compound discovered, and the best conductor of heat at room temperature. Its unique properties make it a subject of intense research for numerous applications.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "The 'Privy Purse' in the context of Indian history was:",
+    "options": [
+      "A special fund created for the Prime Minister's use.",
+      "A payment made to the rulers of the former princely states as part of their agreements to integrate with India.",
+      "A secret service fund for intelligence agencies.",
+      "A grant given to Members of Parliament."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Privy Purse was a grant or payment given by the Government of India to the rulers and royal families of the erstwhile princely states as part of the agreements by which they integrated their states with the Union of India in 1947-49. This practice was abolished in 1971 by the 26th Amendment to the Constitution.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The concept of a 'Curative Petition' was evolved by the Supreme Court of India in which case?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala",
+      "Maneka Gandhi v. Union of India",
+      "Rupa Ashok Hurra v. Ashok Hurra",
+      "Vishakha v. State of Rajasthan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The concept of the curative petition was first evolved by the Supreme Court in the case of Rupa Ashok Hurra v. Ashok Hurra (2002). It is the last judicial resort available for the redressal of grievances in court and is normally decided by judges in-chamber. It is a remedy established to prevent abuse of its process and to cure gross miscarriage of justice, considered after the dismissal of a review plea.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following describes 'Stalactites' and 'Stalagmites'?",
+    "options": [
+      "Types of volcanic rocks.",
+      "Rock formations found in desert landscapes.",
+      "Icicle-shaped formations that hang from the ceiling (stalactites) or grow from the floor (stalagmites) of a cave.",
+      "Columns of rock formed by coastal erosion."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stalactites and stalagmites are types of speleothems (cave formations). A stalactite is an icicle-shaped formation that hangs from the ceiling of a cave and is produced by the precipitation of minerals from water dripping through the cave ceiling. A stalagmite is an upward-growing mound of mineral deposits that have precipitated from water dripping onto the floor of a cave.",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "The 'Basel III' norms, often seen in the news, are international regulatory standards related to:",
+    "options": [
+      "Control of hazardous waste",
+      "Climate change mitigation",
+      "Bank capital adequacy, stress testing, and market liquidity risk",
+      "International trade tariffs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Basel Accords are a series of three sets of international banking regulations set by the Basel Committee on Bank Supervision (BCBS). Basel III is a comprehensive set of reform measures, developed in response to the 2008 financial crisis, to strengthen the regulation, supervision, and risk management of the banking sector. It focuses on increasing bank capital requirements and introducing new liquidity standards.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following were the key demands of the 'Home Rule Movement' started by Annie Besant and Bal Gangadhar Tilak?",
+    "options": [
+      "Complete independence from British rule.",
+      "Separate electorates for all communities.",
+      "Self-government for India within the British Empire.",
+      "The abolition of the Zamindari system."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Home Rule Movement (1916-1918) did not demand complete independence but aimed for 'Home Rule' or self-government for India on the lines of the White colonies like Canada and Australia, while remaining part of the British Empire. Its leaders, Tilak and Besant, used constitutional methods to agitate for this goal.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The 'Ramsar Convention' is an international treaty for the conservation and sustainable use of:",
+    "options": [
+      "Wetlands",
+      "Deserts",
+      "Coral Reefs",
+      "Tropical Rainforests"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Convention on Wetlands of International Importance, known as the Ramsar Convention, is an environmental treaty established in 1971 by UNESCO, which came into force in 1975. It provides for national action and international cooperation regarding the conservation of wetlands and wise sustainable use of their resources.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "The '44th Constitutional Amendment Act of 1978' made which significant change regarding Fundamental Rights?",
+    "options": [
+      "It added the Right to Education as a fundamental right.",
+      "It removed the Right to Property from the list of Fundamental Rights.",
+      "It suspended all Fundamental Rights during the Emergency.",
+      "It introduced the concept of Fundamental Duties."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 44th Amendment Act made several changes to undo the provisions of the 42nd Amendment. A key change was the deletion of the Right to Property from the list of Fundamental Rights (Part III) and making it a legal right under Article 300-A in Part XII of the Constitution. The Right to Education was added by the 86th Amendment, and Fundamental Duties were added by the 42nd Amendment.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "What is the 'Oort Cloud'?",
+    "options": [
+      "A collection of asteroids between Mars and Jupiter.",
+      "A hypothetical spherical cloud of icy planetesimals believed to surround the Sun at a vast distance.",
+      "The region of space dominated by a planet's magnetic field.",
+      "A cloud of gas and dust where new stars are formed."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Oort Cloud is a theoretical concept of a vast, spherical shell of icy objects believed to exist in the outermost reaches of our solar system. It is thought to be the origin of most long-period comets. It is named after Dutch astronomer Jan Oort, who hypothesized its existence.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The 'Din-i-Ilahi' (Religion of God) was a syncretic religion promulgated by which Mughal emperor?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Jahangir"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Akbar promulgated the Din-i-Ilahi in 1582. It was a syncretic creed that combined elements from many religions, including Islam, Hinduism, Christianity, and Zoroastrianism. The aim was to create a religion that would be acceptable to all and promote unity. It never gained a wide following and largely died with Akbar.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "A 'No-Confidence Motion' against the Union Government can be initiated in which house of the Parliament?",
+    "options": [
+      "The Lok Sabha only",
+      "The Rajya Sabha only",
+      "Either the Lok Sabha or the Rajya Sabha",
+      "A joint session of both Houses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to Article 75(3) of the Constitution, the Council of Ministers is collectively responsible only to the Lok Sabha. Therefore, a motion of no-confidence can only be introduced and passed in the Lok Sabha. If the motion is passed, the government must resign.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "What are 'TDRs' (Trade and Depositary Receipts) like ADRs and GDRs?",
+    "options": [
+      "A form of short-term government bond.",
+      "A type of mutual fund that invests in foreign stocks.",
+      "Negotiable certificates issued by a depository bank representing a certain number of shares of a foreign company's stock.",
+      "A digital currency used for international trade settlements."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Depository Receipts are negotiable financial instruments. An American Depositary Receipt (ADR) is a certificate issued by a U.S. depository bank representing a specified number of shares of a foreign company's stock. A Global Depositary Receipt (GDR) is similar but is listed and traded on stock exchanges outside the U.S. They allow investors to invest in foreign companies without the complexities of cross-border trading.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "The 'Satnami Rebellion' of 1672 was a major uprising against which Mughal Emperor?",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Jahangir"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Satnami rebellion was a significant revolt by a religious sect of peasants and cultivators in the Narnaul region (modern-day Haryana) against the Mughal Empire in 1672 during the reign of Aurangzeb. The uprising was triggered by a local dispute but quickly escalated into a major challenge to Mughal authority before being brutally suppressed.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Consider the following statements regarding the procedure for passing a 'Constitution Amendment Bill': 1. It can be introduced in either House of Parliament. 2. It must be passed in each House by a special majority. 3. There is no provision for holding a joint sitting in case of a deadlock. 4. Prior permission of the President is required for its introduction. Which of the statements are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement 4 is incorrect. A Constitution Amendment Bill can be introduced in Parliament without the prior permission of the President. The other three statements are correct. The bill can be initiated in either House, must be passed by a special majority (a majority of the total membership of the House and a majority of two-thirds of the members present and voting), and there is no provision for a joint sitting to resolve a disagreement between the two Houses.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 87,
+    "question": "The 'Second Administrative Reforms Commission' (ARC), chaired by Veerappa Moily, made recommendations on several aspects of governance. Which of the following was the title of its report on 'Ethics in Governance'?",
+    "options": [
+      "Promoting e-Governance: The SMART Way Forward",
+      "Right to Information: Master Key to Good Governance",
+      "Ethics in Governance",
+      "Citizen Centric Administration: The Heart of Governance"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Second ARC submitted 15 reports on various aspects of governance. The fourth report, submitted in 2007, was titled 'Ethics in Governance'. It dealt with issues like the legal framework for fighting corruption, institutional mechanisms like the Lokpal, and reforms in the civil services.",
+    "topic": "Indian Polity",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 88,
+    "question": "What is the 'Heckscher-Ohlin model' in international trade theory?",
+    "options": [
+      "A model that argues countries should export goods they can produce more efficiently than other countries.",
+      "A model that states a country will export goods that make intensive use of the factors of production that are locally abundant.",
+      "A model that explains trade based on economies of scale and product differentiation.",
+      "A model predicting that trade will equalize the wages of workers across countries."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Heckscher-Ohlin model, also known as the factor proportions theory, is a general equilibrium mathematical model of international trade. It builds on David Ricardo's theory of comparative advantage by predicting patterns of commerce and production based on the factor endowments of a trading region. The model essentially states that countries will export products that use their abundant and cheap factors of production and import products that use the countries' scarce factors.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 89,
+    "question": "The 'Treaty of Yandabo' signed in 1826 concluded which of the following wars?",
+    "options": [
+      "First Anglo-Maratha War",
+      "First Anglo-Sikh War",
+      "First Anglo-Burmese War",
+      "Third Anglo-Mysore War"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Treaty of Yandabo was the peace treaty that ended the First Anglo-Burmese War (1824-1826). The treaty was signed by the British and the Kingdom of Ava (Burma). According to the treaty, the Burmese agreed to cede territories including Assam, Manipur, and Arakan to the British and pay a large indemnity. It marked the beginning of the end of Burmese independence.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following describes the 'Doctrine of Colourable Legislation'?",
+    "options": [
+      "A law that is passed by a legislature that is not competent to pass it, by disguising it as a law on a subject within its competence.",
+      "The principle that a law should not be applied retrospectively to harm an individual.",
+      "The doctrine that allows a court to sever an unconstitutional part of a law from the rest.",
+      "The principle that fundamental rights cannot be waived by an individual."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Doctrine of Colourable Legislation is based on the maxim 'what cannot be done directly, cannot be done indirectly'. It is used to scrutinize the legislative power of a legislature. If a legislature is prohibited from legislating on a particular subject, it cannot make a law on that subject by pretending it is legislating on a different subject that is within its powers. The court will look at the substance of the law, not just its form, to determine its true nature.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 91,
+    "question": "What is 'Brownfield Investment' as opposed to 'Greenfield Investment'?",
+    "options": [
+      "Investment in environmentally harmful industries vs. investment in green technologies.",
+      "Investment by domestic companies vs. investment by foreign companies.",
+      "Investment to acquire or upgrade an existing facility vs. investment to build a new facility from the ground up.",
+      "Investment in the primary sector vs. investment in the tertiary sector."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the context of Foreign Direct Investment (FDI), a 'Greenfield' investment is when a parent company starts a new venture in a foreign country by constructing new operational facilities from the ground up. In contrast, a 'Brownfield' investment is when a company or government entity purchases or leases existing production facilities to launch a new production activity. It involves acquiring or merging with an existing firm.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 92,
+    "question": "The 'Parthenon' is an iconic ancient temple located on the Acropolis in which city?",
+    "options": [
+      "Rome, Italy",
+      "Athens, Greece",
+      "Cairo, Egypt",
+      "Istanbul, Turkey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Parthenon is a former temple on the Athenian Acropolis, Greece, dedicated to the goddess Athena, whom the people of Athens considered their patron. Construction began in 447 BC when the Athenian Empire was at the peak of its power. It is the most important surviving building of Classical Greece and is regarded as an enduring symbol of ancient Greece and Athenian democracy.",
+    "topic": "World History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 93,
+    "question": "What does the 'Meissner effect' demonstrate?",
+    "options": [
+      "The ability of a fluid to flow without viscosity at temperatures near absolute zero.",
+      "The expulsion of a magnetic field from a superconductor during its transition to the superconducting state.",
+      "The generation of a voltage across an electrical conductor when a magnetic field is applied perpendicular to the current flow.",
+      "The emission of electrons from a metal surface when light is shone on it."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Meissner effect is a defining characteristic of superconductivity. It is the phenomenon of the complete expulsion of magnetic flux lines from the interior of a superconductor as it transitions into the superconducting state. This effect is responsible for the levitation of magnets above superconducting materials.",
+    "topic": "General Science",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 94,
+    "question": "The 'Shanghai Cooperation Organisation' (SCO) is a Eurasian political, economic, and security alliance. Which of the following countries are its full members?",
+    "options": [
+      "India, Pakistan, Japan, and South Korea",
+      "China, Russia, India, Pakistan, and Central Asian Republics",
+      "USA, UK, France, and Germany",
+      "Iran, Turkey, Saudi Arabia, and Egypt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The SCO is a major regional security bloc. Its full members are China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, India, and Pakistan. India and Pakistan were admitted as full members in 2017. Iran is in the process of becoming a full member. Japan and the USA are observer states or dialogue partners, not full members.",
+    "topic": "International Relations",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 95,
+    "question": "The 'M. M. Punchhi Commission' on Centre-State Relations made several recommendations. Which of the following was a key recommendation regarding the appointment and removal of Governors?",
+    "options": [
+      "The Governor should be an eminent person from outside the state and should not be active in politics.",
+      "Governors should have a fixed tenure of five years which should not be disturbed except for proven misbehaviour.",
+      "The procedure of impeachment for the President should be made applicable for the removal of Governors.",
+      "All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three were key recommendations of the Punchhi Commission aimed at protecting the independence and dignity of the Governor's office. It suggested that Governors should not be removed at the will of the central government and proposed a resolution by the state legislature or a procedure similar to presidential impeachment for their removal, along with ensuring they have a fixed tenure and are apolitical figures.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 96,
+    "question": "The 'Hartog Committee' of 1929 was appointed to report on:",
+    "options": [
+      "The working of the dyarchy system introduced by the Act of 1919.",
+      "The growth of education in British India and to make recommendations for its improvement.",
+      "The causes of the peasant uprisings in the United Provinces.",
+      "The reform of the Indian civil services."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Hartog Committee was appointed by the British Indian government in 1929 to survey the growth of education in India. It was set up as an auxiliary committee to the Simon Commission. The committee highlighted issues like the large number of dropouts at the primary level (wastage and stagnation) and recommended focusing on consolidation rather than expansion of primary education.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 97,
+    "question": "What is the 'Schumann Resonance'?",
+    "options": [
+      "A pattern of seismic waves that travel around the Earth's core.",
+      "A set of spectrum peaks in the extremely low frequency (ELF) portion of the Earth's electromagnetic field spectrum.",
+      "The tidal force exerted by the Sun and Moon on the Earth's oceans.",
+      "The oscillation of the Earth's magnetic field."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Schumann resonances are a set of global electromagnetic resonances, generated and excited by lightning discharges in the cavity formed by the Earth's surface and the ionosphere. These are a set of spectrum peaks in the Extremely Low Frequency (ELF) band, with the fundamental frequency around 7.83 Hz. They are effectively the 'heartbeat' of the Earth's electromagnetic field.",
+    "topic": "Science and Technology",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 98,
+    "question": "The 'Indradhanush' framework announced by the Government of India is aimed at revamping which of the following?",
+    "options": [
+      "The taxation system.",
+      "The functioning of Public Sector Banks.",
+      "The national highway network.",
+      "The primary education system."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mission Indradhanush was launched in 2015 as a comprehensive framework to revamp Public Sector Banks (PSBs). It consisted of a seven-pronged plan (symbolizing the seven colors of the rainbow) that included appointments, capitalization, de-stressing PSBs, empowerment, framework of accountability, and governance reforms (by setting up a Bank Board Bureau).",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 99,
+    "question": "The 'United Nations Convention on the Law of the Sea' (UNCLOS) establishes a comprehensive legal framework for all activities in the oceans and seas. Which of the following is NOT a maritime zone defined under UNCLOS?",
+    "options": [
+      "Territorial Sea",
+      "Contiguous Zone",
+      "Exclusive Economic Zone (EEZ)",
+      "International Security Zone"
+    ],
+    "correctAnswer": 3,
+    "explanation": "UNCLOS defines several maritime zones. The Territorial Sea extends up to 12 nautical miles from the baseline. The Contiguous Zone extends a further 12 nautical miles (24 nm from baseline). The Exclusive Economic Zone (EEZ) extends up to 200 nautical miles from the baseline. There is no such zone defined as an 'International Security Zone' under UNCLOS. The area beyond the EEZ is known as the High Seas.",
+    "topic": "International Relations",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 100,
+    "question": "Article 244 of the Indian Constitution and the Fifth and Sixth Schedules deal with the administration of certain areas. What is the key difference between the areas covered under the Fifth and Sixth Schedules?",
+    "options": [
+      "The Fifth Schedule applies to union territories, while the Sixth Schedule applies to states.",
+      "The Fifth Schedule deals with 'Scheduled Areas' across several states, while the Sixth Schedule deals with 'Tribal Areas' in four specific northeastern states, granting them greater autonomy.",
+      "The Fifth Schedule areas are administered directly by the central government, while the Sixth Schedule areas are administered by the states.",
+      "There is no fundamental difference in the administrative framework of the two schedules."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The key distinction is the degree of autonomy. The Fifth Schedule provides for the administration and control of 'Scheduled Areas' and 'Scheduled Tribes' in any state except the four states of Assam, Meghalaya, Tripura, and Mizoram. The Sixth Schedule deals with the administration of the 'Tribal Areas' in these four specific northeastern states. It provides for a more autonomous form of governance through Autonomous District Councils (ADCs) that have significant legislative, judicial, and executive powers.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  }
+]
+
+export const MOCK_TEST_11_QUESTIONS =[
+  {
+    "id": 1,
+    "question": "Which Mughal Emperor is credited with the construction of the Jama Masjid in Delhi?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Jama Masjid, one of India's largest mosques, was built by the Mughal Emperor Shah Jahan between 1650 and 1656. It is a prime example of Mughal architecture, a style that combines elements from Islamic, Persian, and Indian architectural traditions. Shah Jahan is also renowned for building the Taj Mahal and the Red Fort.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The 'Right to Education' was inserted as a Fundamental Right in the Indian Constitution through which amendment?",
+    "options": [
+      "42nd Amendment Act",
+      "44th Amendment Act",
+      "86th Amendment Act",
+      "91st Amendment Act"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 86th Amendment Act of 2002 added Article 21A to the Constitution, making free and compulsory education for children between the ages of 6 and 14 a Fundamental Right. This amendment also modified Article 45 (a Directive Principle) and added a new fundamental duty under Article 51A.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which is the longest river that flows entirely within India?",
+    "options": [
+      "Ganges",
+      "Godavari",
+      "Narmada",
+      "Brahmaputra"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Godavari River is the longest river that has its source and mouth entirely within the territory of India. While the Ganges is longer, a significant part of its course is in Bangladesh. The Brahmaputra is also longer but flows through Tibet and Bangladesh as well. The Godavari originates in Maharashtra and flows into the Bay of Bengal.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The instrument used to measure atmospheric pressure is called:",
+    "options": [
+      "Hygrometer",
+      "Anemometer",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A barometer is the scientific instrument used to measure atmospheric pressure. A hygrometer measures humidity, an anemometer measures wind speed, and a thermometer measures temperature.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Who was the first Indian woman to win a medal at the Olympics?",
+    "options": [
+      "P.T. Usha",
+      "Karnam Malleswari",
+      "Mary Kom",
+      "Saina Nehwal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Karnam Malleswari was the first Indian woman to win an Olympic medal. She won the bronze medal in weightlifting in the 69 kg category at the 2000 Sydney Olympics.",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The concept of 'Zero Hour' in the Indian Parliament refers to:",
+    "options": [
+      "The first hour of a sitting of the House.",
+      "The time just before the question hour.",
+      "The interval between the question hour and the agenda for the day.",
+      "The last hour of the day's session."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zero Hour is an Indian parliamentary innovation. It is the time immediately following the Question Hour and before the regular business of the House is taken up. During this time, members can raise matters of urgent public importance without any prior notice.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "The ancient city of 'Pataliputra' is the modern-day equivalent of which city?",
+    "options": [
+      "Varanasi",
+      "Patna",
+      "Prayagraj (Allahabad)",
+      "Lucknow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pataliputra, a city in ancient India, was originally built by Magadha ruler Ajatashatru in 490 BCE as a small fort. It served as the capital of major powers in ancient India, such as the Maurya Empire and the Gupta Empire. The modern city of Patna is located on the site of ancient Pataliputra.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is responsible for converting milk into curd?",
+    "options": [
+      "Fungus",
+      "Virus",
+      "Bacteria",
+      "Algae"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The conversion of milk to curd is a fermentation process carried out by Lactobacillus bacteria. These bacteria convert the lactose (milk sugar) into lactic acid, which causes the milk protein (casein) to coagulate, forming curd.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "The headquarters of the World Trade Organization (WTO) is located in:",
+    "options": [
+      "New York, USA",
+      "Paris, France",
+      "Geneva, Switzerland",
+      "London, UK"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The World Trade Organization (WTO) is an intergovernmental organization that regulates and facilitates international trade. Its headquarters is located in Geneva, Switzerland. The WTO officially commenced in 1995 under the Marrakesh Agreement, replacing the General Agreement on Tariffs and Trade (GATT).",
+    "topic": "International Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The 'Chauri Chaura' incident, which led Mahatma Gandhi to call off the Non-Cooperation Movement, occurred in which modern Indian state?",
+    "options": [
+      "Bihar",
+      "West Bengal",
+      "Uttar Pradesh",
+      "Gujarat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Chauri Chaura incident took place on 4 February 1922 at Chauri Chaura in the Gorakhpur district of the United Province (modern-day Uttar Pradesh). A large group of protesters participating in the Non-Cooperation Movement clashed with police who opened fire. In retaliation, the demonstrators attacked and set fire to a police station, killing all of its occupants. Citing this violence, Mahatma Gandhi halted the movement on a national level.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "options": [
+      "The President of India",
+      "The Prime Minister of India",
+      "The Vice-President of India",
+      "The Speaker of the Lok Sabha"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha (Council of States). This means that whoever holds the office of the Vice-President automatically presides over the sessions of the Rajya Sabha.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "The 'Kaziranga National Park' in Assam is famous for which animal?",
+    "options": [
+      "Asiatic Lion",
+      "Royal Bengal Tiger",
+      "One-Horned Rhinoceros",
+      "Asian Elephant"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kaziranga National Park, a UNESCO World Heritage Site, is located in the state of Assam. It hosts two-thirds of the world's great one-horned rhinoceroses and is also a Tiger Reserve. It has one of the highest densities of tigers among protected areas in the world.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The deficiency of which vitamin causes the disease 'Pellagra'?",
+    "options": [
+      "Vitamin B1 (Thiamine)",
+      "Vitamin B3 (Niacin)",
+      "Vitamin B6 (Pyridoxine)",
+      "Vitamin B12 (Cobalamin)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pellagra is a disease caused by a lack of the vitamin niacin (Vitamin B3). It is characterized by the '3 Ds'—dermatitis, diarrhea, and dementia—and can lead to death if left untreated.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following bodies is responsible for regulating the insurance sector in India?",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Securities and Exchange Board of India (SEBI)",
+      "Insurance Regulatory and Development Authority of India (IRDAI)",
+      "Pension Fund Regulatory and Development Authority (PFRDA)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) is the autonomous, statutory body tasked with regulating and promoting the insurance and re-insurance industries in India. RBI regulates banks, SEBI regulates the securities market, and PFRDA regulates the pension sector.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "The 'Gobi Desert' is primarily located in which two countries?",
+    "options": [
+      "India and Pakistan",
+      "Russia and Kazakhstan",
+      "China and Mongolia",
+      "Iran and Afghanistan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Gobi Desert is a large, cold desert region in East Asia. It covers parts of Northern and Northeastern China and of Southern Mongolia. It is notable in history as part of the great Mongol Empire and the location of several important cities along the Silk Road.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "Who was the author of the epic 'Mahabharata'?",
+    "options": [
+      "Valmiki",
+      "Tulsidas",
+      "Kalidasa",
+      "Ved Vyasa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Traditionally, the authorship of the Mahabharata, one of the two major Sanskrit epics of ancient India, is attributed to Ved Vyasa. Valmiki is credited with writing the Ramayana, the other major epic.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The 'Battle of Plassey' in 1757 was fought between the British East India Company and:",
+    "options": [
+      "Tipu Sultan, the ruler of Mysore",
+      "Siraj-ud-Daulah, the Nawab of Bengal",
+      "The Maratha Empire",
+      "The Mughal Emperor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Battle of Plassey was a decisive victory of the British East India Company, led by Robert Clive, over the Nawab of Bengal, Siraj-ud-Daulah, and his French allies. The battle consolidated the Company's presence in Bengal, which later expanded to cover much of India.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "What does a 'Light Year' measure?",
+    "options": [
+      "Time",
+      "Distance",
+      "Intensity of light",
+      "Speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A light-year is a unit of astronomical distance. It is defined as the distance that light travels in a vacuum in one Julian year (365.25 days). It is approximately equal to 9.46 trillion kilometres.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Which article of the Indian Constitution deals with the 'Right to Constitutional Remedies'?",
+    "options": [
+      "Article 19",
+      "Article 21",
+      "Article 32",
+      "Article 51A"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article 32 gives citizens the right to move the Supreme Court directly for the enforcement of their Fundamental Rights. Dr. B.R. Ambedkar called this article the 'heart and soul' of the Constitution, as it makes the other rights effective.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "The 'Kyoto Protocol' is an international agreement related to:",
+    "options": [
+      "Protecting the Ozone Layer",
+      "Combating Climate Change",
+      "Conserving Biodiversity",
+      "Controlling Nuclear Proliferation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Kyoto Protocol, adopted in Kyoto, Japan, in 1997, is an international treaty that commits its parties by setting internationally binding emission reduction targets. It is aimed at combating global warming by reducing greenhouse gas concentrations in the atmosphere.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "The Indus Valley Civilization is also known as:",
+    "options": [
+      "Mesopotamian Civilization",
+      "Harappan Civilization",
+      "Egyptian Civilization",
+      "Vedic Civilization"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indus Valley Civilization is often called the Harappan Civilization because Harappa was the first of its cities to be excavated in the 1920s, in what was then the Punjab province of British India and is now in Pakistan.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "In the human body, the pituitary gland is located in the:",
+    "options": [
+      "Neck",
+      "Abdomen",
+      "Brain",
+      "Chest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pituitary gland is a small, pea-sized gland located at the base of the brain, just behind the bridge of the nose. It is often called the 'master gland' because it controls the functions of many other endocrine glands.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Who was the first Law and Justice Minister of independent India?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "C. Rajagopalachari",
+      "Maulana Abul Kalam Azad",
+      "Dr. B.R. Ambedkar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dr. B.R. Ambedkar served as the first Law and Justice Minister of independent India in Jawaharlal Nehru's cabinet from 1947 to 1951. During this time, he also chaired the Drafting Committee of the Constituent Assembly.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "'Equinox' refers to the date when:",
+    "options": [
+      "The duration of the day is the longest.",
+      "The duration of the night is the longest.",
+      "The durations of day and night are equal.",
+      "The Earth is closest to the Sun."
+    ],
+    "correctAnswer": 2,
+    "explanation": "An equinox occurs twice a year (around March 20 and September 22) when the Sun is directly above the Equator. On these days, the lengths of day and night are nearly equal all over the world. 'Solstice' refers to the longest and shortest days of the year.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "What is the primary objective of the 'Pradhan Mantri Jan Dhan Yojana' (PMJDY)?",
+    "options": [
+      "To provide housing for all.",
+      "To ensure financial inclusion by providing access to financial services.",
+      "To provide free health insurance to the poor.",
+      "To promote skill development among the youth."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is India's National Mission for Financial Inclusion. Its primary objective is to ensure access to a range of financial services like bank accounts, remittance, credit, insurance, and pension for all households in the country.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The power of the Parliament of India to amend the Constitution is provided in which article?",
+    "options": [
+      "Article 13",
+      "Article 226",
+      "Article 352",
+      "Article 368"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Article 368 in Part XX of the Constitution deals with the power of the Parliament to amend the Constitution and the procedure for it. It specifies different types of majorities required for amending different provisions, such as a special majority of Parliament and also the consent of half of the state legislatures for certain provisions.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Consider the following statements about the 'Khilafat Movement': 1. It was launched to protest against the harsh treaty imposed on the Ottoman Caliph after World War I. 2. It was led by the Ali brothers, Shaukat Ali and Mohammad Ali. 3. Mahatma Gandhi supported the movement as a way to unite Hindus and Muslims. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. The Khilafat Movement (1919-1924) was a pan-Islamist political protest by Muslims in British India to restore the caliph of the Ottoman Caliphate. It was led by the Ali brothers, and Mahatma Gandhi saw it as an opportunity to bring Muslims into the mainstream of the Indian nationalist movement, forging Hindu-Muslim unity against the British.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "What is the difference between a 'National Park' and a 'Wildlife Sanctuary' in India?",
+    "options": [
+      "National Parks are for flora, while Wildlife Sanctuaries are for fauna.",
+      "No human activity is allowed in a National Park, whereas limited activities are permitted in a Wildlife Sanctuary.",
+      "Wildlife Sanctuaries have statutory backing, while National Parks do not.",
+      "There is no significant difference between the two."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The main difference lies in the level of protection and permitted activities. National Parks have a higher degree of protection. All activities like grazing, forestry, and cultivation are strictly prohibited. In a Wildlife Sanctuary, certain human activities might be allowed, so long as they do not interfere with the well-being of the animals. Both are established under the Wildlife (Protection) Act, 1972.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "What is the 'Doppler Effect'?",
+    "options": [
+      "The bending of light as it passes around an object.",
+      "The change in frequency of a wave in relation to an observer who is moving relative to the wave source.",
+      "The process of splitting light into its constituent colors.",
+      "The emission of electrons from a metal when light shines on it."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Doppler Effect is the apparent change in the frequency of a wave caused by the relative motion between the source of the wave and the observer. A common example is the change in pitch of a siren as an ambulance passes by; the pitch is higher as it approaches and lower as it moves away.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following are part of the 'Capital Account' in a country's Balance of Payments? 1. Foreign Direct Investment (FDI), 2. Foreign Portfolio Investment (FPI), 3. External Commercial Borrowings, 4. Trade in services.",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Capital Account records all international transactions of assets. FDI, FPI, and various loans like External Commercial Borrowings are capital transactions. Trade in services, like trade in goods, is part of the 'Current Account', which records the flow of goods, services, and income.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The 'Gandhara School of Art', which flourished during the Kushan period, was a blend of which two art styles?",
+    "options": [
+      "Indian and Persian",
+      "Indian and Chinese",
+      "Indian and Greco-Roman",
+      "Persian and Greco-Roman"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Gandhara School of Art is a style of Buddhist visual art that developed in what is now northwestern Pakistan and eastern Afghanistan between the 1st century BCE and the 7th century CE. The style is a unique blend of Indian themes and Greco-Roman artistic influences, often depicting the Buddha with features reminiscent of Greek sculptures.",
+    "topic": "Art and Culture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "What is the purpose of a 'Cut Motion' in the Indian Parliament?",
+    "options": [
+      "To end a debate on a bill.",
+      "To propose a cut in the salary of ministers.",
+      "To express disapproval of a policy or demand for a grant in the budget.",
+      "To postpone the discussion of a bill."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Cut Motion is a power given to members of the Lok Sabha to oppose a demand in the financial bill discussed by the government. If a cut motion is passed, it signifies a vote of no-confidence, and the government is expected to resign. There are three types: Policy Cut, Economy Cut, and Token Cut.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following are west-flowing rivers in Peninsular India? 1. Narmada, 2. Mahanadi, 3. Tapti (Tapi), 4. Krishna.",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Narmada and Tapti (Tapi) are the two major west-flowing rivers of Peninsular India that flow into the Arabian Sea. They flow through rift valleys. The Mahanadi and Krishna are major east-flowing rivers that drain into the Bay of Bengal.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "The 'Ryder Cup' is a famous international trophy associated with which sport?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Badminton",
+      "Hockey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Ryder Cup is a biennial men's golf competition between teams from Europe and the United States. The competition is contested every two years with the venue alternating between courses in the USA and Europe.",
+    "topic": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "With respect to the solar system, what are 'Jovian planets'?",
+    "options": [
+      "Planets that are smaller and rocky, like Earth.",
+      "Planets that have rings around them.",
+      "The four outermost planets—Jupiter, Saturn, Uranus, and Neptune.",
+      "Planets that orbit outside the asteroid belt."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Jovian planets, or gas giants, are the four planets farthest from the Sun: Jupiter, Saturn, Uranus, and Neptune. They are named after Jupiter and are characterized by their large size, low density, and gaseous composition (primarily hydrogen and helium), as opposed to the smaller, rocky 'terrestrial planets' (Mercury, Venus, Earth, Mars).",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "The famous 'Round Table Conferences' held in London between 1930 and 1932 were organized to discuss:",
+    "options": [
+      "India's demand for complete independence.",
+      "The partition of India.",
+      "Future constitutional reforms in India.",
+      "The outbreak of the Second World War."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The three Round Table Conferences were a series of peace conferences organized by the British Government and Indian political personalities to discuss constitutional reforms in India. These discussions were based on the report of the Simon Commission.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "What is 'Fiscal Consolidation'?",
+    "options": [
+      "The process of merging public sector banks.",
+      "A government policy of increasing expenditure to boost the economy.",
+      "Policies undertaken by a government to reduce its deficits and debt accumulation.",
+      "The integration of the national economy with the global economy."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fiscal consolidation refers to the concrete policies and actions aimed at reducing the government's fiscal deficit and public debt. It is usually achieved by improving revenue collection (e.g., through tax reforms) and rationalizing public expenditure.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The 'Montreal Protocol' is an international treaty designed to:",
+    "options": [
+      "Reduce greenhouse gas emissions.",
+      "Protect the ozone layer by phasing out the production of ozone-depleting substances.",
+      "Conserve biodiversity and endangered species.",
+      "Control the transboundary movement of hazardous wastes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is a landmark international agreement signed in 1987. It is designed to protect the stratospheric ozone layer by phasing out the production and consumption of ozone-depleting substances like chlorofluorocarbons (CFCs). It is considered one of the most successful environmental treaties.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Which committee recommended the three-tier structure of Panchayati Raj in India?",
+    "options": [
+      "Ashok Mehta Committee",
+      "G.V.K. Rao Committee",
+      "L.M. Singhvi Committee",
+      "Balwant Rai Mehta Committee"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Balwant Rai Mehta Committee, appointed in 1957, was the first to recommend the establishment of a three-tier Panchayati Raj system: Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level. The Ashok Mehta Committee later recommended a two-tier system.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "In the context of Buddhism, what does 'Mahayana' mean?",
+    "options": [
+      "The 'Lesser Vehicle', emphasizing individual liberation.",
+      "The 'Great Vehicle', emphasizing the salvation of all beings.",
+      "The 'Diamond Vehicle', a form of Tantric Buddhism.",
+      "The original teachings of the Buddha as recorded in the Pali Canon."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buddhism is primarily divided into two major branches: Theravada and Mahayana. Mahayana, which means 'Great Vehicle', is a later tradition that emerged around the 1st century CE. It introduced the concept of the Bodhisattva, an enlightened being who delays their own nirvana to help all sentient beings achieve enlightenment. Theravada is often referred to as the 'School of the Elders' or sometimes pejoratively as 'Hinayana' (Lesser Vehicle).",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "What is 'Near Field Communication' (NFC)?",
+    "options": [
+      "A long-range satellite communication technology.",
+      "A technology for connecting devices to the internet via light waves.",
+      "A set of communication protocols for connection between two electronic devices over a short distance.",
+      "A method for broadcasting radio signals over a wide area."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Near Field Communication (NFC) is a short-range wireless technology that allows for communication between devices when they're brought within a few centimeters of each other. It is commonly used for contactless payments, data transfer (e.g., sharing photos by tapping phones), and pairing Bluetooth devices.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The concept of 'Concurrent List' in the Indian Constitution was borrowed from the constitution of which country?",
+    "options": [
+      "Canada",
+      "Australia",
+      "Germany (Weimar)",
+      "Ireland"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian Constitution features a three-fold distribution of legislative subjects between the Union and the States, viz., Union List, State List, and Concurrent List. The concept of the Concurrent List, on which both the Parliament and state legislatures can make laws, was borrowed from the Constitution of Australia.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "The 'Laurasia' and 'Gondwana' landmasses were formed by the breakup of which supercontinent?",
+    "options": [
+      "Rodinia",
+      "Pannotia",
+      "Pangaea",
+      "Columbia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pangaea was a supercontinent that existed during the late Paleozoic and early Mesozoic eras. Around 175 million years ago, it began to break apart. It first split into two smaller supercontinents: Laurasia in the north (which would become North America, Europe, and Asia) and Gondwana in the south (which would become South America, Africa, Antarctica, Australia, and the Indian subcontinent).",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Who was the Viceroy of India when the Indian National Congress was founded in 1885?",
+    "options": [
+      "Lord Ripon",
+      "Lord Dufferin",
+      "Lord Curzon",
+      "Lord Lytton"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian National Congress was founded in December 1885 by A.O. Hume. At that time, Lord Dufferin was the Viceroy of India (1884-1888). Initially, he had a neutral attitude towards the Congress but later became hostile to it.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "What is the 'Gini Coefficient' used to measure?",
+    "options": [
+      "The rate of inflation.",
+      "The level of poverty.",
+      "The degree of income or wealth inequality within a population.",
+      "The rate of economic growth."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Gini coefficient is a statistical measure of economic inequality, representing the income or wealth distribution of a nation's residents. It ranges from 0 to 1, where 0 represents perfect equality (everyone has the same income) and 1 represents perfect inequality (one person has all the income, and everyone else has zero).",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "The process by which plants release water vapor through stomata into the atmosphere is known as:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Guttation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transpiration is the process where plants absorb water through the roots and then give off water vapor through pores (stomata) in their leaves. It is a crucial part of the water cycle. Guttation is the exudation of drops of xylem sap on the tips or edges of leaves, which is different from transpiration.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following Fundamental Rights are available only to the citizens of India and not to foreigners?",
+    "options": [
+      "Right to equality before the law (Article 14).",
+      "Protection of life and personal liberty (Article 21).",
+      "Right to freedom of speech and expression (Article 19).",
+      "Right to freedom of religion (Article 25)."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Some fundamental rights are available to all persons (citizens and foreigners), while others are available only to citizens. Article 19, which includes the right to freedom of speech and expression, is guaranteed only to citizens of India. Articles 14, 21, and 25 are available to all persons residing within the territory of India.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Who among the following propounded the theory of 'Economic Drain' from India to Britain during the colonial rule?",
+    "options": [
+      "R. C. Dutt",
+      "M. G. Ranade",
+      "G. K. Gokhale",
+      "Dadabhai Naoroji"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dadabhai Naoroji, known as the 'Grand Old Man of India', was the first to articulate the 'Drain Theory' in his book 'Poverty and Un-British Rule in India'. He argued that Britain was systematically draining wealth from India through exploitative economic policies, which was the primary cause of India's poverty.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The term 'Blue Revolution' is associated with:",
+    "options": [
+      "Increased production of milk.",
+      "Increased production of eggs.",
+      "Increased production of food grains.",
+      "Increased production of fish and marine products."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The 'Blue Revolution' refers to the remarkable emergence of aquaculture as an important and highly productive agricultural activity. It aims to increase the production of fish and marine products through the adoption of new technologies. The 'White Revolution' is related to milk, and the 'Green Revolution' to food grains.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "The 'Lithosphere' consists of:",
+    "options": [
+      "The upper part of the mantle only.",
+      "The crust and the core.",
+      "The crust and the uppermost part of the mantle.",
+      "The mantle and the core."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The lithosphere is the rigid, outermost shell of a terrestrial-type planet or natural satellite. On Earth, it is composed of the crust and the portion of the upper mantle that behaves elastically on time scales of thousands of years or greater. It is broken into tectonic plates.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "The 'Preamble' to the Indian Constitution has been amended how many times so far?",
+    "options": [
+      "Never",
+      "Once",
+      "Twice",
+      "Thrice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Preamble to the Indian Constitution has been amended only once so far. This was done by the 42nd Constitutional Amendment Act of 1976, which added three new words—'Socialist', 'Secular', and 'Integrity'—to the Preamble.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "Who is considered the founder of the 'Gupta Dynasty'?",
+    "options": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Sri Gupta",
+      "Chandragupta II (Vikramaditya)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sri Gupta is generally regarded as the founder of the Gupta dynasty. He ruled in the late 3rd century CE. However, the first emperor of the dynasty to hold the title of Maharajadhiraja ('king of great kings') was Chandragupta I, who is considered the founder of the Gupta Era.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "The phenomenon of 'Bioluminescence' is:",
+    "options": [
+      "The reflection of light by living organisms.",
+      "The production and emission of light by a living organism.",
+      "The absorption of light for energy by an organism.",
+      "The change in an organism's color to match its surroundings."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bioluminescence is the production and emission of light by a living organism as the result of a chemical reaction. It is a form of chemiluminescence and is widespread in marine vertebrates and invertebrates, as well as in some fungi, microorganisms including some bacteria, and terrestrial arthropods such as fireflies.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is NOT one of the 'eight core industries' used for calculating the Index of Industrial Production (IIP) in India?",
+    "options": [
+      "Coal",
+      "Electricity",
+      "Textiles",
+      "Fertilizers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The eight core industries are Electricity, Steel, Refinery Products, Crude Oil, Coal, Cement, Natural Gas, and Fertilizers. These sectors have a combined weight of 40.27% in the Index of Industrial Production (IIP). The Textiles industry is not part of this core group.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "The 'National Commission for Backward Classes' (NCBC) was given constitutional status through which Constitutional Amendment Act?",
+    "options": [
+      "100th Amendment Act",
+      "101st Amendment Act",
+      "102nd Amendment Act",
+      "103rd Amendment Act"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 102nd Constitutional Amendment Act of 2018 granted constitutional status to the National Commission for Backward Classes (NCBC). It inserted Article 338B into the constitution, which provides for the NCBC's composition, mandate, and powers, and Article 342A which empowers the President to notify the list of socially and educationally backward classes of a state/union territory.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "With reference to the Supreme Court's judgments, what is the 'Collegium System'?",
+    "options": [
+      "A system for the appointment and transfer of judges that has evolved through judgments of the Supreme Court.",
+      "A mechanism for resolving disputes between the Centre and States.",
+      "The process of judicial review of constitutional amendments.",
+      "A body that advises the President on legal matters."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Collegium System is the system for the appointment and transfer of judges in the higher judiciary of India. It is not rooted in the text of the Constitution but has evolved through a series of Supreme Court judgments, primarily the 'Three Judges Cases'. The collegium is headed by the Chief Justice of India and comprises four other senior-most judges of the Supreme Court.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "Arrange the following historical events in chronological order: 1. Cripps Mission, 2. Quit India Movement, 3. Cabinet Mission, 4. Formation of Interim Government.",
+    "options": [
+      "1-3-2-4",
+      "1-2-3-4",
+      "2-1-3-4",
+      "2-3-1-4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct chronological order is: 1. Cripps Mission (March 1942), which tried to secure Indian cooperation for the British war effort. 2. Quit India Movement (August 1942), launched by Gandhi after the failure of the Cripps Mission. 3. Cabinet Mission (May 1946), which came to discuss the transfer of power. 4. Formation of Interim Government (September 1946), with Jawaharlal Nehru as Vice-President.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "What is meant by 'Liquidity Trap' in Keynesian economics?",
+    "options": [
+      "A situation where high inflation makes cash holdings worthless.",
+      "A situation where a central bank's injection of money into the banking system fails to decrease interest rates.",
+      "A situation where commercial banks have excess liquidity but are unwilling to lend.",
+      "A scenario where foreign investment dries up, causing a currency crisis."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A liquidity trap is a situation, described in Keynesian economics, in which monetary policy becomes ineffective because the nominal interest rate is at or near zero. In such a scenario, people hoard cash rather than investing or spending it, as they believe interest rates cannot fall further, making bond prices likely to fall. Thus, adding more liquidity to the economy does not stimulate it.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "Consider the following statements about 'Ocean Acidification': 1. It is primarily caused by the ocean absorbing carbon dioxide (CO2) from the atmosphere. 2. It leads to a decrease in the pH of the ocean. 3. It adversely affects marine organisms like corals and shellfish by making it harder for them to build their skeletons and shells. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three statements are correct. When carbon dioxide from the atmosphere dissolves in seawater, it forms carbonic acid. This process increases the acidity of the water, which corresponds to a decrease in its pH value. This increased acidity reduces the availability of carbonate ions, which are essential building blocks for corals, shellfish, and many other marine organisms to form their protective shells and skeletons.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Assertion (A): The President of India is not answerable to any court for the exercise of the powers and duties of his office. Reason (R): The President acts on the aid and advice of the Council of Ministers, which is collectively responsible to the Lok Sabha. In the context of the two statements, which one is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both statements are individually true. Article 361 of the Constitution grants the President immunity from legal proceedings for his official acts. The underlying principle for this immunity is that in a parliamentary system, the President is a nominal head who acts on the aid and advice of the real executive, the Council of Ministers (Article 74). Since the ministers are responsible to the legislature for their advice and actions, holding the President legally responsible would be inappropriate. Thus, R is the correct explanation for A.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "The 'Navratna' status is conferred by the Government of India upon certain Central Public Sector Enterprises (CPSEs). What is the primary benefit of this status?",
+    "options": [
+      "Complete exemption from corporate taxes.",
+      "The power to invest up to a certain limit without seeking government approval.",
+      "A monopoly in their respective sectors.",
+      "Guaranteed budgetary support from the government."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Navratna status grants a CPSE enhanced financial and operational autonomy. A key benefit is that Navratna companies can invest up to ₹1,000 crore or 15% of their net worth on a single project without seeking government approval. This autonomy is aimed at making them more competitive in the global market. They are not exempt from taxes nor are they given a monopoly.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "With reference to the Sangam period, the terms 'Tolkappiyam' and 'Silappadikaram' refer to:",
+    "options": [
+      "Two major port cities.",
+      "Two powerful dynasties.",
+      "Two important literary works.",
+      "Two forms of land revenue."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Tolkappiyam' is the most ancient extant work of Tamil literature and grammar. 'Silappadikaram' is one of the five great epics of Tamil literature. Both are cornerstone works from the Sangam period, providing rich insights into the society, culture, and politics of ancient South India.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "What is the primary function of 'Telomerase' in a cell?",
+    "options": [
+      "It synthesizes proteins from mRNA.",
+      "It repairs damaged DNA.",
+      "It adds repetitive nucleotide sequences to the ends of chromosomes.",
+      "It facilitates the process of cell division (mitosis)."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Telomerase is an enzyme that adds a species-dependent telomere repeat sequence to the 3' end of telomeres. Telomeres are the caps at the end of each strand of DNA that protect our chromosomes, like the plastic tips at the end of shoelaces. They shorten with each cell division, and telomerase helps to maintain their length, which is crucial for cell longevity and is linked to aging and cancer.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Match List-I (Geographical Feature) with List-II (Location): List-I: A. Isthmus of Panama, B. Strait of Hormuz, C. Suez Canal, D. Palk Strait. List-II: 1. Connects Red Sea and Mediterranean Sea, 2. Separates India and Sri Lanka, 3. Connects Persian Gulf and Gulf of Oman, 4. Connects Atlantic and Pacific Oceans.",
+    "options": [
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-1, C-3, D-2",
+      "A-1, B-2, C-4, D-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct matches are: A. Isthmus of Panama - a narrow strip of land that connects North and South America, and separates the Atlantic and Pacific Oceans (the Panama Canal cuts through it). B. Strait of Hormuz - a strait between the Persian Gulf and the Gulf of Oman, a critical shipping lane. C. Suez Canal - an artificial sea-level waterway in Egypt connecting the Mediterranean Sea to the Red Sea. D. Palk Strait - a strait between the Tamil Nadu state of India and Sri Lanka.",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "A resolution for the removal of the Vice-President of India can be initiated in:",
+    "options": [
+      "The Lok Sabha only.",
+      "The Rajya Sabha only.",
+      "Either House of Parliament.",
+      "A joint sitting of both Houses of Parliament."
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to Article 67(b) of the Constitution, a resolution for the removal of the Vice-President must be initiated only in the Rajya Sabha. The resolution needs to be passed by an effective majority (majority of all the then members) in the Rajya Sabha and agreed to by a simple majority in the Lok Sabha.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "The 'Subhas Chandra Bose Aapda Prabandhan Puraskar' is an annual award given for excellence in the field of:",
+    "options": [
+      "Military bravery",
+      "Scientific research",
+      "Social service",
+      "Disaster management"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Subhas Chandra Bose Aapda Prabandhan Puraskar is an annual award instituted by the Government of India to recognize and honour the invaluable contribution and selfless service rendered by individuals and institutions in India in the field of disaster management.",
+    "topic": "General Knowledge",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "What is the difference between 'Absolute Poverty' and 'Relative Poverty'?",
+    "options": [
+      "Absolute poverty refers to poverty in rural areas, while relative poverty is in urban areas.",
+      "Absolute poverty is a condition where household income is below a necessary level to maintain basic living standards, while relative poverty is when a household's income is a certain percentage below the median income.",
+      "Absolute poverty is measured by the Gini coefficient, while relative poverty is measured by the Headcount Ratio.",
+      "There is no difference; the terms are used interchangeably."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Absolute poverty is a fixed standard of poverty, often defined by a 'poverty line' based on the minimum income needed to afford basic necessities like food, shelter, and clothing. Relative poverty, on the other hand, is defined in relation to the economic standards of the society in which a person lives. For example, one might be considered relatively poor if their income is less than 60% of the median income in their country, even if they can afford basic necessities.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "The 'Charter Act of 1833' is a significant landmark in the constitutional history of India because:",
+    "options": [
+      "It established the Supreme Court in Calcutta.",
+      "It ended the monopoly of the East India Company on trade with India.",
+      "It made the Governor-General of Bengal the Governor-General of India.",
+      "It introduced separate electorates for Muslims."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Charter Act of 1833 was a major step towards centralization in British India. It designated the Governor-General of Bengal as the Governor-General of India and vested in him all civil and military powers. Lord William Bentinck was the first Governor-General of India. The Act also ended the activities of the East India Company as a commercial body, making it a purely administrative body.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "If a national emergency is proclaimed on the grounds of 'armed rebellion', which of the following Fundamental Rights cannot be suspended?",
+    "options": [
+      "Article 19 (freedoms of speech, etc.)",
+      "Articles 20 (protection in respect of conviction for offences) and Article 21 (protection of life and personal liberty)",
+      "Article 25 (freedom of religion)",
+      "Article 29 (protection of interests of minorities)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "During a national emergency, the President can suspend the enforcement of most Fundamental Rights. However, the 44th Amendment Act of 1978 restricted this power. It provides that the right to move the court for the enforcement of the fundamental rights guaranteed by Articles 20 and 21 cannot be suspended even during a national emergency.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "In the context of space technology, what is a 'Lagrange Point'?",
+    "options": [
+      "A point in orbit where a satellite's speed is maximum.",
+      "A point in space where the gravitational forces of two large bodies produce enhanced regions of attraction and repulsion.",
+      "A point where a spacecraft can escape the solar system's gravity.",
+      "The point in a planet's orbit where it is farthest from the Sun."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lagrange points are positions in space where the gravitational forces of a two-body system (like the Sun and the Earth) produce enhanced regions of attraction and repulsion. These points can be used by spacecraft to reduce fuel consumption needed to remain in position. For example, the James Webb Space Telescope is positioned at the L2 Lagrange point.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "The 'Al-Hilal' and 'Al-Balagh' were Urdu weekly journals started by:",
+    "options": [
+      "Syed Ahmad Khan",
+      "Muhammad Ali Jinnah",
+      "Maulana Abul Kalam Azad",
+      "Allama Iqbal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maulana Abul Kalam Azad, a prominent Indian independence activist and scholar, started the Urdu weekly journals 'Al-Hilal' (The Crescent) in 1912 and later 'Al-Balagh' (The Message). These journals were critical of British policies and played a significant role in promoting Indian nationalism and Hindu-Muslim unity.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "What is 'Biological Oxygen Demand' (BOD)?",
+    "options": [
+      "The amount of oxygen required by plants for respiration.",
+      "The total amount of oxygen present in a water body.",
+      "A measure of the amount of oxygen required by aerobic microorganisms to decompose organic matter in a sample of water.",
+      "The maximum amount of oxygen that can be dissolved in water at a given temperature."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biological Oxygen Demand (BOD) is a standard measure used to assess the quality of water. It represents the amount of dissolved oxygen needed by aerobic biological organisms to break down organic material present in a given water sample at a certain temperature over a specific time period. A high BOD indicates a high level of organic pollution.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "The 73rd Constitutional Amendment Act of 1992, which deals with Panchayati Raj, does not apply to which of the following states?",
+    "options": [
+      "Nagaland, Meghalaya, and Mizoram",
+      "Sikkim, Goa, and Arunachal Pradesh",
+      "Assam, Tripura, and Manipur",
+      "Jammu & Kashmir (before 2019), Delhi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The provisions of Part IX of the Constitution, which were added by the 73rd Amendment, do not apply to the states of Nagaland, Meghalaya, and Mizoram, and certain other areas like the scheduled areas and tribal areas in other states. This is due to the presence of traditional councils and unique governance systems in these regions.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following describes the 'Monroe Doctrine'?",
+    "options": [
+      "A US policy of providing economic aid to rebuild Europe after WWII.",
+      "A British policy of splendid isolation from European affairs.",
+      "A US policy opposing European colonialism in the Americas beginning in 1823.",
+      "A Soviet policy of supporting communist movements worldwide."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Monroe Doctrine was a United States foreign policy position that opposed European colonialism in the Western Hemisphere. It was articulated by President James Monroe in 1823 and held that any intervention in the political affairs of the Americas by foreign powers was a potentially hostile act against the US.",
+    "topic": "World History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Which one of the following is NOT a feature of a 'Federal System' of government?",
+    "options": [
+      "Dual Government (National and Regional)",
+      "Written Constitution",
+      "Flexible Constitution",
+      "Independent Judiciary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A key feature of a federal system is a rigid constitution, not a flexible one. A rigid constitution is one that cannot be amended easily, thus ensuring that the federal structure and the division of powers between the centre and states are not altered arbitrarily by the central government. Other features include dual government, a written constitution, division of powers, supremacy of the constitution, and an independent judiciary.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "The 'Ashgabat Agreement', which India has joined, is an international transport and transit corridor facilitating trade between:",
+    "options": [
+      "Central Asia and the Persian Gulf",
+      "South Asia and Southeast Asia",
+      "Europe and East Asia",
+      "North America and South America"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Ashgabat Agreement is a multimodal transport agreement between the governments of Kazakhstan, Uzbekistan, Turkmenistan, Iran, India, Pakistan, and Oman for creating an international transport and transit corridor. It aims to facilitate the transportation of goods between Central Asia and the ports of the Persian Gulf and Oman.",
+    "topic": "International Relations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "The 'Great Indian Bustard', a critically endangered bird, is primarily found in which type of habitat in India?",
+    "options": [
+      "Himalayan alpine meadows",
+      "Coastal mangrove forests",
+      "Tropical rainforests of the Western Ghats",
+      "Arid and semi-arid grasslands"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Great Indian Bustard is a large bird found on the Indian subcontinent. It is one of the heaviest of the flying birds. Its habitat is arid and semi-arid grasslands, open country with thorn scrub, and tall grass interspersed with cultivation. It is now found in very small populations, primarily in Rajasthan and Gujarat.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "What does the 'Rule of Law', a principle enshrined in the Indian Constitution, primarily imply?",
+    "options": [
+      "The supremacy of the Parliament in law-making.",
+      "The absolute power of the monarch or ruler.",
+      "The supremacy of the law and that no person is above the law.",
+      "The dominance of religious law over civil law."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'Rule of Law', derived from British jurisprudence and incorporated into the Indian Constitution (implicitly in Article 14), means the absolute supremacy or predominance of regular law as opposed to the influence of arbitrary power. It implies that no one, including the government, is above the law; everyone is subject to the jurisdiction of ordinary courts; and the constitution is the result of the rights of individuals as defined and enforced by the courts.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The 'Moplah Rebellion' of 1921 in the Malabar region was a rebellion of:",
+    "options": [
+      "Tribal communities against forest laws.",
+      "Peasants against the zamindari system.",
+      "Muslim tenants against Hindu landlords and the British.",
+      "Factory workers for better wages."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moplah (or Mappila) Rebellion of 1921 was an uprising by the Mappila Muslim community of the Malabar region in Kerala against the British authorities and their Hindu landlords (jenmis). It began as part of the larger Khilafat and Non-Cooperation Movement but took on a communal color as it progressed.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "In the context of the Indian budget, what is the 'Fiscal Responsibility and Budget Management (FRBM) Act' primarily aimed at?",
+    "options": [
+      "Ensuring that state governments share revenue with local bodies.",
+      "Mandating the RBI to control inflation.",
+      "Institutionalizing financial discipline, reducing the fiscal deficit, and improving macroeconomic management.",
+      "Privatizing loss-making public sector undertakings."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The FRBM Act, 2003, is an act of the Parliament of India to institutionalize financial discipline, reduce India's fiscal deficit, improve macroeconomic management, and move towards a balanced budget. It sets targets for the government to reduce fiscal deficits and eliminate the revenue deficit.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "Why does a diamond sparkle more than a piece of glass of the same shape?",
+    "options": [
+      "Diamond has a higher density than glass.",
+      "Diamond is harder than glass.",
+      "The refractive index of diamond is much higher than that of glass, leading to a smaller critical angle.",
+      "Diamond absorbs more light than glass."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sparkle of a diamond is due to Total Internal Reflection (TIR). Diamond has a very high refractive index (about 2.42) compared to glass (about 1.5). This high refractive index results in a very small critical angle (about 24.4 degrees). When light enters a properly cut diamond, it undergoes TIR multiple times from the internal faces before exiting, causing the brilliant sparkle.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following bodies is NOT mentioned in the Constitution of India?",
+    "options": [
+      "Finance Commission",
+      "Election Commission",
+      "National Human Rights Commission",
+      "Union Public Service Commission"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The National Human Rights Commission (NHRC) is a statutory body, not a constitutional body. It was established in 1993 under the Protection of Human Rights Act, 1993. The Finance Commission (Article 280), Election Commission (Article 324), and UPSC (Article 315) are constitutional bodies, as they are established directly by the Constitution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "The 'Berlin Conference' of 1884-85 is associated with:",
+    "options": [
+      "The end of the First World War.",
+      "The regulation of European colonization and trade in Africa.",
+      "The division of Germany after the Second World War.",
+      "The formation of the League of Nations."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Berlin Conference of 1884–85, also known as the Congo Conference, regulated European colonization and trade in Africa during the New Imperialism period. It formalized the 'Scramble for Africa' by establishing rules for European powers to claim and control territory on the continent, without any representation from the African people themselves.",
+    "topic": "World History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "The 'Narasimham Committee' reports of 1991 and 1998 are related to reforms in which sector?",
+    "options": [
+      "Taxation Sector",
+      "Insurance Sector",
+      "Banking Sector",
+      "Capital Markets"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Narasimham Committee, headed by M. Narasimham, was set up to recommend reforms for the Indian financial system. Its two reports (1991 and 1998) laid the roadmap for comprehensive reforms in the banking sector, including reduction of SLR and CRR, deregulation of interest rates, introduction of prudential norms, and establishment of asset reconstruction companies.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "The 'Aichi Biodiversity Targets' were a set of 20 targets set out in the Strategic Plan for Biodiversity 2011-2020. This plan was adopted under the framework of:",
+    "options": [
+      "The Ramsar Convention",
+      "The Convention on Biological Diversity (CBD)",
+      "The Kyoto Protocol",
+      "The Paris Agreement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Aichi Biodiversity Targets were part of the Strategic Plan for Biodiversity 2011-2020, which was adopted by the parties to the Convention on Biological Diversity (CBD) at their 10th conference in Nagoya, Aichi Prefecture, Japan, in 2010. These targets aimed to address the underlying causes of biodiversity loss and reduce the pressures on biodiversity.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Consider the following statements about the 'Prorogation' of a House of Parliament: 1. It terminates a sitting as well as a session of the House. 2. It is done by the presiding officer of the House. 3. It does not affect the bills pending before the House. Which of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement 2 is incorrect. Prorogation is done by the President of India, not the presiding officer (who does 'adjournment'). Statement 1 is correct; prorogation terminates both a sitting and a session. Statement 3 is also correct; unlike dissolution (which applies only to the Lok Sabha), prorogation does not lead to the lapse of pending bills.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 87,
+    "question": "The 'Treaty of Salbai' (1782) was signed between the British East India Company and which Indian power, effectively ending the First Anglo-Maratha War?",
+    "options": [
+      "The Nizam of Hyderabad",
+      "The Sikh Empire",
+      "The Maratha Empire",
+      "The Kingdom of Mysore"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Treaty of Salbai was signed on May 17, 1782, between representatives of the Maratha Empire and the British East India Company after long negotiations to settle the outcome of the First Anglo-Maratha War. It resulted in a period of relative peace between the two powers for about two decades, with the British acknowledging Madhavrao II as the Peshwa and returning conquered territories to the Marathas.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 88,
+    "question": "What is meant by 'Base Erosion and Profit Shifting' (BEPS) in the context of international taxation?",
+    "options": [
+      "A method used by countries to attract foreign investment by offering low tax rates.",
+      "Tax planning strategies used by multinational enterprises that exploit gaps and mismatches in tax rules to avoid paying tax.",
+      "An agreement between countries to share tax-related information automatically.",
+      "A domestic tax policy aimed at increasing the tax base by including agricultural income."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Base Erosion and Profit Shifting (BEPS) refers to tax avoidance strategies that exploit gaps and mismatches in tax rules to artificially shift profits to low or no-tax locations where there is little or no economic activity. This results in little or no overall corporate tax being paid. The OECD/G20 Inclusive Framework on BEPS is a global effort to combat this issue.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 89,
+    "question": "The 'Punchhi Commission' was constituted by the Government of India in 2007 to report on:",
+    "options": [
+      "Police Reforms",
+      "Electoral Reforms",
+      "Centre-State Relations",
+      "Judicial Reforms"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Punchhi Commission, headed by former Chief Justice of India Madan Mohan Punchhi, was constituted in 2007 to look into the new issues of Centre-State relations, taking into account the changes that have taken place in the polity and economy of India since the Sarkaria Commission submitted its report. It submitted its report in 2010 with numerous recommendations.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 90,
+    "question": "Consider the following statements regarding 'Dark Matter' and 'Dark Energy': 1. Dark matter emits or reflects electromagnetic radiation, making it directly observable. 2. Dark energy is a hypothetical form of energy that is believed to be responsible for the accelerating expansion of the universe. 3. Together, dark matter and dark energy are thought to constitute the vast majority of the mass-energy content of the universe. Which of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement 1 is incorrect. Dark matter does not emit or reflect any electromagnetic radiation, which is why it is 'dark' and cannot be observed directly. Its existence is inferred from its gravitational effects on visible matter. Statements 2 and 3 are correct. Dark energy is the name given to the mysterious force that's causing the rate of expansion of our universe to accelerate over time. Current cosmological models suggest that all ordinary (baryonic) matter adds up to only about 5% of the universe, with dark matter constituting about 27% and dark energy about 68%.",
+    "topic": "Science and Technology",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 91,
+    "question": "The 'Wood's Despatch' of 1854 is considered the 'Magna Carta of English Education in India'. Which of the following were among its key recommendations? 1. It proposed an education system from primary school to university level. 2. It recommended that the medium of instruction at the primary level should be the vernacular languages. 3. It recommended the establishment of universities in Calcutta, Bombay, and Madras. 4. It laid stress on female education and vocational training.",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All four statements are correct recommendations of the Wood's Despatch. It was a comprehensive plan for education in India, proposing a graded system of schools, advocating for vernaculars at the primary level and English at higher levels, leading to the establishment of the first three universities in 1857, and promoting female and vocational education. It was a pivotal document in shaping the modern education system in India.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 92,
+    "question": "What is the 'Kigali Amendment' to the Montreal Protocol?",
+    "options": [
+      "An agreement to phase out the use of CFCs completely by 2010.",
+      "An agreement to provide financial assistance to developing countries for ozone protection.",
+      "An agreement to phase down the production and consumption of hydrofluorocarbons (HFCs).",
+      "An amendment to include methyl bromide in the list of ozone-depleting substances."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Kigali Amendment, adopted in 2016, is an amendment to the Montreal Protocol that aims for the gradual reduction of the production and consumption of hydrofluorocarbons (HFCs). While HFCs do not deplete the ozone layer, they are potent greenhouse gases. This amendment transformed the Montreal Protocol from solely an ozone-protection treaty into a powerful climate-protection treaty as well.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following describes the 'Doctrine of Pith and Substance' as interpreted by the Indian judiciary?",
+    "options": [
+      "The doctrine that states the basic structure of the Constitution cannot be amended.",
+      "A legal doctrine used to determine which level of government has the jurisdiction to legislate on a particular matter.",
+      "The principle that a law which is invalid in part will be wholly void.",
+      "The doctrine that gives the President immunity from criminal proceedings."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Doctrine of Pith and Substance is a legal principle used to resolve conflicts between a central and a state legislature when a law passed by one legislature seems to encroach upon the legislative domain of the other. The court looks at the 'true nature and character' or the 'pith and substance' of the legislation to determine which list (Union, State, or Concurrent) it primarily belongs to. Any incidental encroachment is disregarded.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 94,
+    "question": "In the context of the Indian economy, what does 'Twin Deficit' refer to?",
+    "options": [
+      "A situation of both high inflation and high unemployment.",
+      "Having both a revenue deficit and a primary deficit.",
+      "A situation where a country has both a fiscal deficit and a current account deficit.",
+      "A deficit in both agricultural and industrial production."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The term 'Twin Deficit' refers to a situation where an economy is simultaneously running a fiscal deficit (government spending exceeds its revenue) and a current account deficit (the value of imports of goods/services exceeds the value of exports). These two deficits are often linked, as high government borrowing can lead to higher imports and a wider current account gap.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 95,
+    "question": "The 'Komagata Maru' incident of 1914 is related to:",
+    "options": [
+      "A mutiny by Indian soldiers in the British army at Singapore.",
+      "An attempt by the Ghadar Party to trigger an uprising in Punjab.",
+      "A ship carrying Indian immigrants that was denied entry into Canada and forced to return.",
+      "The bombing of the Central Legislative Assembly by Bhagat Singh."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Komagata Maru incident involved a Japanese steamship, the Komagata Maru, on which a group of people from British India attempted to immigrate to Canada in 1914. Most were denied entry and forced to return to India. The incident was widely cited at the time by Indian groups to highlight discrepancies in Canadian immigration laws and became a rallying point for the Indian independence movement.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 96,
+    "question": "What is 'Quantum Entanglement'?",
+    "options": [
+      "The principle that a particle can be in multiple states at once.",
+      "A phenomenon where a particle can pass through a potential barrier even if its kinetic energy is less than the barrier's height.",
+      "A physical phenomenon that occurs when a pair or group of particles are generated in such a way that the quantum state of each particle cannot be described independently of the state of the others.",
+      "The concept that it is impossible to know both the position and momentum of a particle simultaneously."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Quantum entanglement is a bizarre and counterintuitive phenomenon where two or more quantum particles are linked in such a way that their fates are intertwined, regardless of the distance separating them. Measuring a property (like spin) of one particle instantaneously influences the corresponding property of the other particle(s). Einstein famously called this 'spooky action at a distance'.",
+    "topic": "Science and Technology",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 97,
+    "question": "The power of the Supreme Court to review its own judgement or order is explicitly provided under which article of the Constitution?",
+    "options": [
+      "Article 136 (Special Leave to Appeal)",
+      "Article 137 (Review of judgments or orders)",
+      "Article 141 (Law declared by Supreme Court to be binding)",
+      "Article 142 (Enforcement of decrees and orders)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 137 of the Constitution of India explicitly grants the Supreme Court the power to review any judgment pronounced or order made by it. This power is subject to the provisions of any law made by Parliament or any rules made under Article 145. It allows the court to correct grave errors or miscarriages of justice in its own past decisions.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 98,
+    "question": "The 'Great Bath', one of the best-known structures of the Indus Valley Civilization, was found at which site?",
+    "options": [
+      "Harappa",
+      "Mohenjo-daro",
+      "Lothal",
+      "Kalibangan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Great Bath' is one of the most remarkable features of Mohenjo-daro. It is a large, rectangular tank in a courtyard, resembling a swimming pool, constructed with fine brickwork and sealed with bitumen. It is believed to have been used for special religious functions where water was used to purify and renew the well-being of the bathers.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 99,
+    "question": "The 'Global Gender Gap Report' is an annual publication by which of the following organizations?",
+    "options": [
+      "United Nations Development Programme (UNDP)",
+      "The World Bank",
+      "The World Economic Forum (WEF)",
+      "UN Women"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Global Gender Gap Report is published annually by the World Economic Forum (WEF). The report benchmarks countries on their progress towards gender parity in four key dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment.",
+    "topic": "International Relations",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 100,
+    "question": "With reference to the Indian Parliament, what is the 'Lame-duck session'?",
+    "options": [
+      "A session held without the required quorum.",
+      "A special session called to discuss a matter of urgent public importance.",
+      "The last session of the existing Lok Sabha after a new Lok Sabha has been elected.",
+      "A secret session of the House to discuss sensitive national security matters."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A 'lame-duck session' refers to the final session of an existing Lok Sabha, held after the election for a new Lok Sabha has already taken place but before the new House is constituted. The members of the existing Lok Sabha who could not get re-elected to the new House are referred to as 'lame-ducks'.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  }
+]
+
+export const MOCK_TEST_12_QUESTIONS = [
+  {
+    "id": 1,
+    "question": "Who is the author of the Indian national anthem, 'Jana Gana Mana'?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Muhammad Iqbal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rabindranath Tagore, a Nobel laureate, composed 'Jana Gana Mana'. It was first sung in 1911 and was officially adopted by the Constituent Assembly as the national anthem of India on 24 January 1950. Bankim Chandra Chatterjee composed 'Vande Mataram', India's national song.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which is the smallest state in India by area?",
+    "options": [
+      "Sikkim",
+      "Tripura",
+      "Goa",
+      "Nagaland"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Goa is the smallest state in India by geographical area, covering just 3,702 square kilometers. By population, the smallest state is Sikkim.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "The study of the universe is known as:",
+    "options": [
+      "Astrology",
+      "Cosmology",
+      "Seismology",
+      "Geology"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cosmology is the branch of astronomy that involves the origin and evolution of the universe, from the Big Bang to today and on into the future. Astrology is a pseudoscience, Seismology is the study of earthquakes, and Geology is the study of the Earth.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "Who was the first Emperor of the Maurya Dynasty?",
+    "options": [
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya",
+      "Samudragupta"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE by overthrowing the Nanda Dynasty. He was guided by his mentor and advisor, Chanakya (also known as Kautilya). Ashoka was his grandson and the most famous ruler of the dynasty.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is known as the 'Powerhouse of the cell'?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mitochondrion (plural: mitochondria) is an organelle found in the cells of most eukaryotes. It generates most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy, hence it is referred to as the 'powerhouse of the cell'.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The 'Lok Sabha' is also known as:",
+    "options": [
+      "The Council of States",
+      "The Upper House",
+      "The House of the People",
+      "The Legislative Council"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Lok Sabha is the lower house of India's bicameral Parliament. Its members are directly elected by the people, hence it is known as the 'House of the People'. The Rajya Sabha is the 'Council of States' or the 'Upper House'.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Canberra is the capital city of Australia. Although Sydney and Melbourne are larger and more famous cities, Canberra was chosen as the capital in 1908 as a compromise between the two rivals.",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The 'Quit India Movement' was launched in which year?",
+    "options": [
+      "1930",
+      "1940",
+      "1942",
+      "1945"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Quit India Movement, or the 'Bharat Chhodo Andolan', was launched at the Bombay session of the All-India Congress Committee by Mahatma Gandhi on 8 August 1942, during World War II, demanding an end to British rule in India. Gandhi gave the 'Do or Die' call to the people.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "The famous classical dance form 'Bharatanatyam' originated from which state?",
+    "options": [
+      "Kerala",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bharatanatyam is a major genre of Indian classical dance that originated in the temples of Tamil Nadu. It is one of the eight classical dance forms of India recognized by the Sangeet Natak Akademi.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "Which is the highest mountain peak in the world?",
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mount Everest, located in the Himalayas on the border of Nepal and China, is the Earth's highest mountain above sea level, with its peak at 8,848.86 metres (29,031.7 ft). K2 is the second highest.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Who was the first Sikh Guru?",
+    "options": [
+      "Guru Gobind Singh",
+      "Guru Arjan Dev",
+      "Guru Tegh Bahadur",
+      "Guru Nanak Dev"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Guru Nanak Dev was the founder of Sikhism and the first of the ten Sikh Gurus. His teachings are preserved in the sacred scripture Guru Granth Sahib. Guru Gobind Singh was the tenth and last human Guru.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "What is the primary component of natural gas?",
+    "options": [
+      "Ethane",
+      "Propane",
+      "Butane",
+      "Methane"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Natural gas is a fossil fuel composed primarily of methane (CH4). It may also contain smaller amounts of other hydrocarbons like ethane, propane, and butane, as well as non-hydrocarbon gases like carbon dioxide and nitrogen.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The President of India is elected by an electoral college consisting of:",
+    "options": [
+      "All members of Parliament.",
+      "Elected members of Parliament and State Legislative Assemblies.",
+      "All members of Parliament and State Legislatures.",
+      "All adult citizens of India."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The President of India is elected indirectly by an electoral college consisting of the elected members of both the Houses of Parliament (Lok Sabha and Rajya Sabha) and the elected members of the Legislative Assemblies of the States and the Union Territories of Delhi and Puducherry.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The 'Hawa Mahal' (Palace of Winds) is a famous monument located in which city?",
+    "options": [
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Agra"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hawa Mahal is a palace in Jaipur, India. Made with red and pink sandstone, the palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women's chambers. It was built in 1799 by Maharaja Sawai Pratap Singh.",
+    "topic": "Art and Culture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which of these is a Kharif crop?",
+    "options": [
+      "Wheat",
+      "Mustard",
+      "Rice",
+      "Barley"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kharif crops are grown with the onset of the monsoon in different parts of the country and these are harvested in September-October. Important crops grown during this season are paddy (rice), maize, jowar, bajra, tur (arhar), moong, urad, cotton, jute, groundnut and soyabean. Wheat, Mustard and Barley are Rabi crops.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Sardar Vallabhbhai Patel",
+      "Lal Bahadur Shastri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sardar Vallabhbhai Patel is revered as the 'Iron Man of India' for his pivotal role in the integration of more than 500 princely states into the Indian Union after independence. He was the first Deputy Prime Minister and Home Minister of India.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The 'World Health Organization' (WHO) is a specialized agency of which international body?",
+    "options": [
+      "The World Bank",
+      "The European Union",
+      "The United Nations",
+      "The World Trade Organization"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health. Its headquarters is in Geneva, Switzerland. It was established on 7 April 1948, which is commemorated as World Health Day.",
+    "topic": "International Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "The deficiency of Iodine in the diet causes which disease?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Goitre",
+      "Anaemia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iodine is an essential mineral for the production of thyroid hormones. A deficiency of iodine can lead to Goitre, which is the swelling of the thyroid gland in the neck. Scurvy is caused by Vitamin C deficiency, Rickets by Vitamin D deficiency, and Anaemia by iron deficiency.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "In which city did the Jallianwala Bagh massacre take place in 1919?",
+    "options": [
+      "Lahore",
+      "Delhi",
+      "Amritsar",
+      "Meerut"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Jallianwala Bagh massacre took place on 13 April 1919 in Amritsar, Punjab. Acting Brigadier-General Reginald Dyer ordered British troops to open fire on a large crowd of unarmed Indians in an open space known as the Jallianwala Bagh, who had gathered to protest against the Rowlatt Act.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "The term 'Repo Rate' refers to:",
+    "options": [
+      "The rate at which commercial banks lend to their customers.",
+      "The rate at which the RBI lends money to commercial banks.",
+      "The rate at which commercial banks accept deposits from the public.",
+      "The rate of interest on government bonds."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Repo rate is the rate at which the Reserve Bank of India (RBI) lends money to commercial banks, typically against government securities. It is a key tool of monetary policy used by the RBI to control inflation and manage liquidity in the economy.",
+    "topic": "Economy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "The 'Directive Principles of State Policy' (DPSP) in the Indian Constitution are:",
+    "options": [
+      "Justiciable (enforceable by courts)",
+      "Non-justiciable (not enforceable by courts)",
+      "Partially justiciable",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The DPSP, contained in Part IV of the Constitution, are fundamental in the governance of the country. However, they are non-justiciable, meaning they are not legally enforceable by the courts for their violation. Nevertheless, they set out the ideals that the State should aim for when making laws.",
+    "topic": "Indian Constitution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ozone layer is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. The stratosphere is the second layer of the atmosphere as you go upward from the Earth's surface, located above the troposphere.",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following metals is liquid at room temperature?",
+    "options": [
+      "Sodium",
+      "Mercury",
+      "Gold",
+      "Lead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mercury is the only metal that is a liquid at standard conditions for temperature and pressure (room temperature). It is commonly used in thermometers and barometers. Bromine is a non-metal that is also liquid at room temperature.",
+    "topic": "General Science",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The 'Gautama Buddha' delivered his first sermon at which place?",
+    "options": [
+      "Bodh Gaya",
+      "Sarnath",
+      "Kushinagar",
+      "Lumbini"
+    ],
+    "correctAnswer": 1,
+    "explanation": "After attaining enlightenment at Bodh Gaya, the Buddha travelled to Sarnath, near Varanasi. There, he gave his first sermon to his first five disciples. This event is known as the 'Dharma Chakra Pravartana' or the 'Turning of the Wheel of Law'.",
+    "topic": "History",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "What does 'URL' stand for in the context of the internet?",
+    "options": [
+      "Universal Remote Link",
+      "Uniform Resource Locator",
+      "Unified Request Language",
+      "Universal Record Label"
+    ],
+    "correctAnswer": 1,
+    "explanation": "URL stands for Uniform Resource Locator. It is the address of a given unique resource on the Web. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably.",
+    "topic": "Science and Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "What is the key difference between a 'Finance Bill' and a 'Money Bill' in the Indian Parliament?",
+    "options": [
+      "A Money Bill can only be introduced in the Rajya Sabha, while a Finance Bill can be introduced in either House.",
+      "All Money Bills are Finance Bills, but not all Finance Bills are Money Bills.",
+      "The President's recommendation is required for a Finance Bill but not for a Money Bill.",
+      "The Rajya Sabha has equal powers as the Lok Sabha with respect to both types of bills."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct statement is that all Money Bills are a specific type of Finance Bill, but not all Finance Bills are Money Bills. A Money Bill (Article 110) deals exclusively with matters of taxation, borrowing, and government funds. A Finance Bill is a broader category that includes Money Bills and other bills with financial implications. The Speaker of the Lok Sabha has the final authority to certify if a bill is a Money Bill.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "The 'Pallava' dynasty, known for its contribution to Dravidian architecture, had its capital at:",
+    "options": [
+      "Madurai",
+      "Thanjavur",
+      "Badami",
+      "Kanchipuram"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Pallavas were a powerful dynasty that ruled a portion of southern India between the 3rd and 9th centuries CE. Their capital was Kanchipuram, near modern-day Chennai. They are most noted for their patronage of architecture, especially the rock-cut temples at Mahabalipuram and the Kailasanathar Temple in Kanchipuram.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following are examples of greenhouse gases? 1. Carbon Dioxide (CO2), 2. Methane (CH4), 3. Nitrous Oxide (N2O), 4. Oxygen (O2).",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Greenhouse gases are gases in the atmosphere that absorb and emit radiation within the thermal infrared range, causing the greenhouse effect. The primary greenhouse gases are water vapor, carbon dioxide, methane, and nitrous oxide. Oxygen (O2) and Nitrogen (N2), which make up the bulk of the atmosphere, are not greenhouse gases.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "What is the difference between 'Osmosis' and 'Diffusion'?",
+    "options": [
+      "Diffusion occurs in liquids only, while osmosis occurs in gases.",
+      "Diffusion is the movement of any particles from a higher to a lower concentration, while osmosis is specifically the movement of water across a semipermeable membrane.",
+      "Osmosis requires energy, while diffusion is a passive process.",
+      "There is no difference; the terms are synonymous."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diffusion is the net movement of anything from a region of higher concentration to a region of lower concentration. Osmosis is a specific type of diffusion: it is the movement of a solvent (like water) across a selectively permeable membrane from a region of high solvent concentration to a region of low solvent concentration.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "The 'Government of India Act, 1935' was a significant piece of legislation. Which of the following was a key feature of this Act?",
+    "options": [
+      "Introduction of Dyarchy at the Centre.",
+      "Establishment of the Reserve Bank of India.",
+      "Provision for an All-India Federation.",
+      "All of the above."
+    ],
+    "correctAnswer": 3,
+    "explanation": "All three were key features of the Government of India Act, 1935. It proposed the establishment of an All-India Federation comprising provinces and princely states. It abolished dyarchy in the provinces and introduced it at the Centre. It also provided for the establishment of a Federal Court and the Reserve Bank of India to control the currency and credit of the country.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "What is meant by the 'Maternal Mortality Ratio' (MMR)?",
+    "options": [
+      "The number of maternal deaths during a given time period per 100,000 live births during the same time period.",
+      "The total number of deaths of women during pregnancy in a year.",
+      "The percentage of births attended by skilled health personnel.",
+      "The number of maternal deaths per 1,000 women of reproductive age."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Maternal Mortality Ratio (MMR) is the annual number of female deaths from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes) during pregnancy and childbirth or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, per 100,000 live births.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "A 'Joint Sitting' of the two Houses of Parliament is presided over by:",
+    "options": [
+      "The President of India",
+      "The Prime Minister of India",
+      "The Chairman of the Rajya Sabha",
+      "The Speaker of the Lok Sabha"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A joint sitting of both Houses, called by the President to resolve a deadlock on an ordinary bill, is presided over by the Speaker of the Lok Sabha. In the Speaker's absence, the Deputy Speaker of the Lok Sabha presides. If both are absent, the Deputy Chairman of the Rajya Sabha presides.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The 'Great Victoria Desert' is located in which country?",
+    "options": [
+      "USA",
+      "Egypt",
+      "Australia",
+      "South Africa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Great Victoria Desert is a sparsely populated desert ecoregion and interim Australian bioregion in Western Australia and South Australia. It is the largest desert in Australia.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "What are 'Ocean Currents'?",
+    "options": [
+      "The vertical movement of ocean water.",
+      "The daily rise and fall of sea level.",
+      "The continuous, directed movement of seawater generated by a number of forces.",
+      "Large waves caused by underwater earthquakes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ocean currents are the continuous, predictable, directional movement of seawater driven by gravity, wind (Coriolis effect), and water density. They are like rivers flowing in the ocean and play a crucial role in distributing heat energy across the globe, thereby influencing weather and climate.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The 'Public Accounts Committee' (PAC) of the Indian Parliament consists of:",
+    "options": [
+      "22 members from the Lok Sabha only.",
+      "22 members from the Rajya Sabha only.",
+      "22 members, with 15 from the Lok Sabha and 7 from the Rajya Sabha.",
+      "30 members from the Lok Sabha only."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Public Accounts Committee (PAC) is one of the three financial standing committees of the Parliament. It consists of 22 members, of whom 15 are elected from the Lok Sabha and 7 from the Rajya Sabha. Its primary function is to examine the audit reports of the Comptroller and Auditor General (CAG) of India.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Who was the founder of the 'Saka Era', which is used as the official civil calendar in India?",
+    "options": [
+      "Ashoka",
+      "Kanishka",
+      "Chandragupta I",
+      "Vikramaditya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Saka Era is believed to have been founded by the Kushan king Kanishka the Great in 78 CE. The Government of India adopted the Saka calendar as the Indian national calendar in 1957. The Vikrama Samvat is another era, which is said to have been founded by the legendary king Vikramaditya.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "What is an 'Initial Public Offering' (IPO)?",
+    "options": [
+      "The first time a private company offers its shares to the public.",
+      "When the government sells its stake in a public sector company.",
+      "A type of loan offered by banks to new companies.",
+      "The annual dividend paid by a company to its shareholders."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An Initial Public Offering (IPO) refers to the process of offering shares of a private corporation to the public in a new stock issuance. It is the first time that the stock of a private company is offered to the public, allowing the company to raise capital from public investors.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The 'Cartagena Protocol on Biosafety' is a supplementary agreement to which international convention?",
+    "options": [
+      "Ramsar Convention",
+      "Stockholm Convention on POPs",
+      "Convention on Biological Diversity (CBD)",
+      "UNFCCC"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Cartagena Protocol on Biosafety is an international treaty that seeks to protect biological diversity from the potential risks posed by living modified organisms (LMOs) resulting from modern biotechnology. It is a supplementary protocol to the Convention on Biological Diversity (CBD) and was adopted in 2000.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following describes the 'Doctrine of Lapse'?",
+    "options": [
+      "A policy of annexing any Indian state if its ruler was deemed incompetent.",
+      "A policy where an Indian state would be annexed if the ruler died without a natural heir.",
+      "A system where Indian rulers paid a subsidy to the British for protection.",
+      "The policy of creating a buffer state between British territories and foreign powers."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Doctrine of Lapse was an annexation policy applied by the British East India Company in India until 1859. The doctrine stated that any princely state under the suzerainty of the Company would have its princely status abolished (and therefore be annexed into British India) if the ruler was either 'manifestly incompetent or died without a male heir'. It was most famously applied by Lord Dalhousie.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "What is the primary function of the 'Comptroller and Auditor General' (CAG) of India?",
+    "options": [
+      "To control the government's spending and finances.",
+      "To prepare the annual budget for the Union Government.",
+      "To audit the accounts of the Union and State governments.",
+      "To advise the President on financial matters."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CAG is a constitutional authority (Article 148) who is the head of the Indian Audit and Accounts Department. The primary function of the CAG is to audit all receipts and expenditures of the Government of India and the state governments, including those of bodies and authorities substantially financed by the government. The CAG is the guardian of the public purse.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "What are 'mRNA vaccines' (like some COVID-19 vaccines)?",
+    "options": [
+      "Vaccines that use a dead or inactivated virus to trigger an immune response.",
+      "Vaccines that use a weakened form of the virus.",
+      "Vaccines that use a genetically engineered piece of messenger RNA to instruct cells to produce a specific protein.",
+      "Vaccines that use a harmless virus to deliver genetic material from the target virus."
+    ],
+    "correctAnswer": 2,
+    "explanation": "mRNA vaccines are a new type of vaccine. Instead of introducing an antigen (like a dead or weakened virus) into the body, they teach our cells how to make a protein—or even just a piece of a protein—that triggers an immune response inside our bodies. This immune response, which produces antibodies, is what protects us from getting infected if the real virus enters our bodies.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The 'Battle of Talikota' in 1565 was a watershed event that led to the decline of which major South Indian empire?",
+    "options": [
+      "Chola Empire",
+      "Pandyan Empire",
+      "Vijayanagara Empire",
+      "Chalukya Empire"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Battle of Talikota was a decisive battle fought between the Vijayanagara Empire and an alliance of the Deccan sultanates. The defeat of the Vijayanagara army and the subsequent sacking and destruction of its capital, Vijayanagara, marked the beginning of the end for the last great Hindu kingdom in South India.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "What is 'Stubble Burning', a major environmental issue in North India?",
+    "options": [
+      "The burning of forest wood for fuel.",
+      "The practice of setting fire to the straw stubble that remains after rice and wheat are harvested.",
+      "The flaring of excess gas at oil refineries.",
+      "The burning of waste in urban landfills."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stubble burning is the act of intentionally setting fire to the crop residue (stubble) left in the field after harvesting grains like paddy (rice) and wheat. It is a common practice in states like Punjab and Haryana, and it is a major cause of air pollution in North India, especially during the winter months.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is NOT a member of the 'Quadrilateral Security Dialogue' (Quad)?",
+    "options": [
+      "India",
+      "United States",
+      "Japan",
+      "South Korea"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Quadrilateral Security Dialogue, commonly known as the Quad, is a strategic security dialogue between Australia, India, Japan, and the United States. South Korea is not a member of this grouping.",
+    "topic": "International Relations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The power of a High Court to issue writs is granted under which article of the Constitution?",
+    "options": [
+      "Article 32",
+      "Article 136",
+      "Article 226",
+      "Article 227"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article 226 of the Constitution empowers the High Courts to issue certain writs, including habeas corpus, mandamus, prohibition, quo warranto, and certiorari, for the enforcement of the Fundamental Rights and for 'any other purpose'. The writ jurisdiction of the High Courts is wider than that of the Supreme Court (under Article 32), as the Supreme Court can issue writs only for the enforcement of Fundamental Rights.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "What is the difference between 'Gross Domestic Product' (GDP) and 'Gross National Product' (GNP)?",
+    "options": [
+      "GDP includes the value of intermediate goods, while GNP does not.",
+      "GDP measures the value of goods and services produced within a country's borders, while GNP includes the net income from abroad.",
+      "GDP is calculated at market prices, while GNP is calculated at factor cost.",
+      "There is no practical difference between the two."
+    ],
+    "correctAnswer": 1,
+    "explanation": "GDP is the total monetary value of all finished goods and services produced within a country's borders in a specific time period. GNP is the value of all finished goods and services produced by a country's citizens, both domestically and abroad. The key difference is the inclusion of Net Factor Income from Abroad (NFIA) in GNP. GNP = GDP + NFIA.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The 'Hunter Commission' of 1882 was appointed to review the progress of education in India since:",
+    "options": [
+      "The Charter Act of 1813",
+      "Macaulay's Minute of 1835",
+      "Wood's Despatch of 1854",
+      "The Indian Universities Act of 1904"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Hunter Commission, appointed by Lord Ripon in 1882, was tasked with reviewing the progress of education in the country since the Wood's Despatch of 1854. While it acknowledged the work done, its most significant recommendations were related to primary and secondary education, suggesting they be entrusted to local bodies.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "What are 'Tides' in the ocean primarily caused by?",
+    "options": [
+      "The gravitational pull of the Moon and the Sun.",
+      "The rotation of the Earth.",
+      "The effect of wind blowing over the sea surface.",
+      "Underwater earthquakes and volcanic eruptions."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tides are the long-period waves that move through the oceans in response to the forces exerted by the Moon and the Sun. The gravitational pull of the Moon is the primary force, causing the water of the oceans to bulge out on the side closest to the moon and the side farthest from the moon. The Sun's gravity also contributes, but to a lesser extent.",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The '61st Constitutional Amendment Act of 1989' is significant because it:",
+    "options": [
+      "Introduced the anti-defection law.",
+      "Granted statehood to Goa.",
+      "Lowered the voting age from 21 years to 18 years.",
+      "Added the Konkani, Manipuri, and Nepali languages to the Eighth Schedule."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 61st Amendment Act of 1989 amended Article 326 of the Constitution to reduce the voting age for elections to the Lok Sabha and to the Legislative Assemblies of States from 21 years to 18 years. This was a major step in expanding the democratic base of the country.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "The 'Rashtrakuta' dynasty, which ruled large parts of the Indian subcontinent, is famous for commissioning which rock-cut marvel?",
+    "options": [
+      "The Ajanta Caves",
+      "The Elephanta Caves",
+      "The Shore Temple at Mahabalipuram",
+      "The Kailasa temple at Ellora"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Kailasa temple (Cave 16) at Ellora, Maharashtra, is the largest single monolithic rock excavation in the world. It was built in the 8th century by the Rashtrakuta king Krishna I. This remarkable structure was carved from a single piece of rock, from the top down.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "What is the 'Pauli Exclusion Principle' in quantum mechanics?",
+    "options": [
+      "It is impossible to know both the position and momentum of a particle simultaneously.",
+      "Every particle has a corresponding antiparticle.",
+      "Two or more identical fermions (particles with half-integer spin) cannot occupy the same quantum state within a quantum system simultaneously.",
+      "Energy levels of electrons in an atom are quantized."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pauli Exclusion Principle is a fundamental principle in quantum mechanics which states that two identical fermions, such as electrons, cannot be in the same place and have the same quantum numbers (e.g., spin) at the same time. This principle is crucial for explaining the structure of the periodic table of elements.",
+    "topic": "General Science",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The 'Bandung Conference' of 1955 was a significant step towards the establishment of:",
+    "options": [
+      "The United Nations (UN)",
+      "The Association of Southeast Asian Nations (ASEAN)",
+      "The Non-Aligned Movement (NAM)",
+      "The South Asian Association for Regional Cooperation (SAARC)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Asian-African Conference, held in Bandung, Indonesia, in 1955, was a meeting of Asian and African states, most of which were newly independent. The conference's stated aims were to promote Afro-Asian economic and cultural cooperation and to oppose colonialism. It was a major milestone in the formation of the Non-Aligned Movement, which was formally established in 1961.",
+    "topic": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following describes different types of unemployment? 1. Frictional: Temporary unemployment between jobs. 2. Structural: Unemployment due to a mismatch between skills of workers and jobs available. 3. Cyclical: Unemployment due to business cycle downturns. 4. Disguised: Unemployment where people seem to be employed but their contribution to production is zero.",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "All of the above are correctly described."
+    ],
+    "correctAnswer": 3,
+    "explanation": "All four descriptions are correct. Frictional unemployment is short-term and occurs when people are in the process of moving from one job to another. Structural unemployment arises from a long-term shift in the economy, making certain skills obsolete. Cyclical unemployment is associated with the recessions and expansions of the business cycle. Disguised unemployment is common in agriculture, where more people are employed on a farm than are actually needed.",
+    "topic": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The 'Estimates Committee' is the largest committee of the Parliament of India. It consists of:",
+    "options": [
+      "22 members, all from the Lok Sabha.",
+      "30 members, all from the Lok Sabha.",
+      "22 members, 15 from Lok Sabha and 7 from Rajya Sabha.",
+      "30 members, 20 from Lok Sabha and 10 from Rajya Sabha."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Estimates Committee is a parliamentary committee consisting of 30 members who are elected by the Lok Sabha every year from amongst its own members. It is the largest single committee of the Parliament. Its function is to examine the estimates included in the budget and suggest 'economies' in public expenditure.",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "What is a 'Polar Satellite Launch Vehicle' (PSLV)?",
+    "options": [
+      "A type of satellite that orbits over the Earth's poles.",
+      "An expendable launch system developed and operated by ISRO to launch satellites into polar orbits.",
+      "A reusable launch vehicle being developed by NASA.",
+      "An international space station used for research."
+    ],
+    "correctAnswer": 1,
+    "explanation": "PSLV is an expendable medium-lift launch vehicle designed and operated by the Indian Space Research Organisation (ISRO). It was developed to allow India to launch its Indian Remote Sensing (IRS) satellites into Sun-synchronous orbits, a service that was, until the advent of the PSLV, commercially available only from Russia. It is known as the 'workhorse' of ISRO.",
+    "topic": "Science and Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Consider the following statements about the 'Attorney General of India': 1. He holds office during the pleasure of the President. 2. He must be a person qualified to be appointed as a Judge of the Supreme Court. 3. He has the right of audience in all courts in the territory of India. 4. He is a full-time government servant and is debarred from private legal practice.",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 3 only",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement 4 is incorrect. The Attorney General is not considered a full-time government servant and is not debarred from private legal practice, provided the other party is not the Government of India. The other three statements are correct: he is appointed by the President and holds office during his pleasure, must have the qualifications of a Supreme Court judge, and has the right of audience in all Indian courts.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "The 'Cripps Mission' of 1942 failed to secure Indian cooperation for the British war effort. What was the main reason for its rejection by the Indian National Congress?",
+    "options": [
+      "It did not offer complete independence.",
+      "It proposed the partition of India.",
+      "It did not grant the right to secede from the Commonwealth.",
+      "It offered 'dominion status' to be granted after the war, which was seen as inadequate."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Cripps Mission's proposal included the setting up of an Indian dominion. This would be a 'Dominion' associated with the United Kingdom but free to decide its future relationship with the Commonwealth. The Indian National Congress rejected this because it did not offer immediate transfer of power and the 'dominion status' offer was seen as too little, too late. Mahatma Gandhi famously described it as 'a post-dated cheque on a crashing bank'.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "What is meant by 'Liquidity Adjustment Facility' (LAF) in the context of Indian monetary policy?",
+    "options": [
+      "A government scheme to provide liquidity to startups.",
+      "A facility provided by commercial banks for quick loans.",
+      "A tool used by the RBI that allows banks to borrow money through repurchase agreements or to make loans to the RBI.",
+      "An international fund to help countries facing a liquidity crisis."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Liquidity Adjustment Facility (LAF) is a monetary policy tool used by the Reserve Bank of India. It consists of repo (repurchase agreement) and reverse repo operations. Through LAF, the RBI injects or absorbs liquidity into or from the banking system, allowing banks to manage their daily liquidity needs and acting as an indicator for interest rates in the economy.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "Match List-I (National Park) with List-II (State): List-I: A. Gir National Park, B. Sundarbans National Park, C. Jim Corbett National Park, D. Keibul Lamjao National Park. List-II: 1. West Bengal, 2. Manipur, 3. Gujarat, 4. Uttarakhand.",
+    "options": [
+      "A-3, B-1, C-4, D-2",
+      "A-2, B-4, C-1, D-3",
+      "A-3, B-2, C-4, D-1",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct matches are: A. Gir National Park (famous for Asiatic Lions) is in Gujarat. B. Sundarbans National Park (famous for Royal Bengal Tigers and mangrove forests) is in West Bengal. C. Jim Corbett National Park (India's first national park) is in Uttarakhand. D. Keibul Lamjao National Park (the world's only floating national park) is in Manipur.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Assertion (A): The Rajya Sabha is a permanent body and is not subject to dissolution. Reason (R): One-third of the members of the Rajya Sabha retire every second year. In the context of the two statements, which one is correct?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both statements are individually true. The Rajya Sabha is a continuing chamber (a permanent body) and cannot be dissolved. The reason for this permanence is its structure of staggered retirement: one-third of its members retire at the expiration of every second year, and are replaced by newly elected members. This ensures continuity. Therefore, R is the correct explanation for A.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "What is the 'Hubble's Law' in cosmology?",
+    "options": [
+      "The law that describes the orbits of planets around the sun.",
+      "The observation that galaxies are moving away from the Earth at speeds proportional to their distance.",
+      "The principle that the laws of physics are the same for all observers in uniform motion.",
+      "The law that relates the temperature of a black body to the wavelength at which it radiates most intensely."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hubble's Law (or the Hubble-Lemaître law) is the observation in physical cosmology that galaxies are moving away from the Earth at speeds that are proportional to their distance. In other words, the farther they are, the faster they are moving away from us. This observation is considered the first observational basis for the expansion of the universe and today serves as one of the pieces of evidence most often cited in support of the Big Bang model.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "The 'Aihole Inscription' gives a detailed account of the military achievements of which Chalukyan king?",
+    "options": [
+      "Vikramaditya I",
+      "Kirtivarman II",
+      "Pulakeshin II",
+      "Vinayaditya"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Aihole Inscription, located in the Meguti Jain temple at Aihole, Karnataka, was written by the poet Ravikirti in Sanskrit. It provides a eulogistic account of the reign and military victories of his patron, the Chalukyan king Pulakeshin II. It famously describes his victory over the powerful emperor Harshavardhana.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "What are 'maser' and 'laser' an acronym for?",
+    "options": [
+      "Microwave Amplification by Stimulated Emission of Radiation and Light Amplification by Stimulated Emission of Radiation.",
+      "Magnetic Amplification by Spontaneous Emission of Radiation and Luminous Amplification by Spontaneous Emission of Radiation.",
+      "Both are names of scientists and not acronyms.",
+      "Micro-wave Attenuation by Stimulated Emission of Radiation and Light Attenuation by Stimulated Emission of Radiation."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both are acronyms describing the physical principle behind their operation. MASER stands for Microwave Amplification by Stimulated Emission of Radiation. LASER stands for Light Amplification by Stimulated Emission of Radiation. The maser was developed first and the laser was a subsequent development based on the same principle but operating at visible light frequencies.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "The power of the President to grant pardons, reprieves, respites, or remissions of punishment is provided under which article of the Constitution?",
+    "options": [
+      "Article 72",
+      "Article 123",
+      "Article 143",
+      "Article 161"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article 72 of the Constitution empowers the President to grant pardons, and to suspend, remit, or commute sentences in certain cases. This pardoning power is an executive power and is exercised by the President on the advice of the Council of Ministers. Article 161 grants a similar power to the Governor of a state.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "The 'Falkland Islands', a subject of a sovereignty dispute, are a self-governing overseas territory of which country?",
+    "options": [
+      "France",
+      "Spain",
+      "Argentina",
+      "United Kingdom"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Falkland Islands are an archipelago in the South Atlantic Ocean and are an internally self-governing overseas territory of the United Kingdom. However, Argentina has maintained a claim to the islands (which it calls Islas Malvinas) since the 1830s. This dispute led to the Falklands War in 1982.",
+    "topic": "World History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "What is the 'Priority Sector Lending' (PSL) norm in India?",
+    "options": [
+      "A norm that requires banks to give priority to large corporate loans.",
+      "A mandate from the RBI for banks to dedicate a certain percentage of their lending to specific sectors of the economy.",
+      "A government scheme for providing interest-free loans to farmers.",
+      "A guideline for international banks operating in India."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Priority Sector Lending is a regulatory requirement where the RBI mandates banks to provide a specified portion of their bank credit to certain sectors deemed as 'priority sectors'. These sectors include Agriculture, Micro, Small and Medium Enterprises (MSMEs), Export Credit, Education, Housing, Social Infrastructure, and Renewable Energy.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "The 'Treaty of Purandar' (1665) was signed between the Mughal Empire and:",
+    "options": [
+      "The Sultan of Golconda",
+      "The Ahom Kingdom",
+      "Chhatrapati Shivaji Maharaj",
+      "The Sikh Guru Tegh Bahadur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Treaty of Purandar was signed on June 11, 1665, between the Mughal commander Jai Singh I and Chhatrapati Shivaji Maharaj. Shivaji was forced to sign the agreement after Jai Singh besieged Purandar fort. Under the treaty, Shivaji had to surrender several forts to the Mughals and agree to serve the Mughal emperor.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "What is 'Endemism' in ecology?",
+    "options": [
+      "The process of a species becoming extinct.",
+      "The ecological state of a species being unique to a defined geographic location, such as an island or nation.",
+      "The introduction of a non-native species to an ecosystem.",
+      "The symbiotic relationship between two different species."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endemism is an ecological term for a species that is native and confined to a certain region. The species is not found anywhere else in the world. For example, the kangaroos are endemic to Australia. Islands often have a high proportion of endemic species due to their isolation.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "A bill for the creation of a new state or alteration of boundaries of existing states can be introduced in the Parliament only on the recommendation of:",
+    "options": [
+      "The Prime Minister",
+      "The President",
+      "The concerned State Legislature",
+      "The Supreme Court"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to Article 3 of the Constitution, a bill contemplating the formation of new states or alteration of areas, boundaries or names of existing states can be introduced in either House of Parliament only on the recommendation of the President. The President must also refer the bill to the legislature of the affected state for expressing its views within a specified period.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "What is 'Geospatial Engineering'?",
+    "options": [
+      "The engineering of building structures that can withstand earthquakes.",
+      "The science and technology of geographic information, including its acquisition, storage, analysis, and visualization.",
+      "The process of designing and launching satellites into geostationary orbit.",
+      "The branch of engineering that deals with the exploration and extraction of geothermal energy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geospatial Engineering, or Geomatics Engineering, is the discipline of gathering, storing, processing, and delivering geographic information or spatially referenced information. It involves technologies like Geographic Information Systems (GIS), Global Navigation Satellite Systems (GNSS) like GPS, remote sensing, and surveying.",
+    "topic": "Science and Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "The 'Ilbert Bill Controversy' during Lord Ripon's viceroyalty was related to:",
+    "options": [
+      "Banning child marriage.",
+      "Granting financial autonomy to local bodies.",
+      "Imposing restrictions on the vernacular press.",
+      "Removing racial discrimination from the judicial system."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Ilbert Bill was a legislative proposal in 1883 that sought to allow senior Indian magistrates to preside over cases involving British subjects in India. This move to end racial discrimination in the judiciary was met with fierce opposition from the European community in India. The resulting controversy forced the government to withdraw the bill and enact a watered-down version.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "What is 'Promissory Estoppel' in law?",
+    "options": [
+      "A doctrine that prevents a person from being tried for the same crime twice.",
+      "A legal principle that prevents a person from going back on their promise even if a legal contract does not exist.",
+      "The right of a person to remain silent when arrested.",
+      "A rule of evidence that prevents illegally obtained evidence from being used in court."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Promissory estoppel is a legal doctrine that prevents a person from arguing that their promise should not be upheld. It is used when one party relies on the promise of another party to their detriment. Even without a formal contract, the promise is enforceable by law to avoid injustice.",
+    "topic": "Indian Polity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "In the context of money supply in an economy, what does 'M1' represent?",
+    "options": [
+      "The broadest measure of money supply, including all deposits.",
+      "Currency with the public + Demand deposits with the banking system + ‘Other’ deposits with the RBI.",
+      "M1 + Savings deposits with post office savings banks.",
+      "Total currency in circulation only."
+    ],
+    "correctAnswer": 1,
+    "explanation": "M1 is the narrowest measure of the money supply. It includes the most liquid portions of the money supply. It is calculated as: M1 = Currency with the Public + Demand Deposits with the Banking System (like current and savings account deposits) + ‘Other’ Deposits with the RBI. As we move to M2, M3, and M4, the measures of money supply become broader and less liquid.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "The 'Mountbatten Plan' of 3rd June 1947 proposed:",
+    "options": [
+      "The formation of a Constituent Assembly.",
+      "Granting dominion status to India.",
+      "The partition of British India into two independent dominions, India and Pakistan.",
+      "The integration of princely states into the Indian Union."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Mountbatten Plan, also known as the 3rd June Plan, was the plan for the partition of India. Lord Mountbatten, the last Viceroy, proposed the division of British India into two sovereign states, India and Pakistan, and provided a mechanism for the princely states to accede to either dominion. This plan led to the Indian Independence Act of 1947.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is NOT a condition for a Proclamation of Emergency under Article 352 (National Emergency)?",
+    "options": [
+      "War",
+      "External aggression",
+      "Internal disturbance",
+      "Armed rebellion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Originally, the Constitution allowed for a National Emergency to be proclaimed on the grounds of 'war', 'external aggression', or 'internal disturbance'. However, the 44th Amendment Act of 1978 replaced the vague term 'internal disturbance' with the more specific term 'armed rebellion'. This was done to prevent misuse of the emergency provisions, as was seen during the 1975 emergency.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "The 'Stockholm Convention on Persistent Organic Pollutants' is an international treaty aimed at:",
+    "options": [
+      "Protecting human health and the environment from chemicals that remain intact in the environment for long periods.",
+      "Controlling the transboundary movement of hazardous wastes.",
+      "Phasing out ozone-depleting substances.",
+      "Conserving migratory species of wild animals."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Stockholm Convention is a global treaty to protect human health and the environment from persistent organic pollutants (POPs). POPs are chemicals that persist in the environment, bio-accumulate through the food web, and pose a risk of causing adverse effects to human health and the environment. The convention seeks to eliminate or restrict the production and use of these substances.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "What is the 'Great Unconformity' in geology?",
+    "options": [
+      "A major boundary in the Earth's crust separating the crust from the mantle.",
+      "A period in Earth's history with no fossil record.",
+      "A globally observed gap in the geologic record, representing a huge period of missing time.",
+      "The boundary between the Paleozoic and Mesozoic eras, marked by a mass extinction."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Great Unconformity is a significant gap in the rock record, or a surface of erosion, that separates much older crystalline basement rocks from the overlying sedimentary rock layers. In many places, like the Grand Canyon, it represents a time gap of over a billion years where rocks were either eroded away or no new rocks were deposited. It's a profound mystery in geology.",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "The 'Indian National Army' (INA) was founded by:",
+    "options": [
+      "Subhas Chandra Bose",
+      "Rash Behari Bose",
+      "Captain Mohan Singh",
+      "Shah Nawaz Khan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The first Indian National Army (INA) was formed in September 1942 by Captain Mohan Singh, an officer in the British Indian Army who was taken as a prisoner of war by the Japanese. However, it was disbanded due to disagreements. It was later revived by Subhas Chandra Bose in 1943, who then led it with the aim of securing Indian independence from British rule.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The 'Financial Stability Report' (FSR) is a half-yearly publication released by which institution in India?",
+    "options": [
+      "Ministry of Finance",
+      "NITI Aayog",
+      "Reserve Bank of India (RBI)",
+      "Securities and Exchange Board of India (SEBI)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Financial Stability Report (FSR) is published biannually by the Reserve Bank of India. The report is a collective assessment of the Sub-Committee of the Financial Stability and Development Council (FSDC) on risks to financial stability and the resilience of the financial system.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "The power of the Supreme Court of India to use 'Special Leave Petitions' (SLPs) is granted under which article?",
+    "options": [
+      "Article 32",
+      "Article 131",
+      "Article 136",
+      "Article 142"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article 136 of the Constitution confers an extraordinary and discretionary power on the Supreme Court to grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India. It is a residual power and a 'special leave' is granted only in exceptional circumstances.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "What is a 'Kerr Black Hole'?",
+    "options": [
+      "A black hole that has no electrical charge and no angular momentum.",
+      "A black hole that possesses only mass and electrical charge.",
+      "An uncharged, rotating black hole defined by its mass and angular momentum.",
+      "A hypothetical black hole that connects two different points in spacetime."
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to the no-hair theorem, a stable black hole has only three independent physical properties: mass, electric charge, and angular momentum. A Schwarzschild black hole is the simplest type, being uncharged and non-rotating. A Kerr black hole is an uncharged black hole that rotates. A Reissner–Nordström black hole is non-rotating but has charge, and a Kerr-Newman black hole has both charge and rotation.",
+    "topic": "General Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The 'Butler Committee Report' of 1927 was commissioned to investigate and clarify the relationship between:",
+    "options": [
+      "The British government and the Indian National Congress.",
+      "The Governor-General and his Executive Council.",
+      "The central government and provincial governments in British India.",
+      "The paramount power (the British Crown) and the Princely States of India."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Butler Committee was appointed in 1927 to examine the nature of the relationship between the British paramount power and the Indian Princely States. Its report reaffirmed the doctrine of paramountcy, stating that the relationship between the Paramount Power and the Princes was not merely a contractual one, but a living, growing relationship shaped by circumstances and policy, and that the paramountcy of the Crown was supreme.",
+    "topic": "History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "The concept of 'Social, Economic and Political Justice' mentioned in the Preamble of the Indian Constitution is inspired by:",
+    "options": [
+      "The American Revolution",
+      "The French Revolution",
+      "The Russian Revolution",
+      "The Glorious Revolution of England"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The ideals of social, economic, and political justice in the Preamble are taken from the Russian Revolution of 1917. The ideals of liberty, equality, and fraternity are taken from the French Revolution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "What is the 'Nagoya Protocol'?",
+    "options": [
+      "A protocol on liability and redress for damage resulting from living modified organisms.",
+      "A protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their utilization.",
+      "A protocol that sets binding obligations on industrialized countries to reduce emissions of greenhouse gases.",
+      "A protocol for the prevention of pollution of the marine environment by dumping of wastes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) is a supplementary agreement to the Convention on Biological Diversity (CBD). It provides a transparent legal framework for the effective implementation of one of the three objectives of the CBD: the fair and equitable sharing of benefits arising out of the utilization of genetic resources.",
+    "topic": "Environment and Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "What is the 'UPI 123Pay' service launched by the RBI?",
+    "options": [
+      "A new version of the UPI app with enhanced security.",
+      "A service that allows feature phone users to access UPI for payments.",
+      "A UPI service for international remittances.",
+      "A platform for investing in stocks using a UPI ID."
+    ],
+    "correctAnswer": 1,
+    "explanation": "UPI 123Pay is a service launched by the Reserve Bank of India to make digital payments available to users of feature phones (basic mobile phones without internet). It allows them to perform a wide range of transactions using four technology alternatives: IVR (interactive voice response) number, app functionality in feature phones, missed call-based approach, and proximity sound-based payments.",
+    "topic": "Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Consider the following statements regarding the 'National Commission for Minorities' (NCM): 1. It is a constitutional body established under Article 338B. 2. It has the powers of a civil court while trying a suit. 3. The Central Government can notify any community as a minority for the purposes of the NCM Act. Which of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement 1 is incorrect. The NCM is a statutory body, set up under the National Commission for Minorities Act, 1992. It is not a constitutional body like the National Commission for SCs (Art 338) or STs (Art 338A). Statements 2 and 3 are correct. The Commission has the powers of a civil court, and Section 2(c) of the Act empowers the Central Government to notify a community as a minority.",
+    "topic": "Indian Polity",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 87,
+    "question": "The 'Doctrine of Prospective Overruling' was first applied by the Supreme Court of India in which landmark case?",
+    "options": [
+      "Shankari Prasad v. Union of India (1951)",
+      "Sajjan Singh v. State of Rajasthan (1965)",
+      "I. C. Golaknath v. State of Punjab (1967)",
+      "Kesavananda Bharati v. State of Kerala (1973)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Doctrine of Prospective Overruling holds that a court's decision to overrule a precedent should only apply to future cases and not have a retrospective effect. This doctrine was first invoked in India by the Supreme Court in the case of I.C. Golaknath v. State of Punjab. The court ruled that Parliament could not amend Fundamental Rights, but applied this ruling prospectively, so that amendments made before the date of the judgment would remain valid.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 88,
+    "question": "The 'Kelkar Committee' (2012) was constituted to prepare a roadmap for:",
+    "options": [
+      "Banking sector reforms.",
+      "Disinvestment of public sector undertakings.",
+      "Fiscal consolidation.",
+      "Implementation of Goods and Services Tax (GST)."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The committee on fiscal consolidation, chaired by Dr. Vijay Kelkar, was set up in 2012 to suggest a roadmap for fiscal consolidation for the Indian economy. The committee made several recommendations, including rationalizing subsidies (especially fuel and fertilizer), focusing on tax reforms, and adhering to a clear path for reducing the fiscal deficit.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 89,
+    "question": "The 'Aundh Experiment' of 1938-39 in the princely state of Aundh is historically significant for being an early experiment in:",
+    "options": [
+      "Land reforms and abolition of zamindari.",
+      "Self-government and constitutional monarchy based on Gandhian principles.",
+      "Industrial development through state-owned enterprises.",
+      "Social reforms like temple entry for all castes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Aundh Experiment was a test of village-level self-government initiated by the Raja of Aundh, Bhawanrao Shriniwasrao Pant Pratinidhi. Heavily influenced by Mahatma Gandhi and Maurice Frydman, the Raja divested his own power and established a constitutional monarchy, granting significant autonomy and power to village panchayats in what was called the 'Swaraj Constitution'. It was a pioneering effort in democratic decentralization in India.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 90,
+    "question": "What is the 'Chandler Wobble'?",
+    "options": [
+      "A small deviation in the Earth's axis of rotation relative to the solid earth.",
+      "The periodic variation in the Sun's energy output.",
+      "A cyclical movement of the Earth's magnetic poles.",
+      "The precession of the equinoxes."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Chandler wobble is a small, irregular motion of the Earth's geographical poles across the surface of the globe. It is a component of polar motion and has a period of about 433 days. It causes the Earth's axis of rotation to 'wobble' in a way that the point where the axis intersects the Earth's surface moves in an irregular circle of 3 to 15 meters in diameter.",
+    "topic": "Geography",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following describes the 'Doctrine of Territorial Nexus' in Indian constitutional law?",
+    "options": [
+      "The principle that the Parliament has the power to make laws for the whole or any part of the territory of India.",
+      "A doctrine that determines whether a particular law passed by a State legislature is applicable to persons, objects or transactions outside the state.",
+      "The rule that a person cannot be a member of both the Lok Sabha and the Rajya Sabha simultaneously.",
+      "The power of the Supreme Court to adjudicate disputes between two or more states."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Doctrine of Territorial Nexus is a legal principle that allows a state legislature to make laws that have an extra-territorial operation, provided there is a sufficient connection or 'nexus' between the state and the object of the legislation (the person, property, or activity). It is an exception to the general rule that a state's laws are only effective within its own territory.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 92,
+    "question": "The 'String of Pearls' is a geopolitical theory regarding potential Chinese intentions in the Indian Ocean. It refers to:",
+    "options": [
+      "A network of Chinese military and commercial facilities and relationships along its sea lines of communication.",
+      "A series of trade agreements signed by China with African nations.",
+      "China's claim over the islands in the South China Sea.",
+      "A chain of underwater listening posts built by China in the Pacific Ocean."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'String of Pearls' theory suggests that China is trying to establish a network of naval bases, ports, and other facilities in the Indian Ocean region, stretching from the Chinese mainland to Port Sudan. These 'pearls' could be used to project Chinese power, protect its trade routes, and potentially encircle India militarily. Key locations often cited include ports in Pakistan (Gwadar), Sri Lanka (Hambantota), and Myanmar.",
+    "topic": "International Relations",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 93,
+    "question": "The 'Angkor Wat' temple complex in Cambodia, the largest religious monument in the world, was originally constructed as a temple for which deity?",
+    "options": [
+      "Shiva",
+      "Brahma",
+      "Buddha",
+      "Vishnu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Angkor Wat was built in the first half of the 12th century by the Khmer King Suryavarman II. It was originally constructed as a Hindu temple dedicated to the god Vishnu. Towards the end of the 12th century, it gradually transformed into a Buddhist temple, which it remains to this day.",
+    "topic": "World History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 94,
+    "question": "In the context of quantum computing, what is a 'qubit'?",
+    "options": [
+      "A classical bit that can only be 0 or 1.",
+      "A basic unit of quantum information that can exist in a superposition of both 0 and 1.",
+      "A type of quantum algorithm used for factorization.",
+      "A device used to cool quantum computers to near absolute zero."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A qubit, or quantum bit, is the basic unit of information in quantum computing. Unlike a classical bit, which can be in a state of either 0 or 1, a qubit can be in a state of 0, 1, or a 'superposition' of both states simultaneously. This property, along with entanglement, gives quantum computers their immense processing power.",
+    "topic": "Science and Technology",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 95,
+    "question": "The 'Minerva Mills v. Union of India' (1980) case is a landmark judgment of the Supreme Court because:",
+    "options": [
+      "It established the doctrine of Basic Structure of the Constitution.",
+      "It struck down provisions of the 42nd Amendment Act and upheld the supremacy of Fundamental Rights over Directive Principles.",
+      "It legalized the practice of reservation in promotions for SCs and STs.",
+      "It laid down the guidelines against sexual harassment at the workplace."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Minerva Mills case is highly significant because the Supreme Court struck down clauses of the 42nd Amendment Act that had given unlimited power to Parliament to amend the Constitution and had placed Directive Principles above Fundamental Rights. The Court reaffirmed the 'Basic Structure' doctrine and held that the harmony and balance between Fundamental Rights and Directive Principles is an essential feature of the Constitution.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 96,
+    "question": "The 'Gadgil Formula', which was later modified as the 'Mukherjee-Gadgil Formula', was used for:",
+    "options": [
+      "Determining the Minimum Support Price (MSP) for crops.",
+      "The allocation of central assistance to states for their five-year plans.",
+      "Calculating the poverty line in India.",
+      "The devolution of taxes from the Centre to the States."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Gadgil formula was evolved in 1969 for determining the allocation of central assistance for state plans in India. It was based on factors like population, per capita income, tax effort, and special problems of a state. It aimed to introduce a more objective and transparent mechanism for distributing plan funds among states.",
+    "topic": "Economy",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 97,
+    "question": "The 'Polygar Wars' were a series of wars fought in the late 18th and early 19th centuries between the British East India Company and the Polygars (Palaiyakkarars) in which region of India?",
+    "options": [
+      "Bengal",
+      "Malabar Coast",
+      "Southern Tamil Nadu",
+      "Awadh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Polygar (Palaiyakkarar) Wars were a series of uprisings by the Palaiyakkarars, who were feudal lords and military chieftains, against the British East India Company in the territories of the former Tirunelveli and Madurai kingdoms in southern Tamil Nadu. These wars, which occurred between 1799 and 1805, are considered by some historians as one of the earliest Indian independence struggles.",
+    "topic": "History",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 98,
+    "question": "What is the 'Malmquist bias' in astronomy?",
+    "options": [
+      "A systematic error in measurements caused by instrumental limitations.",
+      "The tendency to overestimate the distances to faint galaxies.",
+      "An observational bias where brighter objects are more likely to be detected and included in a sample, leading to an overestimation of the average luminosity.",
+      "A bias in cosmological models that favors a particular theory of the universe's origin."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Malmquist bias is a selection bias in observational astronomy. When creating a sample of astronomical objects (like stars or galaxies) based on a magnitude limit, intrinsically brighter objects can be seen from a greater distance. This leads to an over-representation of luminous objects in the sample, which in turn causes the calculated average luminosity of the sample to be higher than the true average. This must be corrected for in many astronomical calculations.",
+    "topic": "General Science",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 99,
+    "question": "The concept of 'Office of Profit' is a ground for disqualification of a Member of Parliament or a State Legislature. Which of the following statements is correct regarding this concept?",
+    "options": [
+      "The term 'Office of Profit' is clearly defined in the Constitution of India.",
+      "The Parliament and State Legislatures can declare by law that certain offices will not be considered offices of profit.",
+      "The power to decide on questions of disqualification on this ground rests with the presiding officer of the House.",
+      "Holding an office of profit under a foreign government is not a ground for disqualification."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement 1 is incorrect; the term is not well-defined in the Constitution, and its interpretation has evolved through court judgments. Statement 3 is incorrect; the final decision on this matter rests with the President (for MPs) or the Governor (for MLAs), who acts on the advice of the Election Commission. Statement 4 is incorrect. Statement 2 is correct; Articles 102 and 191 empower Parliament and State Legislatures, respectively, to pass laws exempting certain offices from being considered offices of profit.",
+    "topic": "Indian Constitution",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 100,
+    "question": "The 'Geneva Conventions' are a set of international treaties that establish the standards of international law for:",
+    "options": [
+      "The conduct of international trade.",
+      "The protection of intellectual property.",
+      "The humanitarian treatment in war.",
+      "The regulation of nuclear weapons."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Geneva Conventions are a series of four treaties, and three additional protocols, that establish the international legal standards for humanitarian treatment in war. The singular term Geneva Convention usually denotes the agreements of 1949 which negotiated in the aftermath of the Second World War. They extensively define the basic rights of wartime prisoners (civilians and military personnel), established protections for the wounded and sick, and for the civilians in and around a war-zone.",
+    "topic": "International Relations",
+    "difficulty": "Very Hard"
+  }
+]
+
+
 // Function to get mock test by ID
 export const getMockTestById = (id) => {
   return MOCK_TESTS_DATA.find(test => test.id === id);
@@ -11678,7 +17379,15 @@ export const getMockTestQuestions = (testId) => {
     case 'mock_7':
       return MOCK_TEST_7_QUESTIONS;
     case 'mock_8':
-      return MOCK_TEST_8_QUESTIONS;    
+      return MOCK_TEST_8_QUESTIONS; 
+    case 'mock_9':
+      return MOCK_TEST_9_QUESTIONS;  
+    case 'mock_10':
+      return MOCK_TEST_10_QUESTIONS;  
+    case 'mock_11':
+      return MOCK_TEST_11_QUESTIONS; 
+    case 'mock_12':
+      return MOCK_TEST_12_QUESTIONS;       
     default:
       return [];
   }
