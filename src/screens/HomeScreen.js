@@ -188,6 +188,31 @@ const HomeScreen = ({ navigation }) => {
             Tap on any subject to explore detailed topics
           </Text>
         </View>
+
+        {/* NCERT Section */}
+        <View style={{ marginBottom: 24 }}>
+          <Text style={[styles.welcomeTitle, { color: theme.textPrimary }]}>NCERT Preparation (Classes 6–12)</Text>
+          <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+            <TouchableOpacity
+              onPress={() => navigation.navigate('NCERT')}
+              activeOpacity={0.8}
+              style={{
+                flex: 1,
+                padding: 16,
+                borderRadius: 12,
+                borderWidth: 1,
+                borderColor: '#E5E7EB',
+                backgroundColor: theme.card,
+              }}
+            >
+              <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 6 }}>
+                <Icon name="book-education" size={20} color={theme.textPrimary} />
+                <Text style={{ marginLeft: 8, fontWeight: '700', color: theme.textPrimary }}>NCERT Hub</Text>
+              </View>
+              <Text style={{ color: theme.textSecondary }}>Subject-wise quizzes with class filters</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
       </ScrollView>
     </View>
   );

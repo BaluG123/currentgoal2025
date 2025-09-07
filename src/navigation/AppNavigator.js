@@ -26,6 +26,11 @@ import CustomDrawerContent from '../components/CustomDrawerContent';
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
 
+// NCERT Screens
+import NCERTHomeScreen from '../screens/NCERTHomeScreen';
+import NCERTLevelsScreen from '../screens/NCERTLevelsScreen';
+import NCERTQuizScreen from '../screens/NCERTQuizScreen';
+
 // Stack Navigator for Home
 const HomeStack = () => {
   return (
@@ -45,6 +50,21 @@ const HomeStack = () => {
       <Stack.Screen name="MockTestInstructions" component={MockTestInstructionsScreen} />
       <Stack.Screen name="MockTestScreen" component={MockTestScreen} />
       <Stack.Screen name="MockTestResults" component={MockTestResultsScreen} />
+    </Stack.Navigator>
+  );
+};
+
+// Stack Navigator for NCERT
+const NCERTStack = () => {
+  return (
+    <Stack.Navigator
+      screenOptions={{
+        headerShown: false,
+      }}
+    >
+      <Stack.Screen name="NCERTHome" component={NCERTHomeScreen} />
+      <Stack.Screen name="NCERTLevels" component={NCERTLevelsScreen} />
+      <Stack.Screen name="NCERTQuiz" component={NCERTQuizScreen} />
     </Stack.Navigator>
   );
 };
@@ -85,6 +105,17 @@ const AppNavigator = () => {
             drawerLabel: 'Home',
             drawerIcon: ({ color, size }) => (
               <Icon name="home" size={size} color={color} />
+            ),
+          }}
+        />
+
+        <Drawer.Screen
+          name="NCERT"
+          component={NCERTStack}
+          options={{
+            drawerLabel: 'NCERT (6-12)',
+            drawerIcon: ({ color, size }) => (
+              <Icon name="book-open-variant" size={size} color={color} />
             ),
           }}
         />
