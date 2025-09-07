@@ -13,6 +13,17 @@ const NCERTQuizScreen = ({ route, navigation }) => {
   const [selected, setSelected] = useState(null);
   const [isCorrect, setIsCorrect] = useState(null);
 
+  const [showNextButton, setShowNextButton] = useState(false);
+  const [showTryAgain, setShowTryAgain] = useState(false);
+
+  useEffect(() => {
+  // Reset state when level changes
+  setSelected(null);
+  setIsCorrect(null);
+  setShowNextButton(false);
+  setShowTryAgain(false);
+}, [level]); // Add level as dependency
+
   useEffect(() => {
     (async () => {
       try {
@@ -22,15 +33,30 @@ const NCERTQuizScreen = ({ route, navigation }) => {
     })();
   }, []);
 
+  // useEffect(() => {
+  //   const q = getNCERTQuiz(subject, klass, level);
+  //   if (!q) {
+  //     Alert.alert('Not found', 'Quiz not found.');
+  //     navigation.goBack();
+  //   } else {
+  //     setQuiz(q);
+  //   }
+  // }, [subject, klass, level, navigation]);
+
   useEffect(() => {
-    const q = getNCERTQuiz(subject, klass, level);
-    if (!q) {
-      Alert.alert('Not found', 'Quiz not found.');
-      navigation.goBack();
-    } else {
-      setQuiz(q);
-    }
-  }, [subject, klass, level, navigation]);
+  const q = getNCERTQuiz(subject, klass, level);
+  if (!q) {
+    Alert.alert('Not found', 'Quiz not found.');
+    navigation.goBack();
+  } else {
+    setQuiz(q);
+    // Reset all states when quiz changes
+    setSelected(null);
+    setIsCorrect(null);
+    setShowNextButton(false);
+    setShowTryAgain(false);
+  }
+}, [subject, klass, level, navigation]);
 
   const theme = useMemo(() => ({
     background: isDarkMode ? '#0B1220' : COLORS.background,
@@ -39,11 +65,40 @@ const NCERTQuizScreen = ({ route, navigation }) => {
     textSecondary: isDarkMode ? '#9CA3AF' : COLORS.textSecondary,
   }), [isDarkMode]);
 
+  // const onSelect = (idx) => {
+  //   if (selected !== null) return;
+  //   setSelected(idx);
+  //   setIsCorrect(idx === (quiz.correctAnswer || 1) - 1);
+  // };
+
   const onSelect = (idx) => {
-    if (selected !== null) return;
-    setSelected(idx);
-    setIsCorrect(idx === (quiz.correctAnswer || 1) - 1);
-  };
+  if (selected !== null) return;
+  setSelected(idx);
+  const correct = idx === (quiz.correctAnswer || 1) - 1;
+  setIsCorrect(correct);
+  
+  if (correct) {
+    setShowNextButton(true);
+    AsyncStorage.setItem(`completed_${subject}_${klass}_${level}`, 'true');
+  } else {
+    setShowTryAgain(true);
+  }
+};
+
+// const goToNextLevel = () => {
+//   navigation.navigate('NCERTQuiz', { subject, klass, level: level + 1 });
+// };
+
+const goToNextLevel = () => {
+  navigation.replace('NCERTQuiz', { subject, klass, level: level + 1 });
+};
+
+const tryAgain = () => {
+  setSelected(null);
+  setIsCorrect(null);
+  setShowNextButton(false);
+  setShowTryAgain(false);
+};
 
   const goBack = () => navigation.navigate('NCERTLevels', { subject, klass });
 
@@ -99,6 +154,20 @@ const NCERTQuizScreen = ({ route, navigation }) => {
             <Text style={[styles.explanation, { color: theme.textSecondary }]}>{quiz.explanation || 'No explanation available'}</Text>
           </View>
         )}
+        {selected !== null && (
+  <View style={styles.actionButtons}>
+    {showNextButton && (
+      <TouchableOpacity style={[styles.actionBtn, { backgroundColor: COLORS.success }]} onPress={goToNextLevel}>
+        <Text style={styles.actionBtnText}>Next Level</Text>
+      </TouchableOpacity>
+    )}
+    {showTryAgain && (
+      <TouchableOpacity style={[styles.actionBtn, { backgroundColor: COLORS.primary }]} onPress={tryAgain}>
+        <Text style={styles.actionBtnText}>Try Again</Text>
+      </TouchableOpacity>
+    )}
+  </View>
+)}
       </ScrollView>
     </View>
   );
@@ -123,6 +192,9 @@ const styles = StyleSheet.create({
   optionText: { fontSize: 16 },
   explanationTitle: { fontSize: 16, fontWeight: '700', marginBottom: 6 },
   explanation: { fontSize: 14, lineHeight: 20 },
+  actionButtons: { marginTop: 20, marginBottom: 20 },
+  actionBtn: { padding: 16, borderRadius: 12, alignItems: 'center', marginBottom: 12 },
+  actionBtnText: { color: COLORS.white, fontSize: 16, fontWeight: '600' },
 });
 
 export default NCERTQuizScreen;

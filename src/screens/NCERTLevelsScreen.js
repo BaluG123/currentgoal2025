@@ -10,6 +10,7 @@ const NCERTLevelsScreen = ({ route, navigation }) => {
   const { subject, klass } = route.params;
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [totalLevels, setTotalLevels] = useState(0);
+  const [completedLevels, setCompletedLevels] = useState([]);
 
   useEffect(() => {
     (async () => {
@@ -36,18 +37,61 @@ const NCERTLevelsScreen = ({ route, navigation }) => {
     navigation.navigate('NCERTQuiz', { subject, klass, level });
   };
 
+  // const renderLevels = () => {
+  //   const blocks = [];
+  //   for (let i = 1; i <= totalLevels; i++) {
+  //     blocks.push(
+  //       <TouchableOpacity key={i} style={[styles.levelBlock, { backgroundColor: theme.card }]} onPress={() => onLevelPress(i)} activeOpacity={0.8}>
+  //         <Icon name="book" size={20} color={COLORS.primary} />
+  //         <Text style={[styles.levelText, { color: theme.textPrimary }]}>{i}</Text>
+  //       </TouchableOpacity>
+  //     );
+  //   }
+  //   return blocks;
+  // };
+
   const renderLevels = () => {
-    const blocks = [];
+  const blocks = [];
+  for (let i = 1; i <= totalLevels; i++) {
+    const isCompleted = completedLevels.includes(i);
+    blocks.push(
+      <TouchableOpacity 
+        key={i} 
+        style={[
+          styles.levelBlock, 
+          { backgroundColor: isCompleted ? COLORS.success : theme.card }
+        ]} 
+        onPress={() => onLevelPress(i)} 
+        activeOpacity={0.8}
+      >
+        <Icon 
+          name={isCompleted ? "check-circle" : "book"} 
+          size={20} 
+          color={isCompleted ? COLORS.white : COLORS.primary} 
+        />
+        <Text style={[
+          styles.levelText, 
+          { color: isCompleted ? COLORS.white : theme.textPrimary }
+        ]}>
+          {i}
+        </Text>
+      </TouchableOpacity>
+    );
+  }
+  return blocks;
+};
+
+  useEffect(() => {
+  const loadCompleted = async () => {
+    const completed = [];
     for (let i = 1; i <= totalLevels; i++) {
-      blocks.push(
-        <TouchableOpacity key={i} style={[styles.levelBlock, { backgroundColor: theme.card }]} onPress={() => onLevelPress(i)} activeOpacity={0.8}>
-          <Icon name="book" size={20} color={COLORS.primary} />
-          <Text style={[styles.levelText, { color: theme.textPrimary }]}>{i}</Text>
-        </TouchableOpacity>
-      );
+      const isCompleted = await AsyncStorage.getItem(`completed_${subject}_${klass}_${i}`);
+      if (isCompleted === 'true') completed.push(i);
     }
-    return blocks;
+    setCompletedLevels(completed);
   };
+  loadCompleted();
+}, [subject, klass, totalLevels]);
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
