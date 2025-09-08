@@ -8870,28 +8870,4624 @@ const NCERT_DATA = {
     ]
   },
   History: {
-    6: [
+ "6": [
+    {
+      "level": 1,
+      "difficulty": "Easy",
+      "question": "What is the study of the past called?",
+      "options": ["Geography", "History", "Science", "Mathematics"],
+      "correctAnswer": 2,
+      "explanation": "History is the study of the past. It helps us understand how people lived, what they did, and how societies developed over time. Historians use various sources like inscriptions, coins, and archaeological remains to study the past."
+    },
+    {
+      "level": 2,
+      "difficulty": "Easy",
+      "question": "Which of these is a literary source for studying history?",
+      "options": ["Coins", "Inscriptions", "Vedas", "Pottery"],
+      "correctAnswer": 3,
+      "explanation": "The Vedas are literary sources - written texts that provide information about the past. Literary sources include religious texts, chronicles, travelogues, and autobiographies. Archaeological sources include coins, inscriptions, pottery, and tools that are dug up from the ground."
+    },
+    {
+      "level": 3,
+      "difficulty": "Easy",
+      "question": "Where did early humans first learn to grow food?",
+      "options": ["Mehrgarh", "Delhi", "Mumbai", "Kolkata"],
+      "correctAnswer": 1,
+      "explanation": "Mehrgarh, located in present-day Pakistan, is one of the earliest sites where humans began agriculture around 8000 years ago. People there learned to grow wheat and barley, and domesticated animals like cattle and goats. This marked the beginning of the Neolithic period in the Indian subcontinent."
+    },
+    {
+      "level": 4,
+      "difficulty": "Medium",
+      "question": "What was the main occupation of people during the Paleolithic period?",
+      "options": ["Farming", "Trading", "Hunting and gathering", "Pottery making"],
+      "correctAnswer": 3,
+      "explanation": "During the Paleolithic (Old Stone Age) period, people were hunter-gatherers. They hunted wild animals, gathered fruits, nuts, and roots, and lived in caves or temporary shelters. They made tools from stone, bone, and wood. They had not yet learned agriculture or animal domestication."
+    },
+    {
+      "level": 5,
+      "difficulty": "Medium",
+      "question": "Which civilization is famous for its well-planned cities with drainage systems?",
+      "options": ["Mesopotamian", "Egyptian", "Harappan", "Chinese"],
+      "correctAnswer": 3,
+      "explanation": "The Harappan or Indus Valley Civilization (2600-1900 BCE) is renowned for its advanced urban planning. Cities like Harappa and Mohenjodaro had grid-pattern streets, covered drains, public baths, and standardized weights and measures. Their sophisticated drainage system was far ahead of its time."
+    },
+    {
+      "level": 6,
+      "difficulty": "Medium",
+      "question": "What script was used by the Harappan people?",
+      "options": ["Brahmi", "Kharosthi", "Undeciphered script", "Sanskrit"],
+      "correctAnswer": 3,
+      "explanation": "The Harappan script remains undeciphered to this day. Archaeologists have found about 400 signs and symbols on seals, pottery, and other objects, but scholars haven't been able to read them yet. This is one of the biggest mysteries of the Harappan civilization."
+    },
+    {
+      "level": 7,
+      "difficulty": "Medium",
+      "question": "Around which river did the Vedic people primarily settle?",
+      "options": ["Indus", "Ganga", "Saraswati", "Narmada"],
+      "correctAnswer": 3,
+      "explanation": "The early Vedic people (Aryans) initially settled around the Saraswati river, which is mentioned frequently in the Rigveda. Later, they moved eastward to the Ganga-Yamuna doab. The Saraswati river is believed to have dried up over time, which led to their migration."
+    },
+    {
+      "level": 8,
+      "difficulty": "Medium",
+      "question": "What was the earliest Veda composed by the Aryans?",
+      "options": ["Samaveda", "Yajurveda", "Atharvaveda", "Rigveda"],
+      "correctAnswer": 4,
+      "explanation": "The Rigveda is the oldest of the four Vedas, composed around 1500 BCE. It contains 1028 hymns dedicated to various gods like Indra, Agni, and Varuna. It provides valuable information about the early Vedic society, their religious practices, and social structure."
+    },
+    {
+      "level": 9,
+      "difficulty": "Hard",
+      "question": "What was the varna system based on according to the Vedic texts?",
+      "options": ["Birth", "Occupation", "Wealth", "Age"],
+      "correctAnswer": 2,
+      "explanation": "Initially, the varna system was based on occupation and qualities (guna-karma). The four varnas were: Brahmanas (priests and teachers), Kshatriyas (rulers and warriors), Vaishyas (farmers, herders, traders), and Shudras (laborers). Over time, it became hereditary and rigid, leading to the caste system."
+    },
+    {
+      "level": 10,
+      "difficulty": "Hard",
+      "question": "Which Mahajanapada was known for being the first to use iron extensively?",
+      "options": ["Magadha", "Koshala", "Vajji", "Kuru"],
+      "correctAnswer": 1,
+      "explanation": "Magadha was the first Mahajanapada to use iron on a large scale for making tools and weapons. This gave them a significant military advantage. The iron deposits in the region and the fertile Gangetic plains helped Magadha become the most powerful kingdom, eventually leading to the Mauryan empire."
+    },
+    {
+      "level": 11,
+      "difficulty": "Hard",
+      "question": "What was unique about the Vajji confederation?",
+      "options": ["It was ruled by one king", "It was a republic", "It had no army", "It was very small"],
+      "correctAnswer": 2,
+      "explanation": "Vajji (modern-day Bihar) was a confederation of eight clans and was governed as a gana or sangha (republic). Instead of being ruled by one king, decisions were made by an assembly of representatives. This was an early form of democratic governance in ancient India."
+    },
+    {
+      "level": 12,
+      "difficulty": "Hard",
+      "question": "Who founded Buddhism?",
+      "options": ["Mahavira", "Gautama Buddha", "Ashoka", "Chandragupta"],
+      "correctAnswer": 2,
+      "explanation": "Gautama Buddha (Siddhartha Gautama) founded Buddhism in the 6th century BCE. Born as a prince in Kapilavastu, he renounced his royal life at age 29 to seek answers to human suffering. He attained enlightenment at Bodh Gaya and spent 45 years teaching the Dharma."
+    },
+    {
+      "level": 13,
+      "difficulty": "Hard",
+      "question": "What are the Four Noble Truths in Buddhism?",
+      "options": ["Four types of meditation", "Four stages of life", "Core teachings about suffering", "Four rules for monks"],
+      "correctAnswer": 3,
+      "explanation": "The Four Noble Truths are Buddhism's core teachings: 1) Life contains suffering (dukkha), 2) Suffering is caused by desire/attachment (tanha), 3) Suffering can be ended by eliminating desire, 4) The Eightfold Path leads to the end of suffering. These truths form the foundation of Buddhist philosophy."
+    },
+    {
+      "level": 14,
+      "difficulty": "Hard",
+      "question": "What does 'Jina' mean in Jainism?",
+      "options": ["Teacher", "Conqueror", "Wise one", "Holy person"],
+      "correctAnswer": 2,
+      "explanation": "Jina means 'conqueror' - one who has conquered his desires and attained liberation. The 24 Tirthankaras in Jainism are called Jinas. The religion itself is called Jainism after this term. Mahavira, the 24th Tirthankara, is also called Mahavira Jina."
+    },
+    {
+      "level": 15,
+      "difficulty": "Hard",
+      "question": "Which empire was established after the decline of Magadha under the Nandas?",
+      "options": ["Gupta Empire", "Mauryan Empire", "Kushan Empire", "Satavahana Empire"],
+      "correctAnswer": 2,
+      "explanation": "The Mauryan Empire was established by Chandragupta Maurya after he overthrew the last Nanda king Dhanananda in 322 BCE. With the help of Chanakya (Kautilya), he built the largest empire in ancient India, which was later expanded by his grandson Ashoka."
+    },
+    {
+      "level": 16,
+      "difficulty": "Expert",
+      "question": "What was Ashoka's Dhamma primarily concerned with?",
+      "options": ["Military conquests", "Trade relations", "Moral and ethical conduct", "Religious rituals"],
+      "correctAnswer": 3,
+      "explanation": "Ashoka's Dhamma was a moral code emphasizing non-violence (ahimsa), respect for all religions, care for subjects, truthfulness, and compassion. It wasn't a religion but a way of life. After the Kalinga war, Ashoka adopted Buddhism and spread these moral principles through his edicts across the empire."
+    },
+    {
+      "level": 17,
+      "difficulty": "Expert",
+      "question": "In which script were most of Ashoka's edicts written?",
+      "options": ["Sanskrit", "Brahmi", "Kharosthi", "Aramaic"],
+      "correctAnswer": 2,
+      "explanation": "Most of Ashoka's edicts were written in Brahmi script, though some in the northwest were in Kharosthi, and some in Afghanistan were in Greek and Aramaic. Brahmi is the ancestor of most Indian scripts. These edicts, carved on rocks and pillars, are our primary source for understanding Ashoka's reign."
+    },
+    {
+      "level": 18,
+      "difficulty": "Expert",
+      "question": "What was the capital of the Mauryan Empire?",
+      "options": ["Pataliputra", "Taxila", "Ujjain", "Sarnath"],
+      "correctAnswer": 1,
+      "explanation": "Pataliputra (modern Patna) was the capital of the Mauryan Empire. Located at the confluence of Ganga and Son rivers, it was strategically important for trade and defense. The city was fortified with wooden walls and had a sophisticated administration system as described by Megasthenes, the Greek ambassador."
+    },
+    {
+      "level": 19,
+      "difficulty": "Expert",
+      "question": "Who wrote the Arthashastra?",
+      "options": ["Ashoka", "Chandragupta", "Kautilya", "Megasthenes"],
+      "correctAnswer": 3,
+      "explanation": "Kautilya (also known as Chanakya or Vishnugupta) wrote the Arthashastra, an ancient treatise on statecraft, economics, and political science. He was Chandragupta Maurya's advisor and played a crucial role in establishing the Mauryan Empire. The Arthashastra provides detailed insights into ancient Indian administration and governance."
+    },
+    {
+      "level": 20,
+      "difficulty": "Expert",
+      "question": "What led to the decline of the Harappan Civilization?",
+      "options": ["Single natural disaster", "Foreign invasion", "Multiple factors including climate change", "War between cities"],
+      "correctAnswer": 3,
+      "explanation": "The decline of the Harappan Civilization (around 1900 BCE) was likely due to multiple factors: climate change leading to reduced rainfall, drying up of rivers (especially Saraswati), ecological degradation, floods, earthquakes, and possibly decline in trade. There's no evidence of a single catastrophic event or foreign invasion causing the decline."
+    },
+    {
+      "level": 21,
+      "difficulty": "Expert",
+      "question": "What was the main difference between Janapadas and Mahajanapadas?",
+      "options": ["Size only", "Janapadas had no kings", "Mahajanapadas had fortified capitals and standing armies", "No difference"],
+      "correctAnswer": 3,
+      "explanation": "Mahajanapadas were larger and more organized than Janapadas. Key differences: Mahajanapadas had fortified capitals, maintained standing armies, collected regular taxes, and had more complex administrative systems. Janapadas were smaller, tribal settlements with simpler organization. The prefix 'Maha' means great or large."
+    },
+    {
+      "level": 22,
+      "difficulty": "Expert",
+      "question": "Which Greek historian wrote about Chandragupta Maurya's court?",
+      "options": ["Herodotus", "Megasthenes", "Strabo", "Plutarch"],
+      "correctAnswer": 2,
+      "explanation": "Megasthenes, the Greek ambassador to Chandragupta's court, wrote 'Indica' describing the Mauryan empire, administration, society, and Pataliputra. Though the original work is lost, fragments quoted by later historians provide valuable information about Mauryan India. His accounts are important foreign sources for ancient Indian history."
+    },
+    {
+      "level": 23,
+      "difficulty": "Expert",
+      "question": "What was the most important trade route connecting India with Central Asia?",
+      "options": ["Grand Trunk Road", "Silk Route", "Uttarapatha", "Dakshinapatha"],
+      "correctAnswer": 3,
+      "explanation": "Uttarapatha (Northern Route) was the most important trade route in ancient India, connecting Pataliputra to Taxila and further to Central Asia. It facilitated trade in silk, spices, precious stones, and ideas. This route was crucial for cultural exchange and the spread of Buddhism to Central Asia and China."
+    },
+    {
+      "level": 24,
+      "difficulty": "Expert",
+      "question": "What was the significance of the Kalinga War in Ashoka's life?",
+      "options": ["It made him very powerful", "It led him to embrace Buddhism and non-violence", "It expanded his empire", "It made him wealthy"],
+      "correctAnswer": 2,
+      "explanation": "The Kalinga War (261 BCE) was a turning point in Ashoka's life. The massive destruction and loss of life (over 100,000 killed) filled him with remorse. This led to his conversion to Buddhism and adoption of non-violence. He never fought another war and instead focused on spreading Dhamma and moral governance."
+    },
+    {
+      "level": 25,
+      "difficulty": "Expert",
+      "question": "What evidence do we have that the Harappan people traded with Mesopotamia?",
+      "options": ["Coins found", "Harappan seals found in Mesopotamia", "Written records", "Similar pottery"],
+      "correctAnswer": 2,
+      "explanation": "Archaeological evidence shows Harappan seals have been found in Mesopotamian cities like Ur and Babylon, indicating active trade relations. Harappan weights and measures, similar to Mesopotamian standards, and discovery of Mesopotamian goods in Harappan sites further confirm this trade. They traded cotton, semi-precious stones, and ivory for silver and timber."
+    },
+     {
+      "level": 26,
+      "difficulty": "Easy",
+      "question": "The manuscript 'Rigveda' was written in which ancient language?",
+      "options": ["Pali", "Prakrit", "Vedic Sanskrit", "Tamil"],
+      "correctAnswer": 3,
+      "explanation": "The Rigveda, one of the oldest texts in the world, was composed in Vedic Sanskrit. This is an older form of the Sanskrit you might be familiar with today. Pali and Prakrit were languages spoken by ordinary people and were used by Buddhist and Jain scholars to make their teachings accessible. Tamil is one of the oldest classical languages, primarily from South India."
+    },
+    {
+      "level": 27,
+      "difficulty": "Easy",
+      "question": "The Garo hills, where evidence of early agriculture has been found, are located in which present-day state of India?",
+      "options": ["Himachal Pradesh", "Meghalaya", "Arunachal Pradesh", "Mizoram"],
+      "correctAnswer": 2,
+      "explanation": "The Garo hills are located in the state of Meghalaya in North-East India. This area, along with the Vindhyas in central India, is one of the important archaeological sites where evidence for the development of agriculture was first discovered."
+    },
+    {
+      "level": 28,
+      "difficulty": "Easy",
+      "question": "In the Harappan civilization, what was the western part of the city, which was smaller but higher, typically called?",
+      "options": ["Lower Town", "Metropolis", "Acropolis", "Citadel"],
+      "correctAnswer": 4,
+      "explanation": "Harappan cities were generally divided into two parts. The western part, which was smaller and built on a raised platform, is called the **Citadel**. It likely housed important public buildings, such as the Great Bath in Mohenjodaro, and was possibly inhabited by the ruling class. The eastern part, which was larger but lower, is called the **Lower Town** and was where ordinary people lived."
+    },
+    {
+      "level": 29,
+      "difficulty": "Medium",
+      "question": "What does the term 'Megalith' refer to in the context of ancient Indian history?",
+      "options": [
+        "A large temple",
+        "A king's palace",
+        "A large stone boulder used to mark burial sites",
+        "A type of ancient script"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The word 'Megalith' literally means 'big stone' (mega = big, lithos = stone). These were large stone boulders used by early people, particularly in the Deccan, South India, the North-East, and Kashmir, to mark burial sites. Sometimes, megaliths were arranged in large circles. These burials often contained distinctive pots, known as Black and Red Ware, along with tools and weapons of iron and skeletons of horses."
+    },
+    {
+      "level": 30,
+      "difficulty": "Medium",
+      "question": "In the context of the Mahajanapadas, what was the 'bhaga'?",
+      "options": [
+        "A type of coin",
+        "A tax on crops, usually fixed at 1/6th of the produce",
+        "A professional soldier in the king's army",
+        "A guild of craftspersons"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As the rulers of the Mahajanapadas needed resources to build forts and maintain armies, they started collecting regular taxes. The most important tax was on agriculture, called the **'bhaga'** (meaning 'share'). It was typically fixed at 1/6th of what the farmer produced. This system marked a significant shift from relying on occasional gifts (as in the Vedic period) to a structured taxation system."
+    },
+    {
+      "level": 31,
+      "difficulty": "Easy",
+      "question": "Siddhartha, who later became the Buddha, belonged to which small 'gana' or 'sangha'?",
+      "options": ["Licchavi", "Vajji", "Shakya", "Malla"],
+      "correctAnswer": 3,
+      "explanation": "Gautama Buddha's birth name was Siddhartha. He was born into the **Shakya gana**, a small republican state, and was a 'kshatriya'. His father was the chief of this gana. He left the comforts of his home in search of enlightenment and became the Buddha, or the 'enlightened one'."
+    },
+    {
+      "level": 32,
+      "difficulty": "Medium",
+      "question": "What was the primary purpose of Ashoka's 'dhamma mahamattas'?",
+      "options": [
+        "To collect taxes from the provinces",
+        "To lead the Mauryan army in battles",
+        "To go from place to place teaching people about 'dhamma'",
+        "To judge criminal cases in the capital"
+      ],
+      "correctAnswer": 3,
+      "explanation": "After the Kalinga war, Emperor Ashoka adopted the policy of 'Dhamma'. To spread this message of peace, respect for elders, and kindness, he appointed officials known as the **'dhamma mahamattas'**. Their specific job was to travel throughout the empire and teach people about the principles of Dhamma. This was a unique initiative to govern through moral persuasion rather than just force."
+    },
+    {
+      "level": 33,
+      "difficulty": "Hard",
+      "question": "In the Mauryan administration, who was the official in charge of collecting taxes, as mentioned in the 'Arthashastra'?",
+      "options": ["Senapati", "Samaharta", "Amatya", "Adhyaksha"],
+      "correctAnswer": 2,
+      "explanation": "The 'Arthashastra', a treatise on statecraft attributed to Chanakya (Kautilya), provides detailed information on Mauryan administration. The **Samaharta** was the collector-general of revenue, responsible for overseeing the collection of taxes from all parts of the kingdom. The 'Senapati' was the commander of the army, 'Amatyas' were high-ranking ministers or civil servants, and 'Adhyakshas' were superintendents of various departments."
+    },
+    {
+      "level": 34,
+      "difficulty": "Medium",
+      "question": "What is 'Sangam literature' primarily about?",
+      "options": [
+        "The life of the Buddha",
+        "A collection of early Tamil poems",
+        "Laws and administrative rules of the Gupta Empire",
+        "Hymns in praise of Vedic gods"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sangam literature is the earliest known literature of South India. The term 'Sangam' refers to the assemblies of poets and scholars (sangams) held in the ancient city of Madurai under the patronage of the Pandya kings. These assemblies produced a vast body of literature, primarily in the Tamil language, dealing with themes of love, war, governance, and trade. It's a crucial source for understanding the history of South India around 2300 years ago."
+    },
+    {
+      "level": 35,
+      "difficulty": "Medium",
+      "question": "The technique of making silk was first invented in which country around 7000 years ago?",
+      "options": ["India", "Persia (Iran)", "Egypt", "China"],
+      "correctAnswer": 4,
+      "explanation": "The art of sericulture, or silk-making, was invented in **China**. For thousands of years, the Chinese kept this technique a closely guarded secret. The valuable silk fabric was traded along a famous route that came to be known as the **Silk Road**, which connected China with the Roman Empire, passing through Central Asia and the Indian subcontinent."
+    },
+    {
+      "level": 36,
+      "difficulty": "Hard",
+      "question": "What is a 'prashasti', as found in the context of rulers like Samudragupta?",
+      "options": [
+        "A royal decree about land grants",
+        "A special poem or inscription composed in praise of a king",
+        "A type of tax paid by traders",
+        "A biography of a king written by a foreign traveller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A 'prashasti' is a Sanskrit word meaning 'in praise of'. These were special inscriptions composed by court poets that eulogized the ruler, often listing their achievements, character, and military victories in exaggerated terms. The famous Allahabad Pillar inscription is a 'prashasti' for the Gupta emperor Samudragupta, composed by his court poet Harishena."
+    },
+    {
+      "level": 37,
+      "difficulty": "Easy",
+      "question": "The famous Chinese pilgrim Xuan Zang (Hiuen Tsang) visited India during the reign of which king?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Harshavardhana", "Samudragupta"],
+      "correctAnswer": 3,
+      "explanation": "Xuan Zang was a renowned Chinese Buddhist monk who travelled to India in the 7th century CE. He spent a significant amount of time in India during the reign of Emperor **Harshavardhana**. His detailed accounts of his travels, 'Si-Yu-Ki' (Records of the Western World), are an invaluable source of information about the political, social, and religious conditions of India at that time, especially about the famous university at Nalanda."
+    },
+    {
+      "level": 38,
+      "difficulty": "Medium",
+      "question": "In the context of early temple architecture, what is the 'garbhagriha'?",
+      "options": [
+        "The tall tower or shikhara of the temple",
+        "The main hall where people gathered for worship",
+        "The inner sanctum where the image of the main deity was placed",
+        "The pathway for circumambulation around the deity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The **garbhagriha** (literally 'womb-house') is the most important part of a Hindu temple. It is a small, cave-like sanctum, the innermost chamber, where the principal deity's idol or icon is housed. Only the priests were generally allowed to enter this sacred space to perform rituals. The 'shikhara' was the tower built on top of the garbhagriha, and the 'mandapa' was the hall for worshippers."
+    },
+    {
+      "level": 39,
+      "difficulty": "Hard",
+      "question": "The iron pillar at Mehrauli in Delhi is famous for what remarkable quality?",
+      "options": [
+        "It is the tallest pillar in the world",
+        "It has not rusted despite being over 1600 years old",
+        "It is made of a single, giant magnet",
+        "It has inscriptions from every major Indian dynasty"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The iron pillar at Mehrauli is a testament to the advanced metallurgical skills of ancient Indian craftsmen. It was made around 1600 years ago, likely during the Gupta period (it mentions a king named Chandra, often identified with Chandragupta II). Its most extraordinary feature is its high resistance to corrosion; despite being exposed to the elements for centuries, it has **not rusted**. This is due to a unique protective film on its surface created during its manufacture."
+    },
+    {
+      "level": 40,
+      "difficulty": "Medium",
+      "question": "Who was Aryabhata, and what was his major contribution mentioned in his book, the 'Aryabhatiyam'?",
+      "options": [
+        "A physician who wrote about surgery",
+        "A poet in Samudragupta's court",
+        "An astronomer and mathematician who stated that the earth rotates on its axis",
+        "A grammarian who wrote rules for Sanskrit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aryabhata was a brilliant **mathematician and astronomer** from the classical age of Indian history (around the 5th century CE). In his book, the 'Aryabhatiyam', written in Sanskrit verse, he made several groundbreaking discoveries. He correctly stated that day and night are caused by the **earth rotating on its own axis**, and he also gave a scientific explanation for solar and lunar eclipses. He is also credited with innovations in approximating the value of π (pi)."
+    },
+    {
+        "level": 41,
+        "difficulty": "Easy",
+        "question": "What is the main way we find out about the recent past, such as events from 100 years ago?",
+        "options": ["By reading newspapers and watching TV", "By studying inscriptions on stones", "By excavating archaeological sites", "By reading manuscripts on palm leaves"],
+        "correctAnswer": 1,
+        "explanation": "For the recent past, we can find out about events by listening to radio, watching TV, reading newspapers, or asking someone who remembers. This contrasts with methods for the distant past, which rely on manuscripts, inscriptions, and archaeology. Understanding this helps distinguish between sources for different time periods in history."
+    },
+    {
+        "level": 42,
+        "difficulty": "Easy",
+        "question": "Along which river did people live for several hundred thousand years as skilled gatherers?",
+        "options": ["Ganga River", "Narmada River", "Indus River", "Yamuna River"],
+        "correctAnswer": 2,
+        "explanation": "People lived along the banks of the Narmada River for several hundred thousand years, where early inhabitants were skilled gatherers collecting forest produce and hunting animals. This highlights the importance of rivers in early human settlements and the transition to agriculture in other regions."
+    },
+    {
+        "level": 43,
+        "difficulty": "Easy",
+        "question": "About how many years ago did agriculture begin in the Sulaiman and Kirthar hills?",
+        "options": ["4700 years ago", "2500 years ago", "8000 years ago", "12000 years ago"],
+        "correctAnswer": 3,
+        "explanation": "Agriculture began about 8000 years ago in areas like the Sulaiman and Kirthar hills, where people grew crops like wheat and barley, reared animals such as sheep, goats, and cattle, and lived in villages. This marks the shift from gathering to farming, a key development in human history."
+    },
+    {
+        "level": 44,
+        "difficulty": "Easy",
+        "question": "What is the origin of the name 'India'?",
+        "options": ["From the Rigveda", "From the river Indus called Sindhu in Sanskrit", "From the kingdom of Magadha", "From the word Bharat"],
+        "correctAnswer": 2,
+        "explanation": "The name 'India' derives from the Indus River, called Sindhu in Sanskrit. About 2500 years ago, Iranians and Greeks referred to the river as Hindos or Indos, and the land to the east was called India. This shows how geographical features influenced historical names."
+    },
+    {
+        "level": 45,
+        "difficulty": "Easy",
+        "question": "What are manuscripts?",
+        "options": ["Writings on stone or metal", "Handwritten books on palm leaf or birch bark", "Archaeological remains like tools and pots", "Inscriptions in Greek and Aramaic"],
+        "correctAnswer": 2,
+        "explanation": "Manuscripts are handwritten books on materials like palm leaf or birch bark, often dealing with religion, kings’ lives, medicine, science, epics, poems, and plays, written in languages like Sanskrit, Prakrit, or Tamil. They were preserved in temples and monasteries but many were destroyed by insects, making them valuable sources for historians."
+    },
+    {
+        "level": 46,
+        "difficulty": "Medium",
+        "question": "What does the term 'archaeology' refer to?",
+        "options": ["Study of manuscripts and inscriptions", "Study of remains like tools, bones, pots, and buildings", "Writing on palm leaves", "Deciphering ancient scripts"],
+        "correctAnswer": 2,
+        "explanation": "Archaeology is the study of material remains such as buildings, paintings, sculptures, tools, weapons, pots, ornaments, coins, and bones to understand past lives, including diets. Objects made of hard materials survive longer, while plant remains and cloth are rare, helping historians reconstruct pre-literate societies like hunter-gatherers."
+    },
+    {
+        "level": 47,
+        "difficulty": "Easy",
+        "question": "Why did early humans move from place to place as hunter-gatherers?",
+        "options": ["To find better climates", "Due to depletion of food resources, animal migrations, seasonal plants, and water needs", "To build cities", "To trade goods with others"],
+        "correctAnswer": 2,
+        "explanation": "Hunter-gatherers moved due to depletion of local food if they stayed too long, following animal migrations for hunting, seasonal availability of plants, and the need for water from seasonal sources. This nomadic lifestyle was essential for survival before the development of agriculture and settled villages."
+    },
+    {
+        "level": 48,
+        "difficulty": "Easy",
+        "question": "What were stone tools used for by early people?",
+        "options": ["Only for hunting animals", "For cutting meat, scraping hides, chopping wood, and making spears", "For building houses", "For writing inscriptions"],
+        "correctAnswer": 2,
+        "explanation": "Stone tools were versatile, used for cutting meat and bone, scraping bark and hides, chopping fruit and roots, making spears and arrows, digging for roots, and chopping wood for huts and tools. Stone tools survived best, providing evidence of early human activities through archaeology."
+    },
+    {
+        "level": 49,
+        "difficulty": "Easy",
+        "question": "What is the Palaeolithic period?",
+        "options": ["The period from 2 million years ago to 12,000 years ago", "The beginning of agriculture 8000 years ago", "The time of city development 4700 years ago", "The Mesolithic period with microliths"],
+        "correctAnswer": 1,
+        "explanation": "The Palaeolithic ('old stone') period lasted from 2 million years ago to about 12,000 years ago, divided into Lower, Middle, and Upper phases, covering 99% of human history. It was characterized by the use of stone tools and a hunter-gatherer lifestyle before environmental changes led to new periods."
+    },
+    {
+        "level": 50,
+        "difficulty": "Medium",
+        "question": "What is domestication?",
+        "options": ["The process of hunting wild animals", "The process of growing plants and taming animals", "Making stone tools", "Building villages"],
+        "correctAnswer": 2,
+        "explanation": "Domestication is the process of taming animals and growing plants, starting about 12,000 years ago. People selected plants with desirable traits and tamed animals like dogs first, followed by sheep, goats, and cattle, leading to farming and herding, which allowed for settled communities and surplus food."
+    },
+    {
+        "level": 51,
+        "difficulty": "Easy",
+        "question": "Where is Mehrgarh located, and what was significant about it?",
+        "options": ["Near the Ganga River, first cities", "Near Bolan Pass, evidence of early farming and herding", "In Punjab, Harappan city", "In Bihar, Magadha kingdom"],
+        "correctAnswer": 2,
+        "explanation": "Mehrgarh, near Bolan Pass (now in Pakistan), shows evidence of early farming (wheat, barley) and herding (cattle, sheep, goats) from about 7000 years ago. Villages had houses with multiple rooms, burials with ornaments, and the earliest evidence of cotton cultivation, marking the Neolithic transition."
+    },
+    {
+        "level": 52,
+        "difficulty": "Easy",
+        "question": "What were the two parts of Harappan cities called?",
+        "options": ["Upper town and lower town", "Citadel and lower town", "Fort and village", "Temple and market"],
+        "correctAnswer": 2,
+        "explanation": "Harappan cities were divided into the citadel (smaller, higher, western part with special buildings) and the lower town (larger, lower, eastern part), often separated by walls. This urban planning shows advanced organization, with the citadel possibly for rulers or priests."
+    },
+    {
+        "level": 53,
+        "difficulty": "Easy",
+        "question": "What was the Great Bath in Mohenjodaro?",
+        "options": ["A large storage house", "A water-tight tank for special bathing rituals", "A fire altar for sacrifices", "A workshop for crafts"],
+        "correctAnswer": 2,
+        "explanation": "The Great Bath in Mohenjodaro was a brick-lined tank coated with plaster and natural tar, with steps and rooms around it, likely used for ritual bathing on special occasions. It highlights the importance of water and cleanliness in Harappan culture, possibly with religious significance."
+    },
+    {
+        "level": 54,
+        "difficulty": "Medium",
+        "question": "What materials were used for crafts in Harappan cities?",
+        "options": ["Only stone and clay", "Stone, shell, metal like copper, bronze, gold, silver", "Wood and iron", "Glass and plastic"],
+        "correctAnswer": 2,
+        "explanation": "Harappan crafts included beads from carnelian, stone weights from chert, seals with animal carvings, pottery, copper tools, and faience (artificially produced shiny material). Specialists made these, showing advanced technology and trade for raw materials like copper from Rajasthan and gold from Karnataka."
+    },
+    {
+        "level": 55,
+        "difficulty": "Easy",
+        "question": "What crops were grown by Harappan farmers?",
+        "options": ["Only wheat and barley", "Wheat, barley, pulses, peas, rice, sesame, linseed, mustard", "Sugarcane and cotton", "Rice and millet"],
+        "correctAnswer": 2,
+        "explanation": "Harappan farmers grew wheat, barley, pulses, peas, rice, sesame, linseed, and mustard, using ploughs for tilling and possibly irrigation in low-rainfall areas. They reared animals like cattle and hunted wild ones, providing food for city dwellers and showing agricultural advancements."
+    },
+    {
+        "level": 56,
+        "difficulty": "Easy",
+        "question": "What is the Rigveda?",
+        "options": ["The oldest Veda, composed about 3500 years ago", "A medical text by Charaka", "An inscription by Ashoka", "A burial site"],
+        "correctAnswer": 1,
+        "explanation": "The Rigveda is the oldest of the four Vedas, composed about 3500 years ago, containing over 1000 hymns praising gods like Agni, Indra, and Soma. Composed by sages, it was recited and memorized before being written, providing insights into early Vedic society, rituals, and language."
+    },
+    {
+        "level": 57,
+        "difficulty": "Easy",
+        "question": "What are megaliths?",
+        "options": ["Handwritten books", "Large stones marking burial sites", "Stone tools", "Inscriptions on metal"],
+        "correctAnswer": 2,
+        "explanation": "Megaliths are big stones used to mark burial sites about 3000 years ago, found in Deccan, south India, north-east, and Kashmir. They included stone circles or boulders above burials, with pots, iron tools, horse equipment, and ornaments, indicating social differences based on grave goods."
+    },
+    {
+        "level": 58,
+        "difficulty": "Medium",
+        "question": "How do burials help understand social differences?",
+        "options": ["By the size of stones used", "By objects buried with the dead, like jewellery or tools", "By the location of the site", "By the number of Vedas mentioned"],
+        "correctAnswer": 2,
+        "explanation": "Burials reveal social differences through grave goods: some had more jewellery or tools, suggesting wealth or status. For example, in Brahmagiri, one burial had many pots and ornaments, while another had few, showing inequality. Skeletal studies also indicate gender and occupations."
+    },
+    {
+        "level": 59,
+        "difficulty": "Easy",
+        "question": "Who was Charaka?",
+        "options": ["A famous physician who wrote Charaka Samhita about 2000 years ago", "A Vedic sage", "A king of Magadha", "An archaeologist"],
+        "correctAnswer": 1,
+        "explanation": "Charaka was a physician about 2000 years ago who wrote the Charaka Samhita, stating the human body has 360 bones (including teeth and cartilage). This text shows early medical knowledge, and skeletal studies from burials help verify such claims through bone analysis."
+    },
+    {
+        "level": 60,
+        "difficulty": "Easy",
+        "question": "What was the ashvamedha sacrifice?",
+        "options": ["A horse sacrifice to assert a raja's supremacy", "A fire ritual for gods", "A burial ceremony", "A tax collection method"],
+        "correctAnswer": 1,
+        "explanation": "The ashvamedha was a horse sacrifice where a horse wandered freely; if stopped, the challenger fought the raja's men. Success meant recognition of the raja's power. Performed by priests, it involved gifts and excluded shudras, showing Vedic rituals' role in establishing authority around 3000 years ago."
+    },
+    {
+        "level": 61,
+        "difficulty": "Easy",
+        "question": "What were the four varnas in Vedic society?",
+        "options": ["Brahmins, Kshatriyas, Vaishyas, Shudras", "Rajas, Priests, Farmers, Slaves", "Aryas, Dasas, Vish, Jana", "Kings, Merchants, Crafts persons, Laborers"],
+        "correctAnswer": 1,
+        "explanation": "Priests divided society into brahmins (teachers, sacrificers), kshatriyas (warriors), vaishyas (farmers, herders, traders), and shudras (servants). Based on birth, women and shudras were excluded from Vedic study, and some were untouchables, reflecting social hierarchies opposed by some groups."
+    },
+    {
+        "level": 62,
+        "difficulty": "Medium",
+        "question": "What were mahajanapadas?",
+        "options": ["Small settlements with huts", "Large, fortified janapadas with capital cities", "Burial sites with megaliths", "Vedic assemblies"],
+        "correctAnswer": 2,
+        "explanation": "About 2500 years ago, some janapadas became mahajanapadas with fortified capitals like Purana Qila or Kaushambi. They had armies, taxes, and iron tools for agriculture, marking the rise of powerful states with Painted Grey Ware pottery and resource-intensive fortifications."
+    },
+    {
+        "level": 63,
+        "difficulty": "Easy",
+        "question": "What was the main tax in mahajanapadas?",
+        "options": ["Bhaga, 1/6th of crop produce", "Tribute from forests", "Labor from crafts persons", "Goods from hunters"],
+        "correctAnswer": 1,
+        "explanation": "The main tax was bhaga, 1/6th of the crop, as most people were farmers. Other taxes included labor from crafts persons, animal produce from herders, trade taxes, and forest goods, supporting forts, armies, and administration in mahajanapadas."
+    },
+    {
+        "level": 64,
+        "difficulty": "Easy",
+        "question": "Who founded Buddhism?",
+        "options": ["Vardhamana Mahavira", "Siddhartha Gautama", "Ashoka", "Panini"],
+        "correctAnswer": 2,
+        "explanation": "Siddhartha Gautama, a kshatriya from Sakya gana, founded Buddhism about 2500 years ago. He attained enlightenment under a peepal tree at Bodh Gaya, becoming the Buddha, and taught at Sarnath, emphasizing suffering from desires, moderation, kindness, and karma."
+    },
+    {
+        "level": 65,
+        "difficulty": "Easy",
+        "question": "What does 'Upanishad' mean?",
+        "options": ["Old stone tools", "Approaching and sitting near", "Horse sacrifice", "Large kingdom"],
+        "correctAnswer": 2,
+        "explanation": "Upanishad means 'approaching and sitting near,' referring to dialogues between teachers and students in later Vedic texts. They discussed atman (individual soul), brahman (universal soul), life after death, and sacrifices, with thinkers like Gargi and Satyakama Jabala contributing."
+    },
+    {
+        "level": 66,
+        "difficulty": "Medium",
+        "question": "What are the main teachings of Jainism?",
+        "options": ["Worship of gods and sacrifices", "Ahimsa, honesty, non-stealing, celibacy, simple life", "Varna system and rituals", "Karma and moderation only"],
+        "correctAnswer": 2,
+        "explanation": "Jainism, spread by Vardhamana Mahavira (24th tirthankara), emphasizes ahimsa (non-violence), honesty, not stealing, celibacy, and giving up possessions. Followers begged for food, and it was supported by traders, though hard for farmers due to unintentional harm to insects during ploughing."
+    },
+    {
+        "level": 67,
+        "difficulty": "Easy",
+        "question": "Who was Ashoka?",
+        "options": ["Founder of Mauryan empire", "Son of Bindusara, emperor who gave up war after Kalinga", "A Buddhist monk", "A Vedic sage"],
+        "correctAnswer": 2,
+        "explanation": "Ashoka, grandson of Chandragupta Maurya, conquered Kalinga but, horrified by the violence (over 1 lakh deaths), gave up war. He adopted dhamma (inspired by Buddhism), appointing officials to teach it, inscribing messages, and spreading it abroad, unique as the only king to abandon conquest after victory."
+    },
+    {
+        "level": 68,
+        "difficulty": "Easy",
+        "question": "What was the capital of the Mauryan empire?",
+        "options": ["Taxila", "Ujjain", "Pataliputra", "Kalinga"],
+        "correctAnswer": 3,
+        "explanation": "Pataliputra (modern Patna) was the Mauryan capital, described as large and beautiful with walls, towers, and wooden palaces. It was directly controlled by the emperor, with provinces like Taxila and Ujjain having governors, showing the empire's administrative structure."
+    },
+    {
+        "level": 69,
+        "difficulty": "Medium",
+        "question": "What is dhamma?",
+        "options": ["A Prakrit word for dharma, Ashoka's teachings on kindness and non-violence", "A Vedic ritual", "A tax system", "A military campaign"],
+        "correctAnswer": 1,
+        "explanation": "Dhamma, Prakrit for dharma, was Ashoka's approach to address social issues like conflicts and sacrifices without worship or rituals. He appointed dhamma mahamatta, inscribed messages, built infrastructure, and sent messengers abroad, inspired by Buddhism but accessible to all."
+    },
+    {
+        "level": 70,
+        "difficulty": "Easy",
+        "question": "Who was the village headman in northern villages?",
+        "options": ["Vellalar", "Uzhavar", "Grama bhojaka", "Adimai"],
+        "correctAnswer": 3,
+        "explanation": "The grama bhojaka was the hereditary village headman in northern India, often the largest landowner, collecting taxes, acting as judge and policeman. This contrasts with southern terms like vellalar (landowners) and uzhavar (ploughmen), showing regional social variations."
+    },
+    {
+        "level": 71,
+        "difficulty": "Easy",
+        "question": "What were punch-marked coins?",
+        "options": ["Coins stamped with symbols, used about 2500 years ago", "Roman gold coins", "Silk route payments", "Gupta veena coins"],
+        "correctAnswer": 1,
+        "explanation": "Punch-marked coins, made by punching symbols on metal, were used for about 500 years starting 2500 years ago. Found across the subcontinent, they facilitated trade and salaries for armies, indicating economic developments in mahajanapadas and cities."
+    },
+    {
+        "level": 72,
+        "difficulty": "Medium",
+        "question": "What was Arikamedu?",
+        "options": ["A coastal settlement with Roman trade evidence", "A northern city capital", "A village with iron tools", "A stupa site"],
+        "correctAnswer": 1,
+        "explanation": "Arikamedu (Puducherry) was a coastal site 2200-1900 years ago with warehouses, Roman pottery (amphorae, Arretine Ware), lamps, glassware, and bead-making, showing trade with Rome. It highlights thriving towns and crafts like Northern Black Polished Ware."
+    },
+    {
+        "level": 73,
+        "difficulty": "Easy",
+        "question": "Who were the muvendar?",
+        "options": ["Cholas, Cheras, Pandyas", "Satavahanas and Kushanas", "Guptas and Mauryas", "Pallavas and Chalukyas"],
+        "correctAnswer": 1,
+        "explanation": "The muvendar (three chiefs: Cholas, Cheras, Pandyas) became powerful in south India about 2300 years ago, with ports like Puhar and capitals like Madurai. They collected tribute through expeditions, rewarding poets, showing the rise of coastal kingdoms through trade."
+    },
+    {
+        "level": 74,
+        "difficulty": "Easy",
+        "question": "What was the Silk Route?",
+        "options": ["A route for trading silk from China to the West", "A river trade path", "A pilgrimage path", "A military road"],
+        "correctAnswer": 1,
+        "explanation": "The Silk Route carried silk from China (made 7000 years ago) to Iran, West Asia, and Rome via land and sea. Controlled by kings like Kushanas for taxes, it was dangerous but profitable, with gold coins issued, facilitating cultural and economic exchanges."
+    },
+    {
+        "level": 75,
+        "difficulty": "Medium",
+        "question": "Who was Xuan Zang?",
+        "options": ["A Chinese Buddhist pilgrim who visited India 1400 years ago", "A Greek ambassador", "A court poet", "A Tamil epic writer"],
+        "correctAnswer": 1,
+        "explanation": "Xuan Zang visited India about 1400 years ago, studying at Nalanda monastery and carrying Buddhist texts back to China. Pilgrims like him, Fa Xian, and I-Qing sought dhamma and knowledge, writing accounts that help understand Buddhism's spread and sites like stupas."
+    },
+    {
+        "level": 76,
+        "difficulty": "Easy",
+        "question": "What is Bhakti?",
+        "options": ["Devotion to a god without rituals or priests", "A Vedic sacrifice", "A trade route", "A pilgrimage"],
+        "correctAnswer": 1,
+        "explanation": "Bhakti is devotion to a chosen deity, open to all without sacrifices or priests, emerging about 1500 years ago. It influenced movements like Alvars and Nayanars, spreading through poems and leading to the Bhakti movement, emphasizing equality and personal connection with god."
+    },
+    {
+        "level": 77,
+        "difficulty": "Easy",
+        "question": "Who composed a prashasti for Samudragupta?",
+        "options": ["Banabhatta", "Harishena", "Ravikirti", "Xuan Zang"],
+        "correctAnswer": 2,
+        "explanation": "Harishena, Samudragupta's court poet and minister, composed his prashasti on the Allahabad pillar, praising him as a warrior and musician. Prashastis provide genealogies and policies, showing Gupta conquests in Aryavarta and Dakshinapatha."
+    },
+    {
+        "level": 78,
+        "difficulty": "Medium",
+        "question": "Who was Pulakeshin II?",
+        "options": ["A Chalukya ruler who stopped Harsha at Narmada", "A Gupta king", "A Mauryan emperor", "A Satavahana ruler"],
+        "correctAnswer": 1,
+        "explanation": "Pulakeshin II, a Chalukya ruler, defeated Harsha at the Narmada, as per his prashasti by Ravikirti. The Chalukyas centered in Raichur Doab, conflicting with Pallavas over capitals, highlighting southern kingdoms' power dynamics about 1400 years ago."
+    },
+    {
+        "level": 79,
+        "difficulty": "Easy",
+        "question": "What were samantas?",
+        "options": ["Military leaders given land grants", "Village headmen", "Court poets", "Pilgrims"],
+        "correctAnswer": 1,
+        "explanation": "Samantas were military leaders paid with land grants (revenue for soldiers), becoming maha-samantas or maha-mandaleshvaras. When rulers weakened, they declared independence, showing how administration evolved in empires like Guptas and Harsha's."
+    },
+    {
+        "level": 80,
+        "difficulty": "Easy",
+        "question": "What is a stupa?",
+        "options": ["A mound containing relics, with railings and gateways", "A rock-cut cave", "A temple tower", "A painting cave"],
+        "correctAnswer": 1,
+        "explanation": "A stupa is a mound with a relic casket, often of the Buddha, covered with brick or stone, with a pradakshina patha for devotees. Examples include Sanchi and Amaravati, funded by kings, merchants, and devotees, symbolizing Buddhist reverence."
+    },
+    {
+        "level": 81,
+        "difficulty": "Easy",
+        "question": "What is the garbhagriha in a temple?",
+        "options": ["The room for the chief deity's image", "A hall for assembly", "A tower above the temple", "A rock-cut monastery"],
+        "correctAnswer": 1,
+        "explanation": "The garbhagriha is the sacred room for the deity's image in Hindu temples, where priests perform rituals. Temples had shikharas and mandapas, examples like Bhitargaon and Mahabalipuram show early architecture from 1500 years ago."
+    },
+    {
+        "level": 82,
+        "difficulty": "Medium",
+        "question": "Where are the Ajanta caves famous for?",
+        "options": ["Rock-cut monasteries with paintings", "Iron pillars", "Stupas with relics", "Tamil epics"],
+        "correctAnswer": 1,
+        "explanation": "Ajanta caves, hollowed over centuries, were Buddhist monasteries with sculptures and paintings made from plants and minerals, still vivid after 1500 years. They depict Jataka stories, showing artistic skills in dim light."
+    },
+    {
+        "level": 83,
+        "difficulty": "Easy",
+        "question": "What are the Mahabharata and Ramayana?",
+        "options": ["Sanskrit epics composed 2300-1500 years ago", "Tamil stories", "Puranas about gods", "Jataka tales"],
+        "correctAnswer": 1,
+        "explanation": "The Mahabharata (about a war between cousins) and Ramayana (about Rama's exile) are Sanskrit epics from 2300-1500 years ago, originally oral, written later. They include gods and ordinary people, providing insights into society and values."
+    },
+    {
+        "level": 84,
+        "difficulty": "Easy",
+        "question": "Who wrote the Aryabhatiyam?",
+        "options": ["Aryabhata, explaining day and night", "Kalidasa, a poet", "Ilango, Tamil epic writer", "Sattanar"],
+        "correctAnswer": 1,
+        "explanation": "Aryabhata, an astronomer about 1400 years ago, wrote Aryabhatiyam, stating day and night result from Earth's rotation. He also developed zero and place value, showing scientific advancements in books alongside religious texts like Puranas."
+    },
+       {
+      "level": 85,
+      "difficulty": "Easy",
+      "question": "What do we call the study of inscriptions and old writings which help us understand ancient history?",
+      "options": ["Archaeology", "Epigraphy", "Numismatics", "Palaeontology"],
+      "correctAnswer": 2,
+      "explanation": "Epigraphy is the study of inscriptions, which are writings found on hard surfaces like stones and metals. These inscriptions give us valuable information about ancient kingdoms, rulers, and events."
+    },
+    {
+      "level": 86,
+      "difficulty": "Easy",
+      "question": "Which river valley is renowned for being home to some of the earliest hunter-gatherers in India?",
+      "options": ["Ganga", "Yamuna", "Narmada", "Godavari"],
+      "correctAnswer": 3,
+      "explanation": "The Narmada valley has evidence of some of the earliest hunter-gatherers who lived by gathering plant food and hunting animals."
+    },
+    {
+      "level": 87,
+      "difficulty": "Medium",
+      "question": "What is the main difference between manuscripts and inscriptions?",
+      "options": [
+        "Manuscripts are written by hand on paper, inscriptions are carved on stones or metals",
+        "Manuscripts are printed books, inscriptions are personal notes",
+        "Manuscripts are modern records, inscriptions are ancient",
+        "There is no difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Manuscripts, written by hand on palm leaves or birch bark, are different from inscriptions, which are carved or engraved on durable materials like stone and metal. This makes inscriptions last longer and easier to study by archaeologists."
+    },
+    {
+      "level": 88,
+      "difficulty": "Hard",
+      "question": "Why is the use of BCE and CE preferred in history books over BC and AD?",
+      "options": [
+        "They are more scientific and inclusive",
+        "They refer to Christian traditions",
+        "They are easier to understand",
+        "They are used in India only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BCE (Before Common Era) and CE (Common Era) are preferred because they are neutral terms not specific to any religion, and make history more inclusive and scientific."
+    },
+    {
+      "level": 89,
+      "difficulty": "Easy",
+      "question": "Where did early humans in the Indian subcontinent first begin to domesticate animals and grow crops?",
+      "options": ["Mehrgarh", "Harappa", "Nalanda", "Pataliputra"],
+      "correctAnswer": 1,
+      "explanation": "Mehrgarh, located in present-day Pakistan, is one of the earliest sites where evidence of farming and herding has been found. People here grew wheat and barley, and domesticated animals like sheep and goats."
+    },
+    {
+      "level": 90,
+      "difficulty": "Medium",
+      "question": "Which farming technology made it possible for people to settle in one place?",
+      "options": ["Stone axes", "Iron ploughs", "Pottery making", "Irrigation"],
+      "correctAnswer": 4,
+      "explanation": "Irrigation helped early farmers to water their crops, making farming reliable and allowing people to settle in villages and towns rather than continually moving."
+    },
+    {
+      "level": 91,
+      "difficulty": "Hard",
+      "question": "How did the invention of pottery help early farmers?",
+      "options": [
+        "It was used as tools to till the land",
+        "It helped them store food and water",
+        "It made their houses stronger",
+        "They could travel faster"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pottery allowed early farmers to store grains, water, and cooked food safely. This also enabled the growth of trade as surplus goods could be saved and exchanged."
+    },
+    {
+      "level": 92,
+      "difficulty": "Easy",
+      "question": "Which civilization is known for its planned cities with wide roads and drainage systems?",
+      "options": ["Mesopotamian", "Egyptian", "Harappan", "Roman"],
+      "correctAnswer": 3,
+      "explanation": "The Harappan or Indus Valley Civilization is famous for its well-planned cities such as Harappa and Mohenjodaro, featuring wide streets and advanced drainage systems."
+    },
+    {
+      "level": 93,
+      "difficulty": "Medium",
+      "question": "What material did Harappans use to make most of their houses and buildings?",
+      "options": ["Mud", "Wood", "Brick", "Stone"],
+      "correctAnswer": 3,
+      "explanation": "Harappan cities had houses and buildings constructed mainly from baked bricks. These bricks were of uniform size and shape, which helped in making strong structures."
+    },
+    {
+      "level": 94,
+      "difficulty": "Hard",
+      "question": "What was the significance of seals found in Harappan cities?",
+      "options": [
+        "They were used as ornaments",
+        "They were used for religious ceremonies",
+        "They were used for trade and identification",
+        "They were used in warfare"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Seals in Harappan cities were used to mark goods, and also acted as symbols of identification for traders. Many seals had animal motifs and scripts which tell us about the trade and communication systems."
+    },
+    {
+      "level": 95,
+      "difficulty": "Easy",
+      "chapter": "What, Where, How and When?",
+      "question": "Which sources do historians mainly use to learn about the ancient past?",
+      "options": ["Inscriptions and Manuscripts", "News Articles", "Internet Blogs", "Handwritten Notes of Present Day"],
+      "correctAnswer": 1,
+      "explanation": "Historians rely on inscriptions (carved writings on durable surfaces) and manuscripts (handwritten texts on palm leaves or birch bark) to learn about ancient history, as these preserve information over centuries."
+    },
+    {
+      "level": 96,
+      "difficulty": "Medium",
+      "chapter": "What, Where, How and When?",
+      "question": "How do archaeologists help us understand history?",
+      "options": ["By writing fictional stories", "By excavating ancient sites and studying artefacts", "By interviewing modern people", "By designing modern cities"],
+      "correctAnswer": 2,
+      "explanation": "Archaeologists study material remains like tools, pottery, buildings, and skeletons, which reveal lifestyles, economies, and cultures of people who lived thousands of years ago."
+    },
+    {
+      "level": 97,
+      "difficulty": "Easy",
+      "chapter": "From Hunting-Gathering to Growing Food",
+      "question": "Mehrgarh is famous for which historical development?",
+      "options": ["Warfare", "First evidence of farming and herding", "Discovery of gold", "Invention of poetry"],
+      "correctAnswer": 2,
+      "explanation": "Mehrgarh, in present-day Pakistan, gives earliest evidence of people growing wheat and barley as well as herding animals like sheep and goats."
+    },
+    {
+      "level": 98,
+      "difficulty": "Medium",
+      "chapter": "From Hunting-Gathering to Growing Food",
+      "question": "What impact did domestication of animals have on human societies?",
+      "options": ["Led to constant travel", "Enabled settled life and agricultural growth", "Made humans dependent on forests", "Reduced food supplies"],
+      "correctAnswer": 2,
+      "explanation": "Domestication helped humans keep cattle, sheep, and goats for milk, meat, and agricultural use, enabling people to settle and construct villages, leading to growth of civilization."
+    },
+    {
+      "level": 99,
+      "difficulty": "Hard",
+      "chapter": "From Hunting-Gathering to Growing Food",
+      "question": "How did invention of pottery change village life in ancient India?",
+      "options": ["It was used in war", "It allowed safe storage of grains and water", "It replaced animals in farming", "It made houses indestructible"],
+      "correctAnswer": 2,
+      "explanation": "Pottery was crucial for storing food and water securely, allowed accumulation of surplus, and contributed to emergence of trade and more complex societies."
+    },
+    {
+      "level": 100,
+      "difficulty": "Easy",
+      "chapter": "In the Earliest Cities",
+      "question": "Which civilization had advanced drainage and urban planning?",
+      "options": ["Indus Valley Civilization", "Roman Civilization", "Mughal Empire", "Egyptian Civilization"],
+      "correctAnswer": 1,
+      "explanation": "The Indus Valley (Harappan) Civilization is renowned for its well-planned cities, wide roads, grid layouts, and sophisticated drainage systems, like those in Mohenjodaro and Harappa."
+    },
+    {
+      "level": 101,
+      "difficulty": "Medium",
+      "chapter": "What Books and Burials Tell Us",
+      "question": "What are the Vedas?",
+      "options": ["Ancient coins", "Sacred Hindu texts composed in Sanskrit", "Stone inscriptions", "Epic poems of Greece"],
+      "correctAnswer": 2,
+      "explanation": "The 'Vedas' are a collection of religious hymns composed in Sanskrit that teach us about ancient religious beliefs, rituals, and everyday life in early India."
+    },
+    {
+      "level": 102,
+      "difficulty": "Easy",
+      "chapter": "Kingdoms, Kings and an Early Republic",
+      "question": "What were Janapadas?",
+      "options": ["Villages", "Small kingdoms ruled by many rulers", "Large kingdoms", "Republics in South India"],
+      "correctAnswer": 2,
+      "explanation": "Janapadas were early kingdoms formed by clans settling down in fertile areas, which later developed into large states known as Mahajanapadas."
+    },
+    {
+      "level": 103,
+      "difficulty": "Medium",
+      "chapter": "Kingdoms, Kings and an Early Republic",
+      "question": "Who performed Ashvamedha, a horse sacrifice?",
+      "options": ["Common people", "Kings to assert their power", "Priests as rulers", "Merchants"],
+      "correctAnswer": 2,
+      "explanation": "Kings performed Ashvamedha to proclaim their supremacy over territory, with elaborate rituals and attendance by nobles and priests."
+    },
+    {
+      "level": 104,
+      "difficulty": "Easy",
+      "chapter": "New Questions and Ideas",
+      "question": "Who was Gautama Buddha?",
+      "options": ["Founder of Jainism", "A famous king", "Founder of Buddhism", "A legendary warrior"],
+      "correctAnswer": 3,
+      "explanation": "Gautama Buddha was a spiritual leader whose teachings, focused on the Four Noble Truths and the Eightfold Path, formed the foundation of Buddhism and aimed at ending suffering."
+    },
+    {
+      "level": 105,
+      "difficulty": "Medium",
+      "chapter": "New Questions and Ideas",
+      "question": "Which ideas were taught by Mahavira?",
+      "options": ["Truth and Non-violence (Ahimsa)", "Warfare and conquest", "Expansion of trade", "Building of monuments"],
+      "correctAnswer": 1,
+      "explanation": "Mahavira, the 24th Tirthankara of Jainism, emphasised non-violence, truth, and control over desires as the path to liberation."
+    },
+    {
+      "level": 106,
+      "difficulty": "Easy",
+      "chapter": "Ashoka, the Emperor Who Gave Up War",
+      "question": "Why is Ashoka famous in Indian History?",
+      "options": ["He expanded the empire by war", "He adopted Buddhism and promoted peace", "He built many forts", "He defeated Alexander"],
+      "correctAnswer": 2,
+      "explanation": "After witnessing sufferings in the Kalinga war, Ashoka converted to Buddhism, spread its teachings throughout his empire, and became a symbol of peace and tolerance."
+    },
+    {
+      "level": 107,
+      "difficulty": "Medium",
+      "chapter": "Vital Villages, Thriving Towns",
+      "question": "What enabled production and trade in ancient Indian villages?",
+      "options": ["Bronze tools only", "Iron tools and efficient ploughs", "Cotton growing", "Written scripts"],
+      "correctAnswer": 2,
+      "explanation": "Iron tools allowed improved agriculture and surplus crop production, while specialization in crafts, and market centres, helped trade flourish in towns and villages."
+    },
+    {
+      "level": 108,
+      "difficulty": "Hard",
+      "chapter": "Traders, Kings and Pilgrims",
+      "question": "What was the Silk Route significant for in ancient India?",
+      "options": ["Military invasions", "Trade of silk, spices, and ideas like Buddhism", "River transport", "Royal messages"],
+      "correctAnswer": 2,
+      "explanation": "The Silk Route connected India with China and Central Asia, enabling trade in silk, spices, and also the spread of Buddhism, making India renowned worldwide."
+    },
+    {
+      "level": 109,
+      "difficulty": "Medium",
+      "chapter": "New Empires and Kingdoms",
+      "question": "Who issued Prashastis to praise themselves?",
+      "options": ["Farmers", "Poets for kings", "Sculptors", "Merchants"],
+      "correctAnswer": 2,
+      "explanation": "Court poets wrote Prashastis, inscriptions lavishing praise on kings and their deeds, used to legitimize rule and impress subjects."
+    },
+    {
+      "level": 110,
+      "difficulty": "Hard",
+      "chapter": "Buildings, Paintings, and Books",
+      "question": "Why is 'Ramayana' important for Indian culture?",
+      "options": ["It is a book of laws", "It is an epic poem telling moral stories", "It is an agricultural manual", "It was written in English in modern times"],
+      "correctAnswer": 2,
+      "explanation": "Ramayana, one of India's great epics, contributes lessons on duty, morality, and devotion, while influencing literature, art, and performance traditions for thousands of years."
+    }
+  ],
+  "7": [
+     {
+      "level": 1,
+      "difficulty": "Easy",
+      "question": "Which period in Indian history is called the 'Medieval Period'?",
+      "options": ["200 BCE - 300 CE", "700 - 1750 CE", "1000 - 2000 CE", "500 - 1000 CE"],
+      "correctAnswer": 2,
+      "explanation": "The Medieval Period in Indian history spans from approximately 700 to 1750 CE. This period saw the rise of regional kingdoms, arrival of Islam, establishment of the Delhi Sultanate, Mughal Empire, and various regional powers. It's characterized by significant political, social, cultural, and economic transformations. The period ends with the beginning of British colonial rule."
+    },
+    {
+      "level": 2,
+      "difficulty": "Easy",
+      "question": "What were the main sources used by historians to study medieval India?",
+      "options": ["Only archaeological sources", "Only literary sources", "Chronicles, inscriptions, architecture, and coins", "Only foreign accounts"],
+      "correctAnswer": 3,
+      "explanation": "Historians use diverse sources for medieval India: Chronicles (like Akbarnama by Abul Fazl, Tabaqat-i-Nasiri by Minhaj-i-Siraj), inscriptions on temples and monuments, architectural remains (forts, palaces, tombs), coins with royal symbols and dates, court records, revenue documents, travelogues by foreign visitors (Ibn Battuta, Al-Biruni), and archaeological excavations. These sources together provide a comprehensive picture of medieval Indian society, politics, economy, and culture."
+    },
+    {
+      "level": 3,
+      "difficulty": "Easy",
+      "question": "Who were the Rajputs?",
+      "options": ["Buddhist monks", "Warrior clans claiming Kshatriya status", "Merchants", "Farmers"],
+      "correctAnswer": 2,
+      "explanation": "Rajputs were warrior clans who claimed Kshatriya (warrior) varna status and rose to prominence between 8th-12th centuries CE. Major clans included Pratiharas, Chauhans, Paramaras, Chandellas, and Solankis. They established kingdoms across Rajasthan, Gujarat, Madhya Pradesh, and parts of UP. Rajputs followed a code of honor, built magnificent forts and temples, patronized arts and literature, but their constant warfare weakened them against foreign invasions. They played crucial roles in resisting early Turkish invasions."
+    },
+    {
+      "level": 4,
+      "difficulty": "Easy",
+      "question": "Which dynasty ruled the Chola kingdom during its peak period?",
+      "options": ["Pallava dynasty", "Chera dynasty", "Imperial Cholas", "Pandya dynasty"],
+      "correctAnswer": 3,
+      "explanation": "The Imperial Cholas (9th-13th centuries) represented the peak of Chola power under rulers like Rajaraja I (985-1014 CE) and Rajendra I (1014-1044 CE). They created a vast maritime empire extending from Sri Lanka to Southeast Asia. The Cholas were excellent administrators, naval powers, temple builders (Brihadeshwara temple at Thanjavur), and promoted Tamil literature. Their efficient administration, irrigation systems, and trade networks made them one of the most powerful dynasties in South Indian history."
+    },
+    {
+      "level": 5,
+      "difficulty": "Medium",
+      "question": "What was the 'tripartite struggle' in medieval India?",
+      "options": ["Fight between three religions", "Struggle for control over Kannauj", "War between three castes", "Battle for three kingdoms"],
+      "correctAnswer": 2,
+      "explanation": "The tripartite struggle (8th-10th centuries) was a three-way conflict between the Gurjara-Pratiharas (Gujarat/Rajasthan), Rashtrakutas (Deccan), and Palas (Bengal/Bihar) for control over Kannauj and the fertile Gangetic plains. Kannauj was strategically important as it controlled trade routes and was considered the symbol of imperial power in northern India. This prolonged conflict weakened all three powers, making it easier for later Turkish invasions to succeed. The Pratiharas eventually gained control but were exhausted by the constant warfare."
+    },
+    {
+      "level": 6,
+      "difficulty": "Medium",
+      "question": "Who was Mahmud of Ghazni and why did he invade India?",
+      "options": ["A trader seeking profits", "A ruler seeking wealth and spreading Islam", "A diplomat seeking alliances", "A scholar seeking knowledge"],
+      "correctAnswer": 2,
+      "explanation": "Mahmud of Ghazni (971-1030 CE) was the ruler of the Ghaznavid Empire in Afghanistan. He invaded India 17 times between 1000-1027 CE, primarily motivated by the immense wealth of Indian temples and kingdoms. His major targets included the Somnath temple in Gujarat, Mathura, and Kannauj. While religious zeal played a role, economic motives were primary - he needed wealth to maintain his empire and armies. His invasions were raids rather than conquest attempts, as he returned to Ghazni with enormous loot but didn't establish permanent rule in India."
+    },
+    {
+      "level": 7,
+      "difficulty": "Medium",
+      "question": "What led to the Second Battle of Tarain (1192 CE)?",
+      "options": ["Trade disputes", "Muhammad Ghori's defeat in the First Battle", "Religious conflicts", "Succession disputes"],
+      "correctAnswer": 2,
+      "explanation": "The Second Battle of Tarain (1192 CE) occurred because Muhammad Ghori sought revenge after his defeat by Prithviraj Chauhan in the First Battle of Tarain (1191 CE). After his defeat, Ghori returned to Ghazni, reorganized his army, and came back with a larger force including mounted archers. This time, he defeated Prithviraj Chauhan, who was captured and killed. This victory opened the path for Turkish conquest of northern India and led to the establishment of the Delhi Sultanate. The battle marked the beginning of sustained Muslim political rule in India."
+    },
+    {
+      "level": 8,
+      "difficulty": "Medium",
+      "question": "Who established the Delhi Sultanate?",
+      "options": ["Muhammad Ghori", "Qutb-ud-din Aibak", "Iltutmish", "Alauddin Khalji"],
+      "correctAnswer": 2,
+      "explanation": "Qutb-ud-din Aibak established the Delhi Sultanate in 1206 CE after Muhammad Ghori's assassination. Originally Ghori's slave (mamluk), Aibak became his trusted general and was appointed as his deputy in India. When Ghori died without a clear successor, Aibak declared independence and founded the Slave Dynasty (Mamluk Dynasty). He ruled from Delhi and Lahore, began construction of Qutb Minar, and laid the foundation for 320 years of Delhi Sultanate rule. His dynasty was called 'Slave Dynasty' because its early rulers were former slaves who rose to power."
+    },
+    {
+      "level": 9,
+      "difficulty": "Medium",
+      "question": "What was the iqta system in the Delhi Sultanate?",
+      "options": ["A religious practice", "A land revenue system", "A military strategy", "A trade system"],
+      "correctAnswer": 2,
+      "explanation": "The iqta system was a land revenue assignment system where the Sultan granted iqtas (revenue assignments) to nobles and military commanders (muqtis) in lieu of salary. The iqtidar collected taxes from assigned territories and kept a portion for maintenance of troops and administration, sending the rest to the central treasury. This system helped the Sultan control distant territories without maintaining a large bureaucracy. However, it often led to exploitation of peasants and rebellion by powerful iqtidars. The system was similar to feudalism but iqtas were not hereditary initially, though this changed over time."
+    },
+    {
+      "level": 10,
+      "difficulty": "Hard",
+      "question": "Why is Alauddin Khalji's reign considered significant in the Delhi Sultanate?",
+      "options": ["He was very religious", "He implemented major administrative and military reforms", "He built many monuments", "He was the longest ruling sultan"],
+      "correctAnswer": 2,
+      "explanation": "Alauddin Khalji (1296-1316 CE) implemented revolutionary reforms that strengthened the Delhi Sultanate. His market control policy (price control mechanism) regulated prices of essential commodities to maintain a large standing army affordably. He introduced land revenue reforms, measuring land and collecting taxes directly from peasants. His military reforms created a powerful cavalry force that successfully repelled Mongol invasions (5 major invasions defeated). He conquered Gujarat, Rajasthan, and southern India (through Malik Kafur). His reign marked the territorial peak of the Delhi Sultanate and established administrative precedents followed by later rulers."
+    },
+    {
+      "level": 11,
+      "difficulty": "Hard",
+      "question": "What was unique about Muhammad bin Tughluq's experiments?",
+      "options": ["He was very successful", "His innovative ideas failed due to poor implementation", "He never tried anything new", "He only focused on religion"],
+      "correctAnswer": 2,
+      "explanation": "Muhammad bin Tughluq (1325-1351 CE) was an intellectual ruler whose innovative experiments failed spectacularly due to poor planning and implementation. His major experiments included: 1) Shifting capital from Delhi to Daulatabad (failed due to logistical nightmare and forced migration), 2) Introduction of token currency (bronze coins equal to silver - failed due to counterfeiting), 3) Taxation in Doab region (failed due to drought and excessive rates leading to rebellion), 4) Conquest of Khurasan (abandoned due to expense). These failures led to rebellions, economic crisis, and weakening of the Sultanate, earning him the title 'wise fool.'"
+    },
+    {
+      "level": 12,
+      "difficulty": "Hard",
+      "question": "Who founded the Vijayanagara Empire and why?",
+      "options": ["Krishna Deva Raya for trade", "Harihara and Bukka to resist Muslim invasions", "Rama Raya for religious reasons", "Krishnadevaraya for expansion"],
+      "correctAnswer": 2,
+      "explanation": "The Vijayanagara Empire was founded in 1336 CE by brothers Harihara I and Bukka I with the blessings of saint Vidyaranya. They established it as a Hindu kingdom to resist the expansion of the Delhi Sultanate into South India, particularly after Muhammad bin Tughluq's campaigns. The empire served as a bulwark against Muslim invasions of the South. Located strategically on the Tungabhadra river, Vijayanagara became a major center of Hindu culture, learning, and trade. The empire lasted until 1565 CE (Battle of Talikota) and reached its zenith under Krishna Deva Raya, controlling most of South India."
+    },
+    {
+      "level": 13,
+      "difficulty": "Hard",
+      "question": "What was the Bhakti movement and why did it emerge?",
+      "options": ["A political movement", "A religious reform movement emphasizing devotion", "A military movement", "An economic movement"],
+      "correctAnswer": 2,
+      "explanation": "The Bhakti movement (7th-17th centuries) was a devotional reform movement that emphasized personal devotion (bhakti) to God over ritualistic worship. It emerged due to: 1) Rigidity of orthodox Brahmanism and complex rituals, 2) Social inequalities of the caste system, 3) Impact of Islamic mysticism (Sufism), 4) Need for spiritual solace during political turmoil. Key features included: devotion over rituals, rejection of caste distinctions, use of local languages, and emphasis on guru-disciple tradition. Saints like Ramananda, Kabir, Mirabai, Tulsidas, Chaitanya, and southern Alvars and Nayanars led this movement, making religion accessible to common people."
+    },
+    {
+      "level": 14,
+      "difficulty": "Hard",
+      "question": "What was Sufism and how did it influence Indian society?",
+      "options": ["A political ideology", "Islamic mysticism emphasizing love and devotion", "A trade practice", "A military system"],
+      "correctAnswer": 2,
+      "explanation": "Sufism is the mystical dimension of Islam that emphasizes direct personal experience of God through love, devotion, and spiritual practices. Sufi saints (pirs) reached India from the 11th century onward. Major Sufi orders included Chishti (Ajmer), Suhrawardi, Qadiriya, and Naqshbandi. Sufism influenced Indian society through: 1) Promoting tolerance and synthesis between Hindu-Muslim cultures, 2) Use of local languages and music in worship, 3) Emphasis on service to humanity regardless of religion, 4) Establishment of khanqahs (hospices) as centers of learning and social service. Famous Sufi saints like Khwaja Moinuddin Chishti (Ajmer), Nizamuddin Auliya (Delhi), and Baba Farid attracted followers from all communities."
+    },
+    {
+      "level": 15,
+      "difficulty": "Hard",
+      "question": "Who was Babur and how did he establish Mughal rule in India?",
+      "options": ["A Turkish prince who conquered through diplomacy", "A Mongol descendant who defeated Ibrahim Lodi at Panipat", "An Afghan ruler who united northern India", "A Persian king who invaded for wealth"],
+      "correctAnswer": 2,
+      "explanation": "Babur (1483-1530 CE) was a Timurid prince, descendant of Timur and Genghis Khan, who founded the Mughal Empire in India. After losing his ancestral kingdom of Ferghana to Uzbeks and failing to hold Samarkand, he turned toward India. His victory at the First Battle of Panipat (1526 CE) against Ibrahim Lodi, the last Delhi Sultan, established Mughal rule. Babur's advantages included: superior military technology (firearms and cannons), skilled cavalry, better military tactics, and support from discontented Afghan nobles. He also defeated Rana Sanga at Khanwa (1527) and Medini Rai at Chanderi (1528), consolidating Mughal power in northern India."
+    },
+    {
+      "level": 16,
+      "difficulty": "Expert",
+      "question": "Why did Humayun lose his empire and how did he regain it?",
+      "options": ["Due to British invasion, regained with French help", "Due to Sher Shah Suri, regained with Persian help", "Due to Rajput rebellion, regained through diplomacy", "Due to succession dispute, regained through alliance"],
+      "correctAnswer": 2,
+      "explanation": "Humayun (1530-1556 CE) lost his empire primarily to Sher Shah Suri, an Afghan noble who had built a strong power base in Bihar and Bengal. Sher Shah defeated Humayun at Chausa (1539) and Kannauj (1540), forcing him into 15 years of exile. Humayun lost due to: 1) Lack of administrative experience, 2) Rebellious brothers (Kamran, Askari, Hindal), 3) Sher Shah's superior military and administrative skills, 4) Divided loyalties of nobles. Humayun regained his empire with Persian Safavid Shah Tahmasp's help, who provided him with troops. After Sher Shah's death (1545), his successors were weak. Humayun reconquered Delhi (1555) but died in 1556 after ruling for only six months, leaving the empire to his 13-year-old son Akbar."
+    },
+    {
+      "level": 17,
+      "difficulty": "Expert",
+      "question": "What was Sher Shah Suri's contribution to Indian administration?",
+      "options": ["He only focused on military", "He created efficient administrative and revenue systems", "He only built roads", "He focused only on trade"],
+      "correctAnswer": 2,
+      "explanation": "Sher Shah Suri (1540-1545 CE), though ruling for only 5 years, revolutionized Indian administration with reforms that influenced later Mughal system: 1) Land Revenue: Scientific measurement of land, classification of soil types, fixed revenue rates (1/3 of produce), direct collection from peasants eliminating intermediaries, 2) Administrative: Divided empire into sarkars (districts) and parganas (sub-districts), appointed efficient officials, 3) Military: Maintained disciplined standing army, 4) Economic: Standardized currency (silver rupee), uniform weights and measures, 5) Infrastructure: Built Grand Trunk Road from Bengal to Afghanistan with rest houses and trees, postal system. His administrative model was largely adopted by Akbar and became the foundation of Mughal administration."
+    },
+    {
+      "level": 18,
+      "difficulty": "Expert",
+      "question": "How did Akbar's religious policy evolve during his reign?",
+      "options": ["He remained orthodox Muslim throughout", "He gradually became more tolerant and syncretic", "He converted to Hinduism", "He became atheist"],
+      "correctAnswer": 2,
+      "explanation": "Akbar's religious policy evolved through distinct phases: 1) Early years (1556-1575): Orthodox Muslim influenced by conservative ulama, 2) Liberal phase (1575-1590): Abolished jizya tax on non-Muslims, married Rajput princesses, allowed temple construction, participated in Hindu festivals, issued 'Infallibility Decree' making himself final arbiter in religious matters, 3) Syncretic phase (1590-1605): Founded Din-i-Ilahi (Divine Faith) combining elements of Islam, Hinduism, Christianity, Zoroastrianism, and Jainism. Held religious discussions (Ibadat Khana) with scholars of all faiths. This evolution reflected his practical need to rule a diverse empire, personal intellectual curiosity, and belief in sulh-i-kul (universal peace). His tolerant policies helped integrate Hindu nobility into Mughal administration."
+    },
+    {
+      "level": 19,
+      "difficulty": "Expert",
+      "question": "What was the mansabdari system and how did it work?",
+      "options": ["A religious hierarchy", "A military and administrative ranking system", "A trade regulation system", "A judicial system"],
+      "correctAnswer": 2,
+      "explanation": "The mansabdari system was Akbar's military and administrative organization where every noble was assigned a mansab (rank) indicating their position in hierarchy. It had two aspects: 1) Zat: Personal rank determining salary and status (from 10 to 10,000, later up to 12,000), 2) Sawar: Number of horsemen the mansabdar was required to maintain. Mansabdars were paid either in cash (naqd) or through jagirs (revenue assignments). The system ensured: 1) Central control over nobility, 2) Professional military service, 3) Administrative efficiency, 4) Prevention of hereditary nobility. Promotions and demotions were based on merit and loyalty. This system continued throughout Mughal period but became increasingly hereditary and corrupt in later years, contributing to the empire's decline."
+    },
+    {
+      "level": 20,
+      "difficulty": "Expert",
+      "question": "What were the main features of Mughal architecture?",
+      "options": ["Only Islamic style", "Synthesis of Indo-Islamic architecture", "Only Indian style", "Only Persian style"],
+      "correctAnswer": 2,
+      "explanation": "Mughal architecture represented a unique synthesis of Indo-Islamic styles combining Persian, Turkish, and Indian elements: 1) Structural features: Use of red sandstone and white marble, bulbous domes, pointed arches, minarets, geometric and floral patterns, 2) Gardens: Char-bagh (four-fold garden) layout with water channels, 3) Decorative elements: Intricate inlay work (pietra dura), calligraphy, geometric patterns avoiding human figures in religious buildings, 4) Evolution: Babur-Humayun period showed Persian influence, Akbar's reign saw Indo-Islamic synthesis (Fatehpur Sikri), Shah Jahan's period achieved perfect refinement (Taj Mahal, Red Fort). Major monuments include Humayun's Tomb, Taj Mahal, Red Fort, Jama Masjid, and Fatehpur Sikri. This architectural style influenced regional styles and continues to inspire modern Indian architecture."
+    },
+    {
+      "level": 21,
+      "difficulty": "Expert",
+      "question": "Why did the Mughal Empire decline after Aurangzeb?",
+      "options": ["Single cause - British invasion", "Only religious policies", "Multiple factors including administrative, military, and economic problems", "Only succession disputes"],
+      "correctAnswer": 3,
+      "explanation": "Mughal decline after Aurangzeb (1707) resulted from multiple interconnected factors: 1) Administrative: Excessive centralization, corrupt and inefficient mansabdari system, jagirdari crisis (shortage of profitable jagirs), 2) Military: Weakened army, outdated weapons, long campaigns in Deccan exhausted resources, 3) Economic: Heavy taxation, decline in trade, agricultural crisis, empty treasury, 4) Political: Weak successors, succession wars, rise of regional powers (Marathas, Sikhs, Jats), 5) Religious: Aurangzeb's orthodox policies alienated Hindu subjects, reimposition of jizya, 6) External: Nadir Shah's invasion (1739) and Ahmad Shah Abdali's repeated invasions, 7) Rise of British: Growing European trading companies, Battle of Plassey (1757). The empire became increasingly dependent on regional powers and European companies, finally ending with the revolt of 1857."
+    },
+    {
+      "level": 22,
+      "difficulty": "Expert",
+      "question": "What was the significance of the Maratha Empire under Shivaji?",
+      "options": ["It only focused on local governance", "It established Hindu self-rule and challenged Mughal supremacy", "It was only a military power", "It focused only on trade"],
+      "correctAnswer": 2,
+      "explanation": "Shivaji Maharaj (1630-1680) established the Maratha Empire with profound significance: 1) Political: Created first major Hindu kingdom challenging Mughal dominance, established swaraj (self-rule) concept, 2) Military: Revolutionized warfare through guerrilla tactics, built strong navy, fortified hills (like Raigad), 3) Administrative: Efficient revenue system, council of ministers (Ashtapradhan), direct relationship between king and people bypassing feudal intermediaries, 4) Social: Promoted Marathi language and culture, religious tolerance, protection of farmers and traders, 5) Economic: Chauth and sardeshmukhi taxes from Mughal territories, protection to trade routes, 6) Legacy: Inspired later freedom fighters, established Maratha confederacy that dominated 18th century politics. Shivaji's coronation (1674) symbolized Hindu revival and indigenous political consciousness against foreign rule."
+    },
+    {
+      "level": 23,
+      "difficulty": "Expert",
+      "question": "How did trade and commerce develop during the medieval period?",
+      "options": ["Trade declined completely", "Only local trade existed", "Both internal and international trade flourished", "Only international trade was important"],
+      "correctAnswer": 3,
+      "explanation": "Medieval India witnessed remarkable growth in trade and commerce: 1) Internal Trade: Well-developed road networks (Grand Trunk Road), river transport, standardized currency (silver rupee), weights and measures, major trade centers (Delhi, Agra, Lahore, Surat, Calicut), 2) International Trade: Indian textiles, spices, precious stones exported; horses, luxury goods imported, major ports (Surat, Calicut, Pulicat, Hughli), trade with Southeast Asia, Central Asia, and Europe, 3) Commercial Organization: Merchant guilds, banking systems (hundis), insurance practices, 4) Craft Production: Textile centers (Gujarat, Bengal, Coromandel), metalwork, jewelry, shipbuilding, 5) Agricultural Surplus: Improved irrigation, new crops, increased production supporting urban centers, 6) State Support: Policies encouraging trade, security of trade routes, standardized administration. This prosperity attracted European trading companies and eventually led to colonialism."
+    },
+    {
+      "level": 24,
+      "difficulty": "Expert",
+      "question": "What changes occurred in rural society during the medieval period?",
+      "options": ["No changes occurred", "Only political changes", "Significant social, economic, and technological changes", "Only religious changes"],
+      "correctAnswer": 3,
+      "explanation": "Medieval rural society underwent significant transformations: 1) Agricultural Technology: Introduction of Persian wheel, improved ploughs, new crops (potato, tobacco, maize from Americas), better irrigation techniques, 2) Social Structure: Jati system became more rigid, emergence of new castes, strengthening of village panchayat system, 3) Land Relations: Various forms of land tenure (khalsa, jagir, inam), revenue collection systems, peasant categories (khudkasht, paikasht), 4) Settlement Patterns: Expansion of agriculture into forest areas, growth of qasbas (market towns), 5) Economic Changes: Monetization of rural economy, cash crops cultivation, rural-urban trade linkages, 6) Cultural Synthesis: Hindu-Muslim cultural interaction, architectural influences in rural areas, language developments, 7) Regional Variations: Different patterns in North India (zamindari system) vs. South India (village communities). These changes laid foundation for modern rural Indian society."
+    },
+    {
+      "level": 25,
+      "difficulty": "Expert",
+      "question": "How did the arrival of Europeans change Indian Ocean trade?",
+      "options": ["No significant changes", "Complete disruption of trade", "Gradual European domination of sea routes", "Only brought new goods"],
+      "correctAnswer": 3,
+      "explanation": "European arrival (Portuguese 1498, Dutch, English, French) gradually transformed Indian Ocean trade: 1) Initial Phase (1500-1600): Portuguese established factories at Goa, Cochin, controlled spice trade through naval power, introduced new world crops, 2) Competition Phase (1600-1700): Dutch East India Company dominated Southeast Asian trade, English East India Company focused on India, French involvement in India and Mauritius, 3) Transformation: From coastal trade to territorial control, shift from partnership to domination of local merchants, introduction of European commercial practices, 4) Impact on Indian Merchants: Initially benefited from new opportunities, gradually marginalized, traditional trade networks disrupted, 5) Economic Consequences: Drain of wealth from India, decline of Indian industries, conversion from exporter to raw material supplier, 6) Political Implications: Commercial rivalry led to political intervention, Battle of Plassey (1757) marked beginning of British political dominance. This transformation eventually led to colonialism and fundamentally altered India's position in world trade."
+    },
+    {
+      "level": 26,
+      "difficulty": "Expert",
+      "question": "What was the impact of new crops introduced during the medieval period?",
+      "options": ["No significant impact", "Only affected diet", "Revolutionized agriculture and society", "Only affected trade"],
+      "correctAnswer": 3,
+      "explanation": "New crops introduced during medieval period (especially 16th-17th centuries) had revolutionary impact: 1) American Crops: Potato, maize, tomato, chili, tobacco brought by Portuguese transformed diet and agriculture, increased agricultural productivity, supported population growth, 2) Cash Crops: Cotton, sugarcane, indigo became major commercial crops, linked rural areas to urban markets and international trade, 3) Improved Varieties: Better quality rice, wheat varieties increased yields, 4) Geographical Impact: Crops suitable for different climates expanded cultivation areas, maize grew in hilly regions, potato in diverse conditions, 5) Social Impact: Changed food habits, new occupational groups emerged, tobacco cultivation created new social practices, 6) Economic Impact: Increased agricultural surplus, supported urban growth, provided raw materials for emerging industries, 7) Population Growth: Better nutrition supported demographic expansion, 8) Cultural Impact: New foods integrated into local cuisines, festival foods changed. These introductions were part of global 'Columbian Exchange' and fundamentally transformed Indian agriculture and society."
+    },
+    {
+      "level": 27,
+      "difficulty": "Expert",
+      "question": "What role did women play in medieval Indian society?",
+      "options": ["Women had no significant role", "Only royal women were important", "Women played diverse roles despite patriarchal constraints", "Women only worked at home"],
+      "correctAnswer": 3,
+      "explanation": "Women in medieval India played diverse roles within patriarchal constraints: 1) Royal Women: Razia Sultan ruled Delhi Sultanate (1236-1240), Mughal princesses like Jahanara influenced politics, Rani Durgavati fought Mughals, Maratha women like Tarabai ruled as regents, 2) Religious Sphere: Bhakti saints like Mirabai, Akka Mahadevi challenged social norms, Sufi women mystics, 3) Economic Roles: Participated in agriculture, textile production (spinning, weaving), trade and commerce, managed household economies, 4) Literary Contributions: Poets like Mirabai, Chandrabai wrote devotional literature, court women patronized arts, 5) Social Constraints: Purdah system, child marriage, sati practice (though not universal), limited inheritance rights, 6) Regional Variations: South Indian women had relatively more freedom, tribal women enjoyed greater autonomy, 7) Class Differences: Elite women had different experiences from peasant women, 8) Resistance: Many women challenged social norms through religious devotion, some through political action. Despite restrictions, women significantly contributed to medieval Indian culture and society."
+    },
+    {
+      "level": 28,
+      "difficulty": "Expert",
+      "question": "How did medieval Indian cities develop and what were their characteristics?",
+      "options": ["Cities remained unchanged", "Only political centers developed", "Cities grew as administrative, commercial, and cultural centers", "Only religious centers flourished"],
+      "correctAnswer": 3,
+      "explanation": "Medieval Indian cities evolved as complex centers with multiple functions: 1) Types: Administrative capitals (Delhi, Agra, Fatehpur Sikri), commercial centers (Surat, Calicut, Pulicat), religious centers (Varanasi, Ajmer, Madurai), port cities (Hormuz, Cochin, Hughli), 2) Urban Planning: Mughal cities had planned layouts with wide streets, water supply systems, fortifications, separate areas for different communities, 3) Economic Functions: Craft production centers, banking and financial services, wholesale and retail trade, specialized markets (like Chandni Chowk), 4) Social Structure: Diverse populations including merchants, artisans, nobles, soldiers, religious communities, ethnic diversity, 5) Cultural Centers: Centers of learning, art, literature, music, architecture, synthesis of different cultural traditions, 6) Administration: Urban governance through kotwals, separate judicial systems, municipal services, 7) Challenges: Overcrowding, sanitation problems, fire hazards, social tensions, 8) Decline: Many cities declined with political changes, rise and fall with ruling dynasties. These medieval cities became foundations for modern Indian urban development."
+    },
+    {
+      "level": 29,
+      "difficulty": "Expert",
+      "question": "What was the nature of medieval Indian forests and forest communities?",
+      "options": ["Forests were empty wastelands", "Only royal hunting grounds", "Complex ecosystems with diverse communities", "Only timber sources"],
+      "correctAnswer": 3,
+      "explanation": "Medieval Indian forests were complex ecosystems supporting diverse communities: 1) Forest Types: Dense forests in Western Ghats, Central India, Northeast, deciduous forests in Gangetic plains, thorny forests in Rajasthan, 2) Forest Communities: Adivasis (tribal peoples) like Gonds, Santhals, Bhils who practiced shifting cultivation, hunting-gathering, had sophisticated ecological knowledge, 3) Economic Importance: Timber for construction, medicinal plants, honey, lac, forest products trade, elephant capture for armies, 4) Agricultural Expansion: Constant pressure from settled agriculture, forest clearance for cultivation, establishment of new villages, 5) State Policies: Royal control over valuable forests, hunting reserves for rulers, regulation of forest products trade, 6) Cultural Significance: Forests in religious traditions, hermitages and ashrams, pilgrimage sites, 7) Ecological Services: Water conservation, soil protection, climate regulation, biodiversity preservation, 8) Conflicts: Between forest communities and expanding agriculture, royal claims vs. community rights, environmental degradation. Forest communities maintained sustainable practices while facing increasing pressure from expanding kingdoms and agricultural settlements."
+    },
       {
-        level: 1,
-        difficulty: 'Easy',
-        question:
-          'Where did early humans in India first begin to domesticate animals and grow crops?',
-        options: ['Mehrgarh', 'Harappa', 'Nalanda', 'Pataliputra'],
-        correctAnswer: 1,
-        explanation:
-          'Mehrgarh (in present-day Pakistan) is one of the earliest sites where farming and herding began.',
-      },
-      {
-        level: 2,
-        difficulty: 'Easy',
-        question:
-          'Which river valley civilization is known as the Harappan Civilization?',
-        options: ['Nile Valley', 'Indus Valley', 'Ganga Valley', 'Mesopotamia'],
-        correctAnswer: 2,
-        explanation:
-          'The Harappan Civilization developed along the Indus River and is also called the Indus Valley Civilization.',
-      },
-    ],
+      "level": 30,
+      "difficulty": "Expert",
+      "question": "How did the concept of kingship evolve during the medieval period?",
+      "options": ["Kingship remained unchanged", "Only Islamic concepts were adopted", "Synthesis of Hindu, Islamic, and Persian concepts", "Only Hindu traditions continued"],
+      "correctAnswer": 3,
+      "explanation": "Medieval kingship evolved through synthesis of multiple traditions: 1) Hindu Concepts: Divine kingship (devaraja), king as protector of dharma, paternal relationship with subjects, influence of texts like Arthashastra and Dharmasutras, 2) Islamic Concepts: Sultan as God's representative on earth, emphasis on justice (adl), protection of all subjects regardless of religion, caliphal authority, 3) Persian Influences: Elaborate court ceremonies, concept of farr (divine glory), administrative practices, 4) Practical Adaptations: Multi-religious empires required religious tolerance, local customs accommodated, balance between orthodox and liberal policies, 5) Symbols of Power: Elaborate coronation ceremonies, royal titles combining Sanskrit and Arabic/Persian, architectural symbols, 6) Administrative Evolution: From personal rule to bureaucratic systems, mansabdari system, complex revenue administration, 7) Challenges: Balancing religious orthodoxy with practical governance, managing diverse populations, succession disputes, regional autonomy vs. central control. This evolution produced unique forms of kingship that balanced multiple traditions while maintaining practical governance."
+    },
+    {
+      "level": 31,
+      "difficulty": "Expert",
+      "question": "What was the impact of medieval period on Indian languages and literature?",
+      "options": ["Languages declined", "Only Sanskrit continued", "Vernacular languages flourished with Persian influence", "Only Persian was used"],
+      "correctAnswer": 3,
+      "explanation": "Medieval period witnessed remarkable development in Indian languages and literature: 1) Regional Languages: Hindi, Bengali, Gujarati, Marathi, Tamil, Telugu, Kannada, Malayalam flourished as literary languages, court patronage increased, 2) Persian Influence: Persian became court language under Delhi Sultanate and Mughals, influenced vocabulary of Indian languages, created hybrid forms like Hindustani, 3) Arabic Impact: Religious vocabulary entered regional languages, development of Urdu as synthesis of Hindi-Persian-Arabic, 4) Literary Developments: Bhakti literature in vernacular languages (Tulsidas's Ramcharitmanas, Kabir's dohas), Sufi literature, court poetry, historical chronicles, 5) Translation Movement: Sanskrit classics translated into Persian and regional languages, Persian works translated into Indian languages, 6) New Genres: Emerged like tazkiras (biographical accounts), qissas (stories), ghazals, rubais in poetry, 7) Printing Impact: Later medieval period saw early printing, wider circulation of literature, 8) Cultural Synthesis: Literature reflected Hindu-Muslim cultural interaction, new themes and styles emerged. This period laid foundation for modern Indian literature and linguistic diversity."
+    },
+    {
+      "level": 32,
+      "difficulty": "Expert",
+      "question": "How did technology and crafts develop during medieval India?",
+      "options": ["No technological progress", "Only military technology advanced", "Significant advances in multiple fields", "Technology declined"],
+      "correctAnswer": 3,
+      "explanation": "Medieval India witnessed significant technological and craft development: 1) Metallurgy: Advanced iron and steel production (wootz steel famous worldwide), Delhi Iron Pillar, improved smelting techniques, bronze and brass work, 2) Textiles: Cotton textile technology, silk production, dyeing techniques, printing methods, spinning wheel improvements, 3) Architecture: Innovative construction techniques, use of mortar, arch and dome construction, hydraulic systems, 4) Agriculture: Persian wheel, improved ploughs, well-digging techniques, canal construction, 5) Military Technology: Introduction of gunpowder, cannons, firearms, fortification techniques, 6) Navigation: Improved shipbuilding, navigation techniques, compass use, 7) Water Management: Sophisticated irrigation systems, tanks, wells, qanat system, 8) Handicrafts: Jewelry making, carpet weaving, leather work, woodcraft, stone carving, 9) Industrial Organization: Guild systems, quality control, standardization, apprenticeship systems, 10) Knowledge Transfer: Persian and Arab techniques integrated with Indian methods, Chinese innovations adapted. This technological progress supported economic growth and made Indian goods highly prized in international markets."
+    },
+    {
+      "level": 33,
+      "difficulty": "Expert",
+      "question": "What was the role of guilds in medieval Indian economy?",
+      "options": ["Guilds had no importance", "Only merchant guilds existed", "Comprehensive guild system covering all crafts and trades", "Only government-controlled guilds"],
+      "correctAnswer": 3,
+      "explanation": "Medieval Indian guilds (shreni/mahajan) played crucial economic and social roles: 1) Organization: Covered all major crafts - textiles, metalwork, jewelry, carpentry, leather work, pottery, organized by craft specialization, 2) Economic Functions: Quality control and standardization, price regulation, training through apprenticeship, collective bargaining with buyers, credit and banking services, 3) Social Role: Caste-like organization, mutual support systems, marriage and social ceremonies, dispute resolution, 4) Political Influence: Representation in town governance, negotiation with rulers, collective resistance to unfair taxation, 5) Religious Functions: Temple construction and maintenance, religious festivals organization, charitable activities, 6) Training System: Master-apprentice relationships, skill transmission, innovation and improvement of techniques, 7) Market Control: Monopoly in specific crafts, territorial control, prevention of outside competition, 8) Integration: Links between rural producers and urban markets, connection with long-distance trade, 9) Regional Variations: Different organizational patterns in different regions, adaptation to local conditions. Guild system provided stability and prosperity to artisan communities while maintaining quality and innovation in Indian crafts."
+    },
+    {
+      "level": 34,
+      "difficulty": "Expert",
+      "question": "How did irrigation and water management develop in medieval India?",
+      "options": ["No developments in irrigation", "Only rainfall dependent", "Sophisticated water management systems", "Only river irrigation"],
+      "correctAnswer": 3,
+      "explanation": "Medieval India developed sophisticated water management systems: 1) Irrigation Methods: Canal systems (especially under Firoz Shah Tughlaq who built 5 canals), wells and step-wells (baolis), tanks and reservoirs, Persian wheel for lifting water, 2) Regional Specializations: North India - canal and well irrigation, South India - tank irrigation systems, Rajasthan - step-wells and water harvesting, Deccan - tank and well combinations, 3) Administrative Systems: Water rights allocation, maintenance responsibilities, revenue based on irrigation facilities, conflict resolution mechanisms, 4) Engineering Achievements: Grand Anicut by Cholas on Kaveri river, extensive tank systems in Tamil Nadu, innovative step-well architecture, 5) Community Management: Village-level water management, cooperative maintenance, traditional knowledge systems, seasonal water sharing, 6) Royal Patronage: Rulers invested in irrigation infrastructure, Firoz Shah Tughlaq's canal network, Vijayanagara tank systems, 7) Economic Impact: Increased agricultural productivity, support for cash crops, population growth, urban development, 8) Environmental Adaptation: Techniques adapted to local rainfall patterns, soil types, topography. These systems supported agricultural prosperity and enabled dense population settlements in otherwise water-scarce regions."
+    },
+    {
+      "level": 35,
+      "difficulty": "Expert",
+      "question": "What was the significance of medieval Indian ports in international trade?",
+      "options": ["Ports were only local centers", "Limited to coastal trade", "Major nodes in global trade networks", "Only fishing centers"],
+      "correctAnswer": 3,
+      "explanation": "Medieval Indian ports were crucial nodes in global trade networks: 1) Major Ports: Western coast - Surat, Calicut, Cochin, Goa, Cambay; Eastern coast - Pulicat, Masulipatnam, Hughli, Chittagong, 2) Trade Networks: Connected India with Southeast Asia, China, Central Asia, Arabian Peninsula, East Africa, Europe, facilitated exchange of goods, ideas, and cultures, 3) Commodities: Exports - textiles, spices, precious stones, indigo, saltpeter; Imports - horses, silk, precious metals, Chinese porcelain, 4) Commercial Organization: Merchant communities (like Chettiars, Gujarati merchants), foreign merchant settlements, banking and credit systems, 5) Political Importance: Source of customs revenue for kingdoms, strategic military positions, diplomatic centers, 6) Cultural Exchange: Entry points for new religions, ideas, technologies, architectural styles, languages, 7) Urban Development: Cosmopolitan cities with diverse populations, craft centers, religious diversity, 8) Technological Innovation: Shipbuilding centers, navigation techniques, port infrastructure, 9) European Impact: Portuguese, Dutch, English, French established factories, gradually controlled trade, led to colonialism. These ports made India the center of Indian Ocean trade and connected it to global economy."
+    },
+    {
+      "level": 36,
+      "difficulty": "Expert",
+      "question": "How did the Delhi Sultanate and Mughal Empire handle religious diversity?",
+      "options": ["Complete religious uniformity", "Total religious freedom", "Pragmatic policies balancing religious and political needs", "Only Islamic practices allowed"],
+      "correctAnswer": 3,
+      "explanation": "Delhi Sultanate and Mughal rulers adopted pragmatic religious policies balancing ideological and practical considerations: 1) Delhi Sultanate Approach: Initially orthodox (Qutb-ud-din Aibak, Iltutmish), moderate policies for stability (Balban), Alauddin Khalji's pragmatic approach focused on revenue, Muhammad bin Tughluq's experimentation, 2) Mughal Evolution: Babur-Humayun - traditional Islamic policies, Akbar - revolutionary tolerance (abolition of jizya, Din-i-Ilahi, marriage alliances), Jahangir-Shah Jahan - balanced approach, Aurangzeb - orthodox revival, 3) Administrative Policies: Hindu nobles in administration, local customs respected, temple protection (when politically beneficial), religious endowments (both Islamic and Hindu), 4) Economic Considerations: Religious minorities were major taxpayers, craft specialists, traders, revenue maximization over religious orthodoxy, 5) Political Necessities: Hindu majority population required accommodation, Rajput alliances crucial, regional variations in policy, 6) Resistance and Revolts: Orthodox policies often led to rebellions, practical rulers learned to balance, 7) Cultural Synthesis: Indo-Islamic architecture, literature, music, festivals, language development. Success of these empires largely depended on their ability to manage religious diversity effectively."
+    },
+    {
+      "level": 37,
+      "difficulty": "Expert",
+      "question": "What were the causes and consequences of the Third Battle of Panipat (1761)?",
+      "options": ["Only succession dispute", "Maratha expansion vs. Afghan invasion", "Local conflict only", "British intervention"],
+      "correctAnswer": 2,
+      "explanation": "The Third Battle of Panipat (1761) was a decisive confrontation with far-reaching consequences: 1) Background: Maratha expansion into North India, control over Delhi, collection of chauth and sardeshmukhi, Ahmad Shah Abdali's repeated invasions, weakening Mughal Empire, 2) Immediate Causes: Marathas supported Mughal claimant, Abdali invaded to check Maratha power, failure of Maratha diplomacy to secure local allies, 3) The Battle: Maratha forces under Sadashiv Rao Bhau faced Abdali's Afghan army, Marathas were defeated despite initial advantages, heavy casualties including key leaders, 4) Military Factors: Afghan superior cavalry and artillery, Maratha supply line problems, tactical mistakes, betrayal by some Indian allies, 5) Consequences: Maratha power severely weakened, end of Maratha dreams of all-India empire, created power vacuum in North India, rise of regional powers (Sikhs, Jats, Rohillas), 6) British Advantage: Weakened Indian powers facilitated British expansion, Battle of Plassey (1757) benefits magnified, 7) Long-term Impact: Fragmentation of Indian subcontinent, easier European penetration, decline of indigenous resistance capacity. This battle marked the end of the last major indigenous attempt to establish pan-Indian empire before colonial rule."
+    },
+    {
+      "level": 38,
+      "difficulty": "Expert",
+      "question": "How did medieval India's connection with Central Asia influence its culture and politics?",
+      "options": ["No significant influence", "Only military influence", "Profound cultural, political, and economic influence", "Only religious influence"],
+      "correctAnswer": 3,
+      "explanation": "Medieval India's Central Asian connections profoundly influenced its development: 1) Political Impact: Turkish and Afghan rulers established Delhi Sultanate, Mughal Empire founded by Babur from Ferghana, administrative systems influenced by Persian and Turkish models, 2) Military Influence: Superior cavalry techniques, use of horse archers, military organization, introduction of gunpowder weapons, fortification techniques, 3) Cultural Synthesis: Persian language as court language, influence on regional languages, literary traditions (ghazal, rubai, masnavi), artistic styles in painting and calligraphy, 4) Architectural Impact: Indo-Islamic architecture combining Central Asian, Persian, and Indian elements, dome and arch construction, garden layouts (char-bagh), decorative techniques, 5) Religious Exchange: Sufi traditions from Central Asia, various Islamic schools of thought, synthesis with local traditions, 6) Trade Networks: Silk Route connections, exchange of goods (horses, precious metals, textiles, spices), commercial practices and banking systems, 7) Intellectual Exchange: Scientific and mathematical knowledge, medical traditions, philosophical texts, translation movements, 8) Artistic Influence: Miniature painting traditions, musical instruments and styles, decorative arts, carpet weaving. This interaction created unique Indo-Islamic civilization that was neither purely Indian nor Central Asian but a distinctive synthesis."
+    },
+    {
+      "level": 39,
+      "difficulty": "Expert",
+      "question": "What was the impact of medieval period on caste system and social structure?",
+      "options": ["Caste system remained unchanged", "Caste system disappeared", "Significant modifications and new developments", "Only religious changes occurred"],
+      "correctAnswer": 3,
+      "explanation": "Medieval period brought significant changes to India's social structure: 1) Caste System Evolution: Increased rigidity in some areas, emergence of new castes (especially occupational), integration of new groups into caste hierarchy, regional variations in caste practices, 2) Islamic Impact: Challenged caste distinctions through egalitarian message, conversion of lower castes to Islam, but caste-like distinctions emerged among Muslims (Ashraf vs. Ajlaf), 3) Bhakti Movement Effects: Saints like Kabir challenged caste system, emphasized spiritual equality, attracted followers across caste lines, but limited long-term institutional change, 4) Occupational Changes: New occupations created new social groups, craft guilds provided alternative social organization, military service as avenue for social mobility, 5) Regional Variations: South India maintained stronger caste distinctions, tribal areas had different social systems, frontier regions more fluid, 6) Administrative Impact: Mughal administration recruited from various backgrounds, mansabdari system based on merit and loyalty, but caste considerations remained important, 7) Economic Factors: Commercialization created new wealthy groups, urbanization provided some social mobility, but rural areas remained caste-bound, 8) Resistance and Adaptation: Caste system showed remarkable adaptability, incorporated new challenges while maintaining core structure. Overall, while challenged, caste system survived and adapted to new conditions."
+    },
+    {
+      "level": 40,
+      "difficulty": "Expert",
+      "question": "How did medieval Indian education system function and what were its characteristics?",
+      "options": ["No organized education", "Only religious education", "Diverse educational institutions and systems", "Only elite education"],
+      "correctAnswer": 3,
+      "explanation": "Medieval India had diverse educational systems serving different communities: 1) Islamic Education: Madrasas provided religious and secular education, curriculum included Quran, Hadith, Islamic law, Arabic language, logic, philosophy, medicine, mathematics, famous madrasas at Delhi, Lucknow, Deoband, 2) Hindu Education: Traditional gurukula system continued, pathshalas in villages, study of Sanskrit, Vedas, dharmasutras, mathematics, astronomy, medicine, centers like Varanasi, Navadwip, 3) Court Schools: Royal princes educated by private tutors, multilingual education (Persian, Arabic, Sanskrit, regional languages), military training, administration, arts, 4) Specialized Learning: Medical education (Ayurveda, Unani), technical training in crafts, legal education for qazis and pandits, 5) Popular Education: Elementary education in villages, practical skills training, oral traditions, folk knowledge systems, 6) Libraries and Scriptoriums: Royal libraries, manuscript copying centers, translation projects, preservation of knowledge, 7) Women's Education: Limited but existing - some royal women highly educated, religious education for women, 8) Funding: Royal patronage, endowments (waqf), community support, private donations, 9) Challenges: Limited reach to masses, urban bias, linguistic barriers, social restrictions. Despite limitations, this system produced scholars, administrators, and skilled professionals who maintained India's intellectual traditions."
+    },
+    {
+      "level": 41,
+      "difficulty": "Easy",
+      "question": "Who is a 'cartographer'?",
+      "options": [
+        "A person who writes manuscripts by hand",
+        "A person who studies ancient coins",
+        "A person who makes maps",
+        "A person who translates historical texts"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A **cartographer** is a person who creates maps. The term comes from 'carte' (map) and 'grapher' (writer). The science and art of map-making have evolved significantly over time. For example, a 12th-century map of the Indian subcontinent by the Arab geographer al-Idrisi shows South India where we would expect North India, while a French cartographer's map from the 1700s is much more accurate and familiar. This shows how historical information and geographical understanding change over time."
+    },
+    {
+      "level": 42,
+      "difficulty": "Medium",
+      "question": "What was the 'tripartite struggle' in the 8th to 10th centuries fought over?",
+      "options": [
+        "Control over the city of Delhi",
+        "Control over the city of Kanauj",
+        "Control over the Kaveri delta",
+        "Control over the trade routes to Arabia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'tripartite struggle' was a long and fierce conflict between three major dynasties: the **Gurjara-Pratiharas** (from western India), the **Rashtrakutas** (from the Deccan), and the **Palas** (from Bengal). All three wanted to establish supremacy over northern India, and the symbol of this power was the city of **Kanauj** in the Ganga valley. Kanauj was strategically and commercially very important, and controlling it meant controlling the vast resources of the region. This centuries-long war weakened all three dynasties, paving the way for other powers to rise."
+    },
+    {
+      "level": 43,
+      "difficulty": "Hard",
+      "question": "In the Chola empire, what was the function of the 'nadu'?",
+      "options": [
+        "An individual peasant's settlement",
+        "A council of leading brahmana landholders",
+        "A group of villages that performed administrative and judicial functions",
+        "The king's personal army contingent"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the Chola administrative system, settlements of peasants, known as **'ur'**, grouped together to form larger units called **'nadu'**. The nadu was a crucial administrative unit, responsible for collecting taxes and dispensing justice through its council. The council of the nadu was dominated by rich peasants of the powerful **Vellala** caste, who exercised considerable control under the supervision of the central Chola government."
+    },
+    {
+      "level": 44,
+      "difficulty": "Easy",
+      "question": "Why was Raziya Sultan, the ruler of the Delhi Sultanate, removed from the throne in 1240?",
+      "options": [
+        "She lost a major battle against the Mongols",
+        "She was a woman, and the nobles were not comfortable with a queen ruling over them",
+        "She abolished the 'iqta' system, angering the nobles",
+        "She moved the capital from Delhi to Daulatabad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Raziya, the daughter of Sultan Iltutmish, was a highly capable ruler. However, the Turkish nobles of the court were deeply uncomfortable with the idea of being ruled by a woman. The chronicler of the age, **Minhaj-i-Siraj**, recognized her abilities but noted that her being a woman was against the 'ideal social order' created by God. This prejudice, combined with her attempts to assert her authority and favour non-Turkish nobles, led to a conspiracy against her, and she was eventually removed from the throne."
+    },
+    {
+      "level": 45,
+      "difficulty": "Medium",
+      "question": "What were the 'bandagan' in the Delhi Sultanate, especially favored by Sultan Iltutmish?",
+      "options": [
+        "Provincial governors",
+        "Special slaves purchased for military service",
+        "Hindu chiefs who paid tribute to the Sultan",
+        "Judges who interpreted Islamic law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term **'bandagan'** is the Persian word for special slaves who were purchased for military service. Early Delhi Sultans, like Iltutmish, preferred them over aristocrats because the bandagan were totally dependent on their master, the Sultan, making them more reliable and trustworthy. They were carefully trained and often rose to high political offices, including governorships and military commands."
+    },
+    {
+      "level": 46,
+      "difficulty": "Hard",
+      "question": "What was the 'zabt' system of revenue collection introduced during Akbar's reign?",
+      "options": [
+        "A tribute paid by subordinate kings",
+        "A system where each province's revenue was based on a schedule of individual crop yields and prices",
+        "A tax on goods brought into the city, known as octroi",
+        "A religious tax collected from non-Muslims"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The **'zabt'** was a highly efficient land revenue system developed during Akbar's reign with the help of his revenue minister, **Raja Todar Mal**. Under this system, a detailed survey of crop yields, cultivated areas, and prices was carried out for a ten-year period (1570-1580). On the basis of this data, the tax was fixed in cash for each crop. Each province was divided into revenue circles with its own schedule of revenue rates. This system allowed for a more predictable and stable income for the state, though it was difficult to implement in areas where surveys were not possible, like Gujarat and Bengal."
+    },
+    {
+      "level": 47,
+      "difficulty": "Medium",
+      "question": "What does Akbar's policy of 'sulh-i-kul' mean?",
+      "options": [
+        "Absolute monarchy",
+        "Military conquest",
+        "Universal peace and tolerance",
+        "Divine faith"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Sulh-i-kul' is an Arabic term that translates to **'universal peace'**. This was a central pillar of Akbar's administrative and religious policy. It was based on the idea of tolerance and not discriminating between people of different religions. The policy focused on a system of ethics – honesty, justice, peace – that was universally applicable. Akbar promoted this idea after his discussions with leaders of various faiths (Ulamas, Brahmanas, Jesuit priests, Zoroastrians) in the **ibadat khana** (hall of worship) at Fatehpur Sikri. This policy helped him consolidate his vast and diverse empire."
+    },
+    {
+      "level": 48,
+      "difficulty": "Medium",
+      "question": "What is the main difference between the 'trabeate' and 'arcuate' styles of architecture?",
+      "options": [
+        "Trabeate uses domes, while arcuate uses flat roofs",
+        "Trabeate uses horizontal beams across two vertical columns, while arcuate uses arches to support the weight",
+        "Trabeate uses wood and mud, while arcuate uses stone and marble",
+        "Trabeate is a Hindu style, while arcuate is an Islamic style"
+      ],
+      "correctAnswer": 2,
+      "explanation": "These are two distinct principles of architecture. The **'trabeate'** or 'corbelled' style involves placing a horizontal beam across two vertical columns to create roofs, doors, and windows. This was common in ancient Indian temples and buildings. The **'arcuate'** style, introduced by the Turks and Mughals, involves using **arches** to transfer the weight of the structure above doors and windows. The arch's 'keystone' distributes the weight to the base, allowing for much larger and more elaborate domed structures, like mosques and tombs."
+    },
+    {
+      "level": 49,
+      "difficulty": "Hard",
+      "question": "Why were temples, like the Rajarajeshvara temple in Thanjavur, often the first targets during military campaigns in medieval India?",
+      "options": [
+        "They were made of wood and easy to burn",
+        "They were symbols of the enemy king's power, wealth, and devotion to their patron deity",
+        "They were poorly defended compared to forts",
+        "They housed enemy soldiers during wartime"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In medieval India, kings built grand temples to demonstrate their power, wealth, and devotion to God. These temples, like the magnificent Rajarajeshvara temple built by King Rajaraja Chola, were not just places of worship but also hubs of economic, social, and cultural life, endowed with vast lands and wealth. Consequently, when one king attacked another's kingdom, they often targeted these temples to **symbolically destroy the enemy's authority and legitimacy**, and also to loot their immense wealth. For example, Sultan Mahmud of Ghazni's raids on temples like Somnath were aimed at both acquiring plunder and establishing his credentials as a great warrior of Islam."
+    },
+    {
+      "level": 50,
+      "difficulty": "Medium",
+      "question": "What was 'Bidri' work, famous in the medieval town of Bidar?",
+      "options": [
+        "A type of cotton textile with floral prints",
+        "A form of poetry recited in the king's court",
+        "Inlay work in copper and silver on metalware",
+        "A technique of building with interlocking bricks"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Bidri** is a renowned metal handicraft that originated in the town of Bidar (in modern-day Karnataka). It involves the craft of **inlaying silver and copper onto a blackened alloy of zinc and copper**. The intricate designs and the striking contrast between the dark background and the shiny inlay made Bidriware highly prized. This showcases the specialized skills and flourishing craft production in the towns of medieval India."
+    },
+    {
+      "level": 51,
+      "difficulty": "Easy",
+      "question": "Hampi, the capital of the Vijayanagara Empire, was located on the banks of which river?",
+      "options": ["Godavari", "Krishna-Tungabhadra basin", "Kaveri", "Mahanadi"],
+      "correctAnswer": 2,
+      "explanation": "Hampi, a magnificent ruined city and a UNESCO World Heritage site, was the capital of the powerful Vijayanagara Empire (14th-16th centuries). It is located in the **Krishna-Tungabhadra river basin**. The city was well-fortified, known for its grand temples, palaces, and bustling markets. It was a major center of trade and culture until it was sacked after the Battle of Talikota in 1565."
+    },
+    {
+      "level": 52,
+      "difficulty": "Hard",
+      "question": "Who were the Ahoms, and from where did they migrate into the Brahmaputra valley?",
+      "options": [
+        "A tribal group from the Deccan plateau who moved north",
+        "A warrior clan from Rajasthan",
+        "A group that migrated from present-day Myanmar in the 13th century",
+        "A nomadic pastoralist group from Central Asia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The **Ahoms** were a tribal community who migrated to the Brahmaputra valley from present-day **Myanmar** in the 13th century. They established a powerful kingdom by suppressing the older political system of the 'bhuiyans' (landlords). The Ahom state was notable for its unique system of forced labor, called **'paiks'**, where every adult male had to serve in the army during war and work in public projects during peace. They successfully resisted Mughal expansion for a long time."
+    },
+    {
+      "level": 53,
+      "difficulty": "Medium",
+      "question": "The Nayanars and Alvars were leaders of the Bhakti movement in South India. Which deities did they worship, respectively?",
+      "options": [
+        "Nayanars worshipped Vishnu; Alvars worshipped Shiva",
+        "Nayanars worshipped Shiva; Alvars worshipped Vishnu",
+        "Both worshipped the goddess Durga",
+        "Nayanars worshipped Brahma; Alvars worshipped Indra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Bhakti movement in South India (around the 7th-9th centuries) was led by two main groups of poet-saints. The **Nayanars** were saints who were devoted to **Lord Shiva**. There were 63 Nayanars from various caste backgrounds. The **Alvars** were saints devoted to **Lord Vishnu**. There were 12 Alvars. They travelled, composing and singing beautiful poems in praise of their gods in the local Tamil language, making religion accessible to all, irrespective of caste."
+    },
+    {
+      "level": 54,
+      "difficulty": "Easy",
+      "question": "The dance form 'Kathak' is primarily associated with which region of India?",
+      "options": ["Kerala", "Tamil Nadu", "Northern India", "Odisha"],
+      "correctAnswer": 3,
+      "explanation": "The term **Kathak** is derived from 'katha', the Sanskrit word for story. The Kathaks were originally a caste of story-tellers in the temples of **northern India**. They used gestures and songs to enhance their recitations. Under the Mughals, it developed into a distinct style of dance with refined movements and rhythmic footwork, performed in the royal courts. Over time, it evolved into two major schools or 'gharanas' – one in Jaipur and the other in Lucknow."
+    },
+    {
+      "level": 55,
+      "difficulty": "Hard",
+      "question": "What was the significance of the 'Jagannatha cult' in Puri, Odisha, for rulers like King Anangabhima III?",
+      "options": [
+        "It was a way to collect more taxes from pilgrims",
+        "It helped him form a military alliance with other kings",
+        "He dedicated his kingdom to the deity and proclaimed himself as the 'deputy' of the god",
+        "It was a festival to celebrate his birthday"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Jagannatha cult at Puri gained immense importance as a center of pilgrimage. Rulers of dynasties like the Ganga dynasty tried to gain social and political acceptance by associating themselves with the cult. In 1230, King **Anangabhima III** took a significant step by **dedicating his kingdom to the deity Jagannatha and proclaiming himself the 'deputy' of the god**. This act implied that the god was the actual ruler, and the king was merely his representative. This greatly enhanced the king's authority and legitimacy in the eyes of his subjects."
+    },
+    {
+      "level": 56,
+      "difficulty": "Medium",
+      "question": "In the eighteenth century, who were the 'subadars' who established independent states like Awadh, Bengal, and Hyderabad?",
+      "options": [
+        "Powerful Mughal generals who conquered new territories",
+        "Mughal governors of large provinces who consolidated their power and became autonomous",
+        "Rich merchants who bought the right to rule from the Mughal emperor",
+        "Local chieftains who defeated the Mughal armies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A **'subadar'** was the title for a governor of a Mughal province ('suba'). As the central Mughal authority weakened in the 18th century, powerful subadars who held both political ('subadari') and financial ('diwani') control over large provinces began to assert their independence. Founders of states like Awadh (Sa'adat Khan), Bengal (Murshid Quli Khan), and Hyderabad (Asaf Jah) were all influential Mughal nobles and subadars. They never formally broke away from the empire but stopped taking orders from Delhi, collected revenue for themselves, and ran their provinces as independent states."
+    },
+    {
+      "level": 57,
+      "difficulty": "Hard",
+      "question": "What were 'chauth' and 'sardeshmukhi' in the context of the Maratha kingdom?",
+      "options": [
+        "Two types of Maratha cavalry: light and heavy",
+        "The titles of the chief minister and the finance minister",
+        "Two types of taxes collected by the Marathas from lands not directly under their rule",
+        "The names of Shivaji's two most important forts"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Chauth** and **sardeshmukhi** were two major taxes that formed the backbone of the Maratha revenue system, especially as they expanded their influence. **Chauth** (literally 'one-fourth') was a tax of 25% of the land revenue, levied on neighboring territories as a fee for not being attacked or plundered by the Maratha army. **Sardeshmukhi** was an additional levy of 10%, which the Marathas claimed based on their hereditary right as the chief headmen ('Sardeshmukh') of the entire Deccan. These taxes allowed them to control vast territories and finance their military machine."
+    },
+    {
+      "level": 58,
+      "difficulty": "Medium",
+      "question": "What was the 'dal khalsa' established by the Sikhs in the 18th century?",
+      "options": [
+        "A special Sikh scripture",
+        "The combined army of all the Sikh bands ('jathas')",
+        "A common kitchen ('langar') for all Sikhs",
+        "The council that made decisions for the Sikh community"
+      ],
+      "correctAnswer": 2,
+      "explanation": "After the institution of the Khalsa by Guru Gobind Singh, the Sikhs organized themselves into a number of bands called **'jathas'** and later **'misls'**. To make collective decisions and coordinate their actions, they would meet at Amritsar during Baisakhi and Diwali. The combined forces of all these jathas were known as the **'dal khalsa'** (the army of the Khalsa). This organized and disciplined military force was crucial for the Sikhs to resist the Mughals and Afghans and eventually establish their own rule under Maharaja Ranjit Singh."
+    },
+    {
+      "level": 59,
+      "difficulty": "Easy",
+      "question": "What period does the term 'medieval' refer to in Indian history?",
+      "options": [
+        "From the 1st to the 5th century CE",
+        "From the 8th to the 18th century CE",
+        "From the 19th century onwards",
+        "From prehistoric times to the 7th century CE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The medieval period in Indian history spans roughly from the 8th to the 18th century CE, a time of significant changes in society, economy, politics, and culture. Historians divide history into ancient, medieval, and modern periods for convenience, but these divisions are not rigid. During this thousand-year span from 700 to 1750 CE, new social groups emerged, technologies like the Persian wheel for irrigation and the spinning wheel for weaving were introduced, and religions evolved with new ideas. Travelers like Al-Biruni noted India's vastness and diversity, while terms like 'Hindustan' changed meanings over time—from a region around the Indus in the 13th century under Minhaj-i-Siraj to the Mughal empire in the 16th century under Babur. Sources include manuscripts on palm leaves or birch bark, often copied with variations, and inscriptions on temple walls or pillars, providing insights into the past despite challenges like damage or biases."
+    },
+    {
+      "level": 60,
+      "difficulty": "Easy",
+      "question": "Who were the jatis in medieval India?",
+      "options": [
+        "Large kingdoms",
+        "Sub-castes or smaller social groups with specific rules",
+        "Foreign travelers",
+        "Types of manuscripts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jatis were sub-castes or smaller social groups that emerged as people adopted new occupations like specialized artisans or warriors, following distinct rules for marriage, diet, and work. The Marathas, for example, became a jati of peasants turned soldiers. This system fragmented the varna system of brahmanas, kshatriyas, vaishyas, and shudras. Brahmanas composed texts like Dharmashastras prescribing social norms. Historians use coins, buildings, and texts to understand changes, noting how terms like 'foreigner' (pardesi) evolved to 'Rajputs' for certain kshatriya groups. The period saw migrations, patronage of temples by rulers, and the rise of new dynasties claiming kshatriya status despite diverse origins."
+    },
+    {
+      "level": 61,
+      "difficulty": "Easy",
+      "question": "Which dynasty built the Kandariya Mahadeva temple?",
+      "options": [
+        "Cholas",
+        "Chandellas",
+        "Pallavas",
+        "Cheras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Chandellas of Bundelkhand built the Kandariya Mahadeva temple at Khajuraho in 999 CE, dedicated to Shiva, showcasing Rajput architecture with intricate carvings. During the early medieval period (8th-12th centuries), new kingdoms like the Cholas, Cheras, and Pandyas in the south, and Rashtrakutas, Palas, Gurjara-Pratiharas in the north emerged after the Gupta empire's decline. These kings built grand temples to demonstrate power and piety, often granting tax-free land (brahmadeya) to brahmanas, leading to new settlements. Military leaders or samanta became maha-samanta with land grants, eventually asserting independence. Warfare for resources was common, with famous conflicts like the Tripartite Struggle over Kanauj among Gurjara-Pratiharas, Rashtrakutas, and Palas."
+    },
+    {
+      "level": 62,
+      "difficulty": "Easy",
+      "question": "Who was Prithviraja III?",
+      "options": [
+        "A Chahamana ruler defeated by Muhammad Ghori",
+        "A Chola king",
+        "A Mughal emperor",
+        "A Gupta ruler"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prithviraja III, a Chahamana (Chauhan) ruler, defeated Sultan Muhammad Ghori in 1191 but was defeated in 1192 at Tarain, leading to the establishment of Turkish rule in north India. The Chahamanas ruled from Ajmer, expanding to Delhi. Other Rajput dynasties included Paramaras, Tomaras (who built Delhi or Dhillika), and Gahadavalas. Poetry like Prithviraj Raso romanticized these rulers. The period saw Sanskrit inscriptions praising kings' genealogies, often exaggerating conquests. Agriculture expanded with new irrigation methods, and peasants paid taxes in kind or cash, supporting armies of foot soldiers, cavalry, and war elephants."
+    },
+    {
+      "level": 63,
+      "difficulty": "Medium",
+      "question": "What was the 'hiranya-garbha' ritual?",
+      "options": [
+        "A battle formation",
+        "A ritual performed by Dantidurga to become a kshatriya",
+        "A tax on traders",
+        "A type of temple architecture"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'hiranya-garbha' or golden womb ritual was performed by Rashtrakuta chief Dantidurga in the 8th century with brahmanas' help to reborn as a kshatriya, legitimizing his rule despite shudra origins. Many new dynasties used such rituals or claimed divine favor to gain legitimacy. Temples became economic centers with land grants, employing priests and artisans. The Cholas under Rajaraja I and Rajendra I built magnificent temples like Brihadisvara at Thanjavur, with detailed inscriptions on administration, including ur (peasant assemblies), sabha (brahmana assemblies), and nagaram (trader guilds). Chola armies raided Sri Lanka and Southeast Asia, bringing wealth for temple construction."
+    },
+    {
+      "level": 64,
+      "difficulty": "Easy",
+      "question": "Who founded the city of Delhi as a capital?",
+      "options": [
+        "The Cholas",
+        "The Tomaras",
+        "The Mughals",
+        "The British"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tomara Rajputs founded Delhi (Dhillika) in the 12th century as their capital, later ruled by Chauhans. Delhi became significant under Turkish and Afghan rulers from the 13th century. The Delhi Sultans included dynasties like Mamluks (Slave), Khiljis, Tughluqs, Sayyids, and Lodis, ruling from 1206 to 1526. Early sultans like Qutbuddin Aibak built the Quwwat al-Islam mosque and Qutb Minar. Delhi was a commercial and strategic center, with hinterlands providing resources. Sultans controlled routes and collected taxes through iqta system, where muqtis (iqta holders) maintained troops."
+    },
+    {
+      "level": 65,
+      "difficulty": "Easy",
+      "question": "What was the 'three orders' in European society, and how does it compare to Indian society?",
+      "options": [
+        "Priests, warriors, peasants; similar to varnas",
+        "Kings, traders, artisans; different from jatis",
+        "Slaves, nobles, merchants; unrelated",
+        "Monks, knights, serfs; exactly the same"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In medieval Europe, society was divided into three orders: clergy (priests), nobility (warriors), and peasantry, similar to but different from India's varna system. In India, jatis added complexity with occupational groups. Under Delhi Sultans, administration involved bandagan (special slaves for military service), unlike inherited nobility. Raziyya, the only female sultan (1236-1240), faced opposition due to gender norms. Expansion under Alauddin Khalji and Muhammad Tughluq involved garrison towns, coinage reforms, and token currency, leading to revolts."
+    },
+    {
+      "level": 66,
+      "difficulty": "Medium",
+      "question": "Why did Muhammad Tughluq shift the capital to Daulatabad?",
+      "options": [
+        "To escape Mongol invasions and centralize control",
+        "To build a new mosque",
+        "To conquer the south",
+        "To trade with China"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Muhammad Tughluq shifted the capital from Delhi to Daulatabad (Devagiri) in the 14th century to protect against Mongol invasions and better control the Deccan, but the move caused hardship and was reversed. His policies like token currency failed due to counterfeiting. The sultanate expanded to the south but faced rebellions, leading to independent kingdoms like Vijayanagara and Bahmani. Accounts from travelers like Ibn Battuta describe the period's administration, including kharaj (land tax up to 50%), and the role of ulema in governance."
+    },
+    {
+      "level": 67,
+      "difficulty": "Easy",
+      "question": "Who were the Mughals descended from?",
+      "options": [
+        "Genghis Khan and Timur",
+        "Alexander the Great",
+        "Ashoka",
+        "Harsha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Mughals were descendants of Genghis Khan (maternal) and Timur (paternal), who invaded Delhi in 1398. Babur founded the empire in 1526 by defeating Ibrahim Lodi at Panipat, using gunpowder. The empire expanded under Akbar, Jahangir, Shah Jahan, and Aurangzeb, reaching its peak. Mughal administration included mansabdars (rank holders) with zat (personal) and sawar (cavalry) ranks, jagirs for revenue. Akbar's policies like sulh-i kul (universal peace), alliances with Rajputs, and revenue systems by Todar Mal ensured stability."
+    },
+    {
+      "level": 68,
+      "difficulty": "Easy",
+      "question": "What was the Akbarnama?",
+      "options": [
+        "A chronicle of Akbar's reign by Abu'l Fazl",
+        "A Mughal painting",
+        "A tax record",
+        "A military manual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Akbarnama, written by Abu'l Fazl, is a three-volume history of Akbar's reign, portraying him as an ideal ruler with the Ain-i Akbari detailing administration, army, and revenues. Mughal emperors maintained detailed records, with Akbar abolishing jizyah and promoting religious discussions in ibadat khana. The empire's core was the zabt system in northern provinces, assessing crops for taxes. Later, under Shah Jahan, architecture flourished with Taj Mahal, but wars drained resources, leading to peasant revolts."
+    },
+    {
+      "level": 69,
+      "difficulty": "Medium",
+      "question": "How did the Mughals treat defeated rulers?",
+      "options": [
+        "Killed them all",
+        "Treated them as vassals with watan jagirs",
+        "Exiled them",
+        "Made them slaves"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mughals treated defeated rulers as vassals, allowing them to retain kingdoms as watan jagirs if they submitted, like Rajputs under Akbar. This policy integrated diverse groups. By Aurangzeb's time, the empire overextended, facing Maratha, Sikh, Jat, and Satnami revolts. Nadir Shah's 1739 sack of Delhi and Ahmad Shah Abdali's invasions weakened it further, leading to regional states in the 18th century."
+    },
+    {
+      "level": 70,
+      "difficulty": "Easy",
+      "question": "What engineering techniques were used in medieval buildings?",
+      "options": [
+        "Arcuate with arches and domes",
+        "Only trabeate with corbel brackets",
+        "Modern steel frames",
+        "Wooden scaffolds only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Medieval buildings used arcuate technique (arches, domes, keystones) introduced by Turks, and trabeate (corbel brackets, roofs). Limestone cement provided strength for large structures. Temples like Kandariya Mahadeva had shikhara towers, mandapas, and garbhagriha. Sultans built mosques with qibla orientation, mihrab. Gardens (chahar bagh), tombs like Humayun's, and forts showcased power. Shah Jahan's audience halls mimicked mosques, emphasizing kingship."
+    },
+    {
+      "level": 71,
+      "difficulty": "Easy",
+      "question": "What was the Pietra dura technique?",
+      "options": [
+        "Inlay of colored stones in marble",
+        "Painting on walls",
+        "Brick construction",
+        "Wood carving"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pietra dura involved inlaying polished colored stones into marble to create designs, used in Taj Mahal's motifs. Buildings blended Hindu and Islamic elements, like lotus motifs in domes. Sultans like Alauddin Khalji built Siri Fort. In Bengal, brick temples with curved roofs influenced mosques. Gardens symbolized paradise, as in char bagh layouts."
+    },
+    {
+      "level": 72,
+      "difficulty": "Medium",
+      "question": "Why were temples and mosques built?",
+      "options": [
+        "Only for worship",
+        "To demonstrate rulers' power and piety",
+        "For trade",
+        "As homes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rulers built temples and mosques to show devotion and authority, gaining legitimacy. Rajaraja I's Brihadisvara temple had his and sisters' portraits worshipped. Sultans like Alauddin Khalji built Siri Fort. In Bengal, brick temples with curved roofs influenced mosques. Gardens symbolized paradise, as in char bagh layouts."
+    },
+    {
+      "level": 73,
+      "difficulty": "Easy",
+      "question": "What were administrative centers in medieval India?",
+      "options": [
+        "Villages only",
+        "Towns that were also courts and ports",
+        "Forests",
+        "Mountains"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Towns served as administrative centers (e.g., Thanjavur with palace and markets), trade hubs, and religious sites. Thanjavur had the Rajarajeshvara temple, markets for grains, spices, cloth. Artisans like Saliya weavers lived nearby. Pilgrims supported the economy. Other towns included qasbah (small towns) and ganj (markets)."
+    },
+    {
+      "level": 74,
+      "difficulty": "Easy",
+      "question": "Who were the Banjaras?",
+      "options": [
+        "Nomadic traders transporting grains",
+        "Temple priests",
+        "Court poets",
+        "Fort builders"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Banjaras were nomadic traders with ox caravans, supplying armies and trading goods. Trade flourished with craft guilds like panchalas, ports like Surat connecting to Mecca. Hundi (bills of exchange) and sarrafs (bankers) facilitated commerce. Black towns in colonial cities housed Indian artisans."
+    },
+    {
+      "level": 75,
+      "difficulty": "Medium",
+      "question": "What crafts were prominent in medieval towns?",
+      "options": [
+        "Bidri inlay, textiles, metalwork",
+        "Only pottery",
+        "Modern machines",
+        "Plastic goods"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Crafts included Bidri (silver in copper), textiles like chintz, metalwork. Towns like Murshidabad specialized in silk, Dhaka in muslin. Emporia were big markets. European companies monopolized trade, leading to decline of old ports like Surat, rise of Bombay, Calcutta, Madras."
+    },
+    {
+      "level": 76,
+      "difficulty": "Easy",
+      "question": "Who were the Gonds?",
+      "options": [
+        "A tribal community in central India",
+        "Mughal emperors",
+        "Delhi Sultans",
+        "Temple builders"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gonds were a large tribal group in Gondwana, practicing shifting cultivation, divided into clans with garhs (units), ruled by raja. Aman Das (Sangram Shah) expanded power. Tribes like Ahoms in Assam built states, while others remained egalitarian. Mughal pressure led to integration or revolt."
+    },
+    {
+      "level": 77,
+      "difficulty": "Easy",
+      "question": "What was shifting cultivation?",
+      "options": [
+        "Burning forests to clear land for crops",
+        "Permanent farming",
+        "Trading goods",
+        "Building temples"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shifting cultivation involved burning forests, sowing in ashes, then moving after harvests. Tribes like Koragas, Vetars used it. As states expanded, tribes became peasants, paying taxes. Some like Bhils remained hunters, others like Gonds became rulers with administrative systems."
+    },
+    {
+      "level": 78,
+      "difficulty": "Medium",
+      "question": "Who were the Ahoms?",
+      "options": [
+        "Migrants from Burma who built a state in Assam",
+        "Nomads in Rajasthan",
+        "Traders in Bengal",
+        "Priests in Tamil Nadu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ahoms migrated from Myanmar in the 13th century, creating a state by suppressing Bhuiyans, using firearms against Mughals. Society had clans (khels), paiks (forced labor). They adopted Hinduism, Assamese language, chronicled buranjis. Defeated Mughals in 1662 but faced Moamaria revolt."
+    },
+    {
+      "level": 79,
+      "difficulty": "Easy",
+      "question": "What is the idea of bhakti?",
+      "options": [
+        "Devotion to a personal god, accessible to all",
+        "Warrior code",
+        "Tax system",
+        "Trade route"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bhakti emphasized devotion to a chosen deity like Shiva or Vishnu, without elaborate rituals, open to all castes and genders. It emerged in south India with Alvars (Vishnu devotees) and Nayanars (Shiva devotees) from 7th-9th centuries, composing emotional poems. Challenged caste, promoted social harmony."
+    },
+    {
+      "level": 80,
+      "difficulty": "Easy",
+      "question": "Who was Shankaracharya?",
+      "options": [
+        "An Advaita philosopher from Kerala",
+        "A Sufi saint",
+        "A Sikh guru",
+        "A Jain monk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shankaracharya (8th-9th century) from Kerala taught Advaita (oneness of soul and god), influencing bhakti. Other philosophers like Ramanuja emphasized devotion. Bhakti spread north with saints like Kabir, Baba Guru Nanak rejecting rituals, promoting monotheism and equality."
+    },
+    {
+      "level": 81,
+      "difficulty": "Medium",
+      "question": "What were the teachings of Kabir?",
+      "options": [
+        "Rejection of idol worship, caste; devotion to formless god",
+        "Support for varna system",
+        "Warrior ethics",
+        "Trade practices"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kabir (15th century), raised by weavers, criticized orthodoxies, idol worship, caste in dohas and ulatbansi. Influenced by bhakti, Sufism, Nathpanthis. His verses in Bijak, Sakhi Granth. Similar to Ravidas, he promoted devotion to Ram (formless), equality."
+    },
+    {
+      "level": 82,
+      "difficulty": "Easy",
+      "question": "Who founded Sikhism?",
+      "options": [
+        "Baba Guru Nanak",
+        "Kabir",
+        "Tulsidas",
+        "Surdas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Baba Guru Nanak (1469-1539) founded Sikhism, emphasizing worship of one god, guru's importance, rejecting caste. Established langar, sangats. Teachings in Gurmukhi, compiled in Adi Granth by Guru Arjan. Khalsa by Guru Gobind Singh in 1699 resisted Mughal oppression."
+    },
+    {
+      "level": 83,
+      "difficulty": "Easy",
+      "question": "What is Sufism?",
+      "options": [
+        "Mystical Islamic movement seeking union with god",
+        "Hindu devotional path",
+        "Jain asceticism",
+        "Buddhist meditation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sufism sought personal union with god through love, devotion. Organized in silsilas like Chishti, with khanqahs, ziyarat at dargahs. Saints like Khwaja Muinuddin Chishti, Baba Farid. Influenced bhakti, used music (qawwali), simple living. Hospices aided travelers."
+    },
+    {
+      "level": 84,
+      "difficulty": "Medium",
+      "question": "Who was Mirabai?",
+      "options": [
+        "A Rajput princess devoted to Krishna",
+        "A Sufi poet",
+        "A Sikh guru",
+        "A Jain teacher"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mirabai (16th century), Rajput princess, composed bhajans for Krishna, defying norms. Part of bhakti tradition with Tulsidas (Ramcharitmanas), Surdas. Bhakti saints used regional languages, making teachings accessible, challenging priestly dominance."
+    },
+    {
+      "level": 85,
+      "difficulty": "Easy",
+      "question": "How did regional cultures develop?",
+      "options": [
+        "Through migration, mixing of traditions",
+        "Isolation of regions",
+        "Only through kings",
+        "Foreign invasions only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regional cultures evolved from 8th-18th centuries through migrations, intermingling. Local traditions blended with puranic stories, creating distinct languages, dances, paintings. Malayalam emerged in Kerala with Sanskrit influence. Lilatilakam detailed styles."
+    },
+    {
+      "level": 86,
+      "difficulty": "Easy",
+      "question": "What are 'little traditions' and 'great traditions'?",
+      "options": [
+        "Local folk customs vs. puranic Hinduism",
+        "Big vs. small kingdoms",
+        "Old vs. new languages",
+        "Rich vs. poor art"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anthropologists distinguish 'great traditions' (puranic, Sanskritic) from 'little traditions' (local, oral). In regions like Bengal, they merged in stories like Mangalakavyas praising Durga. Jatakas adapted locally."
+    },
+    {
+      "level": 87,
+      "difficulty": "Medium",
+      "question": "What is the Kathak dance form?",
+      "options": [
+        "Evolved from brahmana storytellers, popularized under Mughals",
+        "A southern temple dance",
+        "A folk dance from Bengal",
+        "A martial art"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kathak from 'katha' (story), performed by kathaks in north Indian temples, later in Mughal courts with spins, rhythms. Raslila in Braj combined dance, drama on Krishna. Regional forms like miniature paintings in Rajasthan depicted Radha-Krishna."
+    },
+    {
+      "level": 88,
+      "difficulty": "Easy",
+      "question": "How did Bengali language develop?",
+      "options": [
+        "From Sanskrit, Prakrit, local dialects; influenced by Persian",
+        "From Tamil",
+        "From Arabic only",
+        "Unchanged from ancient times"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bengali evolved from Sanskrit, Prakrit, tribal languages; Persian under Mughals. Literature included translations of Mahabharata, Mangalakavyas. Pirs blended Islamic, local ideas in shrines."
+    },
+    {
+      "level": 89,
+      "difficulty": "Easy",
+      "question": "What were the political formations in the 18th century?",
+      "options": [
+        "Decline of Mughals, rise of regional states",
+        "Rise of Delhi Sultans",
+        "Gupta empire expansion",
+        "British complete control"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the 18th century, Mughal empire declined after Aurangzeb (1707), with governors like Nizam-ul-Mulk becoming independent in Hyderabad. States categorized as watan jagirs (Rajput), governor-led (Awadh, Bengal), new (Maratha, Sikh)."
+    },
+    {
+      "level": 90,
+      "difficulty": "Easy",
+      "question": "Who was Sa'adat Khan?",
+      "options": [
+        "Founder of Awadh state",
+        "Maratha leader",
+        "Sikh guru",
+        "Mughal emperor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sa'adat Khan, burhan-ul-Mulk, founded Awadh by reducing Mughal influence, appointing ijaradars for revenue. Similar in Bengal under Murshid Quli Khan, banking by Jagat Seth. These states prospered with efficient administration."
+    },
+    {
+      "level": 91,
+      "difficulty": "Medium",
+      "question": "How did the Marathas rise?",
+      "options": [
+        "Under Shivaji, using guerrilla warfare against Mughals",
+        "Through trade",
+        "As peaceful farmers",
+        "Allied with British"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shivaji carved Maratha kingdom, crowned 1674. Peshwas like Balaji Vishwanath expanded, collecting chauth, sardeshmukhi. Administration had pradhans, revenue by Nanasaheb Peshwa. Influenced politics in Gujarat, Malwa."
+    },
+    {
+      "level": 92,
+      "difficulty": "Easy",
+      "question": "Who founded the Khalsa?",
+      "options": [
+        "Guru Gobind Singh in 1699",
+        "Guru Nanak",
+        "Banda Bahadur",
+        "Aurangzeb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Guru Gobind Singh founded Khalsa, militarizing Sikhs against Mughals. After his death, Banda Bahadur led revolts. Sikhs organized in jathas, misls under rakhi system. Maharaja Ranjit Singh united them in 1799."
+    },
+    {
+      "level": 93,
+      "difficulty": "Easy",
+      "question": "What role did the Jats play?",
+      "options": [
+        "Controlled areas around Delhi, built forts",
+        "Were sea traders",
+        "Temple priests",
+        "Court musicians"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jats, agrarian, consolidated under Churaman, controlling Agra-Delhi highway. Built Bharatpur fort. Like others, 18th-century states used new social groups, technologies, but faced peasant revolts, invasions by Nadir Shah (1739), Ahmad Shah Abdali."
+    },
+    {
+      "level": 94,
+      "difficulty": "Medium",
+      "question": "What changes occurred in historiography during the medieval period?",
+      "options": [
+        "Shift from Sanskrit to Persian and regional languages",
+        "Only oral traditions",
+        "No changes",
+        "Use of English"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Historians moved from Sanskrit prashastis to Persian chronicles under Mughals, incorporating regional languages. Maps evolved from Arab 'al-Hind' to detailed British surveys. Archives preserved manuscripts despite challenges like copying errors."
+    },
+    {
+      "level": 95,
+      "difficulty": "Hard",
+      "question": "Compare the administration of Cholas and Delhi Sultans.",
+      "options": [
+        "Cholas had local assemblies; Sultans used iqta",
+        "Both used jagirs",
+        "Cholas centralized; Sultans decentralized",
+        "No differences"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cholas had ur, sabha for local governance, detailed inscriptions; Delhi Sultans used iqta for revenue, military service, with central control varying. Both expanded through warfare, built structures for legitimacy."
+    },
+    {
+      "level": 96,
+      "difficulty": "Medium",
+      "question": "How did Islam spread in India?",
+      "options": [
+        "Through Sufis, traders, migrations; not just conquests",
+        "Only by sword",
+        "By British",
+        "Did not spread"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Islam spread via Arab traders in south, Mongol invasions bringing ulema, Sufi hospices attracting converts. Sharia implemented variably; Sufis adapted local customs."
+    },
+    {
+      "level": 97,
+      "difficulty": "Hard",
+      "question": "Analyze the economic impact of temple towns.",
+      "options": [
+        "Centers of craft, trade, banking",
+        "Only religious",
+        "Declined economy",
+        "Military bases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Temple towns like Thanjavur, Somnath attracted pilgrims, supported artisans, weavers, traders. Donations invested in trade, making temples rich bankers."
+    },
+    {
+      "level": 98,
+      "difficulty": "Medium",
+      "question": "What was the role of women in bhakti movements?",
+      "options": [
+        "Active participants like Andal, Karaikkal Ammaiyar, Mirabai",
+        "Excluded",
+        "Only as donors",
+        "Warriors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women saints composed poetry, challenged norms. Alvars included Andal; Nayanars, Karaikkal Ammaiyar. Mirabai defied royalty for devotion."
+    },
+    {
+      "level": 99,
+      "difficulty": "Hard",
+      "question": "How did miniature paintings reflect regional cultures?",
+      "options": [
+        "Basohli bold colors; Mughal realism",
+        "Only religious",
+        "Abstract",
+        "Copied European"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Miniatures evolved regionally: Basohli (Jammu) vibrant; Himachal soft. Mughal atelier produced Akbarnama illustrations, blending Persian, Indian styles."
+    },
+    {
+      "level": 100,
+      "difficulty": "Medium",
+      "question": "What caused the decline of the Mughal empire?",
+      "options": [
+        "Overextension, revolts, invasions",
+        "Natural disasters",
+        "Peaceful times",
+        "Too much wealth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aurangzeb's wars drained treasury; peasant, zamindar revolts; Nadir Shah's sack exposed weakness, leading to independent states."
+    },
+    {
+      "level": 101,
+      "difficulty": "Hard",
+      "question": "Discuss the Tripartite Struggle.",
+      "options": [
+        "Fight for Kanauj among Pratiharas, Palas, Rashtrakutas",
+        "Mughal succession wars",
+        "British-Maratha conflicts",
+        "Temple disputes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "9th-10th centuries, Gurjara-Pratiharas (west), Palas (east), Rashtrakutas (south) battled for Kanauj's resources, strategic position."
+    },
+    {
+      "level": 102,
+      "difficulty": "Medium",
+      "question": "What were the contributions of Rajendra I?",
+      "options": [
+        "Built Gangaikondacholapuram, naval expeditions to Southeast Asia",
+        "Founded Delhi",
+        "Wrote Akbarnama",
+        "Established Khalsa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rajendra I expanded Chola empire overseas, defeating Srivijaya, bringing Ganga water to new capital Gangaikondacholapuram."
+    },
+    {
+      "level": 103,
+      "difficulty": "Hard",
+      "question": "How did the caste system evolve in medieval India?",
+      "options": [
+        "Jatis proliferated based on occupation, rules",
+        "Abolished",
+        "Remained four varnas",
+        "Became flexible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jatis regulated social life; new groups like Rajputs emerged; untouchables faced discrimination."
+    },
+    {
+      "level": 104,
+      "difficulty": "Medium",
+      "question": "What is the significance of the Qutb Minar?",
+      "options": [
+        "Victory tower by Qutbuddin Aibak, architectural marvel",
+        "Tomb",
+        "Temple",
+        "Palace"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Built in 1199, incorporated Indo-Islamic styles, inscriptions in Arabic."
+    },
+    {
+      "level": 105,
+      "difficulty": "Hard",
+      "question": "Analyze the revenue system under Akbar.",
+      "options": [
+        "Zabt, dahsala based on average produce",
+        "Only kharaj",
+        "No taxes",
+        "Random collection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todar Mal's system classified land, fixed cash taxes, efficient collection."
+    },
+    {
+      "level": 106,
+      "difficulty": "Medium",
+      "question": "What were the Sangam poems?",
+      "options": [
+        "Tamil heroic poetry praising chiefs",
+        "Sanskrit Vedas",
+        "Persian chronicles",
+        "Bengali kavyas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Described muvendar chiefs, raids for wealth."
+    },
+    {
+      "level": 107,
+      "difficulty": "Hard",
+      "question": "How did nomads interact with settled societies?",
+      "options": [
+        "Trade, military service, cultural exchange",
+        "Isolation",
+        "Constant war",
+        "No interaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Banjaras traded; pastoralists supplied animals, sometimes raided."
+    },
+    {
+      "level": 108,
+      "difficulty": "Medium",
+      "question": "What is the Virashaiva movement?",
+      "options": [
+        "Lingayat devotion to Shiva, against caste",
+        "Vaishnava bhakti",
+        "Sufi order",
+        "Jain sect"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Led by Basavanna in 12th century Karnataka, emphasized equality, simple worship."
+    },
+    {
+      "level": 109,
+      "difficulty": "Hard",
+      "question": "Discuss the role of pirs in Bengal.",
+      "options": [
+        "Spiritual leaders blending traditions, clearing forests",
+        "Kings",
+        "Traders",
+        "Artists"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pirs had supernatural powers, helped settle agriculture in deltas."
+    },
+    {
+      "level": 110,
+      "difficulty": "Medium",
+      "question": "What was the ijaradari system?",
+      "options": [
+        "Revenue farming in 18th-century states",
+        "Military rank",
+        "Temple grant",
+        "Trade monopoly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contractors paid fixed sum for collection rights, increasing efficiency."
+    },
+    {
+      "level": 111,
+      "difficulty": "Hard",
+      "question": "How did European trading companies operate?",
+      "options": [
+        "Fortified settlements, military force for monopolies",
+        "Peaceful trade",
+        "Allied with Mughals only",
+        "Focused on charity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Portuguese, Dutch, French, English competed, leading to colonial expansion."
+    },
+    {
+      "level": 112,
+      "difficulty": "Medium",
+      "question": "What is the importance of the Chera kingdom in Kerala?",
+      "options": [
+        "Early rulers, Roman trade, Malayalam culture",
+        "Mughal province",
+        "Tribal area",
+        "British colony"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cheras controlled coasts, traded spices, influenced language."
+    },
+    {
+      "level": 113,
+      "difficulty": "Hard",
+      "question": "Analyze the impact of Mongol invasions.",
+      "options": [
+        "Led to defensive measures, cultural exchanges",
+        "No impact",
+        "Destroyed all kingdoms",
+        "Brought peace"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sultans raised armies, built garrisons; introduced technologies."
+    },
+    {
+      "level": 114,
+      "difficulty": "Easy",
+      "chapter": "Tracing Changes Through a Thousand Years",
+      "question": "Why do historians call the period between the 8th and 18th centuries 'medieval'?",
+      "options": [
+        "Because it was a period of peace",
+        "Because it is the middle period between ancient and modern history",
+        "Because kings ruled all countries",
+        "Because nothing changed during this period"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This period is called 'medieval' or the middle ages because it lies between ancient and modern times. It saw significant political, cultural and social developments such as the rise and fall of empires, new religions, and changing societies that shaped the future."
+    },
+    {
+      "level": 115,
+      "difficulty": "Medium",
+      "chapter": "Tracing Changes Through a Thousand Years",
+      "question": "How do coins and inscriptions help historians understand medieval India?",
+      "options": [
+        "They provide unreliable stories",
+        "They give direct information about rulers, economy, and events",
+        "They are useless archaeological finds",
+        "They show only religious beliefs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coins record names of rulers, dates, and economic conditions, while inscriptions describe royal orders, land grants, and important events, giving historians factual evidence to reconstruct history accurately."
+    },
+    {
+      "level": 116,
+      "difficulty": "Easy",
+      "chapter": "New Kings and Kingdoms",
+      "question": "Who were the Samantas in medieval India?",
+      "options": [
+        "Farmers",
+        "Local landlords and warriors who often became independent rulers",
+        "Traders",
+        "Bureaucrats in the Mughal court"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Samantas were powerful local leaders who were initially subordinate to kings but later gained independence, many establishing their own kingdoms, shaping the political landscape of medieval India."
+    },
+    {
+      "level": 117,
+      "difficulty": "Medium",
+      "chapter": "New Kings and Kingdoms",
+      "question": "What kinds of info do the Chola inscriptions provide?",
+      "options": [
+        "Stories and poems",
+        "Details of land grants, tax collection, and royal administration",
+        "Religious myths",
+        "Only military conquests"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chola inscriptions extensively record land grants to temples and people, tax systems, daily governance, helping us understand their efficient administrative systems and economy."
+    },
+    {
+      "level": 118,
+      "difficulty": "Easy",
+      "chapter": "The Delhi Sultans",
+      "question": "What was Delhi's significance under the Delhi Sultanate?",
+      "options": [
+        "A small village",
+        "The powerful capital controlling large parts of India",
+        "A religious pilgrimage site",
+        "A purely military outpost"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Delhi became the political and cultural heart of northern India under the Sultanate, serving as the seat of power, trade hub, and a symbol of Islamic rule."
+    },
+    {
+      "level": 119,
+      "difficulty": "Medium",
+      "chapter": "The Delhi Sultans",
+      "question": "What was the Iqta system?",
+      "options": [
+        "Trade regulation system",
+        "A revenue assignment system giving officials land revenue in exchange for military service",
+        "Religious tax system",
+        "Law enforcement system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Iqta allotted land revenue to nobles and officials instead of paying salary, ensuring soldiers and administrators had financial support for their duties."
+    },
+    {
+      "level": 120,
+      "difficulty": "Easy",
+      "chapter": "The Mughal Empire",
+      "question": "Who established the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Babur, a descendant of Timur and Genghis Khan, founded the Mughal Empire in 1526 after defeating Ibrahim Lodi at the Battle of Panipat."
+    },
+    {
+      "level": 121,
+      "difficulty": "Medium",
+      "chapter": "The Mughal Empire",
+      "question": "How did Akbar strengthen his empire administration?",
+      "options": [
+        "Through local leaders only",
+        "By appointing mansabdars responsible for military and civil tasks",
+        "By isolating the provinces",
+        "By reducing taxes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Akbar introduced the mansabdari system, ranking officials who combined military and administrative powers, centralizing authority and improving control over the empire."
+    },
+    {
+      "level": 122,
+      "difficulty": "Easy",
+      "chapter": "Rulers and Buildings",
+      "question": "What types of buildings did medieval rulers construct to display power?",
+      "options": [
+        "Only houses",
+        "Forts, palaces, mosques, temples, tombs, and tanks",
+        "Libraries only",
+        "Markets"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rulers erected impressive architecture to demonstrate power, serve administrative/religious functions, and stand as legacies, some of which remain today as historic monuments."
+    },
+    {
+      "level": 123,
+      "difficulty": "Medium",
+      "chapter": "Rulers and Buildings",
+      "question": "Why is the Qutb Minar an important monument?",
+      "options": [
+        "It is a religious temple",
+        "It is a tall minaret built to mark victory and show architectural skill",
+        "It was a royal palace",
+        "It is the oldest market place"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Qutb Minar is a 73-meter high tower in Delhi, symbolizing the might of Muslim rule. Built mainly of red sandstone and marble, it features intricate carvings and inscriptions."
+    },
+    {
+      "level": 124,
+      "difficulty": "Hard",
+      "chapter": "Towns, Traders and Craftsperson",
+      "question": "How did towns develop into trade centers in medieval India?",
+      "options": [
+        "Because of religious events only",
+        "Due to growth in agriculture, specialization of crafts, and establishment of trade routes",
+        "Due to continuous wars",
+        "Only by royal decree"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Surplus agricultural production allowed people to specialize in crafts. Towns situated on trade routes grew into important commercial hubs with markets, craftspeople guilds, and traders."
+    },
+    {
+      "level": 125,
+      "difficulty": "Easy",
+      "chapter": "Tribes, Nomads and Settled Communities",
+      "question": "What distinguished settled communities from nomads?",
+      "options": [
+        "Nomads lived in forests; settled communities lived in villages and towns",
+        "Settled communities hunted; nomads farmed",
+        "Nomads were wealthy; settled communities were poor",
+        "No difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nomads moved frequently in search of resources, while settled communities practiced farming and built permanent villages and towns."
+    },
+    {
+      "level": 126,
+      "difficulty": "Medium",
+      "chapter": "Tribes, Nomads and Settled Communities",
+      "question": "Who were the Gonds and Ahoms?",
+      "options": [
+        "Tribal groups who formed their own states and resisted external dominance",
+        "Farmers in the plains",
+        "Merchants",
+        "Religious sects"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Gonds and Ahoms were prominent tribal groups who established kingdoms in central and northeast India respectively, maintaining distinct culture and political identity."
+    },
+    {
+      "level": 127,
+      "difficulty": "Hard",
+      "chapter": "Devotional Paths to the Divine",
+      "question": "How did Bhakti movements impact medieval Indian society?",
+      "options": [
+        "They isolated communities",
+        "They promoted personal devotion beyond caste and rituals",
+        "They ended all religious practices",
+        "They only supported the king"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bhakti saints emphasized direct love and devotion to God, inclusivity, and challenged ritualism and caste discrimination, promoting social reform."
+    },
+    {
+      "level": 128,
+      "difficulty": "Easy",
+      "chapter": "The Making of Regional Cultures",
+      "question": "What are some contributions of regional cultures in medieval India?",
+      "options": [
+        "They ignored literature",
+        "They developed classical dance, music, languages, and literature",
+        "They only copied foreign styles",
+        "They discouraged regional languages"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Regional cultures flourished with unique languages, literary works, musical forms, and classical dances, enriching India’s diverse cultural heritage."
+    },
+    {
+      "level": 129,
+      "difficulty": "Medium",
+      "chapter": "Eighteenth-Century Political Formations",
+      "question": "Which groups rose to prominence in the 18th century?",
+      "options": [
+        "Mughals and Delhi Sultans",
+        "Marathas, Sikhs, Rajputs, and Nawabs of Bengal and Awadh",
+        "British only",
+        "Traders exclusively"
+      ],
+      "correctAnswer": 2,
+      "explanation": "With the decline of the Mughals, regional powers like the Marathas, Sikhs, Rajputs, and Nawabs of Bengal and Awadh asserted greater political and military power."
+    },
+    {
+      "level": 130,
+      "difficulty": "Hard",
+      "chapter": "Eighteenth-Century Political Formations",
+      "question": "How did the Marathas expand their control in the 18th century?",
+      "options": [
+        "Through peaceful negotiations only",
+        "By military campaigns and alliances across central and northern India",
+        "By avoiding conflict",
+        "By relying on the British"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Marathas used skilled warfare, strategic alliances, and rapid movements to expand their empire far beyond their original territories."
+    }
+],
+  "8":[
+     {
+      "level": 1,
+      "difficulty": "Easy",
+      "question": "When did the British East India Company arrive in India?",
+      "options": ["1600", "1650", "1700", "1750"],
+      "correctAnswer": 1,
+      "explanation": "The British East India Company was established in 1600 with a royal charter from Queen Elizabeth I. It initially came to India for trade, particularly in spices, textiles, and other valuable goods. The Company first established a factory at Surat in 1613 and gradually expanded to other coastal areas. What began as a trading venture eventually became political control over India. The Company's transformation from merchants to rulers took place over 150 years through a combination of diplomatic alliances, military victories, and economic manipulation."
+    },
+    {
+      "level": 2,
+      "difficulty": "Easy",
+      "question": "Which European power controlled Indian trade before the British?",
+      "options": ["Dutch", "French", "Portuguese", "Spanish"],
+      "correctAnswer": 3,
+      "explanation": "The Portuguese were the first Europeans to establish direct trade with India, arriving in 1498 when Vasco da Gama reached Calicut. They controlled Indian Ocean trade for over a century through their naval supremacy and established trading posts at Goa (1510), Diu, and Daman. Portuguese introduced new crops like potato, tomato, tobacco, and cashew to India. However, their control declined in the 17th century as Dutch and English companies challenged their monopoly. The Portuguese influence was mainly limited to coastal areas and they never attempted large-scale territorial conquest like later European powers."
+    },
+    {
+      "level": 3,
+      "difficulty": "Easy",
+      "question": "What was the main cause of the Battle of Plassey (1757)?",
+      "options": ["Religious conflict", "Siraj-ud-Daulah's opposition to British fortification", "Trade disputes", "Succession war"],
+      "correctAnswer": 2,
+      "explanation": "The Battle of Plassey (1757) was primarily caused by Siraj-ud-Daulah's opposition to British fortification of Calcutta without his permission. As the new Nawab of Bengal, he demanded that the British stop fortifying their settlements and pay proper taxes. When they refused, he attacked and captured Calcutta. The British, led by Robert Clive, fought back with the help of traitors like Mir Jafar, who was promised the nawabship. The battle was essentially decided by treachery rather than military prowess. This victory gave the British control over Bengal's vast wealth and marked the beginning of British political dominance in India."
+    },
+    {
+      "level": 4,
+      "difficulty": "Easy",
+      "question": "Who was the first Governor-General of India?",
+      "options": ["Robert Clive", "Warren Hastings", "Lord Cornwallis", "Lord Wellesley"],
+      "correctAnswer": 2,
+      "explanation": "Warren Hastings was the first Governor-General of India (1773-1785), appointed under the Regulating Act of 1773. Before this, there were only Governors of different presidencies. Hastings consolidated British power in India, established a centralized administration, and dealt with various challenges including the First Anglo-Maratha War and conflicts in South India. He introduced several administrative reforms including the establishment of civil and criminal courts, standardization of revenue collection, and promotion of Indian languages and culture. Despite controversies and his eventual impeachment trial in Britain, Hastings laid the foundation of British administrative system in India."
+    },
+    {
+      "level": 5,
+      "difficulty": "Medium",
+      "question": "What was the Doctrine of Lapse?",
+      "options": ["Military strategy", "Revenue collection method", "Policy to annex kingdoms without natural heirs", "Trade regulation"],
+      "correctAnswer": 3,
+      "explanation": "The Doctrine of Lapse was an annexation policy introduced by Lord Dalhousie (1848-1856) that stated if an Indian ruler died without a natural heir, his kingdom would 'lapse' to the British and be annexed. This policy ignored the traditional Indian practice of adoption to continue royal lineages. Major kingdoms annexed under this doctrine included Satara (1848), Jaitpur and Sambalpur (1849), Baghat (1850), Udaipur (1852), Jhansi (1853), and Nagpur (1854). The policy created widespread resentment among Indian rulers and was one of the major causes of the 1857 revolt. Rani Lakshmibai of Jhansi became a legendary figure partly because her kingdom was annexed under this policy when she tried to secure succession for her adopted son."
+    },
+    {
+      "level": 6,
+      "difficulty": "Medium",
+      "question": "What were the main causes of the Revolt of 1857?",
+      "options": ["Only the greased cartridges", "Only economic exploitation", "Multiple political, economic, social, and military causes", "Only religious interference"],
+      "correctAnswer": 3,
+      "explanation": "The Revolt of 1857 had multiple interconnected causes: 1) Political: Doctrine of Lapse, annexation policies, dissolution of Mughal court, displacement of rulers, 2) Economic: Heavy taxation, destruction of traditional industries, exploitation of peasants, zamindari system problems, 3) Social: Interference with social customs, abolition of sati and child marriage, Christian missionary activities, 4) Military: Discrimination against Indian sepoys, poor service conditions, lack of promotion opportunities, 5) Religious: Fear of forced conversion, beef and pork fat in cartridges offending both Hindu and Muslim soldiers, 6) Administrative: Racial discrimination, cultural insensitivity, English education imposing Western values. The immediate trigger was the introduction of Enfield rifle cartridges allegedly greased with cow and pig fat, but the underlying causes were much deeper and reflected century-long grievances against British rule."
+    },
+    {
+      "level": 7,
+      "difficulty": "Medium",
+      "question": "Who were the main leaders of the 1857 revolt?",
+      "options": ["Only Bahadur Shah Zafar", "Only Rani Lakshmibai", "Multiple leaders including Bahadur Shah Zafar, Rani Lakshmibai, Tatya Tope, Nana Saheb", "Only Tatya Tope"],
+      "correctAnswer": 3,
+      "explanation": "The 1857 revolt had multiple leaders across different regions: 1) Bahadur Shah Zafar: The last Mughal emperor became the symbolic leader, though reluctantly. Sepoys proclaimed him Emperor of Hindustan, 2) Rani Lakshmibai: Queen of Jhansi, fought valiantly against British annexation, died fighting at Gwalior, became a symbol of resistance, 3) Nana Saheb: Adopted son of Peshwa Baji Rao II, led revolt in Kanpur, protested against stoppage of his pension, 4) Tatya Tope: Brilliant military strategist, Nana Saheb's general, conducted guerrilla warfare, 5) Begum Hazrat Mahal: Regent of Awadh, led resistance in Lucknow after annexation of Awadh, 6) Kunwar Singh: 80-year-old zamindar from Bihar, showed remarkable courage, 7) Khan Bahadur Khan: Led revolt in Rohilkhand. The revolt lacked central coordination but showed remarkable unity across religious and regional lines."
+    },
+    {
+      "level": 8,
+      "difficulty": "Medium",
+      "question": "What changes occurred after 1857 in British policy towards India?",
+      "options": ["No changes", "Only military changes", "Comprehensive administrative, military, and policy changes", "Only economic changes"],
+      "correctAnswer": 3,
+      "explanation": "The Government of India Act 1858 brought comprehensive changes: 1) Administrative: East India Company rule ended, British Crown took direct control, Secretary of State for India appointed in London, Viceroy replaced Governor-General, 2) Military: European troops increased, Indian regiments reduced and reorganized, artillery kept under European control, recruitment from 'martial races' policy, 3) Political: Doctrine of Lapse abandoned, treaties with Indian princes honored, policy of non-interference in religious matters, 4) Social: Less aggressive social reform, respect for Indian customs and traditions, 5) Economic: Infrastructure development prioritized, railways expanded for administrative control, 6) Racial: Though officially equal treatment promised, racial discrimination actually increased. The British learned to rule through collaboration with Indian elites rather than direct confrontation, but maintained firm control through divide and rule policies."
+    },
+    {
+      "level": 9,
+      "difficulty": "Medium",
+      "question": "What was the impact of British rule on Indian agriculture?",
+      "options": ["Agriculture improved significantly", "No significant changes", "Decline due to commercialization and exploitation", "Only technological improvements"],
+      "correctAnswer": 3,
+      "explanation": "British rule severely impacted Indian agriculture: 1) Land Revenue Systems: Permanent Settlement (1793) in Bengal created exploitative zamindari system, Ryotwari system in South India and Mahalwari in North India imposed heavy taxes, 2) Commercialization: Forced cultivation of cash crops (indigo, cotton, opium) for export, reduced food grain production, created dependency on uncertain markets, 3) Peasant Exploitation: High revenue demands led to peasant indebtedness, moneylenders became powerful, land alienation increased, 4) Technological Stagnation: Little investment in agricultural improvement, irrigation facilities neglected, traditional farming methods continued, 5) Economic Impact: Agriculture became subsidiary to British industrial needs, raw material supplier to British factories, 6) Social Consequences: Frequent famines (Bengal 1770, 1943), rural poverty increased, migration to cities, 7) Resistance: Peasant movements like Indigo revolt (1859-60), Deccan riots (1875) emerged. Overall, agriculture was subordinated to colonial economic interests."
+    },
+    {
+      "level": 10,
+      "difficulty": "Hard",
+      "question": "How did the introduction of railways impact Indian society and economy?",
+      "options": ["Only positive impacts", "Only negative impacts", "Mixed impacts with both benefits and exploitation", "No significant impact"],
+      "correctAnswer": 3,
+      "explanation": "Railways had complex, mixed impacts on India: 1) Economic Benefits: Reduced transportation costs, connected markets, facilitated trade, created employment, stimulated iron and coal industries, 2) Economic Exploitation: Built primarily for British commercial and strategic interests, raw materials exported more easily, British goods flooded Indian markets destroying local industries, profits went to British companies, 3) Social Changes: Increased mobility broke down some traditional barriers, pilgrimage became easier, spread of ideas and information accelerated, caste restrictions challenged in railway compartments, 4) Cultural Impact: Standardization of time across India, uniform gauge system, English became lingua franca for railway operations, 5) Political Consequences: Administrative unification, faster movement of troops for control, facilitated nationalist movement by connecting leaders across regions, 6) Negative Effects: Famines spread faster, epidemics traveled quickly, displacement of traditional transport workers (palanquin bearers, boatmen), 7) Strategic Purpose: Railways were designed to serve British imperial interests rather than Indian development needs. While modernizing India, railways primarily served colonial exploitation."
+    },
+    {
+      "level": 11,
+      "difficulty": "Hard",
+      "question": "What was the impact of Western education on Indian society?",
+      "options": ["Completely positive transformation", "No significant changes", "Created new educated class with mixed consequences", "Only religious changes"],
+      "correctAnswer": 3,
+      "explanation": "Western education had profound and complex impacts: 1) Macaulay's Minute (1835): Established English as medium of higher education, aimed to create 'a class of persons Indian in blood and color but English in tastes, opinions, morals and intellect', 2) Positive Effects: Created modern educated middle class, introduced scientific thinking, concepts of liberty, equality, democracy, produced leaders for freedom struggle, women's education promoted, 3) Social Changes: Challenged orthodox practices like sati, child marriage, untouchability, promoted social reform movements, intercaste marriages increased among educated, 4) Cultural Impact: English literature influenced Indian writers, printing press spread knowledge, newspapers emerged, 5) Economic Opportunities: Created employment in government services, law, teaching, medicine, but limited to small elite, 6) Political Awakening: Educated Indians learned about constitutional government, nationalism, human rights, formed organizations like Indian Association, Indian National Congress, 7) Negative Consequences: Created disconnect between educated elite and masses, traditional knowledge systems declined, cultural alienation among some educated Indians. Overall, Western education was a double-edged sword that modernized but also created new forms of cultural dependence."
+    },
+    {
+      "level": 12,
+      "difficulty": "Hard",
+      "question": "What were the main features of the Indian Renaissance?",
+      "options": ["Only religious reforms", "Only social reforms", "Comprehensive social, religious, and cultural awakening", "Only political movements"],
+      "correctAnswer": 3,
+      "explanation": "The Indian Renaissance (19th-early 20th century) was a comprehensive awakening: 1) Social Reform: Leaders like Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar, Dayananda Saraswati fought against sati, child marriage, caste discrimination, promoted widow remarriage, women's education, 2) Religious Reform: Brahmo Samaj (1828) promoted monotheism and rational religion, Arya Samaj (1875) advocated return to Vedic principles, Ramakrishna Mission combined spiritual and social service, 3) Educational Developments: Establishment of modern schools and colleges, promotion of vernacular languages alongside English, scientific thinking encouraged, 4) Literary Renaissance: Bengali, Marathi, Hindi, Tamil literature flourished, printing press revolutionized knowledge dissemination, newspapers emerged, 5) Women's Awakening: Female education promoted, women's rights advocated, first women graduates and doctors emerged, 6) Cultural Pride: Rediscovery of India's ancient heritage, archaeology developed, Indian history rewritten, 7) Political Consciousness: Constitutional methods of protest developed, early political organizations formed, concept of nationalism emerged, 8) Economic Critique: Understanding of colonial economic exploitation, swadeshi idea developed. This renaissance laid intellectual foundations for the freedom struggle."
+    },
+    {
+      "level": 13,
+      "difficulty": "Hard",
+      "question": "Who founded the Indian National Congress and what were its early objectives?",
+      "options": ["Bal Gangadhar Tilak for complete independence", "A.O. Hume for constitutional reforms", "Dadabhai Naoroji for economic development", "Gopal Krishna Gokhale for social reform"],
+      "correctAnswer": 2,
+      "explanation": "The Indian National Congress was founded by Allan Octavian Hume, a retired British civil servant, in December 1885 at Bombay with 72 delegates. Early objectives were: 1) Constitutional Reforms: Greater Indian representation in legislative councils, separation of executive and judiciary, reduction of military expenditure, 2) Economic Demands: Reduction of land revenue, abolition of salt tax, development of indigenous industries, simultaneous ICS examinations in India, 3) Administrative Changes: Indianization of civil services, employment of Indians in higher positions, constitutional government, 4) Civil Rights: Freedom of speech, press, and assembly, trial by jury, equality before law, 5) Moderate Approach: Early leaders like Dadabhai Naoroji, Pherozeshah Mehta, Gopal Krishna Gokhale believed in constitutional agitation, petitions, and gradual reform rather than confrontation. The Congress served as a 'safety valve' theory initially, providing outlet for Indian grievances while maintaining loyalty to British rule. However, it gradually evolved into a mass nationalist movement demanding complete independence."
+    },
+    {
+      "level": 14,
+      "difficulty": "Hard",
+      "question": "What was the difference between Moderates and Extremists in the Congress?",
+      "options": ["No significant differences", "Only methods differed", "Fundamental differences in approach, methods, and objectives", "Only leadership differences"],
+      "correctAnswer": 3,
+      "explanation": "Moderates and Extremists had fundamental differences: MODERATES (1885-1905): 1) Leaders: Dadabhai Naoroji, Gopal Krishna Gokhale, Pherozeshah Mehta, Surendranath Banerjee, 2) Methods: Constitutional agitation, petitions, prayers, speeches, believed in British sense of justice, 3) Objectives: Constitutional reforms, greater representation, not complete independence, 4) Faith: Believed British rule beneficial despite problems, gradual reform possible, 5) Approach: Elite-based movement, English-educated middle class focus. EXTREMISTS (1905-1918): 1) Leaders: Bal Gangadhar Tilak, Lala Lajpat Rai, Bipin Chandra Pal ('Lal-Bal-Pal'), Aurobindo Ghosh, 2) Methods: Mass agitation, boycott, swadeshi, passive resistance, direct action, 3) Objectives: Complete self-rule (Swaraj), not just reforms, 4) Criticism: British rule inherently exploitative, no faith in British intentions, 5) Mass Base: Appealed to common people, used religious symbols, vernacular languages. The split occurred during 1907 Surat session over methods and objectives, but both wings reunited in 1916 through Lucknow Pact."
+    },
+    {
+      "level": 15,
+      "difficulty": "Hard",
+      "question": "What was the Swadeshi Movement and why was it significant?",
+      "options": ["Just economic boycott", "Only political protest", "Comprehensive movement combining economic, political, and cultural nationalism", "Only Bengal movement"],
+      "correctAnswer": 3,
+      "explanation": "The Swadeshi Movement (1905-1911) was triggered by Partition of Bengal but became much broader: 1) Causes: Lord Curzon's partition of Bengal (1905) to divide Hindu-Muslim unity, 'divide and rule' policy, administrative excuse given but political motive clear, 2) Methods: Boycott of British goods, promotion of Indian industries, establishment of swadeshi enterprises, national education system, 3) Leadership: Both moderates and extremists participated, Surendranath Banerjee, Bipin Chandra Pal, Aurobindo Ghosh provided leadership, 4) Mass Participation: Students, women, artisans, peasants joined, truly mass movement, religious songs and symbols used, 5) Economic Impact: British trade suffered, Indian textile mills benefited, new banks and insurance companies established, 6) Cultural Nationalism: Promotion of Bengali language and culture, Rabindranath Tagore wrote patriotic songs, Vande Mataram became rallying cry, 7) Educational Initiatives: National schools and colleges established, Bengal National College founded, technical education promoted, 8) Limitations: Mainly confined to Bengal and educated classes, communal overtones alienated some Muslims, 9) Significance: First mass movement, demonstrated power of economic nationalism, influenced future freedom struggle methods including Gandhi's non-cooperation."
+    },
+    {
+      "level": 16,
+      "difficulty": "Expert",
+      "question": "How did World War I impact the Indian freedom struggle?",
+      "options": ["No significant impact", "Only economic problems", "Accelerated political consciousness and freedom movement", "Only military impact"],
+      "correctAnswer": 3,
+      "explanation": "World War I (1914-1918) dramatically accelerated India's freedom struggle: 1) Economic Impact: Massive war expenditure, forced loans from India, price rise and inflation, shortage of essential goods, economic hardship for common people, 2) Political Awakening: Democratic ideals promoted during war ('making world safe for democracy') raised Indian expectations, contradiction between fighting for freedom abroad while being denied at home, 3) Home Rule Movement: Annie Besant and Bal Gangadhar Tilak launched Home Rule Leagues (1916), demanded self-government, mass meetings and propaganda, 4) Lucknow Pact (1916): Congress-Muslim League unity, joint demands for constitutional reforms, separate electorates accepted by Congress, 5) Revolutionary Activities: Ghadar Party activities, Berlin Committee support, Silk Letter conspiracy, revolutionary nationalism increased, 6) August Declaration (1917): British promised 'gradual development of self-governing institutions' and 'responsible government', raised expectations but was vague, 7) Government of India Act 1919: Montagu-Chelmsford reforms introduced dyarchy, failed to satisfy Indian aspirations, 8) Post-war Disillusionment: Promises unfulfilled, continuation of repressive laws, Rowlatt Act (1919) extended wartime restrictions. The war created conditions for mass movement under Gandhi's leadership."
+    },
+    {
+      "level": 17,
+      "difficulty": "Expert",
+      "question": "What was the Khilafat Movement and how was it connected to Indian freedom struggle?",
+      "options": ["Separate religious movement", "Only Muslim political movement", "Pan-Islamic movement linked with Indian nationalism through Gandhi", "Only international movement"],
+      "correctAnswer": 3,
+      "explanation": "The Khilafat Movement (1919-1924) became crucial for Indian freedom struggle: 1) Background: Ottoman Turkey's defeat in WWI, Allied powers' harsh treatment of Ottoman Caliph (Khalifa), Muslims worldwide felt Islamic solidarity, 2) Indian Context: Indian Muslims led by Ali Brothers (Mohamed Ali and Shaukat Ali), Maulana Abul Kalam Azad, Dr. M.A. Ansari protested against dismemberment of Ottoman Empire, 3) Gandhi's Support: Mahatma Gandhi saw opportunity for Hindu-Muslim unity, supported Khilafat demands despite being Hindu, believed in justice of their cause, 4) Congress Alliance: Congress supported Khilafat movement, joint Hindu-Muslim agitation against British, unified platform for anti-British struggle, 5) Non-Cooperation Link: Khilafat leaders joined Gandhi's Non-Cooperation Movement (1920), mass participation of Muslims, 6) Methods: Non-violent protest, boycott of British goods and institutions, migration to Afghanistan (Hijrat), 7) Decline: Mustafa Kemal Ataturk abolished Caliphate (1924), movement lost relevance, Hindu-Muslim tensions emerged over religious symbols, 8) Significance: Demonstrated potential for Hindu-Muslim unity, brought Muslims into mainstream nationalism, influenced future political alignments. Though it failed, it showed how religious and nationalist sentiments could be combined against colonial rule."
+    },
+    {
+      "level": 18,
+      "difficulty": "Expert",
+      "question": "What were the main features of Gandhi's Non-Cooperation Movement (1920-1922)?",
+      "options": ["Only political protest", "Only economic boycott", "Comprehensive non-violent resistance covering all aspects of colonial rule", "Only educational reform"],
+      "correctAnswer": 3,
+      "explanation": "Gandhi's Non-Cooperation Movement was a comprehensive strategy: 1) Background: Jallianwala Bagh massacre (1919), Rowlatt Act, Khilafat issue, failure of constitutional methods, 2) Philosophy: Satyagraha (truth-force), non-violence (ahimsa), non-cooperation with evil system, self-reliance (swadeshi), 3) Programme: Boycott of government schools, colleges, law courts, legislatures, foreign goods, surrender of titles and honors, resignation from government jobs, 4) Positive Programme: Establishment of national schools, panchayat courts, promotion of hand-spinning (charkha), Hindu-Muslim unity, removal of untouchability, 5) Mass Participation: Students left schools, lawyers gave up practice, people burned foreign cloth, peasants joined in large numbers, 6) Leadership: Gandhi provided moral leadership, Ali Brothers led Muslim participation, Congress organization expanded, 7) Economic Impact: Foreign cloth imports declined, khadi production increased, Indian textile mills benefited, 8) Government Response: Arrests, lathi charges, imprisonment of leaders including Gandhi, 9) Chauri Chaura Incident (1922): Violence by crowd led Gandhi to suspend movement, emphasized commitment to non-violence, 10) Results: Though suspended, it demonstrated mass power, established Gandhi's leadership, showed effectiveness of non-violent resistance, prepared ground for future movements."
+    },
+    {
+      "level": 19,
+      "difficulty": "Expert",
+      "question": "What was the significance of the Salt March (Dandi March) in 1930?",
+      "options": ["Only protested salt tax", "Just symbolic gesture", "Masterpiece of political strategy that launched mass civil disobedience", "Only Gandhi's personal journey"],
+      "correctAnswer": 3,
+      "explanation": "The Salt March (March 12 - April 6, 1930) was a masterpiece of political strategy: 1) Background: Simon Commission boycott (1928), Nehru Report ignored, demand for complete independence (Purna Swaraj) declared January 26, 1930, 2) Strategic Brilliance: Salt chosen because everyone used it, salt tax affected poorest people, simple issue everyone could understand, breaking salt law easy act of defiance, 3) The March: 241-mile journey from Sabarmati Ashram to Dandi, 78 companions started, thousands joined en route, massive media coverage, 4) Symbolism: Represented self-reliance, defiance of unjust law, Gandhi's simple lifestyle, connection with common people, moral authority against political power, 5) Mass Response: Nationwide civil disobedience, salt made illegally across India, millions participated, women joined in large numbers, 6) International Impact: World media covered extensively, Gandhi became global figure, international sympathy for Indian cause, 7) Government Response: Massive arrests (60,000 including Gandhi), brutal suppression, but moral authority shifted to Congress, 8) Results: Gandhi-Irwin Pact (1931), political prisoners released, participation in Round Table Conference, 9) Long-term Significance: Proved effectiveness of non-violent resistance, established Gandhi as undisputed leader, demonstrated mass power of Indian people, influenced future freedom movements worldwide."
+    },
+    {
+      "level": 20,
+      "difficulty": "Expert",
+      "question": "What were the main provisions of the Government of India Act 1935?",
+      "options": ["Complete independence granted", "Only minor reforms", "Most comprehensive constitutional reform introducing provincial autonomy and federal structure", "Only administrative changes"],
+      "correctAnswer": 3,
+      "explanation": "The Government of India Act 1935 was the longest act ever passed by British Parliament: 1) Provincial Autonomy: Dyarchy abolished in provinces, responsible government established, provincial ministers accountable to elected legislatures, governors retained special powers, 2) Federal Structure: All-India Federation proposed including provinces and princely states, federation optional for princes, never implemented due to princely states' refusal, 3) Electoral Reforms: Separate electorates continued, franchise extended to 30 million (from 5 million), direct elections to provincial assemblies, 4) Central Government: Dyarchy introduced at center, defense and foreign affairs reserved for Viceroy, other subjects under Indian ministers, 5) Judicial Changes: Federal Court established, provincial high courts continued, appeal to Privy Council retained, 6) Administrative Features: Civil services reorganized, All-India services continued, detailed administrative procedures specified, 7) Safeguards: Governor and Viceroy had extensive emergency powers, British commercial interests protected, minorities' rights secured, 8) Congress Response: Rejected federal provisions, accepted provincial autonomy reluctantly, formed governments in 8 provinces after 1937 elections, 9) Muslim League Response: Initially accepted, later demanded separate nation, 10) Significance: Largest constitutional reform before independence, provided experience of responsible government, demonstrated Indian administrative capacity, but fell short of nationalist aspirations."
+    },
+    {
+      "level": 21,
+      "difficulty": "Expert",
+      "question": "How did the Quit India Movement (1942) differ from earlier movements?",
+      "options": ["No significant differences", "Only violent methods used", "Most militant and widespread mass movement with do-or-die spirit", "Only urban movement"],
+      "correctAnswer": 3,
+      "explanation": "The Quit India Movement (August 1942) was uniquely militant and widespread: 1) Background: Failure of Cripps Mission (1942), World War II crisis, Japanese advance toward India, Congress demand for immediate independence, 2) Gandhi's Call: 'Do or Die' slogan, immediate British withdrawal demanded, most radical position ever taken by Gandhi, 3) Unique Features: Leaderless resistance after mass arrests, spontaneous uprisings across India, ordinary people took initiative, underground activities, 4) Methods: Initially non-violent but became violent, railway lines cut, telegraph wires severed, government buildings attacked, parallel governments established, 5) Mass Participation: Students, peasants, workers, women participated massively, urban and rural areas both affected, youth leadership emerged, 6) Government Response: Brutal suppression, shoot-at-sight orders, military action, Congress banned, all top leaders arrested immediately, 7) Underground Activities: Ram Manohar Lohia, Aruna Asaf Ali, Jayaprakash Narayan led underground resistance, secret radio broadcasts, pamphlet distribution, 8) Regional Variations: Particularly strong in Bihar, UP, Bengal, Maharashtra, parallel governments in Satara, Tamluk, Ballia, 9) International Context: Wartime situation, Allied powers' dilemma, American pressure on Britain, 10) Results: Though crushed militarily, proved Indian determination, convinced British of unsustainability of rule, accelerated independence process, demonstrated that colonial rule could only continue through massive coercion."
+    },
+    {
+      "level": 22,
+      "difficulty": "Expert",
+      "question": "What were the main causes of the partition of India in 1947?",
+      "options": ["Only religious differences", "Only British conspiracy", "Complex interaction of communal politics, colonial policies, and leadership decisions", "Only economic reasons"],
+      "correctAnswer": 3,
+      "explanation": "Partition resulted from complex factors: 1) Communal Politics: Two-nation theory by Muslim League, Hindu-Muslim tensions, separate electorates since 1909, communal riots, 2) British Policies: Divide and rule, separate electorates, encouragement of communal organizations, different treatment of communities, 3) Leadership Issues: Jinnah's rigid stance, Congress's rejection of Cabinet Mission Plan, failure to accommodate Muslim concerns, personal ambitions, 4) Historical Background: Medieval conflicts remembered, colonial interpretation of history, religious differences politicized, 5) Economic Competition: Muslim middle class fears of Hindu domination, job competition, business rivalries, 6) Political Miscalculations: Congress acceptance of partition to get quick independence, underestimation of partition's consequences, 7) International Context: Post-war British weakness, American pressure for decolonization, Cold War beginning, 8) Immediate Triggers: Direct Action Day (1946), communal riots, breakdown of law and order, failure of interim government, 9) Mass Psychology: Fear and mistrust between communities, propaganda effects, regional variations in communal relations, 10) Role of Extremists: Hindu Mahasabha, RSS on one side, Muslim League's militant wing on other, moderate voices marginalized. Partition was not inevitable but resulted from political failures and communal mobilization."
+    },
+    {
+      "level": 23,
+      "difficulty": "Expert",
+      "question": "What was the role of Subhas Chandra Bose and the Indian National Army in the freedom struggle?",
+      "options": ["Minor role in independence", "Only military contribution", "Significant impact through armed resistance and international diplomacy", "Only symbolic importance"],
+      "correctAnswer": 3,
+      "explanation": "Subhas Chandra Bose and INA played crucial roles: 1) Background: Bose's differences with Congress over methods, belief in armed resistance, resignation from Congress presidency (1939), 2) International Efforts: Escape to Germany (1941), meetings with Hitler, Japanese alliance for Indian independence, 3) INA Formation: Reorganized INA from Indian POWs in Southeast Asia, 'Chalo Delhi' slogan, recruited Indians in Malaya, Singapore, Burma, 4) Military Campaign: Fought alongside Japanese in Burma, advanced to Manipur, siege of Imphal and Kohima, faced logistics problems, 5) Political Significance: Provisional Government of Free India (Azad Hind) proclaimed, international recognition by Axis powers, parallel diplomatic efforts, 6) Mass Appeal: 'Netaji' became popular title, inspired millions, showed alternative to non-violence, 7) Women's Regiment: Rani of Jhansi Regiment formed, women's participation in armed struggle, 8) INA Trials (1945-46): British trial of INA officers created massive public sympathy, nationwide protests, demonstrated changing loyalty of Indian soldiers, 9) Impact on Armed Forces: Royal Indian Navy mutiny (1946), Indian Air Force unrest, British realized they couldn't depend on Indian military, 10) Historical Assessment: Though militarily unsuccessful, politically significant, contributed to British decision to leave, demonstrated Indian capacity for armed resistance, influenced post-independence military thinking."
+    },
+    {
+      "level": 24,
+      "difficulty": "Easy",
+      "question": "In his book 'A History of British India', how did James Mill periodise Indian history?",
+      "options": [
+        "Ancient, Medieval, Modern",
+        "Stone Age, Bronze Age, Iron Age",
+        "Hindu, Muslim, British",
+        "Pre-colonial, Colonial, Post-colonial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "James Mill, a Scottish economist and political philosopher, divided Indian history into three periods: **Hindu, Muslim, and British**. This periodisation is highly problematic because it suggests that religion was the main driving force of history and that a single religion defined entire eras. It ignored the vast diversity of the subcontinent and was used to justify British rule by portraying the pre-British periods as 'dark' and despotic, with Britain as the force of 'civilization' and progress. The more accepted periodisation today is Ancient, Medieval, and Modern, which is based on broader societal, economic, and political changes."
+    },
+    {
+      "level": 25,
+      "difficulty": "Medium",
+      "question": "What was the system of 'Subsidiary Alliance' introduced by Lord Wellesley?",
+      "options": [
+        "A military pact between Indian rulers to fight the British",
+        "An agreement where Indian rulers had to pay a subsidy for British exports",
+        "A treaty where Indian rulers disbanded their armies and accepted British forces in their territory, paying for their maintenance",
+        "A system of collecting revenue through a subsidiary company"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The **Subsidiary Alliance** was a key policy used by the British to expand their empire without direct warfare. Under this system, an Indian ruler had to: 1) Accept British forces (a 'subsidiary' force) within their territory. 2) Pay for the maintenance of these forces. 3) Have a British official called a 'Resident' at their court. 4) Expel all other Europeans from their service. In return, the British promised to protect them from external attacks. However, if the ruler failed to make the payment, a part of their territory was taken away. This system effectively stripped Indian rulers of their sovereignty, military power, and independence. Hyderabad was the first state to accept it."
+    },
+    {
+      "level": 26,
+      "difficulty": "Hard",
+      "question": "What was the primary difference between the Ryotwari and Mahalwari systems of land revenue?",
+      "options": [
+        "Ryotwari was in the North, Mahalwari was in the South",
+        "In the Ryotwari system, the settlement was made directly with the cultivators (ryots), while in the Mahalwari system, it was made with the village community (mahal)",
+        "The Ryotwari tax rate was fixed permanently, while the Mahalwari rate was revised periodically",
+        "The Ryotwari system was collected in cash, while the Mahalwari system was collected in kind"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both were major land revenue systems introduced by the British. The key difference lay in who the settlement was made with. \n**Ryotwari System:** Introduced by Thomas Munro in South India, the settlement was made directly with the **ryots** (cultivators). The revenue was based on the potential of the soil and was revised periodically. This system aimed to remove intermediaries (zamindars).\n**Mahalwari System:** Devised by Holt Mackenzie and introduced in the North-Western Provinces (parts of modern UP, Punjab), the revenue settlement was made with the entire village community, known as the **mahal**. The village headman was responsible for collecting the revenue from all the farmers and paying it to the Company. The revenue demand was also revised periodically."
+    },
+    {
+      "level": 27,
+      "difficulty": "Medium",
+      "question": "The 'Doctrine of Lapse' was a policy of annexation associated with which Governor-General?",
+      "options": ["Lord Cornwallis", "Lord Wellesley", "Lord Dalhousie", "Lord Curzon"],
+      "correctAnswer": 3,
+      "explanation": "The **Doctrine of Lapse** is most famously associated with **Lord Dalhousie**. According to this policy, if an Indian ruler of a dependent state died without a natural male heir, his kingdom would 'lapse,' meaning it would be annexed by the British. The long-standing Indian tradition of adopting an heir was not recognized by the British under this doctrine. It was seen as an illegitimate policy of annexation and created widespread resentment among Indian rulers. Several important kingdoms were annexed using this doctrine, including **Satara (1848), Sambalpur (1850), Nagpur (1853), and Jhansi (1854)**."
+    },
+    {
+      "level": 28,
+      "difficulty": "Easy",
+      "question": "The 'Blue Rebellion' (Neel Vidroh) of 1859 in Bengal was a revolt by cultivators against whom?",
+      "options": [
+        "British tax collectors",
+        "Local zamindars",
+        "Indigo planters",
+        "Moneylenders"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 'Blue Rebellion' was a large-scale peasant uprising in Bengal against the oppressive system of **indigo cultivation**. British planters forced peasants (ryots) to sign contracts and take cash advances to grow indigo on their best lands, where the peasants would have preferred to grow rice. The price paid for the indigo was extremely low, and the ryots were trapped in a cycle of debt. In March 1859, thousands of ryots refused to grow indigo, attacked indigo factories, and fought with the planters' agents. The rebellion was so widespread that the government had to set up the Indigo Commission, which found the planters guilty and ultimately led to the collapse of indigo production in Bengal."
+    },
+    {
+      "level": 29,
+      "difficulty": "Medium",
+      "question": "What was the main goal of the movement led by Birsa Munda in the Chotanagpur region?",
+      "options": [
+        "To demand a separate state for the Munda tribe",
+        "To drive out missionaries, moneylenders, Hindu landlords, and the government, and set up a Munda Raj",
+        "To negotiate for better prices for forest produce",
+        "To demand reservations in government jobs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Birsa Munda movement (Ulgulan or 'Great Tumult') was a powerful tribal rebellion against the injustices faced by the Munda people. The British forest laws had restricted their traditional rights, and they were exploited by outsiders whom they called **'dikus'** (moneylenders, traders, landlords). Birsa Munda urged his followers to purify themselves, give up superstitious practices, and fight to establish a **Munda Raj** with him as its head. The movement used both religious and political language to mobilize people and aimed to drive out all external forces to reclaim their lost golden age and sovereignty."
+    },
+    {
+      "level": 30,
+      "difficulty": "Hard",
+      "question": "What was the immediate consequence of the Revolt of 1857 for the governance of India?",
+      "options": [
+        "The British decided to leave India immediately",
+        "The powers of the East India Company were transferred to the British Crown",
+        "All Indian soldiers were removed from the army",
+        "The Mughal dynasty was restored to full power"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Revolt of 1857 was a major turning point. Although it was suppressed, it shook the foundations of British rule and demonstrated the failures of the East India Company's administration. The immediate and most significant consequence was the **Government of India Act of 1858**. Through this act, the British Parliament abolished the East India Company and **transferred all powers of governance directly to the British Crown**. A member of the British Cabinet, the Secretary of State for India, was appointed to manage Indian affairs, assisted by a council. The Governor-General was given the new title of Viceroy, a personal representative of the Crown."
+    },
+    {
+      "level": 31,
+      "difficulty": "Medium",
+      "question": "What was the main argument of the 'Anglicists', like Thomas Macaulay, in the debate on education for India?",
+      "options": [
+        "That Indians should be educated in Sanskrit and Persian to preserve their ancient culture",
+        "That education should focus on practical vocational skills",
+        "That Indians should be educated in English and taught Western science and literature",
+        "That education was not necessary for Indians at all"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 19th-century education debate was between two groups: the **Orientalists**, who believed in promoting traditional Indian learning in languages like Sanskrit and Persian, and the **Anglicists**, who argued for a Western education through the medium of English. **Thomas Macaulay** was the most forceful proponent of the Anglicist view. In his famous 'Minute on Indian Education' (1835), he argued that 'a single shelf of a good European library was worth the whole native literature of India and Arabia.' His vision was to create a class of Indians who were 'Indian in blood and colour, but English in taste, in opinions, in morals, and in intellect' to serve as intermediaries for the British administration. His view prevailed, shaping British education policy for decades."
+    },
+    {
+      "level": 32,
+      "difficulty": "Easy",
+      "question": "Raja Rammohun Roy founded which reform association in 1828?",
+      "options": ["Arya Samaj", "Brahmo Sabha (later Brahmo Samaj)", "Ramakrishna Mission", "Theosophical Society"],
+      "correctAnswer": 2,
+      "explanation": "Raja Rammohun Roy, often called the 'Father of the Indian Renaissance', founded the **Brahmo Sabha** in Calcutta, which was later known as the **Brahmo Samaj**. This organization was at the forefront of social and religious reform. It propagated monotheism (worship of one God) and condemned practices like idol worship, caste discrimination, and meaningless rituals. Rammohun Roy's most famous campaign was against the practice of **Sati**, and his efforts led to its abolition by law in 1829 under Governor-General William Bentinck."
+    },
+    {
+      "level": 33,
+      "difficulty": "Medium",
+      "question": "What was the primary objective behind the British Partition of Bengal in 1905 under Lord Curzon?",
+      "options": [
+        "To improve administrative efficiency in the large province of Bengal",
+        "To separate the Bengali-speaking population for cultural preservation",
+        "To weaken the growing nationalist movement by dividing Hindus and Muslims",
+        "To create a new province for the development of industries"
+      ],
+      "correctAnswer": 3,
+      "explanation": "While the stated reason for the Partition of Bengal was **administrative convenience**, the real motive was political. Bengal was the nerve center of Indian nationalism at the time. Lord Curzon's government intended to **weaken this movement by dividing the province on religious lines**. The plan was to separate the largely Muslim-populated eastern part from the Hindu-populated western part. The British hoped this 'divide and rule' policy would break the unity of the Bengali people and curb nationalist activities. However, the move backfired spectacularly, leading to the massive **Swadeshi Movement** and uniting the country in protest."
+    },
+    {
+      "level": 34,
+      "difficulty": "Hard",
+      "question": "What did the 'Swadeshi' movement, which emerged after the Partition of Bengal, primarily emphasize?",
+      "options": [
+        "Demanding immediate and absolute independence from Britain",
+        "Boycotting British goods and institutions, and promoting self-reliance through Indian goods and national education",
+        "Sending petitions and prayers to the British government to reconsider the partition",
+        "Organizing secret revolutionary societies to assassinate British officials"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Swadeshi movement was a multifaceted response to the Partition of Bengal. The word 'Swadeshi' literally means 'of one's own country'. The core strategy was the **boycott of British-made goods**, such as Manchester cloth and Liverpool salt, and the promotion of **Swadeshi goods** (Indian-made products). This economic boycott was a direct attack on British commercial interests. Beyond economics, the movement also advocated for the boycott of British institutions like schools, colleges, and courts, and the promotion of **national education** and indigenous institutions. It was a major leap in the Indian national movement, introducing new methods of mass mobilization and protest."
+    },
+    {
+      "level": 35,
+      "difficulty": "Easy",
+      "question": "The historic Dandi March led by Mahatma Gandhi in 1930 was the start of which major movement?",
+      "options": [
+        "Non-Cooperation Movement",
+        "Quit India Movement",
+        "Civil Disobedience Movement",
+        "Khilafat Movement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Dandi March marked the beginning of the **Civil Disobedience Movement**. Gandhi and 78 of his followers marched over 240 miles from his Sabarmati Ashram to the coastal town of Dandi. There, he symbolically broke the British Salt Law by manufacturing salt from seawater. This law gave the state a monopoly on salt manufacturing and sales, making it a powerful symbol of colonial oppression as salt was an essential item for everyone. The act of breaking the law was a signal for the entire country to defy unjust colonial laws, launching a nationwide movement of civil disobedience."
+    },
+    {
+      "level": 36,
+      "difficulty": "Medium",
+      "question": "Who founded the 'Satyashodhak Samaj' and what was its main objective?",
+      "options": [
+        "B.R. Ambedkar, to demand temple entry for Dalits",
+        "E.V. Ramasamy Naicker, to fight for the rights of 'untouchables'",
+        "Jyotirao Phule, to propagate caste equality and fight against the domination of Brahmanas",
+        "Swami Vivekananda, to spread the message of Vedanta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Jyotirao Phule**, a prominent social reformer from Maharashtra, founded the **Satyashodhak Samaj** (Society of Truth Seekers) in 1873. Its primary objective was to achieve social justice for the marginalized sections of society, particularly the 'low castes'. Phule argued against the supremacy of the Brahmanas and the entire caste system, which he saw as a tool of oppression. The Samaj fought for the rights of the poor and lower castes and promoted education, especially for girls, for whom Phule and his wife Savitribai Phule started the first school in India."
+    },
+    {
+      "level": 37,
+      "difficulty": "Hard",
+      "question": "What was the main purpose of the Cabinet Mission that came to India in 1946?",
+      "options": [
+        "To investigate the Jallianwala Bagh massacre",
+        "To discuss the terms for the transfer of power from British to Indian hands and suggest a framework for a future constitution",
+        "To divide India into two separate dominions, India and Pakistan",
+        "To negotiate a trade deal between Britain and post-independence India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The **Cabinet Mission** was a high-powered mission sent to India by the British government after World War II. Its main purpose was to **negotiate the transfer of power** to a united India and to help the Indian leaders agree upon a framework for a new constitution. The Mission rejected the demand for a full-fledged Pakistan but proposed a complex three-tiered federal structure to accommodate the demands of the Muslim League for regional autonomy. While its proposals were initially accepted and then rejected by the major parties (Congress and the Muslim League), its recommendation to form a Constituent Assembly to draft the constitution was implemented, laying the groundwork for India's future."
+    },
+    {
+      "level": 38,
+      "difficulty": "Medium",
+      "question": "Immediately after independence, what was the most urgent and massive challenge faced by the newly formed Government of India?",
+      "options": [
+        "Writing a new constitution",
+        "The coming of nearly eight million refugees from Pakistan",
+        "Planning for industrial development",
+        "Integrating the princely states into the Indian Union"
+      ],
+      "correctAnswer": 2,
+      "explanation": "While all the options were significant challenges, the most immediate, massive, and heart-wrenching problem was the **refugee crisis** caused by the Partition. The division of the country into India and Pakistan led to one of the largest and most violent migrations in human history. Nearly **eight million refugees** poured into India from what was now Pakistan. These people were homeless, had lost everything, and were often victims of brutal violence. Providing them with shelter, food, and jobs was an enormous and urgent task for the nascent Indian government."
+    },
+    {
+      "level": 39,
+      "difficulty": "Easy",
+      "question": "How do historians divide history into periods?",
+      "options": [
+        "Ancient, Medieval, Modern",
+        "Hindu, Muslim, British",
+        "Prehistoric, Historic, Contemporary",
+        "Stone Age, Bronze Age, Iron Age"
+      ],
+      "correctAnswer": 2,
+      "explanation": "James Mill, a Scottish economist and political philosopher, divided Indian history into three periods: Hindu, Muslim, and British in his book 'A History of British India' published in 1817. This periodisation was based on the religious identity of rulers, suggesting that before British rule, India was dominated by superstition and religious intolerance under Hindu and Muslim 'despots'. However, this view has been criticized because it ignores the diversity of rulers and societies, and the fact that all Asian societies were seen as backward compared to Europe. Modern historians prefer to use Ancient, Medieval, and Modern periods, focusing on economic and social changes rather than religion. The chapter 'How, When and Where' emphasizes that history is not just about rulers but about changes in society, economy, technology, and ideas over time. Important dates help organize events, but the choice of dates reflects what historians consider significant, like 1857 for the Revolt or 1947 for Independence."
+    },
+    {
+      "level": 40,
+      "difficulty": "Easy",
+      "question": "What are the main sources used by historians to study the modern period?",
+      "options": [
+        "Only ancient inscriptions",
+        "Official records, surveys, newspapers, diaries",
+        "Only oral traditions",
+        "Cave paintings and tools"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the modern period, historians rely on abundant official records preserved by British administrators in archives and museums, such as memos, letters, and reports from governorships like Bengal and Bombay. The British conducted surveys like census operations from the late 19th century, botanical, zoological, archaeological, and forest surveys to map and administer the territory. Newspapers, books, diaries, letters, and autobiographies of leaders like Jawaharlal Nehru and Mahatma Gandhi provide personal insights. These sources help understand not just what happened but why, including the perspectives of ordinary people. However, official records reflect the British viewpoint, often ignoring Indian opinions, so historians cross-reference with other sources like tribal oral histories to get a fuller picture."
+    },
+    {
+      "level": 41,
+      "difficulty": "Easy",
+      "question": "Why did the British preserve official documents?",
+      "options": [
+        "For entertainment",
+        "To administer and plan effectively",
+        "To decorate museums",
+        "To teach history in schools"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The British believed writing reports and preserving documents was essential for effective administration and planning. They set up record rooms in offices, established archives and museums to store important papers. For example, the National Archives of India holds records from the 18th century onwards. This practice stemmed from the idea that all instructions and decisions needed to be documented for reference and debate. Calligraphists copied documents beautifully before printing became common. This abundance of records allows historians to study colonial policies in detail, though they must be cautious of biases in these records."
+    },
+    {
+      "level": 42,
+      "difficulty": "Medium",
+      "question": "What was the significance of surveys conducted by the British?",
+      "options": [
+        "To entertain the public",
+        "To map the country, know the soil, crops, flora, fauna",
+        "To build temples",
+        "To promote Indian industries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Surveys were crucial for British administration to understand and control their territory. Revenue surveys in villages from the early 19th century detailed topography, soil quality, flora, fauna, crops, and local histories to fix revenue. The Geological Survey of India started in 1855, Botanical Survey documented plants, Zoological Survey classified animals, and Archaeological Survey preserved monuments. The census from 1871, conducted every ten years, recorded caste, religion, and occupation to understand population changes. These surveys provided data for policies but also reflected British interests in exploitation and classification."
+    },
+    {
+      "level": 43,
+      "difficulty": "Easy",
+      "question": "Who was Robert Clive?",
+      "options": [
+        "A historian",
+        "Governor General who fought battles against Sirajuddaulah and established Company power",
+        "An Indian nationalist",
+        "A French general"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Robert Clive was a British general who led the East India Company forces to victory in the Battle of Plassey in 1757 against Nawab Sirajuddaulah of Bengal, marking the beginning of British political control in India. He became Governor of Bengal and was tried in Britain for corruption but committed suicide in 1774. His actions exemplify how the Company transitioned from trade to territory through military conquests, alliances, and manipulations like using Mir Jafar as a puppet nawab."
+    },
+    {
+      "level": 44,
+      "difficulty": "Easy",
+      "question": "What was the main reason for the East India Company's interest in India?",
+      "options": [
+        "To spread Christianity",
+        "To buy spices, cotton, silk at cheap prices and sell at high prices in Europe",
+        "To build schools",
+        "To promote agriculture"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The East India Company, formed in 1600 with a royal charter for monopoly trade, was attracted to India for fine cotton, silk, spices like pepper, cloves, cardamom, and cinnamon, which fetched high profits in Europe. Initially trading from Masulipatnam and later Surat, Bombay, Madras, and Calcutta, the Company faced competition from Portuguese, Dutch, and French companies. By the 18th century, as Mughal power declined, the Company used trade profits to finance armies and forts, eventually establishing political control through wars and subsidiary alliances."
+    },
+    {
+      "level": 45,
+      "difficulty": "Medium",
+      "question": "What was the Subsidiary Alliance system?",
+      "options": [
+        "A trade agreement",
+        "Indian rulers had to pay for British troops, disband their armies, allow Company residents in capitals",
+        "A marriage alliance",
+        "An educational policy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Introduced by Lord Wellesley (1798-1805), the Subsidiary Alliance forced Indian rulers like the Nizam of Hyderabad and Awadh to pay for British troops' maintenance, disband their own armies, and accept British residents in their courts who interfered in internal affairs. Non-compliance led to annexation. This system expanded British control without direct administration costs, leading to territories like Punjab, Awadh, and Jhansi being annexed under various pretexts like Doctrine of Lapse by Dalhousie."
+    },
+    {
+      "level": 46,
+      "difficulty": "Easy",
+      "question": "Who was Tipu Sultan?",
+      "options": [
+        "The Tiger of Mysore who fought four wars against the British",
+        "A Mughal emperor",
+        "A Company official",
+        "A peasant leader"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tipu Sultan, ruler of Mysore (1782-1799), known as the Tiger of Mysore, modernized his army with French help, promoted silk cultivation, and fought four Anglo-Mysore wars. He died in the fourth war in 1799 at Seringapatam. His resistance symbolized early opposition to British expansion, and after his defeat, Mysore was placed under a subsidiary alliance with a puppet ruler."
+    },
+    {
+      "level": 47,
+      "difficulty": "Easy",
+      "question": "What was the Doctrine of Lapse?",
+      "options": [
+        "A policy to annex states without natural heirs",
+        "A trade policy",
+        "An education policy",
+        "A military strategy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Devised by Lord Dalhousie (1848-1856), the Doctrine of Lapse stated that if an Indian ruler died without a natural heir, his kingdom would lapse to the Company. Adopted heirs were not recognized. This led to annexations of Satara (1848), Sambalpur (1850), Udaipur (1852), Nagpur (1853), Jhansi (1854), and Awadh (1856) on grounds of misgovernment. It caused resentment among Indian rulers and contributed to the 1857 Revolt."
+    },
+    {
+      "level": 48,
+      "difficulty": "Medium",
+      "question": "How did the East India Company become the Diwan of Bengal?",
+      "options": [
+        "By winning elections",
+        "After Battle of Buxar in 1764, Mughal emperor appointed them Diwan, giving revenue collection rights",
+        "Through marriage",
+        "By buying land"
+      ],
+      "correctAnswer": 2,
+      "explanation": "After defeating the combined forces of Mughal emperor Shah Alam II, Nawab of Bengal Mir Qasim, and Nawab of Awadh at Buxar in 1764, the Company forced the Mughal emperor to appoint them as Diwan of Bengal in 1765. This gave them revenue collection rights without administrative responsibilities initially, leading to exploitation as Company officials amassed fortunes through private trade and bribes, causing revenue shortfalls and famine in 1770 where one-third of Bengal's population died."
+    },
+    {
+      "level": 49,
+      "difficulty": "Easy",
+      "question": "What was the Permanent Settlement?",
+      "options": [
+        "Introduced by Cornwallis in 1793, fixed revenue for zamindars who became owners",
+        "A temporary revenue system",
+        "A military settlement",
+        "An education system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Permanent Settlement of 1793 by Lord Cornwallis recognized zamindars as landowners with fixed revenue demands, encouraging improvements but often leading to high demands, evictions of peasants, and zamindars losing lands if unable to pay. It aimed to create a class loyal to British but resulted in rural exploitation and revolts. In south India, ryotwari settlement collected directly from ryots (peasants), and mahalwari in north from villages."
+    },
+    {
+      "level": 50,
+      "difficulty": "Easy",
+      "question": "Why was indigo cultivation problematic for Indian peasants?",
+      "options": [
+        "It enriched them",
+        "It exhausted soil, low pay, cycle of loans, clashed with food crops",
+        "It was easy to grow",
+        "British supported peasants"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Indigo, used for blue dye, was demanded by British for European markets. Under nij (planter's land) and ryoti (peasant's land) systems, peasants received low prices, advances leading to debt, and the crop depleted soil nutrients, making it hard to grow food crops afterward. Planters used force, leading to the Indigo Revolt of 1859-60 in Bengal where ryots refused to plant, attacked factories, and won support from intellectuals, forcing the government to investigate."
+    },
+    {
+      "level": 51,
+      "difficulty": "Medium",
+      "question": "What was the Mahalwari system?",
+      "options": [
+        "Revenue collected from mahals (villages) by village headmen",
+        "Direct from individuals",
+        "Fixed for zamindars",
+        "For indigo only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Introduced in 1822 in parts of Uttar Pradesh, Madhya Pradesh, Punjab, the mahalwari system assessed revenue on mahals (groups of villages), collected by village headmen or landlords. It was revisable periodically, unlike permanent settlement. Holt Mackenzie devised it to respect village communities, but high demands led to peasant hardships, empty villages, and revolts. It reflected British attempts to maximize revenue while understanding Indian agrarian structures."
+    },
+    {
+      "level": 52,
+      "difficulty": "Easy",
+      "question": "Who were the Santhals?",
+      "options": [
+        "Tribal group in Jharkhand who revolted in 1855 against dikus",
+        "British officials",
+        "Zamindars in Bengal",
+        "Weavers in Gujarat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Santhals, originally from Bengal, settled in Rajmahal Hills (now Jharkhand) in the 1780s, practicing shifting cultivation. As forests were cleared for timber and land taken by zamindars and moneylenders (dikus - outsiders), they faced high rents and debts. In 1855-56, led by Sidhu and Kanhu, they revolted, declaring self-rule, killing moneylenders and police. Suppressed brutally, but led to Santhal Pargana creation with protective laws."
+    },
+    {
+      "level": 53,
+      "difficulty": "Easy",
+      "question": "What was Birsa Munda's vision?",
+      "options": [
+        "A golden age where Mundas owned land, no dikus",
+        "British rule",
+        "Industrialization",
+        "Urban migration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Birsa Munda (1875-1900), a Munda tribal leader in Chhotanagpur, envisioned a satyug (golden age) free from dikus (outsiders like moneylenders, traders, missionaries, British officials) where Mundas would regain their lands lost to forest laws and revenue systems. Influenced by Vaishnava preachers, he urged giving up liquor, cleaning villages, and stopping witchcraft. His ulgulan (great tumult) in 1899-1900 involved attacking symbols of authority; arrested and died in jail. His movement highlighted tribal resistance to colonial exploitation."
+    },
+    {
+      "level": 54,
+      "difficulty": "Medium",
+      "question": "How did colonial forest laws affect tribals?",
+      "options": [
+        "Benefited them",
+        "Restricted shifting cultivation, hunting, collecting produce; reserved forests for timber",
+        "Gave them more land",
+        "Promoted education"
+      ],
+      "correctAnswer": 2,
+      "explanation": "From the 1860s, Indian Forest Acts classified forests as reserved (no entry), protected (limited rights), village (for communities). Tribals' shifting cultivation (jhum, podu) was banned as harmful, hunting and gathering restricted, forcing many into labor or migration. Timber for railways and ships was prioritized. Revolts like Bastar in 1910 protested reservations. Some tribals became laborers in mines and plantations under exploitative conditions."
+    },
+    {
+      "level": 55,
+      "difficulty": "Easy",
+      "question": "What triggered the Revolt of 1857?",
+      "options": [
+        "Rumors of greased cartridges with cow/pig fat offending Hindu/Muslim sepoys",
+        "High taxes only",
+        "Education policies",
+        "Trade restrictions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The immediate trigger was the introduction of Enfield rifles with cartridges rumored to be greased with cow and pig fat, offending Hindu and Muslim sepoys. Mangal Pandey was hanged for attacking officers in Barrackpore. On May 10, 1857, sepoys in Meerut mutinied, marched to Delhi, proclaimed Bahadur Shah Zafar emperor. Grievances included low pay, racial discrimination, fear of conversion, annexations displacing rulers and taluqdars, high revenue destroying peasant economy."
+    },
+    {
+      "level": 56,
+      "difficulty": "Easy",
+      "question": "Who was Rani Lakshmibai?",
+      "options": [
+        "Queen of Jhansi who fought in 1857 Revolt, died in battle",
+        "A British queen",
+        "A peasant leader",
+        "A weaver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rani Lakshmibai of Jhansi joined the 1857 Revolt after her kingdom was annexed under Doctrine of Lapse. She fought bravely, capturing Gwalior with Tantia Tope, and died in battle near Gwalior in 1858. Leaders like Nana Saheb (adopted son of Peshwa Baji Rao II), Kunwar Singh in Bihar, Ahmadullah Shah (maulvi from Faizabad) also led revolts, proclaiming old rulers and fighting for lost privileges."
+    },
+    {
+      "level": 57,
+      "difficulty": "Medium",
+      "question": "What changes occurred after the 1857 Revolt?",
+      "options": [
+        "Company rule ended, British Crown took direct control; policy of non-interference in religion, more Indian soldiers",
+        "India became independent",
+        "Company power increased",
+        "No changes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Revolt led to the Government of India Act 1858, transferring power from Company to British Crown, with a Secretary of State and Viceroy. Policies assured princes no annexation, respected customs, reduced Indian sepoys, increased European troops, and reorganized artillery. It marked the end of Mughal rule as Bahadur Shah Zafar was exiled to Rangoon, dying in 1862."
+    },
+    {
+      "level": 58,
+      "difficulty": "Easy",
+      "question": "Why did Indian textiles decline under British rule?",
+      "options": [
+        "Improved quality",
+        "High import duties in Britain, cheap machine-made imports in India, fines on handlooms",
+        "Lack of cotton",
+        "Indian weavers prospered"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the 18th century, Indian cotton textiles like muslin and calico dominated world markets. But British industrial revolution led to machine production; tariffs up to 80% on Indian textiles in Britain, while British goods entered India duty-free. Weavers faced high raw cotton prices as exports to Britain increased, leading to deindustrialization. By 1900, factories in Bombay and Ahmedabad emerged, but traditional weavers in places like Benaras suffered."
+    },
+    {
+      "level": 59,
+      "difficulty": "Easy",
+      "question": "What was the significance of Tipu's toy tiger?",
+      "options": [
+        "A mechanical toy showing a tiger mauling a European, symbolizing resistance",
+        "A real tiger",
+        "A painting",
+        "A sword"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tipu Sultan's mechanical toy tiger, now in Victoria and Albert Museum, London, roars and mauls a European, symbolizing his defiance against British. After his defeat, British celebrated by commissioning paintings like those by Henry Singleton showing Company victories, reflecting colonial attitudes of superiority."
+    },
+    {
+      "level": 60,
+      "difficulty": "Medium",
+      "question": "How did the British view Indian crafts after conquest?",
+      "options": [
+        "Promoted them",
+        "Saw them as symbols of tradition but collected for museums, while promoting factories",
+        "Ignored them",
+        "Banned them"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Post-conquest, British admired crafts like shawls and textiles but prioritized industrial production. They set up institutions like Calcutta Art School for industrial designs. Crafts like iron smelting declined due to forest laws restricting charcoal and high import duties on Indian iron, leading to factory closures and artisans becoming laborers."
+    },
+    {
+      "level": 61,
+      "difficulty": "Easy",
+      "question": "What was the Orientalist view on education?",
+      "options": [
+        "Promote Western sciences and literature",
+        "Respect and teach Indian ancient texts in Sanskrit, Arabic, Persian",
+        "Only vocational training",
+        "No education needed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Orientalists like William Jones and Henry Thomas Colebrooke believed in respecting Indian culture, learning ancient texts to understand laws and philosophy. They set up Asiatic Society of Bengal (1784), Calcutta Madrasa (1781), Sanskrit College Benaras (1791). Translated texts like Upanishads by Jones, who saw similarities with Greek philosophy. This view clashed with Anglicists who saw Eastern knowledge as erroneous."
+    },
+    {
+      "level": 62,
+      "difficulty": "Easy",
+      "question": "Who was Thomas Macaulay?",
+      "options": [
+        "Advocated English education to create clerks loyal to British",
+        "An Orientalist",
+        "An Indian reformer",
+        "A missionary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thomas Macaulay, in his 1835 Minute on Education, dismissed Oriental learning as worthless, advocating English education to create a class 'Indian in blood and colour, but English in tastes' to serve as intermediaries. This led to the English Education Act 1835, making English the medium in higher education, stopping funding for Oriental institutions."
+    },
+    {
+      "level": 63,
+      "difficulty": "Medium",
+      "question": "What was Wood's Despatch?",
+      "options": [
+        "1854 policy emphasizing practical European knowledge, vocational education, female education",
+        "A military order",
+        "A trade policy",
+        "A revenue system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Charles Wood's 1854 Despatch outlined education to impart useful knowledge, improve morals, supply trustworthy civil servants. It promoted vernacular primary schools, Anglo-vernacular high schools, affiliated colleges, universities in Bombay, Madras, Calcutta (1857). Grants-in-aid for private schools, female education encouraged. However, implementation was limited, focusing on elite."
+    },
+    {
+      "level": 64,
+      "difficulty": "Easy",
+      "question": "How did Gandhi view colonial education?",
+      "options": [
+        "Supported it",
+        "Saw it as enslaving, promoting English over mother tongue, ignoring manual work",
+        "Indifferent",
+        "Wanted more science"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mahatma Gandhi criticized colonial education for creating inferiority, distancing from culture, emphasizing English. In 'Hind Swaraj' (1909), he advocated mother tongue education, manual work. He established schools like in Champaran. Tagore's Shantiniketan emphasized creative learning outdoors, criticizing rote memorization."
+    },
+    {
+      "level": 65,
+      "difficulty": "Easy",
+      "question": "What was the condition of women in 18th-19th century India?",
+      "options": [
+        "Equal rights",
+        "Sati, child marriage, purdah, no education or property rights for many",
+        "Political leaders",
+        "Industrial workers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Women faced practices like sati (widow burning), female infanticide, child marriage, polygamy among upper castes, purdah. Widows couldn't remarry, own property. Muslim women had some rights but limited education. Reformers like Raja Rammohun Roy campaigned against sati, leading to its ban in 1829."
+    },
+    {
+      "level": 66,
+      "difficulty": "Medium",
+      "question": "Who founded the Brahmo Samaj?",
+      "options": [
+        "Raja Rammohun Roy in 1828 to purify Hinduism, oppose idolatry, sati",
+        "Dayanand Saraswati",
+        "Jyotirao Phule",
+        "Ishwarchandra Vidyasagar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Raja Rammohun Roy, influenced by monotheism, founded Brahmo Sabha (later Samaj) in 1828, advocating Upanishads, opposing caste, idolatry. He established Atmiya Sabha, translated Vedanta, supported English education. His efforts with British officials banned sati in 1829. Later, Debendranath Tagore and Keshab Chandra Sen expanded it."
+    },
+    {
+      "level": 67,
+      "difficulty": "Easy",
+      "question": "What was the Veda Samaj?",
+      "options": [
+        "Reform society in Madras inspired by Brahmo Samaj, opposed superstitions",
+        "A Vedic school",
+        "A caste group",
+        "A political party"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Founded in 1864 in Madras, Veda Samaj, influenced by Brahmo Samaj, called for caste equality, widow remarriage, women's education. Renamed Brahmo Samaj of South India in 1871. Similar reforms in Bombay with Prarthana Samaj (1867) by Atmaram Pandurang, focusing on monotheism, social service."
+    },
+    {
+      "level": 68,
+      "difficulty": "Easy",
+      "question": "Who was Dayanand Saraswati?",
+      "options": [
+        "Founder of Arya Samaj in 1875, advocated return to Vedas, shuddhi",
+        "A Muslim reformer",
+        "A Christian missionary",
+        "A British official"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Swami Dayanand Saraswati founded Arya Samaj in Bombay 1875, promoting Vedic infallibility in 'Satyarth Prakash', opposing idolatry, caste, child marriage. Advocated women's education, widow remarriage, shuddhi to reconvert. Established Dayanand Anglo-Vedic schools. His ideas influenced nationalists but also caused communal tensions."
+    },
+    {
+      "level": 69,
+      "difficulty": "Medium",
+      "question": "What reforms did Ishwarchandra Vidyasagar undertake?",
+      "options": [
+        "Used ancient texts to support widow remarriage, leading to 1856 law",
+        "Fought against education",
+        "Promoted child marriage",
+        "Supported sati"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vidyasagar, a Sanskrit scholar, cited texts to argue for widow remarriage, campaigning successfully for the 1856 Hindu Widows' Remarriage Act. He also promoted girls' education, setting up schools. In Bengal, reformers like Roy and Vidyasagar blended Western and Indian ideas."
+    },
+    {
+      "level": 70,
+      "difficulty": "Easy",
+      "question": "Who was Jyotirao Phule?",
+      "options": [
+        "Lower-caste reformer who attacked caste system, opened schools for girls and untouchables",
+        "An upper-caste brahmin",
+        "A British educator",
+        "A Muslim leader"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jyotirao Phule (1827-1890), from mali caste, criticized brahmins as Aryan invaders exploiting lower castes. Wrote 'Gulamgiri' (1873) dedicating to American anti-slavery. Opened girls' school in 1848, home for widows. Formed Satyashodhak Samaj (1873) for lower-caste rights. Influenced anti-caste movements."
+    },
+    {
+      "level": 71,
+      "difficulty": "Easy",
+      "question": "What was the Aligarh Movement?",
+      "options": [
+        "Led by Sir Syed Ahmad Khan for Muslim Western education, rationalism",
+        "A Hindu reform",
+        "A tribal revolt",
+        "A peasant movement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sir Syed Ahmad Khan (1817-1898) promoted English education for Muslims, founding Scientific Society (1864), Aligarh School (1875, later Mohammedan Anglo-Oriental College). Advocated rational interpretation of Quran, opposed superstitions, polygamy. His ideas helped modernize Muslim community but later emphasized separate identity."
+    },
+    {
+      "level": 72,
+      "difficulty": "Medium",
+      "question": "Who was Pandita Ramabai?",
+      "options": [
+        "A woman scholar who criticized caste and patriarchy, founded home for widows",
+        "A male reformer",
+        "A British lady",
+        "A queen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pandita Ramabai (1858-1922), learned Sanskrit, traveled to America and Britain, converted to Christianity. Wrote about high-caste women's plight. Founded Arya Mahila Samaj, Sharada Sadan in Pune for widows. Highlighted women's role in reforms, with Muslim women like Rokeya Sakhawat Hossain founding schools."
+    },
+    {
+      "level": 73,
+      "difficulty": "Easy",
+      "question": "What was the Singh Sabha Movement?",
+      "options": [
+        "Reform among Sikhs from 1873 to redefine Sikhism",
+        "A Hindu movement",
+        "A Muslim reform",
+        "A Christian mission"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Started in Amritsar (1873) and Lahore (1907), Singh Sabhas sought to rid Sikhism of superstitions, caste, practices seen as Hindu. Khalsa College established. Led to clearer Sikh identity. Similar reforms among Hindus, Muslims with temple entry movements by Shri Narayana Guru for Ezhavas."
+    },
+    {
+      "level": 74,
+      "difficulty": "Easy",
+      "question": "When was the Indian National Congress founded?",
+      "options": [
+        "1885 by A.O. Hume with 72 delegates in Bombay",
+        "1857",
+        "1947",
+        "1905"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Founded in 1885 by Allan Octavian Hume, retired British official, with first session in Bombay under W.C. Bonnerjee. Early demands included civil service reforms, legislative councils. Represented educated middle class, with leaders like Dadabhai Naoroji, Surendranath Banerjee."
+    },
+    {
+      "level": 75,
+      "difficulty": "Medium",
+      "question": "What was the difference between Moderates and Extremists?",
+      "options": [
+        "Moderates wanted gradual reforms, Extremists self-rule through boycott",
+        "Moderates violent, Extremists peaceful",
+        "No difference",
+        "Moderates pro-British, Extremists anti"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moderates (1885-1905) like Gokhale believed in constitutional agitation, petitions. Extremists like Tilak, Lajpat Rai, Bipin Chandra Pal wanted swaraj, used boycott, swadeshi. Split at 1907 Surat session, reunited 1916 Lucknow Pact with Muslim League."
+    },
+    {
+      "level": 76,
+      "difficulty": "Easy",
+      "question": "What was the Swadeshi Movement?",
+      "options": [
+        "1905 boycott of foreign goods against Bengal partition",
+        "A trade policy",
+        "An education movement",
+        "A military revolt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Triggered by 1905 Bengal partition to divide Hindus/Muslims, Swadeshi involved boycotting British goods, schools, promoting national education, industries. Bonfires of foreign cloth, picketing shops. Spread nationwide, involved women, workers. Repressed harshly, but boosted nationalism."
+    },
+    {
+      "level": 77,
+      "difficulty": "Easy",
+      "question": "When was the Muslim League formed?",
+      "options": [
+        "1906 demanding separate electorates",
+        "1885",
+        "1947",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All-India Muslim League formed in 1906 by Aga Khan, Nawab Salimullah to protect Muslim interests, demand separate electorates (granted in 1909 Morley-Minto Reforms). Initially loyalist, later joined nationalists in 1916 Lucknow Pact for joint demands."
+    },
+    {
+      "level": 78,
+      "difficulty": "Medium",
+      "question": "What was the Non-Cooperation Movement?",
+      "options": [
+        "1920-22, boycott of British institutions, led by Gandhi",
+        "A violent revolt",
+        "A trade union",
+        "A religious movement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Launched 1920 by Gandhi with Khilafat leaders like Ali brothers against Rowlatt Act, Jallianwalla Bagh (1919 massacre by Dyer), Khilafat wrongs. Involved surrendering titles, boycotting schools, courts, elections, foreign goods. Thousands arrested, Chauri Chaura (1922) violence led to withdrawal. Boosted mass participation."
+    },
+    {
+      "level": 79,
+      "difficulty": "Easy",
+      "question": "What happened at Jallianwalla Bagh?",
+      "options": [
+        "1919 peaceful meeting fired upon by General Dyer, killing hundreds",
+        "A conference",
+        "A battle",
+        "A festival"
+      ],
+      "correctAnswer": 1,
+      "explanation": "On 13 April 1919, Baisakhi day, Amritsar crowd protesting Rowlatt Act and arrests gathered in enclosed Bagh. Dyer ordered firing without warning, killing 400+, wounding more. Led to martial law, humiliations, outrage fueling Non-Cooperation."
+    },
+    {
+      "level": 80,
+      "difficulty": "Easy",
+      "question": "What was the Civil Disobedience Movement?",
+      "options": [
+        "1930 Salt March against salt tax, breaking laws",
+        "1919 movement",
+        "1942 Quit India",
+        "1905 Swadeshi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Launched 1930 after Lahore Congress demand for purna swaraj. Gandhi's Dandi March (12 March-6 April 1930) broke salt law. Involved no-tax campaigns, boycotts, picketing. Round Table Conferences failed, resumed 1932. Withdrew 1934. Showed mass defiance."
+    },
+    {
+      "level": 81,
+      "difficulty": "Medium",
+      "question": "What were the limitations of Civil Disobedience?",
+      "options": [
+        "Limited Dalit, Muslim participation; industrialists supported but workers stayed away",
+        "Full participation",
+        "Only in cities",
+        "Violent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dalits under Ambedkar sought separate electorates (Poona Pact 1932 gave reserved seats). Muslims alienated post-Khilafat. Businessmen supported for protectionism but feared socialism. Women participated massively, but movement urban-biased."
+    },
+    {
+      "level": 82,
+      "difficulty": "Easy",
+      "question": "What was Quit India Movement?",
+      "options": [
+        "1942 call for British to quit, mass arrests, underground resistance",
+        "1930 movement",
+        "1920 Non-Cooperation",
+        "1905 partition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 1942, Gandhi's 'do or die' call against wartime repression. Leaders arrested, people attacked government buildings. Parallel governments in places like Ballia. Suppressed, but showed determination."
+    },
+    {
+      "level": 83,
+      "difficulty": "Easy",
+      "question": "Who was Subhas Chandra Bose?",
+      "options": [
+        "Led Indian National Army against British in WWII",
+        "A moderate leader",
+        "A British viceroy",
+        "A poet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Netaji Subhas Chandra Bose resigned from ICS, led radical Congress wing, escaped house arrest 1941, formed INA with Japanese help from POWs. 'Give me blood, I will give freedom'. Azad Hind government in Andamans. Died in 1945 plane crash. INA trials 1945 sparked nationalism."
+    },
+    {
+      "level": 84,
+      "difficulty": "Medium",
+      "question": "What led to Partition of India?",
+      "options": [
+        "Muslim League's demand for Pakistan, communal riots, failure of Cabinet Mission",
+        "British desire",
+        "Economic reasons",
+        "No reason"
+      ],
+      "correctAnswer": 1,
+      "explanation": "League's 1940 Lahore Resolution for Pakistan. 1945-46 elections polarized. Direct Action Day 1946 Calcutta riots. Cabinet Mission failed. Mountbatten Plan 1947 partitioned into India and Pakistan amid violence, displacement of 10 million, deaths."
+    },
+    {
+      "level": 85,
+      "difficulty": "Easy",
+      "question": "What challenges did India face after Independence?",
+      "options": [
+        "Partition refugees, princely states integration, economic development",
+        "No challenges",
+        "Only foreign attacks",
+        "Cultural issues only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1947 Partition displaced 8 million refugees. 562 princely states integrated by Patel, V.P. Menon; Hyderabad, Junagadh, Kashmir acceded amid conflicts. Constitution framed 1946-49 by Ambedkar's committee, adopted 1950 establishing democracy, federalism."
+    },
+    {
+      "level": 86,
+      "difficulty": "Easy",
+      "question": "How was the Indian Constitution framed?",
+      "options": [
+        "By Constituent Assembly elected 1946, worked 1946-49",
+        "By British",
+        "By one person",
+        "Copied from USA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Constituent Assembly with 299 members post-Partition, chaired by Rajendra Prasad, drafting committee by Ambedkar. Debated rights, federalism, languages. Adopted 26 Jan 1950, features like universal suffrage, equality, federal structure with strong center."
+    },
+    {
+      "level": 87,
+      "difficulty": "Medium",
+      "question": "What was the role of Planning Commission?",
+      "options": [
+        "Set up 1950 to design Five-Year Plans for development",
+        "Political body",
+        "Military",
+        "Cultural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inspired by Soviet model, First Plan (1951-56) focused on agriculture, dams like Bhakra Nangal. Second (1956-61) on heavy industries like steel plants at Bhilai, Durgapur. Mixed economy with state control of key sectors. Debates on agriculture vs industry, but aimed at self-reliance."
+    },
+    {
+      "level": 88,
+      "difficulty": "Easy",
+      "question": "How were new states formed in India?",
+      "options": [
+        "On linguistic basis after States Reorganisation Commission 1953",
+        "Randomly",
+        "By size",
+        "By population only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Potti Sriramulu's 1952 fast-death for Telugu state led to Andhra 1953. Commission recommended linguistic states; Act 1956 created 14 states, 6 UTs. Later, Bombay split into Maharashtra, Gujarat 1960; Punjab into Punjab, Haryana 1966. Promoted unity in diversity."
+    },
+    {
+      "level": 89,
+      "difficulty": "Hard",
+      "question": "Analyze the impact of the 1857 Revolt on British policies.",
+      "options": [
+        "Shift to direct Crown rule, conciliatory towards princes, army reorganized",
+        "Increased annexations",
+        "Promoted Indian industries",
+        "No impact"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Revolt exposed Company mismanagement, leading to 1858 Act. Assured no interference in religion, adoption rights for princes. Army had more Europeans, artillery controlled by them. Divide and rule intensified."
+    },
+    {
+      "level": 90,
+      "difficulty": "Medium",
+      "question": "How did colonial policies affect Indian industries?",
+      "options": [
+        "Deindustrialization through tariffs, raw material exports",
+        "Growth",
+        "No effect",
+        "Only positive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Textiles, iron declined; factories emerged late 19th century with Indian capital like Tata Iron and Steel 1907. WWI boosted demand, but post-war protectionism helped."
+    },
+    {
+      "level": 91,
+      "difficulty": "Hard",
+      "question": "Discuss women's participation in nationalist movement.",
+      "options": [
+        "Active in Swadeshi, Non-Cooperation, Civil Disobedience, Quit India",
+        "None",
+        "Only leaders",
+        "Passive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women picketed, marched, went to jail; leaders like Sarojini Naidu, Kamala Nehru. Inspired by Gandhi, formed Rashtriya Stree Sangha."
+    },
+    {
+      "level": 92,
+      "difficulty": "Medium",
+      "question": "What was the Poona Pact?",
+      "options": [
+        "1932 agreement between Gandhi and Ambedkar for reserved seats instead of separate electorates for Dalits",
+        "A trade pact",
+        "Partition agreement",
+        "Education policy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After British awarded separate electorates, Gandhi fasted; pact increased reserved seats in joint electorate."
+    },
+    {
+      "level": 93,
+      "difficulty": "Hard",
+      "question": "Evaluate the role of socialists in freedom struggle.",
+      "options": [
+        "Formed Congress Socialist Party 1934, influenced peasants, workers; leaders like Jayaprakash Narayan",
+        "Opposed Congress",
+        "Supported British",
+        "No role"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pushed for land reforms, trade unions; active in Quit India underground."
+    },
+    {
+      "level": 94,
+      "difficulty": "Medium",
+      "question": "What was the impact of Partition?",
+      "options": [
+        "Mass migration, riots, women abducted, families divided",
+        "Peaceful",
+        "Economic boom",
+        "No impact"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gandhi worked for harmony but assassinated 1948 by Godse. Shaped Indo-Pak relations."
+    },
+    {
+      "level": 95,
+      "difficulty": "Hard",
+      "question": "How did India achieve economic self-reliance post-Independence?",
+      "options": [
+        "Through Five-Year Plans, land reforms, Green Revolution",
+        "Foreign aid only",
+        "No efforts",
+        "Privatization"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abolished zamindari, promoted cooperatives, dams for irrigation, HYV seeds increased food production."
+    },
+    {
+      "level": 96,
+      "difficulty": "Medium",
+      "question": "What foreign policy did India adopt?",
+      "options": [
+        "Non-alignment, Panchsheel with China 1954",
+        "Allied with USA",
+        "With USSR",
+        "Isolation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nehru's NAM avoided Cold War blocs, promoted peace; but faced 1962 China war."
+    },
+    {
+      "level": 97,
+      "difficulty": "Hard",
+      "question": "Discuss the integration of princely states.",
+      "options": [
+        "Patel's diplomacy, Instrument of Accession; military for Hyderabad, diplomacy for others",
+        "All joined willingly",
+        "British integrated",
+        "Not integrated"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kashmir acceded after Pak invasion; Junagadh plebiscite favored India."
+    },
+    {
+      "level": 98,
+      "difficulty": "Medium",
+      "question": "What social goals did the Constitution set?",
+      "options": [
+        "Equality, abolish untouchability, reservations for SC/ST",
+        "Caste preservation",
+        "Monarchy",
+        "Theocracy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Directive Principles for welfare state, fundamental rights against discrimination."
+    }
+  ],
+  "9":[{
+      "level": 1,
+      "difficulty": "Easy",
+      "question": "In the context of the French Revolution, what was the 'Third Estate' composed of?",
+      "options": [
+        "The King and Queen",
+        "The Clergy",
+        "The Nobility",
+        "Everyone else, from peasants to the middle class"
+      ],
+      "correctAnswer": 4,
+      "explanation": "French society before the 1789 revolution was divided into three 'Estates'. \n- **The First Estate** comprised the **Clergy** (church officials), who enjoyed vast privileges and paid no taxes. \n- **The Second Estate** consisted of the **Nobility**, who also held feudal privileges and were exempt from most taxes. \n- **The Third Estate** included **everyone else**. This was a hugely diverse group, making up about 97% of the population. It included big businessmen, merchants, and lawyers (the bourgeoisie or middle class), as well as peasants, artisans, and landless laborers. The burden of all state taxes fell on the Third Estate, which was a primary cause of the revolution. 😠"
+    },
+    {
+      "level": 2,
+      "difficulty": "Medium",
+      "question": "What was the significance of the 'Tennis Court Oath' on 20 June 1789?",
+      "options": [
+        "It was the day the Bastille prison was stormed.",
+        "The Third Estate declared themselves a National Assembly and swore not to disperse until they had drafted a constitution.",
+        "King Louis XVI was executed by the guillotine.",
+        "Napoleon Bonaparte declared himself Emperor of France."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'Tennis Court Oath' was a pivotal moment in the early stages of the French Revolution. When the members of the Third Estate were locked out of their usual assembly hall at Versailles, they gathered in a nearby indoor tennis court. There, they took a solemn oath **declaring themselves the National Assembly** and vowing **not to separate until they had drafted a constitution for France that would limit the powers of the monarch**. This act was a direct challenge to the authority of King Louis XVI and signaled the end of the absolute monarchy and the beginning of representative democracy in France."
+    },
+    {
+      "level": 3,
+      "difficulty": "Hard",
+      "question": "What was the 'Reign of Terror' (1793-1794) led by Maximilien Robespierre?",
+      "options": [
+        "A period of foreign invasion of France.",
+        "A policy of severe control and punishment by the Jacobin government to suppress 'enemies' of the republic.",
+        "A popular festival celebrating the ideals of the revolution.",
+        "The period when Napoleon conquered most of Europe."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 'Reign of Terror' was the most radical and violent phase of the French Revolution. It was led by **Maximilien Robespierre**, the head of the powerful **Jacobin Club**. Fearing threats from both internal counter-revolutionaries (like nobles and clergy) and external foreign powers, the Jacobins implemented a policy of severe control and brutal punishment. A Revolutionary Tribunal was set up to try anyone suspected of being an 'enemy' of the republic. Those found guilty were often executed by the **guillotine**. Thousands, including Queen Marie Antoinette and even moderate revolutionaries, were killed. The Terror ended when Robespierre himself was arrested and guillotined in July 1794, as his own supporters grew tired of the constant executions. 🩸"
+    },
+    {
+      "level": 4,
+      "difficulty": "Medium",
+      "question": "In the context of socialist thought in Europe, what was the main difference between Bolsheviks and Mensheviks in Russia?",
+      "options": [
+        "Bolsheviks wanted a monarchy, while Mensheviks wanted a republic.",
+        "Bolsheviks, led by Lenin, believed in a disciplined party of professional revolutionaries to lead the revolution, while Mensheviks wanted a party open to all.",
+        "Bolsheviks supported Russia's entry into WWI, while Mensheviks opposed it.",
+        "Bolsheviks were liberals, while Mensheviks were conservatives."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both the Bolsheviks and Mensheviks were factions within the Russian Social Democratic Labour Party, a Marxist party. The split occurred in 1903 over the nature of the party. \n- **The Bolsheviks** (meaning 'majority group'), led by **Vladimir Lenin**, argued that because of Tsarist repression, the party should be small, disciplined, and comprised of **professional revolutionaries** who would lead the working class. \n- **The Mensheviks** (meaning 'minority group'), led by Julius Martov, believed the party should be a mass organization, **open to all**, and should work gradually towards socialism through democratic means. Lenin's vision of a tightly controlled party ultimately allowed the Bolsheviks to seize power in the October Revolution of 1917. 🚩"
+    },
+    {
+      "level": 5,
+      "difficulty": "Easy",
+      "question": "What were the three main demands of Lenin's 'April Theses' upon his return to Russia in 1917?",
+      "options": [
+        "Liberty, Equality, Fraternity",
+        "Land, Jobs, Education",
+        "The war be brought to a close, land be transferred to the peasants, and banks be nationalised",
+        "Abolish the Tsar, create a parliament, and establish free trade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "When Lenin returned to Russia from exile in April 1917, the country was being run by a Provisional Government that continued Russia's involvement in World War I. Lenin presented his 'April Theses', which outlined a clear and radical path forward for the Bolshevik party. His three key demands were: \n1.  **End the War:** An immediate end to Russia's participation in WWI. \n2.  **Transfer Land:** All land to be transferred to the peasants. \n3.  **Nationalise Banks:** All banks to be brought under state control. \nThese demands were famously summarised by the slogan **'Peace, Land, and Bread,'** which resonated deeply with the soldiers, peasants, and workers, and greatly increased support for the Bolsheviks."
+    },
+    {
+      "level": 6,
+      "difficulty": "Hard",
+      "question": "What was Stalin's 'Collectivisation' program in the Soviet Union?",
+      "options": [
+        "A program to build a collection of new factories in cities.",
+        "A policy to encourage private farming and free markets.",
+        "A forced consolidation of individual peasant farms into large state-controlled collective farms (kolkhoz).",
+        "A cultural program to collect and preserve traditional Russian folk art."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Stalin's **Collectivisation** program, launched in 1929, was a radical and brutal policy aimed at transforming Soviet agriculture. Faced with grain shortages, Stalin decided to eliminate private farming. The government forced all peasants to give up their individual plots of land, tools, and livestock and join large, state-controlled **collective farms (kolkhoz)**. The state would own the produce and distribute it. This policy was fiercely resisted by the peasants, especially the well-to-do peasants known as **'kulaks'**. The resistance was ruthlessly suppressed, with millions being deported or killed. The program led to a catastrophic famine in 1932-33 and destroyed the traditional peasant way of life. 🌾"
+    },
+    {
+      "level": 7,
+      "difficulty": "Medium",
+      "question": "What was the 'Enabling Act' passed in Germany in March 1933?",
+      "options": [
+        "An act that gave all German women the right to vote.",
+        "An act that enabled Germany to join the League of Nations.",
+        "An act that gave Hitler the power to rule by decree, effectively establishing a dictatorship.",
+        "An act that banned the Nazi Party from participating in elections."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The **Enabling Act** was the final legislative piece that dismantled the democratic Weimar Republic and established Hitler's dictatorship. Passed on 3 March 1933, shortly after the mysterious Reichstag (parliament) fire, this law gave Hitler's cabinet the power to **make laws without the approval of the Reichstag for four years**. It allowed the government to bypass all constitutional procedures. With this act, Hitler could sideline parliament, ban all other political parties and trade unions, and establish total control over the economy, media, army, and judiciary, turning Germany into a one-party state. ⚖️"
+    },
+    {
+      "level": 8,
+      "difficulty": "Hard",
+      "question": "What did the Nazi concept of 'Lebensraum' or 'living space' refer to?",
+      "options": [
+        "A policy to build more public housing for German workers.",
+        "The idea that Germany needed to expand its territory, especially eastwards, to acquire more land and resources for its people.",
+        "A program to create national parks and green spaces in German cities.",
+        "The belief in the spiritual and cultural space of the German nation."
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Lebensraum** was a core component of Hitler's geopolitical and racist ideology. It translates to 'living space'. Hitler believed that the German 'Aryan' race was superior and destined to rule but was being constrained by its limited territory. He argued that Germany must expand its borders to acquire new lands for settlement. This expansion was primarily aimed **eastwards, into Eastern Europe (like Poland and Russia)**. The plan was to conquer these lands, expel or eliminate the 'inferior' Slavic populations, and resettle the area with Germans. This aggressive quest for Lebensraum was the primary motivation for the Nazi invasion of the Soviet Union in 1941. 🗺️"
+    },
+    {
+      "level": 9,
+      "difficulty": "Easy",
+      "question": "Who was Dietrich Brandis in the context of colonial India?",
+      "options": [
+        "A British Viceroy who partitioned Bengal.",
+        "A German expert invited by the British to set up the Indian Forest Service.",
+        "A Christian missionary who worked with tribal communities.",
+        "An officer who led the suppression of the 1857 revolt."
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Dietrich Brandis** was a German forestry expert who was appointed the first **Inspector General of Forests in India** in 1864. The British were concerned about the reckless felling of trees for building railways and ships. Brandis introduced a system of 'scientific forestry' or 'forest management'. This involved surveying forests, classifying trees, and creating strict rules for their use. He was instrumental in setting up the **Indian Forest Service in 1864** and the Forest Research Institute in Dehradun. While his system aimed at conservation for commercial use, it also led to forest laws that severely restricted the traditional rights of local people to use the forests. 🌳"
+    },
+    {
+      "level": 10,
+      "difficulty": "Medium",
+      "question": "How did the colonial Forest Acts critically impact the practice of 'jhum' or shifting cultivation?",
+      "options": [
+        "The acts provided new tools and seeds to make it more productive.",
+        "The acts declared this practice illegal and forced cultivators out of the forests.",
+        "The acts provided legal ownership of forest land to the cultivators.",
+        "The acts encouraged cultivators to grow commercial crops instead of food crops."
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Jhum cultivation** (also known as swidden agriculture) is a traditional farming method where a patch of forest is cut and burnt to clear it for cultivation. The colonial forest officials saw this practice as extremely harmful. They believed it destroyed valuable timber and made it difficult to collect taxes. Consequently, the new **Forest Acts banned shifting cultivation**. This had a devastating impact on the communities that depended on it. They were forcibly displaced from their homes in the forests, losing their primary means of livelihood and being forced to seek other forms of work, often under exploitative conditions."
+    },
+    {
+      "level": 11,
+      "difficulty": "Easy",
+      "question": "The 'Gaddi shepherds' are a pastoral community from which Indian state?",
+      "options": ["Rajasthan", "Maharashtra", "Himachal Pradesh", "Gujarat"],
+      "correctAnswer": 3,
+      "explanation": "The **Gaddi shepherds** are a well-known pastoral community from the state of **Himachal Pradesh**. They practice a cyclical, seasonal migration (transhumance). During the winter, they graze their flocks in the low hills of the Siwalik range. In the summer, they move up to the higher mountain meadows, known as 'dhars', in Lahaul and Spiti, after the snow melts. This seasonal movement is a classic example of how pastoral communities adapt to the landscape and climate. 🐑"
+    },
+    {
+      "level": 12,
+      "difficulty": "Hard",
+      "question": "How did the colonial division of Maasailand between the British and Germans affect the Maasai pastoralists?",
+      "options": [
+        "It provided them with better grazing lands and water resources.",
+        "It forced them to become settled agriculturalists.",
+        "It cut their traditional grazing lands in half, confining them to a small, arid reserve and severely disrupting their nomadic lifestyle.",
+        "It gave them political power in the new colonial administrations."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Before colonialism, the Maasai pastoralists in East Africa roamed over a vast territory. In 1885, an international boundary was drawn between **British Kenya and German Tanganyika**, cutting right through the heart of **Maasailand**. This artificial boundary had catastrophic consequences. The best grazing lands were taken over for white settlement, and the Maasai were pushed into a small, arid reserve in the south. They lost about 60% of their pre-colonial lands. This loss of territory, combined with restrictions on their movement and access to water, severely disrupted their traditional pastoral economy and nomadic way of life. 🌍"
+    },
+    {
+      "level": 13,
+      "difficulty": "Easy",
+      "question": "What was the main cause of the financial crisis in France during the late 18th century?",
+      "options": [
+        "Wars and royal extravagance",
+        "Natural disasters",
+        "Trade surpluses",
+        "Industrial growth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The financial crisis in France was primarily caused by costly wars, such as the American War of Independence, and the extravagant lifestyle of the royal court under Louis XVI and Marie Antoinette. The state treasury was empty, leading to high taxes on the Third Estate while the clergy and nobility were exempt. This inequality fueled resentment and contributed to the revolution. The chapter 'The French Revolution' highlights how long-term factors like social division into three estates—clergy (First), nobility (Second), and commoners (Third)—created structural inequalities, with the Third Estate bearing the tax burden despite comprising 97% of the population."
+    },
+    {
+      "level": 14,
+      "difficulty": "Easy",
+      "question": "Who called the Estates-General in 1789?",
+      "options": [
+        "King Louis XVI",
+        "The National Assembly",
+        "Robespierre",
+        "Napoleon Bonaparte"
+      ],
+      "correctAnswer": 1,
+      "explanation": "King Louis XVI called the Estates-General in 1789 for the first time in 175 years to approve new taxes to address the financial crisis. However, the Third Estate demanded one vote per member instead of one per estate, leading to their walkout and formation of the National Assembly on June 20, 1789, in the Tennis Court Oath, where they vowed to draft a constitution limiting the king's powers. This event marked the beginning of the revolution, illustrating the shift from absolute monarchy to constitutional governance."
+    },
+    {
+      "level": 15,
+      "difficulty": "Easy",
+      "question": "What event symbolized the start of the French Revolution on July 14, 1789?",
+      "options": [
+        "Storming of the Bastille",
+        "Execution of the king",
+        "Declaration of Rights",
+        "Reign of Terror"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The storming of the Bastille prison by a mob searching for arms symbolized the despotism of the monarchy and the people's uprising. It led to the destruction of the fortress and the release of prisoners, sparking widespread peasant revolts (Great Fear) where manors were looted and records burned. This event is celebrated as Bastille Day in France, representing liberty from tyranny and the power of popular action in the revolution."
+    },
+    {
+      "level": 16,
+      "difficulty": "Medium",
+      "question": "What was the significance of the Declaration of the Rights of Man and Citizen?",
+      "options": [
+        "It abolished feudal privileges and proclaimed liberty, equality, fraternity",
+        "It established the monarchy",
+        "It started the Reign of Terror",
+        "It declared war on Austria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adopted in 1791 by the National Assembly, the Declaration proclaimed natural rights like liberty, property, security, and resistance to oppression. It abolished feudalism on August 4, 1789, freeing peasants from serfdom and taxes, and made all citizens equal before the law. This document influenced modern democracies and human rights declarations, but initially limited active citizenship to property-owning men over 25, excluding women and poorer men."
+    },
+    {
+      "level": 17,
+      "difficulty": "Easy",
+      "question": "Who was the leader of the Jacobins during the Reign of Terror?",
+      "options": [
+        "Maximilien Robespierre",
+        "Louis XVI",
+        "Mirabeau",
+        "Olympe de Gouges"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maximilien Robespierre led the Jacobins, a radical political club, from 1793 to 1794 during the Reign of Terror, where thousands, including the king and queen, were guillotined to protect the republic from enemies. Policies included price controls on essentials and rationing, but the terror ended with Robespierre's execution in July 1794 (Thermidorian Reaction), leading to the Directory's rule. This period shows the revolution's turn to radicalism to consolidate power."
+    },
+    {
+      "level": 18,
+      "difficulty": "Medium",
+      "question": "How did women participate in the French Revolution?",
+      "options": [
+        "Formed clubs, demanded rights, marched to Versailles",
+        "They were passive observers",
+        "Supported the monarchy",
+        "Fought in the army only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women played active roles, forming clubs like the Society of Revolutionary and Republican Women, publishing newspapers, and demanding equal rights. On October 5, 1789, they marched to Versailles to protest bread prices, forcing the king to return to Paris. Figures like Olympe de Gouges wrote the Declaration of the Rights of Woman and Citizen in 1791, criticizing the exclusion of women. However, women's clubs were banned in 1793, and rights were not granted until 1946."
+    },
+    {
+      "level": 19,
+      "difficulty": "Easy",
+      "question": "What role did Napoleon Bonaparte play in the French Revolution?",
+      "options": [
+        "Became emperor in 1804, spread revolutionary ideas through conquests",
+        "Led the storming of Bastille",
+        "Was a Jacobin leader",
+        "Opposed the revolution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Napoleon seized power in 1799 coup, becoming First Consul, then emperor in 1804. He introduced the Napoleonic Code (1804), abolishing privileges, securing property rights, and simplifying administration. His conquests spread revolutionary ideas like equality and nationalism across Europe, but defeats in Russia (1812) and Waterloo (1815) ended his rule. His legacy includes modernizing Europe but also reintroducing slavery in colonies."
+    },
+    {
+      "level": 20,
+      "difficulty": "Hard",
+      "question": "How did the French Revolution influence anti-colonial movements?",
+      "options": [
+        "Inspired ideas of liberty and equality in colonies like India and Vietnam",
+        "Had no impact outside Europe",
+        "Supported colonial empires",
+        "Focused only on Europe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The revolution's ideals of liberty, equality, and fraternity inspired leaders like Tipu Sultan in India, who allied with France against Britain, and Ho Chi Minh in Vietnam. It encouraged nationalist movements worldwide, showing that ordinary people could overthrow oppressive regimes. The chapter discusses how these ideas fueled decolonization in the 20th century, linking the revolution to global struggles for freedom."
+    },
+    {
+      "level": 21,
+      "difficulty": "Medium",
+      "question": "What were the main social groups in France before the revolution?",
+      "options": [
+        "Clergy, nobility, Third Estate (peasants, bourgeois, workers)",
+        "Only peasants and kings",
+        "Merchants and priests only",
+        "Soldiers and farmers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Society was divided into three estates: First (clergy, privileged, tax-exempt), Second (nobility, feudal privileges), Third (98% of population, paid taxes like taille and tithe, included peasants owning 60% land but burdened, growing bourgeoisie). This structure created resentment, as subsistence crisis (1788-89 bad harvest, high bread prices) hit the Third Estate hardest, leading to revolt."
+    },
+    {
+      "level": 22,
+      "difficulty": "Easy",
+      "question": "What was the guillotine and its significance?",
+      "options": [
+        "Device for execution, symbolized equality in punishment during Terror",
+        "A prison",
+        "A tax system",
+        "A political club"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Named after Dr. Guillotin, it was a humane execution device used during the Reign of Terror to behead 'enemies of the republic,' including Louis XVI (Jan 1793) and Marie Antoinette. It signified the revolution's commitment to equality, as it was used on all classes, but also the excess of radical phase, leading to backlash."
+    },
+    {
+      "level": 23,
+      "difficulty": "Easy",
+      "question": "What was the main idea of socialism in the 19th century?",
+      "options": [
+        "Collective ownership of property to reduce inequality",
+        "Support for monarchy",
+        "Promotion of capitalism",
+        "Religious reform"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Socialism emerged as a response to industrial capitalism, advocating government or cooperative ownership of production means to ensure fair distribution. Thinkers like Robert Owen (New Harmony) and Louis Blanc (worker cooperatives) proposed alternatives to private property. The chapter 'Socialism in Europe and the Russian Revolution' explains how socialists differed—some favored gradual change, others revolution."
+    },
+    {
+      "level": 24,
+      "difficulty": "Easy",
+      "question": "Who were the Bolsheviks and Mensheviks?",
+      "options": [
+        "Bolsheviks (majority, radical, led by Lenin), Mensheviks (minority, moderate)",
+        "Two Russian tsars",
+        "European liberals",
+        "German Nazis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Russian Social Democratic Workers' Party split in 1903 into Bolsheviks (Lenin, favored small disciplined party for revolution) and Mensheviks (open membership, gradual change). This division was crucial in 1917, as Bolsheviks seized power in October Revolution, while Mensheviks supported the Provisional Government."
+    },
+    {
+      "level": 25,
+      "difficulty": "Medium",
+      "question": "What were the causes of the Russian Revolution of 1917?",
+      "options": [
+        "Autocratic tsarism, World War I losses, economic hardship",
+        "Industrial prosperity",
+        "Democratic reforms",
+        "Foreign aid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tsar Nicholas II's autocracy, poor working conditions, low wages, and Russia's disastrous involvement in WWI (7 million casualties) led to food shortages and strikes. The February Revolution 1917 in Petrograd (women-led strikes, mutiny) forced the tsar's abdication. The Provisional Government continued the war, leading to Bolshevik October Revolution."
+    },
+    {
+      "level": 26,
+      "difficulty": "Easy",
+      "question": "What was the April Theses?",
+      "options": [
+        "Lenin's demands for peace, land to peasants, banks nationalized",
+        "Tsar's manifesto",
+        "Liberal reforms",
+        "Nazi policies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Upon returning from exile in April 1917, Lenin presented the April Theses, calling for end to war, land transfer to peasants, and bank nationalization. This galvanized support for Bolsheviks, leading to the October Revolution where they overthrew the Provisional Government, promising 'peace, land, bread'."
+    },
+    {
+      "level": 27,
+      "difficulty": "Medium",
+      "question": "What changes did the Bolsheviks introduce after 1917?",
+      "options": [
+        "Nationalized industries, collectivized farms, central planning",
+        "Restored tsarism",
+        "Promoted capitalism",
+        "Decentralized power"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bolsheviks declared land state property, redistributed to peasants, nationalized banks and industries. From 1929, Stalin's collectivization forced peasants into collective farms, leading to famines but industrial growth. The USSR became a global power, but at cost of freedoms, with secret police suppressing dissent."
+    },
+    {
+      "level": 28,
+      "difficulty": "Easy",
+      "question": "How did the Russian Revolution impact the world?",
+      "options": [
+        "Inspired socialist movements, Comintern supported revolutions",
+        "Strengthened capitalism",
+        "Led to World War I",
+        "Isolated Russia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The revolution inspired workers' movements worldwide, with the Comintern (1919) promoting global socialism. It influenced anti-colonial struggles in Asia and Africa, showing possibility of overthrowing imperialism. However, Stalin's regime became totalitarian, affecting international perception of socialism."
+    },
+    {
+      "level": 29,
+      "difficulty": "Hard",
+      "question": "Compare liberals, radicals, and conservatives in 19th century Europe.",
+      "options": [
+        "Liberals: elected gov, no universal suffrage; Radicals: universal suffrage, women's rights; Conservatives: gradual change",
+        "All supported monarchy",
+        "Liberals supported autocracy",
+        "Radicals supported capitalism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Liberals wanted constitutional monarchy, property-based voting, opposed universal suffrage. Radicals sought republican democracy, full voting rights including women, redistribution. Conservatives initially opposed change but accepted gradual reforms post-1815. These ideologies shaped responses to industrialization and revolutions."
+    },
+    {
+      "level": 30,
+      "difficulty": "Medium",
+      "question": "What was the role of women in the Russian Revolution?",
+      "options": [
+        "Led strikes in February 1917, gained rights under Bolsheviks",
+        "Were excluded",
+        "Supported the tsar",
+        "Fought in WWI only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women workers initiated the February Revolution on International Women's Day, striking for better conditions. Bolsheviks granted voting rights in 1917, liberalized divorce, encouraged education. Figures like Alexandra Kollontai became leaders. However, full equality was not achieved."
+    },
+    {
+      "level": 31,
+      "difficulty": "Easy",
+      "question": "What was the Civil War in Russia (1918-1920)?",
+      "options": [
+        "Between Bolshevik Red Army and anti-Bolshevik White Army",
+        "Against Germany",
+        "Internal Bolshevik conflict",
+        "With France"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Civil War pitted the Bolshevik Red Army against the White Army (tsarists, liberals, supported by Allies). Bolsheviks won by 1920, establishing USSR in 1922. It led to economic devastation but consolidated socialist power."
+    },
+    {
+      "level": 32,
+      "difficulty": "Easy",
+      "question": "Who was Karl Marx?",
+      "options": [
+        "Advocated class struggle and communist society",
+        "Russian tsar",
+        "French revolutionary",
+        "German chancellor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Karl Marx argued capitalism exploited workers, predicting proletarian revolution to create classless society. His ideas in 'Communist Manifesto' (1848) influenced socialists, distinguishing Marxists who favored revolution from those preferring cooperatives."
+    },
+    {
+      "level": 33,
+      "difficulty": "Easy",
+      "question": "What was the Weimar Republic?",
+      "options": [
+        "German democracy established in 1919 after WWI defeat",
+        "Nazi regime",
+        "Monarchy",
+        "Soviet state"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After Kaiser Wilhelm II's abdication, the Weimar Republic was set up with a democratic constitution. However, it faced hyperinflation (1923), unemployment, and blame for Versailles Treaty, creating instability that Hitler exploited. The chapter 'Nazism and the Rise of Hitler' explains how these weaknesses allowed Nazi rise."
+    },
+    {
+      "level": 34,
+      "difficulty": "Easy",
+      "question": "How did Hitler rise to power?",
+      "options": [
+        "Appointed chancellor in 1933, used fire decree to suspend rights, Enabling Act for dictatorship",
+        "Elected president",
+        "Military coup",
+        "Inherited throne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hitler joined the German Workers' Party (renamed Nazi in 1920), attempted Munich Putsch (1923), imprisoned where he wrote 'Mein Kampf'. In 1933, President Hindenburg appointed him chancellor; Reichstag fire led to Fire Decree suspending freedoms, Enabling Act gave him dictatorial powers. He dismantled democracy, banned parties, controlled media."
+    },
+    {
+      "level": 35,
+      "difficulty": "Medium",
+      "question": "What was the Nazi worldview?",
+      "options": [
+        "Aryan supremacy, Lebensraum expansion, anti-Semitism",
+        "Equality for all",
+        "Socialist economy",
+        "Pacifism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nazis believed in racial hierarchy with Nordic Aryans superior, Jews as enemies to be eliminated. Sought Lebensraum (living space) through expansion. Despised democracy, promoted strong state under Fuhrer. This ideology justified aggression, leading to WWII and Holocaust."
+    },
+    {
+      "level": 36,
+      "difficulty": "Easy",
+      "question": "What was the Holocaust?",
+      "options": [
+        "Genocide of 6 million Jews and others in concentration camps",
+        "Economic policy",
+        "Military campaign",
+        "Political party"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Holocaust was Nazi systematic murder of Jews, gypsies, disabled in death camps like Auschwitz using gas chambers. Nuremberg Laws (1935) stripped Jews of citizenship, Kristallnacht (1938) attacked synagogues. 'Final Solution' from 1941 exterminated millions, symbolizing Nazi racial hatred."
+    },
+    {
+      "level": 37,
+      "difficulty": "Medium",
+      "question": "How did Nazis indoctrinate youth?",
+      "options": [
+        "Hitler Youth, school textbooks promoting Nazi ideology, racial science",
+        "Promoted democracy",
+        "Encouraged pacifism",
+        "Ignored education"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Youth organizations like Hitler Youth (boys) and League of German Girls trained in Nazi values, loyalty to Hitler. Schools taught racial superiority, sports emphasized aggression. This created a generation supporting Nazism, as seen in stories like Helmuth's father."
+    },
+    {
+      "level": 38,
+      "difficulty": "Easy",
+      "question": "What role did women have in Nazi society?",
+      "options": [
+        "Bear Aryan children, home-makers, rewarded for multiple births",
+        "Equal rights",
+        "Military leaders",
+        "Political roles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Women were to produce racially pure children, rewarded with Cross of Honour (8+ children gold). Employed women discouraged, mixed marriages banned. This reflected Nazi emphasis on motherhood for racial purity."
+    },
+    {
+      "level": 39,
+      "difficulty": "Hard",
+      "question": "How did the Great Depression contribute to Nazi rise?",
+      "options": [
+        "Unemployment, economic collapse made people support Hitler's promises of work, strong leadership",
+        "Improved economy",
+        "Led to democracy",
+        "No impact"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1929 Depression caused 6 million unemployed in Germany, bank failures. Weimar's inability to cope led to support for Nazis, who promised employment through public works, military buildup. Nazi vote rose from 2.6% (1928) to 37% (1932)."
+    },
+    {
+      "level": 40,
+      "difficulty": "Medium",
+      "question": "What was the significance of the Tripartite Pact?",
+      "options": [
+        "1940 alliance between Germany, Italy, Japan forming Axis Powers",
+        "Peace treaty",
+        "Economic agreement",
+        "Anti-Nazi coalition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pact aligned fascist powers for WWII, with Germany invading Poland (1939), starting war. Hitler's aggression led to defeats in Stalingrad (1943), Allied invasion, his suicide (1945), Germany's surrender."
+    },
+    {
+      "level": 41,
+      "difficulty": "Easy",
+      "question": "What was the Enabling Act?",
+      "options": [
+        "1933 law giving Hitler dictatorial powers for 4 years",
+        "Voting rights act",
+        "Economic reform",
+        "Peace treaty"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passed after Reichstag fire, it allowed Hitler to rule by decree, sideline parliament, ban opposition. It marked the end of democracy, establishing Nazi totalitarian state."
+    },
+    {
+      "level": 42,
+      "difficulty": "Easy",
+      "question": "How did Nazis treat 'undesirables'?",
+      "options": [
+        "Euthanasia for disabled, ghettos and camps for Jews, gypsies",
+        "Equal treatment",
+        "Promoted integration",
+        "Ignored them"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nazis sterilized and killed disabled as 'life unworthy,' segregated Jews in ghettos, sent to concentration camps. This racial policy culminated in Holocaust, killing 11 million."
+    },
+    {
+      "level": 43,
+      "difficulty": "Easy",
+      "question": "Why did colonial governments restrict forest access?",
+      "options": [
+        "For commercial timber, railways, plantations",
+        "To protect wildlife",
+        "For local use",
+        "No restrictions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the chapter 'Forest Society and Colonialism,' colonial powers viewed forests as resources for shipbuilding, railways (sleepers). Scientific forestry cleared diverse forests for monocultures like teak, sal. Indian Forest Act 1865 classified forests, restricting villagers' access for fuel, fodder."
+    },
+    {
+      "level": 44,
+      "difficulty": "Easy",
+      "question": "What was scientific forestry?",
+      "options": [
+        "German method of cutting trees in sections for regeneration",
+        "Traditional shifting cultivation",
+        "Hunting practice",
+        "Nomadic grazing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Introduced by Dietrich Brandis (first Inspector General of Forests, 1864), it involved planting one type of tree in rows, cutting in coupes for sustainable yield. It displaced local practices like shifting cultivation (banned as harmful), affecting livelihoods."
+    },
+    {
+      "level": 45,
+      "difficulty": "Medium",
+      "question": "How did forest laws affect villagers?",
+      "options": [
+        "Banned shifting cultivation, grazing, collecting produce, leading to revolts",
+        "Improved access",
+        "No effect",
+        "Provided jobs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Villagers relied on forests for survival, but laws made everyday practices illegal, leading to hardships, forced labor (begar). Rebellions like Bastar (1910) protested reservations, taxes. Similar in Java with Samin movement against Dutch."
+    },
+    {
+      "level": 46,
+      "difficulty": "Easy",
+      "question": "What was the impact of commercial hunting under colonialism?",
+      "options": [
+        "Depleted wildlife, tigers, lions nearly extinct",
+        "Protected animals",
+        "No hunting",
+        "Increased biodiversity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colonials saw hunting as civilized sport, offering rewards for killing tigers (800 killed by George Yule). This led to ecological imbalance, with vermin increasing. Later, conservation laws protected big game but ignored locals."
+    },
+    {
+      "level": 47,
+      "difficulty": "Medium",
+      "question": "How did forests contribute to colonial wars?",
+      "options": [
+        "Timber for ships, Dutch restricted access in Java fearing Japanese",
+        "No role",
+        "Used for agriculture",
+        "For tourism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oak forests in England depleted for navy, so Indian teak used. During world wars, cutting accelerated. In Java, Dutch scorched earth policy to deny Japanese timber."
+    },
+    {
+      "level": 48,
+      "difficulty": "Easy",
+      "question": "What was taungya cultivation?",
+      "options": [
+        "Villagers planted trees with crops in Burma",
+        "Commercial logging",
+        "Hunting method",
+        "Grazing system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In 1850s Burma, taungya allowed shifting cultivators to grow crops amid tree saplings, benefiting forestry. But later banned, showing temporary colonial concessions."
+    },
+    {
+      "level": 49,
+      "difficulty": "Hard",
+      "question": "Compare forest management in Bastar and Java.",
+      "options": [
+        "Both had reservations, revolts; Bastar against British, Java against Dutch",
+        "No similarities",
+        "Bastar free, Java restricted",
+        "Opposite policies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Bastar (India), 1910 revolt against reservation reducing access. In Java, Blandongdiensten system forced labor for timber. Saminists non-violently resisted, claiming forests theirs."
+    },
+    {
+      "level": 50,
+      "difficulty": "Medium",
+      "question": "How did trade affect forests?",
+      "options": [
+        "Increased demand for tea, rubber plantations cleared forests",
+        "Protected them",
+        "No trade",
+        "Reduced demand"
+      ],
+      "correctAnswer": 1,
+      "explanation": "European demand for tea led to Assam clearances, rubber for tires to Africa, Asia plantations. Adivasis displaced for commercial crops."
+    },
+    {
+      "level": 51,
+      "difficulty": "Easy",
+      "question": "Who was Dietrich Brandis?",
+      "options": [
+        "First Inspector General of Forests in India",
+        "Rebel leader",
+        "Hunter",
+        "Pastoralist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "German expert Brandis set up Indian Forest Service (1864), Imperial Forest Research Institute (1906) at Dehradun for scientific forestry training."
+    },
+    {
+      "level": 52,
+      "difficulty": "Easy",
+      "question": "What is shifting cultivation?",
+      "options": [
+        "Burn forest patch, sow seeds in ashes, move after harvests",
+        "Permanent farming",
+        "Commercial logging",
+        "Grazing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Practiced by tribals (dhya, jhum), sustainable but banned by colonials as it hindered timber production, leading to displacement."
+    },
+    {
+      "level": 53,
+      "difficulty": "Easy",
+      "question": "Who were nomads and pastoralists?",
+      "options": [
+        "Groups moving with herds for pasture, like Gujjar Bakarwals, Banjaras",
+        "Settled farmers",
+        "Colonial officials",
+        "Hunters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chapter 'Pastoralists in the Modern World' describes communities like Gujjar Bakarwals (J&K), Gaddi shepherds (HP) migrating seasonally for grazing. Banjaras were traders-nomads. Their lifestyles adapted to ecology, but colonialism disrupted them."
+    },
+    {
+      "level": 54,
+      "difficulty": "Medium",
+      "question": "How did colonial laws affect pastoralists?",
+      "options": [
+        "Criminal Tribes Act 1871 labeled them criminals, grazing taxes, restricted movement",
+        "Provided more land",
+        "No laws",
+        "Encouraged nomadism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colonials saw nomads as suspicious, passed Criminal Tribes Act requiring registration, restricted areas. Grazing Tax increased burdens, forest laws limited access, forcing many to sedentarize or migrate as labor."
+    },
+    {
+      "level": 55,
+      "difficulty": "Easy",
+      "question": "What was the impact of forest enclosures on pastoralists?",
+      "options": [
+        "Reduced grazing grounds, overgrazing, declined animal quality",
+        "Increased pastures",
+        "No impact",
+        "Improved herds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reserves and Protected Forests barred entry, Commercial forests required permits. This shrank pastures by 50% in India, leading to fodder shortages, weaker animals."
+    },
+    {
+      "level": 56,
+      "difficulty": "Medium",
+      "question": "How did pastoralists adapt to changes?",
+      "options": [
+        "Changed movement routes, reduced herd size, combined with agriculture, lobbied government",
+        "Gave up herding",
+        "Migrated to cities only",
+        "No adaptation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Groups like Raikas shifted to cultivation during droughts, others traded. Some like Gollas specialized in specific animals. They negotiated for rights, but many impoverished."
+    },
+    {
+      "level": 57,
+      "difficulty": "Easy",
+      "question": "What happened to African pastoralists under colonialism?",
+      "options": [
+        "Lost lands to European settlements, reserves confined them",
+        "Gained land",
+        "No change",
+        "Became farmers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Maasailand, Maasai lost 60% land to British/Kenyan reserves, split between Kenya/Tanzania, banning movement. Chiefs appointed to control, leading to inequality."
+    },
+    {
+      "level": 58,
+      "difficulty": "Hard",
+      "question": "Compare Indian and African pastoralists' experiences.",
+      "options": [
+        "Both lost lands, faced taxes, reserves; Indians adapted through politics, Africans more confined",
+        "No similarities",
+        "Indians unaffected",
+        "Africans prospered"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In India, grazing taxes, forest acts; in Africa, land alienated for farms, game reserves. Maasai evictions for Serengeti, Ngorongoro. Both resisted, but colonials favored settled agriculture."
+    },
+    {
+      "level": 59,
+      "difficulty": "Medium",
+      "question": "What was the Kafala system?",
+      "options": [
+        "Bedouin tax on flocks in Syria",
+        "Indian grazing permit",
+        "African reserve",
+        "British law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ottoman Kafala taxed nomads, but British treaties with sheikhs reduced pastoral access to pastures."
+    },
+    {
+      "level": 60,
+      "difficulty": "Easy",
+      "question": "Who were the Dhangars?",
+      "options": [
+        "Maharashtra pastoralists migrating for pastures, fertilizers",
+        "African nomads",
+        "Colonial officials",
+        "Farmers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dhangars herded in Konkan, migrated to plateaus in monsoon for grazing, their dung fertilized fields."
+    },
+    {
+      "level": 61,
+      "difficulty": "Easy",
+      "question": "What caused famines for pastoralists?",
+      "options": [
+        "Droughts, restricted movement leading to starvation",
+        "Overabundance",
+        "No famines",
+        "Better pastures"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colonial restrictions amplified droughts, as nomads couldn't move to better areas, causing massive livestock losses, e.g., Maasai lost 50% cattle in 1930s."
+    },
+    {
+      "level": 62,
+      "difficulty": "Easy",
+      "question": "What was the open field system in England?",
+      "options": [
+        "Common lands for peasant cultivation, grazing",
+        "Enclosed private farms",
+        "Colonial plantations",
+        "Industrial factories"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the chapter 'Peasants and Farmers,' before enclosures, villages had open fields divided into strips, common pastures. Rich farmers pushed enclosures from 16th century for wool production."
+    },
+    {
+      "level": 63,
+      "difficulty": "Medium",
+      "question": "What were the effects of enclosures on English peasants?",
+      "options": [
+        "Displaced small farmers, migration to cities or abroad",
+        "Increased land",
+        "No effect",
+        "Better crops"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enclosures (18th-19th century) privatized commons, forcing poor to work as laborers or migrate. Production increased for markets, but inequality grew, leading to revolts like Captain Swing (1830 threshing machine destruction)."
+    },
+    {
+      "level": 64,
+      "difficulty": "Easy",
+      "question": "How did the US become a bread basket?",
+      "options": [
+        "Westward expansion, displaced natives, mechanized farming",
+        "Natural fertility",
+        "No change",
+        "Imported food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From 1780s, settlers moved west, clearing prairies for wheat using plows, tractors. Railways exported grain, but Dust Bowl (1930s) from overploughing caused ecological disaster."
+    },
+    {
+      "level": 65,
+      "difficulty": "Medium",
+      "question": "What was the impact of opium cultivation in India?",
+      "options": [
+        "Forced on peasants, low prices, indebtedness",
+        "Profitable for farmers",
+        "Voluntary",
+        "Banned"
+      ],
+      "correctAnswer": 1,
+      "explanation": "British forced Bengal, Bihar farmers to grow opium for China export, paying low, leading to poor soils, rebellions as farmers preferred food crops."
+    },
+    {
+      "level": 66,
+      "difficulty": "Easy",
+      "question": "What caused the Dust Bowl in the US?",
+      "options": [
+        "Overploughing prairies, removing grass, leading to soil erosion",
+        "Floods",
+        "Good farming",
+        "Native practices"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1930s black blizzards destroyed crops, livestock. It highlighted unsustainable mechanized agriculture on fragile ecosystems."
+    },
+    {
+      "level": 67,
+      "difficulty": "Hard",
+      "question": "Compare peasant experiences in England, US, India.",
+      "options": [
+        "England: enclosures displaced; US: expansion but ecological cost; India: exploitative cash crops",
+        "All prospered",
+        "No differences",
+        "Only England affected"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In England, capitalism transformed agriculture; US, technology enabled large farms but caused Dust Bowl; India, colonial policies forced indigo/opium, leading to poverty."
+    },
+    {
+      "level": 68,
+      "difficulty": "Medium",
+      "question": "What was the threshing machine's impact?",
+      "options": [
+        "Reduced labor need, unemployment, Captain Swing riots",
+        "Increased jobs",
+        "No impact",
+        "Better wages"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Introduced post-Napoleonic Wars, machines replaced workers, leading to 1830 riots destroying them."
+    },
+    {
+      "level": 69,
+      "difficulty": "Easy",
+      "question": "Who were the Great Plains natives?",
+      "options": [
+        "Indigenous tribes displaced by settlers",
+        "European farmers",
+        "British colonists",
+        "Indian pastoralists"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tribes like Apache, Comanche lost lands to US expansion, confined to reservations."
+    },
+    {
+      "level": 70,
+      "difficulty": "Easy",
+      "question": "What is unique about cricket's history?",
+      "options": [
+        "Rural English origins, colonial spread, decolonized adaptation",
+        "Invented in India",
+        "Always professional",
+        "Short duration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chapter 'History and Sport: The Story of Cricket' traces cricket from 16th century England villages, standardized rules 1787 by MCC. Spread via empire, but India adapted with Pentangular tournament."
+    },
+    {
+      "level": 71,
+      "difficulty": "Medium",
+      "question": "How did colonialism shape cricket?",
+      "options": [
+        "British amateur game for elites, colonized played for identity",
+        "Equal for all",
+        "No colonial influence",
+        "Banned in colonies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "British saw cricket as moral education, but in India, Parsis formed first club 1848, Quadrangular (later Pentangular) based on communities. Gandhi saw it divisive."
+    },
+    {
+      "level": 72,
+      "difficulty": "Easy",
+      "question": "What was the role of technology in cricket?",
+      "options": [
+        "TV expanded audience, commercialization",
+        "No role",
+        "Reduced popularity",
+        "Only pads"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Protective equipment from 19th century, TV from 1970s made it global, Kerry Packer's World Series introduced colored uniforms, night games."
+    },
+    {
+      "level": 73,
+      "difficulty": "Medium",
+      "question": "How did decolonization affect cricket?",
+      "options": [
+        "Shifted power from England/Australia to India, Pakistan",
+        "No change",
+        "Declined",
+        "Became Olympic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ICC renamed 1965, India won World Cup 1983, shifting center to Asia with money, players."
+    },
+    {
+      "level": 74,
+      "difficulty": "Easy",
+      "question": "Who was C.K. Nayudu?",
+      "options": [
+        "First Indian Test captain",
+        "British player",
+        "Australian bowler",
+        "Umpire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nayudu led India in first Test 1932, symbolizing national pride."
+    },
+    {
+      "level": 75,
+      "difficulty": "Hard",
+      "question": "Analyze cricket's class and race dimensions.",
+      "options": [
+        "Amateur gentlemen vs professional players; racial segregation in West Indies",
+        "No divisions",
+        "Only class",
+        "Only race"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In England, amateurs (upper class) led, professionals bowled. In colonies, race divided teams until 1950s."
+    },
+    {
+      "level": 76,
+      "difficulty": "Easy",
+      "question": "How did clothing reflect social status in Europe?",
+      "options": [
+        "Sumptuary laws regulated dress by class",
+        "No regulations",
+        "Uniform for all",
+        "Only colors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chapter 'Clothing: A Social History' notes sumptuary laws (1339-19th century) restricted lower classes' clothing. Revolution abolished them for equality."
+    },
+    {
+      "level": 77,
+      "difficulty": "Medium",
+      "question": "What was the impact of Western dress in colonies?",
+      "options": [
+        "Adopted for modernity, but adapted like turban with suit",
+        "Rejected completely",
+        "No adoption",
+        "Only women"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In India, Brahmos adopted Western style, but Tagore's Brahmika sari blended. Parsi suit combined traditions."
+    },
+    {
+      "level": 78,
+      "difficulty": "Easy",
+      "question": "How did women's clothing change in 19th century?",
+      "options": [
+        "From corsets to simpler dresses for work",
+        "Became more restrictive",
+        "No change",
+        "Adopted men's clothes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victorian women wore tight corsets, but reforms for suffrage allowed practical clothing like trousers during WWI."
+    }
+  ]
   },
 };
 
