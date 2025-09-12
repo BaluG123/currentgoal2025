@@ -24505,7 +24505,826 @@ const NCERT_DATA = {
       ],
       "correctAnswer": 2,
       "explanation": "The **Ramsar Convention on Wetlands of International Importance** is an international treaty dedicated to a single type of ecosystem. Its primary mission is the **conservation and 'wise use' of all wetlands** through local, regional, and national actions and international cooperation. \n- It recognizes the fundamental ecological functions of wetlands (like water purification, flood control, and biodiversity reservoirs) as well as their economic, cultural, scientific, and recreational value. Countries that join the convention designate suitable wetlands within their territory for inclusion in the 'List of Wetlands of International Importance'. 💧"
-    }
+    },
+    {
+    "level": 113,
+    "difficulty": "Easy",
+    "question": "What is the primary difference between weather and climate?",
+    "options": [
+      "Weather is long-term, climate is short-term.",
+      "Weather is the day-to-day atmospheric condition, climate is the average over a long period.",
+      "Weather is global, climate is local.",
+      "Weather includes only temperature, climate includes all atmospheric elements."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Weather vs. Climate**: Weather refers to short-term atmospheric conditions (hours to days) at a specific place, including temperature, humidity, precipitation, wind. Climate is the average weather over a long period (30 years or more), describing patterns like seasonal rainfall or temperature trends. Example: Delhi’s hot day (weather) vs. its semi-arid climate. Climate is studied via normals (e.g., India’s monsoon climate). Influences: Latitude, altitude, ocean currents, relief. Understanding climate aids agriculture, planning. Data from IMD (India Meteorological Department). 🌦️"
+  },
+  {
+    "level": 114,
+    "difficulty": "Medium",
+    "question": "How does the Inter-Tropical Convergence Zone (ITCZ) influence the Indian monsoon?",
+    "options": [
+      "It blocks monsoon winds from reaching India.",
+      "It shifts northward in summer, attracting southwest monsoon winds.",
+      "It causes permanent low pressure over the Indian Ocean.",
+      "It diverts monsoon rains to the Pacific."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Monsoon Mechanism**: The ITCZ, a low-pressure zone near the equator where trade winds converge, shifts seasonally. In summer (June), it moves north over India’s heated plains, creating a low-pressure system that pulls moisture-laden southwest monsoon winds from the Indian Ocean. This brings 75-90% of India’s rainfall (June-Sep). Factors: Differential heating (land vs. sea), Coriolis force (deflects winds right in NH), jet streams (easterly jet aids monsoon). Variations: El Niño weakens, La Niña strengthens rains. Impacts: Agriculture (60% rain-fed), floods (2013 Uttarakhand). ☔"
+  },
+  {
+    "level": 115,
+    "difficulty": "Hard",
+    "question": "How do jet streams contribute to the onset and withdrawal of the Indian monsoon?",
+    "options": [
+      "They block monsoon winds throughout the year.",
+      "The subtropical westerly jet shifts south in summer, blocking rains.",
+      "The subtropical westerly jet moves north, and the tropical easterly jet forms, aiding monsoon onset.",
+      "They cause permanent high pressure over India."
+    ],
+    "correctAnswer": 3,
+    "explanation": "**Jet Streams and Monsoon**: Jet streams are fast, narrow air currents in the upper atmosphere (9-16 km). In winter, the subtropical westerly jet lies south of the Himalayas, blocking monsoon winds. In summer, it shifts north, and a tropical easterly jet forms over the Indian peninsula, strengthening the low-pressure system over northern plains. This pulls southwest monsoon winds (June onset). Withdrawal (Sep-Oct) occurs as the jet shifts back south, weakening the low-pressure system. Influences: El Niño (weak rains), Tibetan Plateau heating. Critical for India’s 1,200 mm average rainfall. 🌬️"
+  },
+  {
+    "level": 116,
+    "difficulty": "Easy",
+    "question": "Which type of rainfall is most common in the Western Ghats during the monsoon?",
+    "options": [
+      "Convectional rainfall",
+      "Orographic rainfall",
+      "Cyclonic rainfall",
+      "Frontal rainfall"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Types of Rainfall**: Orographic rainfall occurs when moist air rises over a mountain barrier, cools, and condenses, causing heavy rain on the windward side. In the Western Ghats, southwest monsoon winds hit the steep slopes, leading to heavy rainfall (200-400 cm, e.g., Mawsynram). Types: Convectional (hot regions, afternoon showers), cyclonic (low-pressure systems, widespread), frontal (temperate, warm-cold air meeting). Orographic rain makes the Ghats a biodiversity hotspot but causes landslides. 🌧️"
+  },
+  {
+    "level": 117,
+    "difficulty": "Medium",
+    "question": "Why is the Thar Desert a rain shadow region?",
+    "options": [
+      "It receives excessive monsoon rains.",
+      "The Aravalli Range blocks moist monsoon winds, causing aridity.",
+      "It is located near the coast, reducing precipitation.",
+      "High altitude leads to low temperatures and dry conditions."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Rain Shadow Effect**: The Thar Desert (Rajasthan, <25 cm rain) lies in the rain shadow of the Aravalli Range, which runs parallel to the southwest monsoon winds, blocking moisture. Windward side (east Aravalli) gets rain; leeward side (Thar) remains arid. Features: Sand dunes, barchans, sparse vegetation (cacti, acacias). Other factors: Continental location, high evaporation. Conservation: Indira Gandhi Canal, afforestation. Rain shadow also affects Deccan Plateau (leeward of Western Ghats, <60 cm). 🏜️"
+  },
+  {
+    "level": 118,
+    "difficulty": "Hard",
+    "question": "How does the Indian Ocean Dipole (IOD) affect monsoon rainfall in India?",
+    "options": [
+      "Positive IOD weakens monsoon rains, negative IOD strengthens them.",
+      "Positive IOD strengthens monsoon rains, negative IOD weakens them.",
+      "IOD has no impact on the monsoon.",
+      "IOD causes permanent drought in India."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Indian Ocean Dipole (IOD)**: A climate phenomenon involving sea surface temperature differences in the Indian Ocean. Positive IOD: Warmer western Indian Ocean (near Africa), cooler eastern (near Indonesia), strengthens southwest monsoon winds, increasing rainfall in India (e.g., 2019 strong monsoon). Negative IOD: Reverse, weakens monsoon (e.g., 2002 drought). Interacts with ENSO: El Niño + negative IOD worsens droughts; La Niña + positive IOD boosts rains. IOD explains 20-30% of monsoon variability, critical for agriculture planning. 🌊"
+  },
+  {
+    "level": 119,
+    "difficulty": "Easy",
+    "question": "Which landform is primarily responsible for the formation of the Indo-Gangetic Plains?",
+    "options": [
+      "Volcanic activity",
+      "Alluvial deposition by Himalayan rivers",
+      "Tectonic uplift",
+      "Wind erosion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Indo-Gangetic Plains**: Formed by alluvial deposition from Himalayan rivers (Indus, Ganga, Brahmaputra) over millions of years. Stretching 2,400 km, 240-320 km wide, these plains are fertile (khadar, bhangar soils), supporting 40% of India’s population. Features: Bhabar (pebbly), Terai (marshy), floodplains. Other landforms: Himalayas (tectonic), Deccan Plateau (volcanic), Thar (wind). Plains are India’s granary, growing rice, wheat, sugarcane, but face flood risks. 🌾"
+  },
+  {
+    "level": 120,
+    "difficulty": "Medium",
+    "question": "What is the primary geomorphic process responsible for the formation of deltas?",
+    "options": [
+      "Erosion by wind",
+      "Deposition of sediments by rivers",
+      "Tectonic folding",
+      "Glacial carving"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Fluvial Geomorphic Processes**: Deltas form when rivers deposit sediments at their mouths, building land into the sea (e.g., Sundarbans, Ganga-Brahmaputra). Processes: Erosion (upper course, V-shaped valleys), transportation, deposition (lower course, floodplains, oxbow lakes). Types: Arcuate (Ganga), bird’s foot (Mississippi). India’s deltas: Fertile, support rice, fisheries, mangroves. Contrast: Estuaries (Narmada, Tapi, steep gradient, less sediment). Sedimentation shapes 20% of India’s arable land. 🏞️"
+  },
+  {
+    "level": 121,
+    "difficulty": "Hard",
+    "question": "Why do the Western Ghats have a more pronounced effect on monsoon rainfall compared to the Eastern Ghats?",
+    "options": [
+      "Eastern Ghats are higher and block more winds.",
+      "Western Ghats are steeper and higher, causing greater orographic rainfall.",
+      "Western Ghats are closer to the equator.",
+      "Eastern Ghats receive more cyclonic rains."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Western vs. Eastern Ghats**: Western Ghats (1,600 km, 1,000-2,500 m elevation) are continuous, steep, and intercept southwest monsoon winds, causing heavy orographic rainfall (200-400 cm, Kerala). Eastern Ghats (discontinuous, lower 600-900 m) have less relief, allowing winds to pass with minimal rain (50-100 cm, Odisha). Western Ghats create a rain shadow (Deccan, <60 cm). Both are biodiversity hotspots, but Western Ghats’ evergreen forests and rivers (Godavari) are more critical for ecology, water flow. 🏞️"
+  },
+  {
+    "level": 122,
+    "difficulty": "Easy",
+    "question": "Which soil type is most prevalent in the Deccan Plateau?",
+    "options": [
+      "Alluvial soil",
+      "Black soil",
+      "Laterite soil",
+      "Red soil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Soils of India**: Black soil (regur) dominates the Deccan Plateau (Maharashtra, Gujarat, MP), formed from volcanic basalt (Deccan Traps). Features: Clayey, water-retentive, rich in calcium, magnesium, ideal for cotton. Other soils: Alluvial (plains, rice), laterite (Western Ghats, leached), red (South, iron-rich). Soil formation factors: Parent rock, climate, vegetation, time. Black soil covers 16% of India, supports 20% agricultural output. Conservation: Crop rotation, organic inputs. 🪴"
+  },
+  {
+    "level": 123,
+    "difficulty": "Medium",
+    "question": "What is the primary cause of soil degradation in the Indo-Gangetic Plains?",
+    "options": [
+      "Deforestation",
+      "Over-irrigation leading to salinization",
+      "Wind erosion",
+      "Volcanic activity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Soil Degradation**: In the Indo-Gangetic Plains, over-irrigation (canals, tube wells) causes waterlogging and salinization, affecting 10 million ha. Salts accumulate, reducing fertility. Other causes: Overgrazing (Rajasthan), deforestation (Himalayas), mining (Jharkhand). Impacts: Lower yields, desertification. Conservation: Drip irrigation, crop rotation, gypsum application. India’s 43% arable land faces 30% degradation. Soil Health Card Scheme (2015) promotes balanced fertilizers. Critical for food security (60% population agrarian). 🌱"
+  },
+  {
+    "level": 124,
+    "difficulty": "Hard",
+    "question": "How does the process of chemical weathering influence soil formation in tropical India?",
+    "options": [
+      "It breaks rocks physically, creating coarse soils.",
+      "It decomposes rocks through chemical reactions, forming clay-rich soils.",
+      "It reduces soil fertility by adding organic matter.",
+      "It prevents soil formation by removing all minerals."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Weathering and Soil Formation**: Chemical weathering (oxidation, hydrolysis, carbonation) dominates in tropical India due to high temperatures and rainfall. It breaks down rocks (e.g., basalt) into clay-rich soils like black (Deccan) or laterite (Western Ghats). Processes: Feldspar to clay, iron oxidation. Factors: Monsoon (100-200 cm rain), vegetation (humus), time. Contrast: Physical weathering (arid Rajasthan). Soils support 95% of India’s food production. Conservation: Mulching, afforestation to retain nutrients. 🪨"
+  },
+  {
+    "level": 125,
+    "difficulty": "Easy",
+    "question": "Which vegetation type is found in areas with less than 70 cm rainfall?",
+    "options": [
+      "Tropical evergreen forests",
+      "Tropical deciduous forests",
+      "Thorn forests and scrubs",
+      "Montane forests"
+    ],
+    "correctAnswer": 3,
+    "explanation": "**Natural Vegetation**: Thorn forests and scrubs occur in arid regions (<70 cm rain, Rajasthan, Gujarat). Features: Cacti, acacias, euphorbias, deep roots, reduced leaves (spines) to minimize water loss. Other types: Tropical evergreen (>200 cm, Western Ghats), deciduous (70-200 cm, MP), montane (Himalayas, pines), mangroves (Sundarbans). India: 47,000 plant species, 8% global biodiversity. Vegetation regulates climate, prevents erosion, supports wildlife (camels, wild ass in Thar). 🌵"
+  },
+  {
+    "level": 126,
+    "difficulty": "Medium",
+    "question": "Why are the Northeastern states of India a biodiversity hotspot?",
+    "options": [
+      "Due to their arid climate and desert vegetation",
+      "Because of varied topography, high rainfall, and diverse ecosystems",
+      "Owing to their flat terrain and uniform climate",
+      "Due to extensive urbanization"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Biodiversity Hotspots**: Northeast India (Eastern Himalayas, Indo-Burma hotspot) has high biodiversity due to varied altitudes (plains to 7,000 m), heavy rainfall (200-400 cm, Cherrapunji), and tropical-temperate climates. Ecosystems: Evergreen forests, grasslands, wetlands. Species: 1,500 plants (orchids), one-horned rhino, red panda, 60% of India’s birds. Threats: Deforestation (slash-and-burn), poaching. Conservation: Manas, Kaziranga National Parks, Wildlife Protection Act 1972. India hosts 4 of 36 global hotspots. 🌲"
+  },
+  {
+    "level": 127,
+    "difficulty": "Hard",
+    "question": "How do mangroves in the Sundarbans adapt to their saline environment?",
+    "options": [
+      "They develop broad leaves to capture sunlight.",
+      "They have pneumatophores and viviparous seeds to survive saline, anoxic conditions.",
+      "They rely on deep groundwater for freshwater.",
+      "They shed leaves seasonally to conserve water."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Mangrove Adaptations**: Sundarbans mangroves (Ganga-Brahmaputra delta) face saline, waterlogged, oxygen-poor soils. Adaptations: (1) Pneumatophores (breathing roots) for oxygen; (2) Vivipary (seeds germinate on tree); (3) Salt-excreting leaves. Species: Sundari, goran. Role: Coastal protection (2004 tsunami buffer), carbon sink, fisheries (70% marine species). Threats: Sea-level rise (2 mm/year), shrimp farming, pollution. Conservation: Sundarbans Biosphere Reserve, afforestation. Mangroves cover 0.14% of India’s area, vital for ecology. 🌊"
+  },
+  {
+    "level": 128,
+    "difficulty": "Easy",
+    "question": "What is the population density of India as per the 2011 Census?",
+    "options": [
+      "282 persons per sq km",
+      "382 persons per sq km",
+      "482 persons per sq km",
+      "582 persons per sq km"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Population Distribution**: 2011 Census: India’s population 1.21 billion (17.5% global), density 382 persons/sq km (global avg. 50). High density: Ganga Plains (Bihar, 1,102), low: Northeast (Arunachal, 17). Factors: Fertile soils, water, climate, jobs. Rural (68.8%), urban (31.2%). Impacts: Resource strain, urban sprawl (Delhi, 11,320/sq km). Policies: National Population Policy 2000 for sustainable growth, family planning. Density shapes infrastructure, agriculture planning. 👥"
+  },
+  {
+    "level": 129,
+    "difficulty": "Medium",
+    "question": "What is the primary reason for rural-to-urban migration in India?",
+    "options": [
+      "Better agricultural opportunities in cities",
+      "Economic opportunities like jobs and education in urban areas",
+      "Lack of urban infrastructure",
+      "Government policies restricting rural development"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Migration Patterns**: Rural-to-urban migration drives urban growth (31% urban in 2011, 600 million by 2030). Push factors: Rural unemployment, low wages, land fragmentation. Pull: Urban jobs (IT, construction), education, healthcare. Types: Seasonal (Bihar to Punjab), permanent. Impacts: Urban overcrowding (Mumbai slums, 20,000/sq km), strain on water, housing. Benefits: Labor supply, GDP growth (services 54%). Policies: Smart Cities Mission, AMRUT. Challenges: Informal jobs (60%), inequality. 🏙️"
+  },
+  {
+    "level": 130,
+    "difficulty": "Hard",
+    "question": "How does the sex ratio in India reflect social challenges, and what measures address it?",
+    "options": [
+      "High sex ratio; no social challenges.",
+      "Low sex ratio due to female foeticide; addressed by education and laws.",
+      "Balanced sex ratio due to equal opportunities.",
+      "Low sex ratio due to migration; no measures needed."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Population Composition**: 2011 Census: Sex ratio 943 females/1,000 males (improved from 933 in 2001, Kerala 1,084, Haryana 879). Low ratio due to social issues: Female foeticide, neglect, dowry deaths. Impacts: Gender imbalance, social instability. Measures: Beti Bachao Beti Padhao (2015), PC-PNDT Act (1994) bans sex-selective abortions, women’s education, empowerment. Age structure: 31% below 15, 63% working age, 6% elderly. Demographic dividend requires skill development. ⚖️"
+  },
+  {
+    "level": 131,
+    "difficulty": "Easy",
+    "question": "Which factor does NOT influence population distribution in India?",
+    "options": [
+      "Relief and terrain",
+      "Climate and water availability",
+      "Soil fertility",
+      "Proximity to the Sun"
+    ],
+    "correctAnswer": 4,
+    "explanation": "**Factors of Population Distribution**: (1) Relief: Plains (Ganga, 800/sq km) support agriculture, hills (Himalayas, <100) limit settlement. (2) Climate: Moderate (coastal) attracts, arid (Thar) repels. (3) Soil: Fertile alluvial (Punjab) vs. poor laterite. (4) Water: Rivers, canals. (5) Economy: Urban jobs (Bengaluru). (6) Transport: Railways, roads. Proximity to the Sun is irrelevant. Social factors (culture, history) also shape distribution. Uneven pattern: 90% population on 30% land. 🗺️"
+  },
+  {
+    "level": 132,
+    "difficulty": "Medium",
+    "question": "What is the significance of the demographic dividend in India?",
+    "options": [
+      "It increases dependency ratios, straining resources.",
+      "It offers economic growth potential due to a large working-age population.",
+      "It reduces population growth rates automatically.",
+      "It leads to rapid urbanization without economic benefits."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Demographic Dividend**: India’s age structure (2011): 63% working age (15-59 years), 31% youth (<15), 6% elderly. Large working population can boost GDP if skilled and employed (e.g., East Asia’s growth). Benefits: Higher productivity, savings, investment (India’s GDP growth 7% pre-COVID). Challenges: Unemployment (7% urban), low female participation (20%), skill gap. Policies: Skill India, Make in India, National Education Policy 2020. Dividend window (till 2040) requires health, education investment. 💡"
+  },
+  {
+    "level": 133,
+    "difficulty": "Hard",
+    "question": "How does urbanization impact the environment in India?",
+    "options": [
+      "It reduces pollution by centralizing resources.",
+      "It causes deforestation, air pollution, and resource strain.",
+      "It has no environmental impact.",
+      "It promotes green spaces and reduces waste."
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Urbanization and Environment**: Urban population (31% in 2011, 50% by 2050) drives: (1) Deforestation (land for cities, e.g., NCR), (2) Air pollution (Delhi PM2.5, 100 µg/m³, vehicles), (3) Water scarcity (Bengaluru over-extracts groundwater), (4) Waste (68 mt/year, 60% untreated). Impacts: Health issues (respiratory diseases), biodiversity loss. Mitigation: Green buildings, metro systems (Delhi Metro cuts 6 lakh tons CO2/year), Swachh Bharat Mission, smart cities. Sustainable urban planning critical for 600 million urbanites. 🏙️"
+  },
+  {
+    "level": 134,
+    "difficulty": "Easy",
+    "question": "What is the primary source of India’s surface water?",
+    "options": [
+      "Glaciers",
+      "Monsoon rainfall",
+      "Groundwater",
+      "Desalination"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Water Resources**: Monsoon rainfall (1,200 mm average, 75-90% in June-Sep) is India’s primary surface water source, feeding rivers (Ganga, Brahmaputra), lakes, reservoirs. Rivers: Himalayan (perennial, 70% flow), Peninsular (seasonal). Water availability: 1,869 BCM (billion cubic meters), but only 1,123 BCM usable. Uses: Irrigation (80%), domestic (8%), industry (6%). Challenges: Uneven distribution (NE wet, Rajasthan dry), over-extraction, pollution (Ganga, 3 BCM sewage). Policies: Jal Shakti Mission, river linking. 💧"
+  },
+  {
+    "level": 135,
+    "difficulty": "Medium",
+    "question": "Why is groundwater depletion a major concern in Punjab and Haryana?",
+    "options": [
+      "Due to low rainfall in the region",
+      "Over-extraction for irrigation in Green Revolution areas",
+      "Because of industrial pollution",
+      "Due to high altitude reducing recharge"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**Groundwater Resources**: India uses 25% of global groundwater (230 BCM/year), mainly for irrigation. Punjab, Haryana (Green Revolution hubs) over-extract via tube wells for rice-wheat, depleting aquifers (80% blocks overexploited). Impacts: Falling water tables (1 m/year), salinization, higher pumping costs. Recharge: Monsoon (58%), canals. Solutions: Drip irrigation, rainwater harvesting, crop diversification (millets). Central Ground Water Board monitors. Overuse threatens 60% of irrigated agriculture. 🌾"
+  },
+  {
+    "level": 136,
+    "difficulty": "Hard",
+    "question": "How does the National River Linking Project aim to address India’s water scarcity?",
+    "options": [
+      "By diverting all rivers to the sea",
+      "By transferring water from surplus to deficit river basins",
+      "By reducing monsoon rainfall dependency",
+      "By promoting desalination plants"
+    ],
+    "correctAnswer": 2,
+    "explanation": "**National River Linking Project (NRLP)**: Proposed to transfer water from surplus basins (Ganga, Brahmaputra) to deficit areas (Rajasthan, South India) via 30 links, 15,000 km canals. Aims: Irrigation (35 million ha), water supply (90 BCM), hydropower (34 GW). Example: Ken-Betwa link. Benefits: Reduces drought, floods, supports agriculture (60% rain-fed). Challenges: High cost ($200 billion), displacement (0.5 million people), ecological damage (Sundarbans). Alternatives: Watershed management, rainwater harvesting (Tamil Nadu’s 30% recharge). 💧"
+  },
+  {
+"level": 137,
+"difficulty": "Easy",
+"question": "What is the shape of the Earth?",
+"options": [
+"Flat disc",
+"Perfect sphere",
+"Oblate spheroid",
+"Cube"
+],
+"correctAnswer": 3,
+"explanation": "Earth's Shape and Size (Class 6): The Earth is an oblate spheroid, slightly flattened at the poles and bulging at the equator due to rotation. Diameter: Equatorial 12,756 km, polar 12,714 km. Proofs: Lunar eclipse shadow, ship visibility on horizon, satellite photos. Earth's circumference: 40,075 km equatorial. Unique as the only planet with life, water (71% surface), atmosphere. Part of solar system, third from Sun. Influences: Seasons, gravity variations. 🌍"
+},
+{
+"level": 138,
+"difficulty": "Medium",
+"question": "How does the Earth's rotation cause day and night?",
+"options": [
+"By revolving around the Sun",
+"By spinning on its axis every 24 hours",
+"By tilting on its axis",
+"By moving closer to the Sun"
+],
+"correctAnswer": 2,
+"explanation": "Motions of the Earth (Class 6): Rotation: Earth spins on its axis (tilted 23.5°) every 24 hours, causing day (facing Sun) and night (away). Speed: 1,670 km/h at equator. Revolution: Orbits Sun in 365.25 days, causing seasons due to tilt (summer when tilted toward Sun). Leap year every 4 years. Solstices (June 21 longest day NH, Dec 21 shortest), equinoxes (Mar 21, Sep 23 equal day/night). Influences climate, life cycles. 🌞"
+},
+{
+"level": 139,
+"difficulty": "Hard",
+"question": "What is the significance of the International Date Line?",
+"options": [
+"It marks the equator",
+"It divides the Earth into northern and southern hemispheres",
+"It is the 180° longitude where the date changes",
+"It separates time zones in India"
+],
+"correctAnswer": 3,
+"explanation": "Latitude and Longitude (Class 6): Latitude: Parallel lines from equator (0°) to poles (90° N/S), measure north-south. Longitude: Meridians from Prime Meridian (0° Greenwich) to 180° E/W, measure east-west. International Date Line (approx. 180°): Crossing east subtracts a day, west adds. Time zones: Earth divided into 24 (15° each), IST 82.5°E (5.5 hours ahead GMT). Grids locate places, e.g., Delhi 28°N, 77°E. Used in navigation, GPS. 🗺️"
+},
+{
+"level": 140,
+"difficulty": "Easy",
+"question": "Which planet is known as the Blue Planet?",
+"options": [
+"Mars",
+"Earth",
+"Venus",
+"Jupiter"
+],
+"correctAnswer": 2,
+"explanation": "Solar System (Class 6): Earth is the Blue Planet due to 71% water coverage. Solar system: Sun, 8 planets (Mercury, Venus, Earth, Mars inner; Jupiter, Saturn, Uranus, Neptune outer), dwarfs (Pluto), asteroids, comets, meteors. Sun: 99% mass, provides heat/light. Planets orbit in ellipses (Kepler's laws). Earth: Habitable zone, atmosphere (78% N, 21% O), magnetic field. Moon: Earth's satellite, causes tides. Exploration: ISRO missions. ☀️"
+},
+{
+"level": 141,
+"difficulty": "Medium",
+"question": "What are the three major domains of the Earth?",
+"options": [
+"Land, water, air",
+"Mountains, plains, oceans",
+"Continents, islands, seas",
+"Core, mantle, crust"
+],
+"correctAnswer": 1,
+"explanation": "Major Domains of the Earth (Class 6): (1) Lithosphere: Land, continents (Asia largest), islands. (2) Hydrosphere: Water, oceans (Pacific largest), seas, rivers. (3) Atmosphere: Air, layers (troposphere weather). Biosphere: Life zone intersecting all. Interactions: Water cycle, erosion. Continents: 7 (Asia, Africa, Europe, N/S America, Antarctica, Australia). Oceans: 5 (Pacific, Atlantic, Indian, Southern, Arctic). Supports biodiversity, human activities. 🌏"
+},
+{
+"level": 142,
+"difficulty": "Hard",
+"question": "How were the continents formed according to the Continental Drift Theory?",
+"options": [
+"By volcanic eruptions",
+"By breaking apart from supercontinent Pangaea",
+"By meteor impacts",
+"By ocean expansion"
+],
+"correctAnswer": 2,
+"explanation": "Major Landforms (Class 6): Continental Drift (Wegener): Continents from Pangaea (200 mya) drifted apart due to plate tectonics. Evidence: Jigsaw fit, fossils, rocks. Landforms: Mountains (fold Himalayas, block Aravalli), plateaus (Deccan), plains (Ganga). Formation: Tectonic (earthquakes, volcanoes), erosion (rivers, wind). Impacts: Himalayas block cold winds, plateaus rich minerals. India: Diverse landforms influence climate, economy. 🏔️"
+},
+{
+"level": 143,
+"difficulty": "Easy",
+"question": "What is the capital of India?",
+"options": [
+"Mumbai",
+"Delhi",
+"Kolkata",
+"Chennai"
+],
+"correctAnswer": 2,
+"explanation": "Our Country India (Class 6): India: 7th largest (3.28 million sq km), 2nd populous (1.4 billion). Location: 8-37°N, 68-97°E, Tropic of Cancer divides. Boundaries: Himalayas north, Arabian Sea west, Bay of Bengal east, Indian Ocean south. States: 28, UTs: 8. Physical: Himalayas, Plains, Plateau, Desert, Coasts, Islands. Diversity: Languages (22 official), religions, cultures. Unity in diversity. 🇮🇳"
+},
+{
+"level": 144,
+"difficulty": "Medium",
+"question": "Which is the highest mountain peak in the world?",
+"options": [
+"K2",
+"Mount Everest",
+"Kanchenjunga",
+"Nanga Parbat"
+],
+"correctAnswer": 2,
+"explanation": "India Physical Environment (Class 7): Himalayas: Young fold mountains, three ranges (Himadri: Everest 8,848 m, Himachal, Shiwalik). Divisions: Trans-Himalaya, Greater, Lesser, Outer. Passes: Shipki La, Nathu La. Influence: Monsoon barrier, river sources (Ganga). Other features: Plains (fertile), Plateau (minerals), Desert (Thar), Coasts (7,500 km). India: Diverse relief affects climate, agriculture, population. 🏔️"
+},
+{
+"level": 145,
+"difficulty": "Hard",
+"question": "How does the theory of plate tectonics explain earthquakes?",
+"options": [
+"By solar flares",
+"By movement along plate boundaries",
+"By ocean tides",
+"By wind erosion"
+],
+"correctAnswer": 2,
+"explanation": "Inside Our Earth (Class 7): Earth's interior: Crust (5-70 km, continental/oceanic), mantle (2,900 km, semi-solid), core (3,500 km, iron-nickel, 5,000°C). Plate tectonics: Lithosphere plates move (convection currents), causing earthquakes (boundaries: convergent Himalayas, divergent mid-Atlantic), volcanoes (Ring of Fire). India: Seismic zones (Zone 5 Himalayas). Rocks: Igneous (basalt), sedimentary (sandstone), metamorphic (marble). Cycle: Weathering, erosion, deposition. 🌋"
+},
+{
+"level": 146,
+"difficulty": "Easy",
+"question": "What is the main gas in the atmosphere?",
+"options": [
+"Oxygen",
+"Nitrogen",
+"Carbon dioxide",
+"Argon"
+],
+"correctAnswer": 2,
+"explanation": "Our Changing Earth (Class 7): Atmosphere: 78% nitrogen, 21% oxygen, 0.03% CO2. Layers: Troposphere (weather), stratosphere (ozone), mesosphere, thermosphere, exosphere. Changes: Weathering (physical, chemical), erosion (river V-valleys, wind dunes), deposition (deltas). Landforms: Glacial (moraines), coastal (beaches). Human impact: Deforestation accelerates erosion. Conservation: Afforestation, dams. Atmosphere protects from UV, regulates temperature. ☁️"
+},
+{
+"level": 147,
+"difficulty": "Medium",
+"question": "What causes ocean currents?",
+"options": [
+"Moon's gravity",
+"Wind, temperature, salinity differences",
+"Earth's magnetic field",
+"River inflows"
+],
+"correctAnswer": 2,
+"explanation": "Air and Water (Class 7): Ocean currents: Warm (Gulf Stream) or cold (Labrador), driven by winds, density (thermo-haline). Influence climate (Europe mild). Water cycle: Evaporation, condensation, precipitation. Oceans: 97% water, saline. Tides: Moon/Sun gravity, spring/neap. Waves: Wind-generated, tsunamis earthquakes. India: Monsoon influenced by currents (Somali warm). Pollution: Plastic, oil spills threaten marine life. 💦"
+},
+{
+"level": 148,
+"difficulty": "Hard",
+"question": "How do human activities impact natural vegetation?",
+"options": [
+"By increasing biodiversity",
+"By deforestation leading to soil erosion and climate change",
+"By reducing human population",
+"By creating new species"
+],
+"correctAnswer": 2,
+"explanation": "Natural Vegetation and Wildlife (Class 7): Vegetation: Tropical evergreen (Amazon), deciduous, coniferous (taiga), grasslands (prairies), deserts (tundra). Wildlife: Adapted to habitats (camels desert, polar bears arctic). Human impact: Deforestation (agriculture, urban), habitat loss, poaching. Conservation: National parks (Jim Corbett), biosphere reserves. India: Diverse biomes, endangered (tiger, rhino). Ecosystems: Interdependent, balance needed. 🌳"
+},
+{
+"level": 149,
+"difficulty": "Easy",
+"question": "What is a settlement?",
+"options": [
+"A natural landform",
+"A place where people live",
+"A type of climate",
+"An ocean current"
+],
+"correctAnswer": 2,
+"explanation": "Human Environment (Class 7): Settlements: Rural (villages, agriculture), urban (cities, industry). Transport: Road, rail, water, air. Communication: Mass media, internet. Evolution: Barter to money, villages to cities. Industrial Revolution: Factories, urbanization. India: Rural 68%, urban growing (jobs). Challenges: Pollution, slums. Sustainable: Green cities, public transport. 🏘️"
+},
+{
+"level": 150,
+"difficulty": "Medium",
+"question": "What are the characteristics of tropical grasslands?",
+"options": [
+"Dense forests with heavy rain",
+"Tall grasses with scattered trees, seasonal rain",
+"Cold deserts with lichens",
+"Coniferous trees in mountains"
+],
+"correctAnswer": 2,
+"explanation": "Life in Different Regions (Class 7): Tropical grasslands (savanna): Tall grasses, acacias, seasonal rain (Africa, India). Wildlife: Lions, elephants. Deserts: Hot (Sahara), cold (Ladakh), adapted life (camels, yaks). Amazon: Rainforest, biodiversity (sloths, anacondas). Human adaptations: Nomads (Tuareg), farmers. Climate change threats: Desertification, deforestation. Conservation: Protected areas. 🌿"
+},
+{
+"level": 151,
+"difficulty": "Hard",
+"question": "How does the Amazon rainforest contribute to global climate?",
+"options": [
+"By increasing CO2 levels",
+"As a carbon sink absorbing CO2, regulating rainfall",
+"By causing droughts",
+"By reducing biodiversity"
+],
+"correctAnswer": 2,
+"explanation": "Amazon Basin (Class 7): Equatorial region, heavy rain (200 cm+), dense rainforest (canopy, understory). Biodiversity: 3 million insects, birds (toucan), animals (jaguar). Tribes: Indigenous, slash-burn agriculture. Threats: Deforestation (cattle, mining), climate impact (20% oxygen production). Global role: 'Lungs of Earth', carbon sink. Conservation: International efforts, reforestation. Influences weather patterns. 🌳"
+},
+{
+"level": 152,
+"difficulty": "Easy",
+"question": "What is a resource?",
+"options": [
+"Anything useful to humans",
+"Only natural materials",
+"Man-made objects only",
+"Rare minerals"
+],
+"correctAnswer": 1,
+"explanation": "Resources (Class 8): Resources: Natural (air, water), human (skills), human-made (buildings). Classification: Renewable (solar), non-renewable (coal), ubiquitous (air), localized (gold). Utility: Technology, time change value (e.g., uranium). Conservation: Sustainable use, recycling. India: Rich coal, poor oil. Resource planning: Survey, allocation. Challenges: Overuse, pollution. ♻️"
+},
+{
+"level": 153,
+"difficulty": "Medium",
+"question": "What causes land degradation?",
+"options": [
+"Afforestation",
+"Overgrazing, deforestation, mining",
+"Crop rotation",
+"Terracing"
+],
+"correctAnswer": 2,
+"explanation": "Land Resources (Class 8): Land use: Agriculture (43%), forest (23%), barren (17%). Degradation: 130 million ha affected by erosion, salinity (Punjab over-irrigation). Causes: Overgrazing (Rajasthan), mining (Jharkhand), industrialization. Conservation: Afforestation, contour farming, shelter belts. Soil: Alluvial (plains), black (Deccan). Land planning: For food security, environment. 🌱"
+},
+{
+"level": 154,
+"difficulty": "Hard",
+"question": "How can soil erosion be prevented in hilly areas?",
+"options": [
+"By overgrazing",
+"By terrace farming and contour bunding",
+"By deforestation",
+"By heavy irrigation"
+],
+"correctAnswer": 2,
+"explanation": "Soil Resources (Class 8): Soil formation: Weathering, organic matter. Types: Alluvial (fertile), black (cotton), red (millets), laterite (cashew). Erosion: Water (gullies), wind (dunes). Prevention: Terracing (Himalayas), strip cropping, afforestation. India: 130 million ha degraded. Conservation: Organic farming, crop rotation. Soil Health Card Scheme. Vital for agriculture (95% food). 🪴"
+},
+{
+"level": 155,
+"difficulty": "Easy",
+"question": "Which is a renewable resource?",
+"options": [
+"Coal",
+"Petroleum",
+"Wind",
+"Natural gas"
+],
+"correctAnswer": 3,
+"explanation": "Natural Resources (Class 8): Renewable: Wind, solar, water (infinite). Non-renewable: Fossil fuels (finite). Distribution: Uneven (oil Middle East, coal India). Conservation: Renewables shift, efficiency. India: Solar mission (100 GW), wind (Tamil Nadu). Challenges: Energy demand, pollution. Sustainable development: Balance needs, environment. 🌬️"
+},
+{
+"level": 156,
+"difficulty": "Medium",
+"question": "What is the importance of forests?",
+"options": [
+"Only for timber",
+"Biodiversity, oxygen, soil conservation, livelihood",
+"For desert expansion",
+"For mining"
+],
+"correctAnswer": 2,
+"explanation": "Forest Resources (Class 8): Forests: 21% India land, types (evergreen, deciduous). Importance: Timber, medicine, wildlife habitat, carbon sink, prevent erosion. Deforestation: Agriculture, urban (30% loss). Conservation: Social forestry, national parks. Chipko Movement. Biodiversity: 47,000 plants. Role in climate, water cycle. 🌲"
+},
+{
+"level": 157,
+"difficulty": "Hard",
+"question": "How does over-irrigation affect soil?",
+"options": [
+"Improves fertility",
+"Causes waterlogging and salinity",
+"Reduces erosion",
+"Increases biodiversity"
+],
+"correctAnswer": 2,
+"explanation": "Water Resources (Class 8): Freshwater: 2.7% global, rivers, groundwater. Overuse: Irrigation 80%, depletion (Punjab). Pollution: Industrial, sewage (Ganga). Conservation: Rainwater harvesting, dams (Bhakra). Multipurpose projects: Flood control, power. India: Monsoon dependent, floods/droughts. Jal Shakti Abhiyan. 💧"
+},
+{
+"level": 158,
+"difficulty": "Easy",
+"question": "What is agriculture?",
+"options": [
+"Mining activity",
+"Cultivation of crops and rearing animals",
+"Industrial production",
+"Trade"
+],
+"correctAnswer": 2,
+"explanation": "Agriculture (Class 8): Types: Subsistence (small farms), commercial (plantations tea). Crops: Food (rice), fibre (cotton), beverages (coffee). India: 50% workforce, 17% GDP. Green Revolution: HYV seeds, fertilizers, increased yield but environmental costs. Sustainable: Organic, diversification. Challenges: Small holdings, monsoon. 🌾"
+},
+{
+"level": 159,
+"difficulty": "Medium",
+"question": "Which industry is agro-based?",
+"options": [
+"Iron and steel",
+"Cotton textile",
+"Petroleum",
+"Automobile"
+],
+"correctAnswer": 2,
+"explanation": "Industries (Class 8): Classification: Agro-based (textile, sugar), mineral-based (steel), large-scale (cars), small-scale (handloom). Location factors: Raw materials, power, labor. India: IT (Bengaluru), textiles (Mumbai). Pollution: Air, water. Sustainable: Clean tech, recycling. Industrial growth: 29% GDP. 🏭"
+},
+{
+"level": 160,
+"difficulty": "Hard",
+"question": "What are the factors affecting industrial location?",
+"options": [
+"Only climate",
+"Raw materials, power, market, transport, labor, capital",
+"Only government policies",
+"Only water availability"
+],
+"correctAnswer": 2,
+"explanation": "Industrial Regions (Class 8): Factors: Proximity to materials (steel Jamshedpur iron/coal), market (consumer goods cities), transport (ports Mumbai). Regions: India (Mumbai-Pune, Hooghly). Global: Silicon Valley (IT). Challenges: Pollution, urbanization. Policies: SEZs, Make in India. Growth: Jobs, economy, but environmental balance needed. 📍"
+},
+{
+"level": 161,
+"difficulty": "Easy",
+"question": "What is human resource development?",
+"options": [
+"Exploiting natural resources",
+"Improving skills and education of people",
+"Increasing population",
+"Urban migration"
+],
+"correctAnswer": 2,
+"explanation": "Human Resources (Class 8): Human resources: People as assets via education, health. Development: Skill India, schools. Population: Distribution uneven (plains high), composition (age, sex). India: Demographic dividend (youth), challenges (unemployment). HRD: For economic growth, innovation. Policies: Education for all, health schemes. 👥"
+},
+{
+"level": 162,
+"difficulty": "Medium",
+"question": "What is the difference between renewable and non-renewable resources? (Class 9-12 Summary)",
+"options": [
+"Renewable are finite, non-renewable infinite",
+"Renewable replenish naturally, non-renewable do not",
+"Renewable are man-made, non-renewable natural",
+"No difference"
+],
+"correctAnswer": 2,
+"explanation": "Resources and Development (Class 9-10): Renewable: Solar, wind (sustainable). Non-renewable: Coal, oil (exhaustible). Classification: Biotic/abiotic, potential/stock. India: Uneven (coal east). Sustainable development: Brundtland (present without compromising future). Planning: Survey, conservation. Challenges: Overuse, degradation. Acts: Forest Conservation 1980. ♻️"
+},
+{
+"level": 163,
+"difficulty": "Hard",
+"question": "Explain the impact of the Green Revolution on Indian agriculture. (Class 9-12 Summary)",
+"options": [
+"Decreased yields",
+"Increased production with HYV seeds, but environmental costs",
+"Shift to organic farming",
+"Reduced irrigation"
+],
+"correctAnswer": 2,
+"explanation": "Agriculture (Class 9-10): Green Revolution (1960s): HYV seeds, fertilizers, irrigation (Punjab, Haryana). Impact: Self-sufficiency (wheat 260 mt), but waterlogging, salinity, disparities. Types: Subsistence, commercial. Crops: Rice (kharif), wheat (rabi). Challenges: Climate change, small farms. Sustainable: Organic, millets. Second GR: Equity, ecology. 🚜"
+},
+{
+"level": 164,
+"difficulty": "Easy",
+"question": "Which is India's largest river basin? (Class 9-12 Summary)",
+"options": [
+"Godavari",
+"Ganga",
+"Brahmaputra",
+"Indus"
+],
+"correctAnswer": 2,
+"explanation": "Drainage (Class 9): Ganga basin: Largest, 8.6 lakh sq km, perennial. Himalayan: Indus, Ganga, Brahmaputra (deltas). Peninsular: Godavari (longest), Krishna (deltas/estuaries). Lakes: Wular (tectonic), Chilika (lagoon). Role: Irrigation, navigation. Issues: Pollution, floods. Narmada Bachao Andolan. 🌊"
+},
+{
+"level": 165,
+"difficulty": "Medium",
+"question": "What causes the monsoon burst in India? (Class 9-12 Summary)",
+"options": [
+"Cold winds from Himalayas",
+"Differential heating of land and sea",
+"Polar jet streams",
+"Ocean currents"
+],
+"correctAnswer": 2,
+"explanation": "Climate (Class 9): Monsoon: Seasonal wind reversal, differential heating (low pressure land summer). Onset: June 1 Kerala, burst heavy rain. Factors: ITCZ shift, jet streams, El Niño (weak rains). Seasons: Winter (dry), summer (loo), monsoon (75% rain), retreat (cyclones). Variations: >400 cm NE, <20 cm Rajasthan. Influences agriculture, economy. ☔"
+},
+{
+"level": 166,
+"difficulty": "Hard",
+"question": "Describe the biodiversity of India. (Class 9-12 Summary)",
+"options": [
+"Low due to uniform climate",
+"High with 47,000 plants, 90,000 animals",
+"Only tropical species",
+"Desert dominated"
+],
+"correctAnswer": 2,
+"explanation": "Natural Vegetation and Wildlife (Class 9): Types: Evergreen (Ghats), deciduous (MP), thorn (Rajasthan), montane (Himalayas), mangroves (Sundarbans). Biodiversity: 10% global flora, hotspots (Ghats, NE). Wildlife: Tiger (Sundarbans), rhino (Assam). Conservation: Projects Tiger/Elephant, 18 biospheres. Threats: Habitat loss, poaching. Acts: Wildlife Protection 1972. 🐅"
+},
+{
+"level": 167,
+"difficulty": "Easy",
+"question": "What is India's population growth phase since 1981? (Class 9-12 Summary)",
+"options": [
+"Stagnant",
+"Explosive",
+"Declining",
+"Steady"
+],
+"correctAnswer": 3,
+"explanation": "Population (Class 9): 2011: 1.21 billion, density 382. Growth: High but declining (1.64% 2001-11) due to family planning. Phases: Pre-1921 stagnant, 1951-81 explosive. Composition: Sex ratio 943, literacy 73%. Distribution: UP most populous, plains dense. Challenges: Unemployment, resources. NPP 2000: Stabilize, health. 👥"
+},
+{
+"level": 168,
+"difficulty": "Medium",
+"question": "What are the major mineral resources in India? (Class 9-12 Summary)",
+"options": [
+"Only coal",
+"Iron ore, coal, manganese, bauxite",
+"Gold and diamonds",
+"Uranium only"
+],
+"correctAnswer": 2,
+"explanation": "Minerals and Energy (Class 10): Metallic: Iron (Odisha), copper (Rajasthan). Non-metallic: Mica (largest producer). Energy: Coal (Jharkhand), oil (Mumbai High), nuclear (uranium Rajasthan). Renewables: Solar (Rajasthan), wind (TN). Conservation: Recycling, efficiency. Challenges: Import dependency (oil 80%), pollution. NEP 2020: 50% renewables by 2030. ⚡"
+},
+{
+"level": 169,
+"difficulty": "Hard",
+"question": "Explain the role of transport in India's economy. (Class 9-12 Summary)",
+"options": [
+"No role",
+"Connects markets, promotes trade, employment",
+"Only for tourism",
+"Reduces GDP"
+],
+"correctAnswer": 2,
+"explanation": "Lifelines of Economy (Class 10): Transport: Roads (NH 44 longest), railways (largest Asia), airways (UDAN regional), waterways (NW1 Ganga), pipelines (HBJ). Trade: Exports (gems, IT), imports (oil). Tourism: 9% GDP, cultural (Taj), eco (Sundarbans). Communication: Media, internet. Challenges: Congestion, pollution. Sagarmala, Bharatmala projects. 🛤️"
+},
+{
+"level": 170,
+"difficulty": "Easy",
+"question": "What protects Earth from UV rays? (Class 9-12 Summary)",
+"options": [
+"Troposphere",
+"Ozone layer in stratosphere",
+"Mesosphere",
+"Clouds"
+],
+"correctAnswer": 2,
+"explanation": "Atmosphere (Class 11): Layers: Troposphere (weather), stratosphere (ozone absorbs UV), mesosphere (cold), thermosphere (ions), exosphere. Composition: N 78%, O 21%. Functions: Protects life, weather. Pollution: Ozone depletion (CFCs), global warming. India: Monsoon, jet streams. ☁️"
+},
+{
+"level": 171,
+"difficulty": "Medium",
+"question": "What causes seasons? (Class 9-12 Summary)",
+"options": [
+"Earth's rotation",
+"Tilt of axis and revolution around Sun",
+"Moon's orbit",
+"Solar flares"
+],
+"correctAnswer": 2,
+"explanation": "World Climate (Class 11): Seasons: Earth's 23.5° tilt, revolution. Climates: Tropical (monsoon), temperate (Mediterranean), polar (tundra). Influences: Latitude, altitude, currents (Gulf Stream). India: Monsoon, factors (relief, distance sea). Koppen classification. Seasons: Winter, summer, rainy. 📅"
+},
+{
+"level": 172,
+"difficulty": "Hard",
+"question": "Describe plate tectonics. (Class 9-12 Summary)",
+"options": [
+"Static plates",
+"Moving plates causing earthquakes, mountains",
+"Only volcanic activity",
+"Weather patterns"
+],
+"correctAnswer": 2,
+"explanation": "Geomorphic Processes (Class 11): Plate tectonics: Convergent (Himalayas), divergent (ridges), transform (faults). Endogenic: Volcanoes, earthquakes. Exogenic: Erosion (fluvial deltas, glacial fjords, aeolian dunes). India: Himalayas young, Peninsular old. Landforms: Plains fertile, plateaus minerals. 🏞️"
+},
+{
+"level": 173,
+"difficulty": "Easy",
+"question": "Which is India's wettest place? (Class 9-12 Summary)",
+"options": [
+"Cherrapunji",
+"Mawsynram",
+"Jaisalmer",
+"Leh"
+],
+"correctAnswer": 2,
+"explanation": "India Climate (Class 12): Mawsynram (1,187 cm rain), orographic. Monsoon: SW (June-Sep), NE (Oct-Dec Tamil Nadu). Variations: Wet NE, dry Rajasthan. Factors: Relief (Ghats shadow), cyclones. Climate change: Erratic rains, floods. IMD monitoring. 🌧️"
+},
+{
+"level": 174,
+"difficulty": "Medium",
+"question": "What is the demographic transition in India? (Class 9-12 Summary)",
+"options": [
+"High birth/death to low",
+"Low to high growth",
+"Stable population",
+"Migration only"
+],
+"correctAnswer": 1,
+"explanation": "Population (Class 12): Transition: High birth/death (pre-1921), declining death (1921-51), high growth (1951-81), slowing (post-1981). 2011: 1.21b, growth 1.64%. Composition: Youth bulge. Challenges: Urbanization, jobs. Policies: Family welfare, skill development. Dividend potential. 📈"
+},
+{
+"level": 175,
+"difficulty": "Hard",
+"question": "How to address water scarcity in India? (Class 9-12 Summary)",
+"options": [
+"Ignore it",
+"Rainwater harvesting, river linking",
+"Increase imports",
+"Reduce agriculture"
+],
+"correctAnswer": 2,
+"explanation": "Water Resources (Class 12): Scarcity: Overuse (irrigation 80%), pollution. Solutions: Harvesting (Rajasthan johads), NRLP (surplus to deficit), efficient irrigation (drip). Groundwater: 40% supply, depleting NW. Rivers: Perennial/seasonal. Jal Jeevan Mission: Tap water all. Sustainable management key. 💧"
+}
     ]
   },
 };
