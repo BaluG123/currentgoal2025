@@ -44798,6 +44798,7877 @@ export const QUIZ_DATA = {
       difficulty: 'Easy',
       hint: 'Think about attractive appearance',
     },
+    {
+      "level": 3,
+      "mainsubject": "Language & Communication",
+      "question": "The first computer architecture was introduced in",
+      "options": ["1970", "1968", "1971", "1973"],
+      "correctAnswer": 1,
+      "explanation": "The first computer architecture was introduced in 1970 by John Von Neumann[cite: 110].",
+      "difficulty": "Easy",
+      "hint": "It was introduced by John Von Neumann in the early 70s."
+    },
+    {
+      "level": 4,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is a metal or plastic case that holds all the physical parts of the computer?",
+      "options": ["System unit", "CPU", "Mainframe", "Platform"],
+      "correctAnswer": 1,
+     "explanation": "The system unit is defined as a metal or plastic case that holds all the physical parts of the computer[cite: 124].",
+      "difficulty": "Easy",
+      "hint": "This component is the main container for the computer's internal parts."
+    },
+    {
+      "level": 5,
+      "mainsubject": "Language & Communication",
+      "question": "The CPU is made up of two smaller components",
+      "options": ["ALU and CU", "ALU and RAM", "RAM and ROM", "RAM and CU"],
+      "correctAnswer": 1,
+      "explanation": "The CPU consists of main sub-systems including the Arithmetic Logic Unit (ALU) and the Control Unit (CU)[cite: 149].",
+      "difficulty": "Easy",
+      "hint": "These two components handle calculations/logic and coordinate operations."
+    },
+    {
+      "level": 6,
+      "mainsubject": "Language & Communication",
+      "question": "Which key is also known as toggle keys?",
+      "options": ["Caps lock", "Num lock", "Both (1) and (2)", "None of these"],
+      "correctAnswer": 3,
+      "explanation": "Caps Lock and Num Lock keys are called 'toggle keys' because they change their status from one state to another when pressed[cite: 391].",
+      "difficulty": "Easy",
+      "hint": "These keys change their state (on/off) each time they are pressed."
+    },
+    {
+      "level": 7,
+      "mainsubject": "Language & Communication",
+      "question": "First computer mouse was built by",
+      "options": ["Douglas Engelbart", "William English", "Oaniel Coogher", "Robert Zawacki"],
+      "correctAnswer": 1,
+      "explanation": "The mouse was invented by Douglas Engelbart at the Stanford Research Centre in 1963[cite: 396].",
+      "difficulty": "Medium",
+      "hint": "He invented it at the Stanford Research Centre in the 1960s."
+    },
+    {
+      "level": 8,
+      "mainsubject": "Language & Communication",
+      "question": "The two kinds of main memory are",
+      "options": ["ROM and RAM", "primary and secondary", "floppy disk and hard disk", "direct and sequential"],
+      "correctAnswer": 1,
+      "explanation": "Primary memory is classified into two main types: Random Access Memory (RAM) and Read Only Memory (ROM)[cite: 602].",
+      "difficulty": "Easy",
+      "hint": "One is volatile and the other is non-volatile."
+    },
+    {
+      "level": 9,
+      "mainsubject": "Language & Communication",
+      "question": "Permanent instructions that the computer uses when it is turned ON and that cannot be changed by other instructions are contained in",
+      "options": ["ROM", "RAM", "ALU", "SRAM"],
+      "correctAnswer": 1,
+      "explanation": "Read Only Memory (ROM) is a non-volatile or permanent storage that does not lose its contents when the power is switched off. [cite_start]Once programmed, it cannot be easily rewritten, making it ideal for storing permanent startup instructions[cite: 609, 610, 612].",
+      "difficulty": "Medium",
+      "hint": "This type of memory is non-volatile and is read-only."
+    },
+    {
+      "level": 10,
+      "mainsubject": "Language & Communication",
+      "question": "The number system based on ‘0’ and ‘1’ only, is known as",
+      "options": ["binary system", "barter system", "number system", "hexadecimal system"],
+      "correctAnswer": 1,
+      "explanation": "The Binary Number System contains only two unique digits, 0s and 1s[cite: 764].",
+      "difficulty": "Easy",
+      "hint": "This is also known as the Base 2 system."
+    },
+    {
+      "level": 11,
+      "mainsubject": "Language & Communication",
+      "question": "ASCII stands for",
+      "options": ["American Special Computer for Information Interaction", "American Standard Computer for Information Interchange", "American Special Code for Information Interchange", "American Standard Code for Information Interchange"],
+      "correctAnswer": 4,
+      "explanation": "ASCII is an acronym for American Standard Code for Information Interchange[cite: 810].",
+      "difficulty": "Easy",
+      "hint": "It's a standard character encoding used in electronic communication."
+    },
+    {
+      "level": 12,
+      "mainsubject": "Language & Communication",
+      "question": "Operating system is a",
+      "options": ["application software", "system software", "hardware", "language"],
+      "correctAnswer": 2,
+      "explanation": "The operating system is a type of system software, which consists of programs that control, coordinate, and supervise the activities of various computer components[cite: 878, 879].",
+      "difficulty": "Easy",
+      "hint": "This software manages computer hardware and provides common services for computer programs."
+    },
+    {
+      "level": 13,
+      "mainsubject": "Language & Communication",
+      "question": "Which process refers to the starting up of a computer and the loading of the required parts of the operating system into the RAM?",
+      "options": ["Swipping", "Booting", "Mapping", "Tagging"],
+      "correctAnswer": 2,
+      "explanation": "Booting is the process of starting up a computer or a computer appliance until it can be used[cite: 1039].",
+      "difficulty": "Easy",
+      "hint": "This process can be 'cold' or 'warm'."
+    },
+    {
+      "level": 14,
+      "mainsubject": "Language & Communication",
+      "question": "A set of rules for telling the computer what operations to perform is called a",
+      "options": ["Procedural language", "Structures", "Natural language", "Programming language"],
+      "correctAnswer": 4,
+      "explanation": "A programming language is a set of commands, instructions, and other syntax used to create a software program[cite: 1133].",
+      "difficulty": "Easy",
+      "hint": "Programmers use this to write computer programs."
+    },
+    {
+      "level": 15,
+      "mainsubject": "Language & Communication",
+      "question": "All the deleted files go to",
+      "options": ["Recycle Bin", "Task Bar", "Tool Bar", "My Computer"],
+      "correctAnswer": 1,
+      "explanation": "The Recycle Bin is an icon on the desktop that contains deleted files, folders, or shortcuts. [cite_start]When a file or folder is deleted, it goes to the recycle bin[cite: 1267, 1268].",
+      "difficulty": "Easy",
+      "hint": "It's a temporary storage place for deleted files, from which they can often be restored."
+    },
+    {
+      "level": 16,
+      "mainsubject": "Language & Communication",
+      "question": "Portrait and landscape are",
+      "options": ["page orientation", "paper size", "page layout", "page margin"],
+      "correctAnswer": 1,
+      "explanation": "Page orientation in MS-Word facilitates the selection of how text is printed or viewed on a page, offering 'Portrait' for vertical orientation and 'Landscape' for horizontal orientation[cite: 1408].",
+      "difficulty": "Easy",
+      "hint": "This setting determines whether the page is displayed vertically or horizontally."
+    },
+    {
+      "level": 17,
+      "mainsubject": "Language & Communication",
+      "question": "Geometric arrangement of devices on the network is called",
+      "options": ["topology", "protocol", "media", "LAN"],
+      "correctAnswer": 1,
+      "explanation": "The term 'topology' refers to the way a network is laid out, either physically or logically, and can be referred to as the geometric arrangement of a computer system[cite: 1940, 1941].",
+      "difficulty": "Easy",
+      "hint": "Examples include Bus, Star, and Ring."
+    },
+    {
+      "level": 18,
+      "mainsubject": "Language & Communication",
+      "question": "The Internet is a system of",
+      "options": ["software bundles", "web page", "website", "interconnected networks"],
+      "correctAnswer": 4,
+      "explanation": "The Internet is described as a 'network of networks' consisting of millions of private and public networks[cite: 2061].",
+      "difficulty": "Easy",
+      "hint": "It's often described as a 'network of networks'."
+    },
+    {
+      "level": 19,
+      "mainsubject": "Language & Communication",
+      "question": "It is a self-replicating program that infects computer and spreads by inserting copies of itself into other executable code or documents.",
+      "options": ["Keylogger", "Worm", "Virus", "Cracker"],
+      "correctAnswer": 3,
+      "explanation": "A computer virus is a software program that spreads from one computer to another by copying itself and attaching itself to other programs, which then spreads the infection further[cite: 2295, 2333].",
+      "difficulty": "Medium",
+      "hint": "This type of malware attaches itself to other programs to spread."
+    },
+    {
+        "level": 20,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is considered a feature of a computer?",
+        "options": ["Speed", "Accuracy", "Storage Capacity", "All of these"],
+        "correctAnswer": 4,
+        "explanation": "Computers are known for their high speed, accuracy, large storage capacity, versatility, and diligence, among other features.",
+        "difficulty": "Easy",
+        "hint": "Think about the main advantages a computer has over manual calculation and data handling."
+    },
+    {
+        "level": 21,
+        "mainsubject": "Language & Communication",
+        "question": "Who is known for inventing the Analytical Engine in 1837, considered a precursor to the general-purpose computer?",
+        "options": ["Blaise Pascal", "John Napier", "Charles Babbage", "Herman Hollerith"],
+        "correctAnswer": 3,
+        "explanation": "The Analytical Engine, invented by Charles Babbage in London in 1837, was the first general-purpose computer.",
+        "difficulty": "Medium",
+        "hint": "This London-based inventor is often called the 'father of the computer'."
+    },
+    {
+        "level": 22,
+        "mainsubject": "Language & Communication",
+        "question": "The first generation of computers (1940-56) used which of the following for its circuitry?",
+        "options": ["Transistors", "Integrated Circuits", "Microprocessors", "Vacuum tubes"],
+        "correctAnswer": 4,
+        "explanation": "First-generation computers used vacuum tubes as their primary switching device.",
+        "difficulty": "Easy",
+        "hint": "This technology generated a lot of heat and was very large."
+    },
+    {
+        "level": 23,
+        "mainsubject": "Language & Communication",
+        "question": "Which generation of computers introduced transistors, which were smaller, faster, and more reliable than their predecessors?",
+        "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
+        "correctAnswer": 2,
+        "explanation": "Second-generation computers (1956-63) used transistors made of semiconductors as their switching device, making them more reliable and smaller than first-generation computers.",
+        "difficulty": "Easy",
+        "hint": "This generation replaced large, hot vacuum tubes with smaller components."
+    },
+    {
+        "level": 24,
+        "mainsubject": "Language & Communication",
+        "question": "Integrated Circuits (ICs) were the hallmark of which computer generation?",
+        "options": ["Second Generation", "Third Generation", "Fourth Generation", "Fifth Generation"],
+        "correctAnswer": 2,
+        "explanation": "Third-generation computers (1964-71) were characterized by the use of Integrated Circuits (ICs), which were made of silicon.",
+        "difficulty": "Easy",
+        "hint": "These components, also known as microchips, placed many transistors onto a single piece of silicon."
+    },
+    {
+        "level": 25,
+        "mainsubject": "Language & Communication",
+        "question": "A minicomputer is more powerful than a microcomputer but less powerful than a what?",
+        "options": ["Supercomputer", "Mainframe computer", "Workstation", "Laptop"],
+        "correctAnswer": 2,
+        "explanation": "Minicomputers are described as being smaller in size, faster, and costing less than mainframe computers.",
+        "difficulty": "Medium",
+        "hint": "These large computers are often used by big organizations for bulk data processing."
+    },
+    {
+        "level": 26,
+        "mainsubject": "Language & Communication",
+        "question": "Which circuit board is used in all electronic systems such as computers and calculators?",
+        "options": ["Architecture", "Printer", "Value", "Microprocessor"],
+        "correctAnswer": 4,
+        "explanation": "A microprocessor is a large Printed Circuit Board (PCB) that is used in all electronic systems such as computers, calculators, and digital systems.",
+        "difficulty": "Easy",
+        "hint": "This is the 'chip' that acts as the computer's brain."
+    },
+    {
+        "level": 27,
+        "mainsubject": "Language & Communication",
+        "question": "The components that process data are located in which of the following?",
+        "options": ["Input devices", "Output devices", "System unit", "Storage component"],
+        "correctAnswer": 3,
+        "explanation": "The system unit is the case that holds all the physical parts of the computer, and the components that process data are located in it.",
+        "difficulty": "Easy",
+        "hint": "This is the main case or 'box' of a desktop computer."
+    },
+    {
+        "level": 28,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is NOT responsible for the performance of the computer?",
+        "options": ["Number of keys in the keyboard", "Format of the video/graphics word", "Memory in the video/graphics word", "The clock speed of the processor"],
+        "correctAnswer": 1,
+        "explanation": "The number of keys on a keyboard is a feature of an input peripheral and does not directly impact the processing performance of the computer itself. Processor speed, memory, and graphics capabilities are all performance factors.",
+        "difficulty": "Easy",
+        "hint": "Consider which option relates to data input versus data processing."
+    },
+    {
+        "level": 29,
+        "mainsubject": "Language & Communication",
+        "question": "Information that comes from an external source and is fed into computer software is called what?",
+        "options": ["output", "input", "throughout", "process"],
+        "correctAnswer": 2,
+        "explanation": "Information or data that is entered into a computer is called input. It sends data and instructions to the Central Processing Unit (CPU).",
+        "difficulty": "Easy",
+        "hint": "This is the first step in the basic functions of a computer."
+    },
+    {
+        "level": 30,
+        "mainsubject": "Language & Communication",
+        "question": "What is the responsibility of the logical unit in the CPU of a computer?",
+        "options": ["To produce result", "To compare numbers", "To control flow of information", "To do maths work"],
+        "correctAnswer": 2,
+        "explanation": "The Arithmetic Logic Unit (ALU) in the CPU executes all arithmetic and logical operations, which include comparison operations like equal to, less than, and greater than.",
+        "difficulty": "Easy",
+        "hint": "This unit performs comparisons such as 'less than' or 'equal to'."
+    },
+    {
+        "level": 31,
+        "mainsubject": "Language & Communication",
+        "question": "The CPU and memory are located in which of the following devices?",
+        "options": ["Motherboard", "Expansion board", "Storage device", "Output device"],
+        "correctAnswer": 1,
+        "explanation": "The motherboard is the main circuit board in a computer, and all other electronic devices and circuits, including the CPU (processor chip) and RAM/ROM, are attached to it.",
+        "difficulty": "Easy",
+        "hint": "This is the main circuit board of a computer."
+    },
+    {
+        "level": 32,
+        "mainsubject": "Language & Communication",
+        "question": "A physical connection between the microprocessor memory and other parts of the micro computer is known as an",
+        "options": ["path", "address bus", "route", "All of these"],
+        "correctAnswer": 2,
+        "explanation": "A bus is a set of wires for interconnection. The address bus specifically carries the address of I/O devices or memory, forming a physical connection pathway.",
+        "difficulty": "Medium",
+        "hint": "This type of bus carries the location information for data, not the data itself."
+    },
+    {
+        "level": 33,
+        "mainsubject": "Language & Communication",
+        "question": "Any component of the computer you can see and touch is",
+        "options": ["software", "peripheral", "storage", "CPU", "hardware"],
+        "correctAnswer": 5,
+        "explanation": "Computer hardware refers to the physical components of a computer that can be seen and touched by the user.",
+        "difficulty": "Easy",
+        "hint": "This term refers to the physical parts of a computer."
+    },
+    {
+        "level": 34,
+        "mainsubject": "Language & Communication",
+        "question": "The most common method of entering text and numerical data into a computer system is through the use of a",
+        "options": ["plotter", "scanner", "printer", "keyboard"],
+        "correctAnswer": 4,
+        "explanation": "A keyboard is used to enter data or information, which can be in numeric or alphabetic form, into a computer system.",
+        "difficulty": "Easy",
+        "hint": "This input device has a layout similar to a typewriter."
+    },
+    {
+        "level": 35,
+        "mainsubject": "Language & Communication",
+        "question": "You can use the Tab key to",
+        "options": ["move a cursor across the screen", "indent a paragraph", "move the cursor down the screen", "Both (1) and (2)"],
+        "correctAnswer": 2,
+        "explanation": "The Tab key is used to move the cursor to a pre-set point. In a Word document, the tab is specifically used to indent a paragraph.",
+        "difficulty": "Easy",
+        "hint": "In word processing, this key helps create space at the beginning of a line."
+    },
+    {
+        "level": 36,
+        "mainsubject": "Language & Communication",
+        "question": "Shift, Ctrl, and Alt are examples of which key category?",
+        "options": ["Modifier keys", "Primary keys", "Function keys", "Alternate keys"],
+        "correctAnswer": 1,
+        "explanation": "Shift, Ctrl, and Alt keys are known as modifier keys because they are always used in combination with other keys to perform a special operation.",
+        "difficulty": "Easy",
+        "hint": "These keys are used in combination with other keys to change their function."
+    },
+    {
+        "level": 37,
+        "mainsubject": "Language & Communication",
+        "question": "A joystick is primarily used for what purpose?",
+        "options": ["control sound on the screen", "computer gaming", "enter text", "draw pictures"],
+        "correctAnswer": 2,
+        "explanation": "Joysticks are often used in applications like flight simulators and Computer Aided Design/Manufacturing (CAD/CAM) systems, making them ideal for gaming and control-based tasks.",
+        "difficulty": "Easy",
+        "hint": "This input device is popular for flight simulators and video games."
+    },
+    {
+        "level": 38,
+        "mainsubject": "Language & Communication",
+        "question": "The pattern of printed lines on most products is called",
+        "options": ["prices", "OCR", "scanners", "barcodes"],
+        "correctAnswer": 4,
+        "explanation": "A barcode reader is an input device used for reading printed barcodes, which are patterns of dark and light stripes found on products.",
+        "difficulty": "Easy",
+        "hint": "These are scanned at checkout counters in stores."
+    },
+    {
+        "level": 39,
+        "mainsubject": "Language & Communication",
+        "question": "What does MICR stand for?",
+        "options": ["Magnetic Ink Character Register", "Magnetic Ink Code Reader", "Magnetic Ink Code Register", "Magnetic Ink Character Recognition"],
+        "correctAnswer": 4,
+        "explanation": "MICR stands for Magnetic Ink Character Recognition. It is a technology used to read characters printed with a special ink containing iron oxide, commonly used by banks to process cheques.",
+        "difficulty": "Medium",
+        "hint": "This technology is commonly used on bank checks."
+    },
+    {
+        "level": 40,
+        "mainsubject": "Language & Communication",
+        "question": "A scanner scans",
+        "options": ["pictures", "text", "both pictures and text", "neither pictures nor text"],
+        "correctAnswer": 3,
+        "explanation": "A scanner is an optical input device used to convert an image, which can include documents with text and pictures, into an electronic form that can be stored on a computer.",
+        "difficulty": "Easy",
+        "hint": "This device converts physical documents into digital files."
+    },
+    {
+        "level": 41,
+        "mainsubject": "Language & Communication",
+        "question": "Soft copy refers to",
+        "options": ["printed output", "digitising", "music sounds", "screen output"],
+        "correctAnswer": 4,
+        "explanation": "An output device receives data and translates it into another form, which can be a visual display on a monitor. This on-screen display is known as a soft copy, as opposed to a hard copy like a printed document. A monitor is also known as a Visual Display Unit (VDU).",
+        "difficulty": "Easy",
+        "hint": "This is the opposite of a 'hard copy'."
+    },
+    {
+        "level": 42,
+        "mainsubject": "Language & Communication",
+        "question": "The speed of a printer is measured in",
+        "options": ["CPS (Characters Per Second)", "LPM (Lines Per Minute)", "PPM (Pages Per Minute)", "All of these"],
+        "correctAnswer": 4,
+        "explanation": "The speed of a printer can be measured in Characters Per Second (CPS), Lines Per Minute (LPM), and Pages Per Minute (PPM).",
+        "difficulty": "Medium",
+        "hint": "Different units are used depending on the type and speed of the printer."
+    },
+    {
+        "level": 43,
+        "mainsubject": "Language & Communication",
+        "question": "How many types of memory does a computer have?",
+        "options": ["Four", "Eight", "One", "Two"],
+        "correctAnswer": 4,
+        "explanation": "Computer memory is broadly divided into two types: Primary Memory (main memory) and Secondary Memory (storage).",
+        "difficulty": "Easy",
+        "hint": "Think about main memory versus long-term storage."
+    },
+    {
+        "level": 44,
+        "mainsubject": "Language & Communication",
+        "question": "What is the full form of RAM?",
+        "options": ["Random Access Memory", "Repeated Access Memory", "Rapid Access Memory", "Regular Access Memory"],
+        "correctAnswer": 1,
+        "explanation": "RAM stands for Random Access Memory. It is also known as read/write memory and is used for temporary storage of data that the CPU is actively using.",
+        "difficulty": "Easy",
+        "hint": "This is a type of volatile memory."
+    },
+    {
+        "level": 45,
+        "mainsubject": "Language & Communication",
+        "question": "Storage that retains its data after the power is turned OFF is referred to as",
+        "options": ["volatile storage", "non-volatile storage", "sequential storage", "direct storage"],
+        "correctAnswer": 2,
+        "explanation": "Non-volatile memory, like ROM, does not lose its contents when the power is switched off.",
+        "difficulty": "Easy",
+        "hint": "This type of storage is permanent."
+    },
+    {
+        "level": 46,
+        "mainsubject": "Language & Communication",
+        "question": "The difference between memory and storage is that memory is ______ and storage is ______.",
+        "options": ["temporary; permanent", "permanent; temporary", "slow; fast", "non-volatile; volatile"],
+        "correctAnswer": 1,
+        "explanation": "Primary memory (like RAM) is typically volatile and stores data for immediate manipulation, making it temporary. Secondary storage (like a hard disk) is non-volatile and stores data for extended periods, making it permanent.",
+        "difficulty": "Medium",
+        "hint": "Think about where data goes when you're working on it versus where you save it."
+    },
+    {
+        "level": 47,
+        "mainsubject": "Language & Communication",
+        "question": "Hard disk devices are considered ______ storage.",
+        "options": ["flash", "temporary", "worthless", "non-volatile"],
+        "correctAnswer": 4,
+        "explanation": "A Hard Disk Drive (HDD) is a non-volatile data storage device, meaning it retains its data even when the power is turned off.",
+        "difficulty": "Easy",
+        "hint": "Data on this device remains even after you turn off the computer."
+    },
+    {
+        "level": 48,
+        "mainsubject": "Language & Communication",
+        "question": "The process of dividing the disc into tracks and sectors is called",
+        "options": ["Tracking", "Formatting", "Crashing", "Allotting"],
+        "correctAnswer": 2,
+        "explanation": "Information on a hard disk platter is recorded in bands called tracks, which are further divided into pie-shaped sections known as sectors. The process of creating this structure is formatting.",
+        "difficulty": "Medium",
+        "hint": "This process prepares a disk for use by an operating system."
+    },
+    {
+        "level": 49,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is the largest unit of storage?",
+        "options": ["GB", "KB", "MB", "TB"],
+        "correctAnswer": 4,
+        "explanation": "The units of memory measurement in increasing order are Byte, KiloByte (KB), MegaByte (MB), GigaByte (GB), and TeraByte (TB). Therefore, a Terabyte (TB) is the largest unit among the options.",
+        "difficulty": "Easy",
+        "hint": "The order goes Kilo, Mega, Giga, Tera."
+    },
+    {
+        "level": 50,
+        "mainsubject": "Language & Communication",
+        "question": "The number system based on '0' and '1' only is known as",
+        "options": ["binary system", "barter system", "number system", "hexadecimal system"],
+        "correctAnswer": 1,
+        "explanation": "The Binary Number System contains only two unique digits, 0s and 1s, and is also known as the Base 2 system.",
+        "difficulty": "Easy",
+        "hint": "This is also called the Base 2 system."
+    },
+    {
+        "level": 51,
+        "mainsubject": "Language & Communication",
+        "question": "A hexadecimal number is represented by",
+        "options": ["three digits", "four binary digits", "four digits", "All of these"],
+        "correctAnswer": 2,
+        "explanation": "To convert a hexadecimal digit to its binary equivalent, each digit is converted to a group of 4 bits. For example, the hexadecimal digit 'A' is '1010' in binary.",
+        "difficulty": "Medium",
+        "hint": "Think about how many combinations are needed to represent 16 values (0-15)."
+    },
+    {
+        "level": 52,
+        "mainsubject": "Language & Communication",
+        "question": "The binary equivalent of decimal number 98 is",
+        "options": ["1110001", "1110100", "1100010", "1111001"],
+        "correctAnswer": 3,
+        "explanation": "To convert a decimal number to binary, you repeatedly divide the number by 2 and record the remainders. Reading the remainders from bottom to top gives the binary equivalent. 98 / 2 = 49 R 0; 49 / 2 = 24 R 1; 24 / 2 = 12 R 0; 12 / 2 = 6 R 0; 6 / 2 = 3 R 0; 3 / 2 = 1 R 1; 1 / 2 = 0 R 1. This gives 1100010.",
+        "difficulty": "Medium",
+        "hint": "Use the division-by-2 method to convert from decimal to binary."
+    },
+    {
+        "level": 53,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following character sets supports Japanese and Chinese fonts?",
+        "options": ["EBCDIC", "ASCII", "BC", "UNICODE"],
+        "correctAnswer": 4,
+        "explanation": "UNICODE uses 16-bits to represent a symbol and can represent non-English characters like Chinese and Japanese.",
+        "difficulty": "Medium",
+        "hint": "This modern character set was designed to support all languages."
+    },
+    {
+        "level": 54,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following are known as universal gates?",
+        "options": ["NAND and NOR", "AND and OR", "XOR and OR", "AND"],
+        "correctAnswer": 1,
+        "explanation": "NAND and NOR gates are called universal gates because they can be used to implement any other type of logic gate.",
+        "difficulty": "Medium",
+        "hint": "These two logic gates can be combined to create any other logic gate."
+    },
+    {
+        "level": 55,
+        "mainsubject": "Language & Communication",
+        "question": "The term used to describe the intangible instructions that tell the computer what to do is",
+        "options": ["hardware", "software", "storage", "input/output"],
+        "correctAnswer": 2,
+        "explanation": "Software is a collection of computer programs and related data that provide the instructions for telling a computer what to do and how to do it.",
+        "difficulty": "Easy",
+        "hint": "This is the non-physical part of a computer system."
+    },
+    {
+        "level": 56,
+        "mainsubject": "Language & Communication",
+        "question": "The two broad categories of software are",
+        "options": ["word processing and spreadsheet", "transaction and application", "Windows and Mac OS", "system and application"],
+        "correctAnswer": 4,
+        "explanation": "Software is broadly categorized into System software and Application software.",
+        "difficulty": "Easy",
+        "hint": "One category manages the computer itself, while the other is for user tasks."
+    },
+    {
+        "level": 57,
+        "mainsubject": "Language & Communication",
+        "question": "What does the acronym BIOS stand for?",
+        "options": ["Basic Input/Outer System", "Basic Internal Output System", "Basic Input/Output System", "Basic Input/Output Systemisation"],
+        "correctAnswer": 3,
+        "explanation": "BIOS stands for Basic Input/Output System. It is used to initialize system devices like RAM and hard disks when the computer starts.",
+        "difficulty": "Easy",
+        "hint": "This firmware runs when you first turn on your computer."
+    },
+    {
+        "level": 58,
+        "mainsubject": "Language & Communication",
+        "question": "A software program that adds functionality to your computer or helps it perform better is called a(n)",
+        "options": ["utility program", "function program", "specialised program", "manufacturer program"],
+        "correctAnswer": 1,
+        "explanation": "System utilities are programs that perform tasks related to the maintenance of the computer system, used to support, enhance, expand, and secure existing programs.",
+        "difficulty": "Easy",
+        "hint": "Examples include anti-virus software and disk defragmenters."
+    },
+    {
+        "level": 59,
+        "mainsubject": "Language & Communication",
+        "question": "What type of software creates a smaller file that is faster to transfer over the Internet?",
+        "options": ["Compression", "Fragmentation", "Unzipped", "Encapsulation"],
+        "correctAnswer": 1,
+        "explanation": "Disk Compression is a utility that increases the amount of information that can be stored on a disk by compressing all information stored on it, which results in smaller files.",
+        "difficulty": "Easy",
+        "hint": "This process is often called 'zipping' a file."
+    },
+    {
+        "level": 60,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is NOT an open source software?",
+        "options": ["Linux", "Microsoft Office", "Mozilla Firefox", "Android"],
+        "correctAnswer": 2,
+        "explanation": "Open source software is distributed with its source code available for modification. Linux is a well-known example of OSS. Microsoft Office is proprietary software, meaning its source code is kept secret.",
+        "difficulty": "Easy",
+        "hint": "One of these is a commercial product with major restrictions on its use and modification."
+    },
+    {
+        "level": 61,
+        "mainsubject": "Language & Communication",
+        "question": "An Operating System (OS) acts as an interface between the user and the",
+        "options": ["Software", "Memory", "Computer Hardware", "Screen"],
+        "correctAnswer": 3,
+        "explanation": "An Operating System (OS) is a program which acts as an interface between the user and the computer hardware.",
+        "difficulty": "Easy",
+        "hint": "The OS manages the physical components of the computer."
+    },
+    {
+        "level": 62,
+        "mainsubject": "Language & Communication",
+        "question": "A computer cannot 'boot' if it does not have the",
+        "options": ["compiler", "loader", "operating system", "assembler"],
+        "correctAnswer": 3,
+        "explanation": "The operating system is a program that must be on any computer for proper booting. Booting is the process of starting up a computer, which involves loading the OS.",
+        "difficulty": "Easy",
+        "hint": "This is the core software that manages the entire computer."
+    },
+    {
+        "level": 63,
+        "mainsubject": "Language & Communication",
+        "question": "Operating system that allows only one user to work on a computer at a time is known as",
+        "options": ["single user operating system", "multi user operating system", "single tasking operating system", "multitasking operating system"],
+        "correctAnswer": 1,
+        "explanation": "A single-user operating system is a type of OS which allows only one user at a time, such as MS-DOS or Windows 9X.",
+        "difficulty": "Easy",
+        "hint": "Most personal computers use this type of OS."
+    },
+    {
+        "level": 64,
+        "mainsubject": "Language & Communication",
+        "question": "What happens when you boot up a PC?",
+        "options": ["Portions of the operating system are copied from disk into memory", "Portions of the operating system are copied from memory onto disk", "Portions of the operating system are compiled", "The PC gets switched off"],
+        "correctAnswer": 1,
+        "explanation": "Booting is the process of starting up a computer. At the time of execution of a program (like the OS startup), the operating system copies files from secondary memory (disk) to primary memory (RAM).",
+        "difficulty": "Medium",
+        "hint": "Think about where the OS is stored permanently versus where it runs from."
+    },
+    {
+        "level": 65,
+        "mainsubject": "Language & Communication",
+        "question": "The first version of Unix was developed by",
+        "options": ["Ken Thompson", "Presper Eckert", "J W Mauchly", "Herman Hollerith"],
+        "correctAnswer": 1,
+        "explanation": "The first version of Unix was developed in 1969 by Ken Thompson and Dennis Ritchie.",
+        "difficulty": "Medium",
+        "hint": "He and his colleague Dennis Ritchie created this influential OS."
+    },
+    {
+        "level": 66,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following contains specific rules and words that express the logical steps of an algorithm?",
+        "options": ["Programming language", "Syntax", "Programming structure", "Flow chart"],
+        "correctAnswer": 1,
+        "explanation": "A programming language is a set of commands, instructions, and other syntax used to create a software program. It must be consistent in terms of syntax and semantics.",
+        "difficulty": "Easy",
+        "hint": "This is a formal language used to give instructions to a computer."
+    },
+    {
+        "level": 67,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is a machine-independent program?",
+        "options": ["High level language", "Low level language", "Assembly language", "Machine language"],
+        "correctAnswer": 1,
+        "explanation": "A high-level language (HLL) is an advanced programming language that is not limited to one computer, making it easier to read, write, and understand. Low-level languages are designed to operate directly with a computer's hardware and are machine-dependent.",
+        "difficulty": "Medium",
+        "hint": "This type of language is designed to be easier for humans to read and write."
+    },
+    {
+        "level": 68,
+        "mainsubject": "Language & Communication",
+        "question": "The computer language COBOL is primarily used for what type of application?",
+        "options": ["Scientific", "Business", "Education", "Gaming"],
+        "correctAnswer": 2,
+        "explanation": "COBOL stands for Common Business Oriented Language and is used for business management applications.",
+        "difficulty": "Easy",
+        "hint": "The name of the language itself provides a clue: Common Business Oriented Language."
+    },
+    {
+        "level": 69,
+        "mainsubject": "Language & Communication",
+        "question": "The process of locating and fixing errors in a computer program code is called",
+        "options": ["Compiling", "Executing", "De-bugging", "Interpreting"],
+        "correctAnswer": 3,
+        "explanation": "De-bugging is the process of locating and fixing or bypassing bugs (errors) in computer program code. An error in a program is called a bug.",
+        "difficulty": "Easy",
+        "hint": "This involves removing 'bugs' from the code."
+    },
+    {
+        "level": 70,
+        "mainsubject": "Language & Communication",
+        "question": "A set of step-by-step procedures for accomplishing a task is known as a(n)",
+        "options": ["Algorithm", "Hardware program", "Software", "Firmware program"],
+        "correctAnswer": 1,
+        "explanation": "An algorithm is a step-by-step method of solving a problem, commonly used for data processing, calculation, and other computer operations.",
+        "difficulty": "Easy",
+        "hint": "This is like a recipe for solving a problem."
+    },
+    {
+        "level": 71,
+        "mainsubject": "Language & Communication",
+        "question": "In Windows, what does 'dragging' an icon mean?",
+        "options": ["Double-clicking the icon", "Moving an icon on the desktop", "Deleting the icon", "Renaming the icon"],
+        "correctAnswer": 2,
+        "explanation": "If you move an icon on your desktop, this is called ‘dragging’ and after releasing it, it will be called ‘dropping’.",
+        "difficulty": "Easy",
+        "hint": "This action involves holding the mouse button down while moving the mouse."
+    },
+    {
+        "level": 72,
+        "mainsubject": "Language & Communication",
+        "question": "The long horizontal bar at the bottom of the desktop is known as the",
+        "options": ["Start Menu", "Title Bar", "Task Bar", "Icon Bar"],
+        "correctAnswer": 3,
+        "explanation": "The long horizontal bar at the bottom of the desktop is known as the Task Bar. It displays buttons for open programs and windows.",
+        "difficulty": "Easy",
+        "hint": "This bar usually contains the Start button and shows your open applications."
+    },
+    {
+        "level": 73,
+        "mainsubject": "Language & Communication",
+        "question": "Which button on the title bar of a window is used to enlarge it to occupy the whole desktop?",
+        "options": ["Close Button", "Minimize Button", "Maximize Button", "Restore Button"],
+        "correctAnswer": 3,
+        "explanation": "The Maximize Button enlarges the window to occupy the whole desktop, expanding its size to fit the screen.",
+        "difficulty": "Easy",
+        "hint": "This button makes the current window full-screen."
+    },
+    {
+        "level": 74,
+        "mainsubject": "Language & Communication",
+        "question": "In Windows, a collection of data stored on an auxiliary storage medium is called a",
+        "options": ["Folder", "File", "Library", "Icon"],
+        "correctAnswer": 2,
+        "explanation": "Files are the collection of data stored on auxiliary storage media. In Windows, files are the basic unit used to store data.",
+        "difficulty": "Easy",
+        "hint": "This is the basic unit for storing information, and it has a specific name and extension."
+    },
+    {
+        "level": 75,
+        "mainsubject": "Language & Communication",
+        "question": "To restart the computer, which combination of keys is used?",
+        "options": ["Del + Ctrl", "Backspace + Ctrl", "Esc + Ctrl", "Ctrl + Alt + Del"],
+        "correctAnswer": 4,
+        "explanation": "The key combination Ctrl + Alt + Del is used to restart the computer, an action also known as a warm boot.",
+        "difficulty": "Easy",
+        "hint": "This three-key combination is famous for accessing the task manager or restarting a frozen computer."
+    },
+    {
+        "level": 76,
+        "mainsubject": "Language & Communication",
+        "question": "Microsoft Office is an example of what type of software?",
+        "options": ["System Software", "Application Software", "Utility Software", "Firmware"],
+        "correctAnswer": 2,
+        "explanation": "Microsoft Office is a collection of application software, with programs like MS-Word being a word processing application designed for a specific purpose like creating documents.",
+        "difficulty": "Easy",
+        "hint": "This software suite is used for tasks like word processing and creating spreadsheets."
+    },
+    {
+        "level": 77,
+        "mainsubject": "Language & Communication",
+        "question": "What is the default file extension for a Microsoft Word 2010 document?",
+        "options": [".doc", ".txt", ".docx", ".wrd"],
+        "correctAnswer": 3,
+        "explanation": "By default, the name of a blank document in MS-Word is Document1.docx, where .docx is the file extension.",
+        "difficulty": "Easy",
+        "hint": "The extension for newer versions of Word includes an 'x'."
+    },
+    {
+        "level": 78,
+        "mainsubject": "Language & Communication",
+        "question": "In MS-Word, the feature that allows for automatic and manual checking of spelling mistakes is called",
+        "options": ["Thesaurus", "Spell Check", "Find & Replace", "Indentation"],
+        "correctAnswer": 2,
+        "explanation": "The Spell Check feature facilitates automatic and manual checking of spelling mistakes and also suggests alternate options for incorrectly spelled words.",
+        "difficulty": "Easy",
+        "hint": "This tool underlines misspelled words in red."
+    },
+    {
+        "level": 79,
+        "mainsubject": "Language & Communication",
+        "question": "What is the default name of a new, blank spreadsheet in MS-Excel?",
+        "options": ["Sheet1.xlsx", "Workbook1.xlsx", "Book1.xlsx", "Spreadsheet1.xlsx"],
+        "correctAnswer": 3,
+        "explanation": "By default, the name of the blank spreadsheet that opens in MS-Excel is Book1.xlsx.",
+        "difficulty": "Medium",
+        "hint": "A collection of worksheets is called a workbook, or simply a..."
+    },
+    {
+        "level": 80,
+        "mainsubject": "Language & Communication",
+        "question": "In MS-Excel, what must every formula begin with?",
+        "options": ["A plus sign (+)", "A parenthesis ( ( )", "An equal to sign (=)", "A dollar sign ($)"],
+        "correctAnswer": 3,
+        "explanation": "A formula is an equation that calculates a value and must begin with an Equal To (=) sign.",
+        "difficulty": "Easy",
+        "hint": "This symbol tells Excel that the following entry is a calculation."
+    },
+    {
+        "level": 81,
+        "mainsubject": "Language & Communication",
+        "question": "Which type of chart in Excel is best for showing the proportional size of items that make up a whole data series?",
+        "options": ["Bar Chart", "Line Chart", "Column Chart", "Pie Chart"],
+        "correctAnswer": 4,
+        "explanation": "A Pie Chart shows the proportional size of items that make up only one data series relative to the sum of the items.",
+        "difficulty": "Easy",
+        "hint": "This chart looks like a sliced circle."
+    },
+    {
+        "level": 82,
+        "mainsubject": "Language & Communication",
+        "question": "What is the shortcut key in PowerPoint to start the slide show from the beginning?",
+        "options": ["F1", "F5", "Esc", "F11"],
+        "correctAnswer": 2,
+        "explanation": "The F5 key is used to view the Slide Show in Microsoft PowerPoint.",
+        "difficulty": "Easy",
+        "hint": "This function key is standard for starting presentations in many applications."
+    },
+    {
+        "level": 83,
+        "mainsubject": "Language & Communication",
+        "question": "A collection of logically related information organized for easy access, management, and updating is called a",
+        "options": ["Spreadsheet", "Database", "Word Document", "Presentation"],
+        "correctAnswer": 2,
+        "explanation": "A database is a collection of logically related information in an organised way so that it can be easily accessed, managed and updated.",
+        "difficulty": "Easy",
+        "hint": "This is a structured collection of data."
+    },
+    {
+        "level": 84,
+        "mainsubject": "Language & Communication",
+        "question": "In a database table, what is a row also known as?",
+        "options": ["Field", "Attribute", "Record", "Query"],
+        "correctAnswer": 3,
+        "explanation": "A record is the collection of data items of all the fields pertaining to one entity. A record of a table is also known as a row or a tuple.",
+        "difficulty": "Easy",
+        "hint": "This represents a single entry in a table."
+    },
+    {
+        "level": 85,
+        "mainsubject": "Language & Communication",
+        "question": "In a database, what is a stored question about the data called?",
+        "options": ["Query", "Sort", "Report", "Field"],
+        "correctAnswer": 1,
+        "explanation": "Queries are basically questions based on the data available in a database. They allow you to extract data based on criteria that you define.",
+        "difficulty": "Easy",
+        "hint": "This is used to ask the database for specific information."
+    },
+    {
+        "level": 86,
+        "mainsubject": "Language & Communication",
+        "question": "Which database key is used to establish a relationship between two tables?",
+        "options": ["Primary Key", "Candidate Key", "Alternate Key", "Foreign Key"],
+        "correctAnswer": 4,
+        "explanation": "A Foreign Key is a non-key attribute whose value is derived from the primary key of another table. The relationship between two tables is established with the help of the foreign key.",
+        "difficulty": "Medium",
+        "hint": "This key in one table refers to the primary key in another table."
+    },
+    {
+        "level": 87,
+        "mainsubject": "Language & Communication",
+        "question": "In an E-R diagram, what shape represents an entity?",
+        "options": ["Rectangle", "Ellipse", "Diamond", "Circle"],
+        "correctAnswer": 1,
+        "explanation": "In an Entity-Relationship (E-R) model, entities (objects that exist in the real world) are represented in rectangles.",
+        "difficulty": "Medium",
+        "hint": "Attributes are represented by ellipses and relationships by diamonds."
+    },
+    {
+        "level": 88,
+        "mainsubject": "Language & Communication",
+        "question": "In which type of communication channel can data flow in both directions, but not at the same time?",
+        "options": ["Simplex", "Half Duplex", "Full Duplex", "Uni-directional"],
+        "correctAnswer": 2,
+        "explanation": "In a Half Duplex channel, data can flow in both directions, but not at the same time. When one device is transmitting, the other can only receive.",
+        "difficulty": "Easy",
+        "hint": "A walkie-talkie is a classic example of this."
+    },
+    {
+        "level": 89,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following cables can transmit data at the highest speed?",
+        "options": ["Co-axial cable", "Twisted pair cable", "Fibre Optic cable", "Ethernet cable"],
+        "correctAnswer": 3,
+        "explanation": "A Fibre Optic cable is made of glass or plastic and transmits signals as light. Its speed is a hundred times faster than co-axial cables.",
+        "difficulty": "Medium",
+        "hint": "This type of cable transmits data as pulses of light."
+    },
+    {
+        "level": 90,
+        "mainsubject": "Language & Communication",
+        "question": "A network that connects computers within a small geographical area like a home, office, or school is called a",
+        "options": ["WAN", "MAN", "LAN", "PAN"],
+        "correctAnswer": 3,
+        "explanation": "A Local Area Network (LAN) is a small and single-site network that connects devices over a relatively short distance, such as within a home, office building, or school.",
+        "difficulty": "Easy",
+        "hint": "This is the most common type of network found in a home or office."
+    },
+    {
+        "level": 91,
+        "mainsubject": "Language & Communication",
+        "question": "What is the function of a modem?",
+        "options": ["Amplify signals", "Convert digital signals to analog and vice-versa", "Connect different network protocols", "Filter data traffic"],
+        "correctAnswer": 2,
+        "explanation": "A modem is a device that converts a digital signal to an analog signal (modulator) and converts an analog signal back to a digital signal (demodulator) to allow communication over telephone lines.",
+        "difficulty": "Easy",
+        "hint": "Its name is a combination of 'modulator' and 'demodulator'."
+    },
+    {
+        "level": 92,
+        "mainsubject": "Language & Communication",
+        "question": "Which network topology connects all nodes to a single, central line?",
+        "options": ["Star", "Ring", "Bus", "Mesh"],
+        "correctAnswer": 3,
+        "explanation": "In a Bus Topology, there is a single line (cable) to which all nodes are connected.",
+        "difficulty": "Easy",
+        "hint": "Think of computers lined up along a single main cable."
+    },
+    {
+        "level": 93,
+        "mainsubject": "Language & Communication",
+        "question": "Which layer of the OSI model is responsible for routing signals and dividing outgoing messages into packets?",
+        "options": ["Physical Layer", "Data Link Layer", "Network Layer", "Transport Layer"],
+        "correctAnswer": 3,
+        "explanation": "The Network Layer is responsible for the routing of signals and dividing the outgoing message into packets.",
+        "difficulty": "Medium",
+        "hint": "This layer deals with IP addresses and routers."
+    },
+    {
+        "level": 94,
+        "mainsubject": "Language & Communication",
+        "question": "The standard protocol of the Internet is",
+        "options": ["TCP/IP", "Java", "HTML", "Flash"],
+        "correctAnswer": 1,
+        "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) is a set of rules that governs data communications on the Internet.",
+        "difficulty": "Easy",
+        "hint": "This is a suite of communication protocols used to interconnect network devices on the internet."
+    },
+    {
+        "level": 95,
+        "mainsubject": "Language & Communication",
+        "question": "Each IP packet must contain",
+        "options": ["only source address", "only destination address", "source and destination addresses", "source or destination address"],
+        "correctAnswer": 3,
+        "explanation": "Each IP packet must contain both the source and the destination addresses to ensure it is dispatched correctly over the network.",
+        "difficulty": "Medium",
+        "hint": "For a message to be delivered, you need to know where it came from and where it's going."
+    },
+    {
+        "level": 96,
+        "mainsubject": "Language & Communication",
+        "question": "Documents converted to _______ can be published on the Web.",
+        "options": ["a doc file", "http", "machine language", "HTML"],
+        "correctAnswer": 4,
+        "explanation": "HyperText Markup Language (HTML) is used for designing Web pages. It uses tags to tell a web browser how to display content.",
+        "difficulty": "Easy",
+        "hint": "This is the standard markup language for creating web pages."
+    },
+    {
+        "level": 97,
+        "mainsubject": "Language & Communication",
+        "question": "The first page of a website is known as the",
+        "options": ["Web Page", "Home Page", "Index Page", "Main Page"],
+        "correctAnswer": 2,
+        "explanation": "The main or first page of a Website is known as the home page.",
+        "difficulty": "Easy",
+        "hint": "This page typically serves as the starting point for navigation."
+    },
+    {
+        "level": 98,
+        "mainsubject": "Language & Communication",
+        "question": "What is a URL?",
+        "options": ["A computer software program", "A type of programming object", "The address of a document or ‘page’ on the world wide web", "An acronym for unlimited resource for learning"],
+        "correctAnswer": 3,
+        "explanation": "A URL (Uniform Resource Locator) is the specific Internet address for a resource, identifying the location of a specific Web page on the Internet.",
+        "difficulty": "Easy",
+        "hint": "It usually starts with 'http://' or 'https://'."
+    },
+    {
+        "level": 99,
+        "mainsubject": "Language & Communication",
+        "question": "Junk e-mail is also called",
+        "options": ["crap", "spoof", "sniffer script", "spam"],
+        "correctAnswer": 4,
+        "explanation": "Spam is the abuse of messaging systems to send unsolicited bulk messages in the form of E-mails.",
+        "difficulty": "Easy",
+        "hint": "This term refers to unsolicited or unwanted emails."
+    },
+    {
+        "level": 100,
+        "mainsubject": "Language & Communication",
+        "question": "Verification of a login name and password is known as",
+        "options": ["configuration", "accessibility", "authentication", "logging in"],
+        "correctAnswer": 3,
+        "explanation": "Authentication is the verification of a login name and password. It ensures that users are the persons they claim to be.",
+        "difficulty": "Easy",
+        "hint": "This process confirms your identity."
+    },
+    {
+        "level": 101,
+        "mainsubject": "Language & Communication",
+        "question": "The scrambling of code is known as",
+        "options": ["encryption", "firewalling", "scrambling", "deception"],
+        "correctAnswer": 1,
+        "explanation": "Encryption is the process of converting plain text to cipher text. The scrambling of code is known as encryption.",
+        "difficulty": "Easy",
+        "hint": "This process is used to make data unreadable to unauthorized users."
+    },
+    {
+        "level": 102,
+        "mainsubject": "Language & Communication",
+        "question": "A program designed to destroy data on your computer which can travel to 'infect' other computers is called a",
+        "options": ["disease", "torpedo", "hurricane", "virus"],
+        "correctAnswer": 4,
+        "explanation": "A computer virus is a small software program that spreads from one computer to another and interferes with computer operation, often performing destructive actions.",
+        "difficulty": "Easy",
+        "hint": "This is a type of malicious software, or malware."
+    },
+    {
+        "level": 103,
+        "mainsubject": "Language & Communication",
+        "question": "Which was the first PC boot sector virus?",
+        "options": ["Creeper", "Payload", "Bomb", "Brain"],
+        "correctAnswer": 4,
+        "explanation": "The first boot sector PC virus was named Brain, and it was identified in the year 1986.",
+        "difficulty": "Hard",
+        "hint": "It was identified in 1986."
+    },
+    {
+        "level": 104,
+        "mainsubject": "Language & Communication",
+        "question": "A type of malware that appears to perform a desirable function but instead facilitates unauthorized access is a",
+        "options": ["Virus", "Worm", "Trojan Horse", "Spyware"],
+        "correctAnswer": 3,
+        "explanation": "A Trojan, or Trojan Horse, is a non-self-replicating type of malware which appears to perform a desirable function but instead facilitates unauthorised access to the user’s computer system.",
+        "difficulty": "Medium",
+        "hint": "This malware is named after a story from Greek mythology."
+    },
+    {
+        "level": 105,
+        "mainsubject": "Language & Communication",
+        "question": "What is a person called who uses a computer to cause harm to people or destroy critical systems?",
+        "options": ["Cyber Terrorist", "Black-Hat-Hacker", "Cyber Cracker", "Hacktivist"],
+        "correctAnswer": 3,
+        "explanation": "A cyber cracker is a person who uses a computer to cause harm to people or destroy critical systems.",
+        "difficulty": "Medium",
+        "hint": "This term is used for individuals who break into computer systems with malicious intent."
+    },
+    {
+        "level": 106,
+        "mainsubject": "Language & Communication",
+        "question": "To protect yourself from computer hacker intrusions, you should install a",
+        "options": ["firewall", "mailer", "macro", "script"],
+        "correctAnswer": 1,
+        "explanation": "A firewall, which can be software or hardware-based, is used to help keep a network secure by controlling incoming and outgoing network traffic.",
+        "difficulty": "Easy",
+        "hint": "This acts as a barrier between a trusted network and an untrusted network like the Internet."
+    },
+    {
+        "level": 107,
+        "mainsubject": "Language & Communication",
+        "question": "A network in which all physical objects are connected to the Internet to exchange data is called",
+        "options": ["Future skills", "IoT", "Cloud computing", "SaaS"],
+        "correctAnswer": 2,
+        "explanation": "IoT (Internet of Things) is a network in which all physical objects are connected to the Internet through network devices and exchange data.",
+        "difficulty": "Easy",
+        "hint": "This concept involves connecting everyday objects to the internet."
+    },
+    {
+        "level": 108,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is a characteristic of Big Data analytics?",
+        "options": ["Variety", "Velocity", "Volume", "All of these"],
+        "correctAnswer": 4,
+        "explanation": "The characteristics of Big Data are often described by Variety (different forms of data), Velocity (the speed at which data is created), and Volume (huge amounts of data).",
+        "difficulty": "Easy",
+        "hint": "Think of the three 'V's of Big Data."
+    },
+    {
+        "level": 109,
+        "mainsubject": "Language & Communication",
+        "question": "An artificial environment created with software and presented to the user to seem real is called",
+        "options": ["Artificial Intelligence", "Virtual Reality", "Blockchain", "Big Data"],
+        "correctAnswer": 2,
+        "explanation": "Virtual Reality (VR) is an artificial environment that is created with software and presented to the user in such a way that the user accepts it as a real environment.",
+        "difficulty": "Easy",
+        "hint": "This technology often uses headsets to provide immersive 3D visual experiences."
+    },
+    {
+        "level": 110,
+        "mainsubject": "Language & Communication",
+        "question": "Which area of computer science emphasizes the creation of intelligent machines that work and react like humans?",
+        "options": ["Artificial Intelligence", "Internet of Things", "Future Skills", "Robotics"],
+        "correctAnswer": 1,
+        "explanation": "Artificial Intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans.",
+        "difficulty": "Easy",
+        "hint": "This field includes topics like machine learning and problem-solving."
+    },
+    {
+        "level": 111,
+        "mainsubject": "Language & Communication",
+        "question": "An encrypted, distributed database that records data transactions in a digital ledger is known as",
+        "options": ["Automation", "Blockchain", "Artificial intelligence", "Future skills"],
+        "correctAnswer": 2,
+        "explanation": "The blockchain is an encrypted, distributed database that records data. It is a digital ledger of transactions or contracts that need to be independently recorded.",
+        "difficulty": "Medium",
+        "hint": "This technology is the foundation for cryptocurrencies like Bitcoin."
+    },
+    {
+        "level": 112,
+        "mainsubject": "Language & Communication",
+        "question": "Which IT gadget is a wearable computing device in the form of eyeglasses with a head-mounted display?",
+        "options": ["Google Glass", "Drone camera", "Spy pen", "Smart watch"],
+        "correctAnswer": 1,
+        "explanation": "Google Glass is a wearable computing device which comes with a head-mounted display in the form of eyeglasses.",
+        "difficulty": "Easy",
+        "hint": "This device functions as a hands-free smartphone."
+    },
+    {
+        "level": 113,
+        "mainsubject": "Language & Communication",
+        "question": "What is the primary purpose of the BHIM app in India?",
+        "options": ["Booking train tickets", "Storing official documents", "Making payment transactions using UPI", "Tracking rural electrification"],
+        "correctAnswer": 3,
+        "explanation": "The BHIM (Bharat Interface for Money) app is used to make simple, easy, and quick payment transactions using UPI (Unified Payment Interface).",
+        "difficulty": "Easy",
+        "hint": "This app was launched to promote cashless payments."
+    },
+    {
+        "level": 114,
+        "mainsubject": "Language & Communication",
+        "question": "A digital mode that helps you transfer funds from one bank to another without using an account number or IFSC code is called",
+        "options": ["UPI", "AEPS", "USSD", "OTP"],
+        "correctAnswer": 1,
+        "explanation": "UPI (Unified Payment Interface) is a digital mode that helps you transfer funds from one bank to another without using any account number, bank name, account type, or IFSC code.",
+        "difficulty": "Easy",
+        "hint": "This system allows for instant fund transfers using a virtual payment address or mobile number."
+    },
+    {
+        "level": 115,
+        "mainsubject": "Language & Communication",
+        "question": "Which e-Wallet was the first company in India to receive a license from the RBI to start a payment bank?",
+        "options": ["Freecharge", "Mobikwik", "Airtel Money", "Paytm"],
+        "correctAnswer": 4,
+        "explanation": "Paytm is the first company in India to receive a license from the Reserve Bank of India (RBI) to start a payment bank.",
+        "difficulty": "Medium",
+        "hint": "This company was founded by Vijay Shekhar Sharma in 2010."
+    },
+    {
+        "level": 116,
+        "mainsubject": "Language & Communication",
+        "question": "Which of these is a type of wireless speaker that uses short-wavelength UHF radio waves to build a Personal Area Network (PAN)?",
+        "options": ["Smart Speaker", "Wi-Fi Speaker", "Bluetooth Speaker", "Soundbar"],
+        "correctAnswer": 3,
+        "explanation": "Bluetooth speakers are wireless speakers that work with wireless technology. They use short wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz and build Personal Area Networks (PANs).",
+        "difficulty": "Easy",
+        "hint": "This technology is common for connecting headphones and speakers to smartphones over short distances."
+    },
+    {
+        "level": 117,
+        "mainsubject": "Language & Communication",
+        "question": "Which early calculating device, invented in 1617 by John Napier, used a graphical structure for calculation results?",
+        "options": ["Abacus", "Pascaline", "Napier's Bones", "Analytical Engine"],
+        "correctAnswer": 3,
+        "explanation": "Napier's Bones, invented in 1617 by John Napier of Scotland, represented a graphical structure of a calculating result and was used for multiplication.",
+        "difficulty": "Medium",
+        "hint": "This device from Scotland used 'bones' or rods for multiplication."
+    },
+    {
+        "level": 118,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is the first electronic digital computer?",
+        "options": ["MARK-1", "ENIAC", "EDVAC", "UNIVAC"],
+        "correctAnswer": 2,
+        "explanation": "ENIAC, developed in 1946 by J.P. Eckert and J.W. Mauchly, was the first electronic digital computer.",
+        "difficulty": "Medium",
+        "hint": "Developed in 1946, it was used for weather prediction and atomic energy calculations."
+    },
+    {
+        "level": 119,
+        "mainsubject": "Language & Communication",
+        "question": "What type of computers are desktop computers, laptops, and palmtops?",
+        "options": ["Minicomputer", "Mainframe Computer", "Supercomputer", "Microcomputer"],
+        "correctAnswer": 4,
+        "explanation": "A microcomputer is the most widely used type of computer, also called a portable computer. Examples include desktop computers, laptops, and palmtops.",
+        "difficulty": "Easy",
+        "hint": "These are the most common type of computers used for personal and business tasks."
+    },
+    {
+        "level": 120,
+        "mainsubject": "Language & Communication",
+        "question": "What are the four main components of a computer's architecture?",
+        "options": ["Keyboard, Mouse, Monitor, Printer", "Input Unit, Output Unit, CPU, Memory Unit", "RAM, ROM, Hard Disk, Motherboard", "Software, Hardware, Data, User"],
+        "correctAnswer": 2,
+        "explanation": "The main components of computer architecture are the Input Unit, Output Unit, Central Processing Unit (CPU), and Memory Unit.",
+        "difficulty": "Easy",
+        "hint": "These components align with the four basic functions: input, processing, output, and storage."
+    },
+    {
+        "level": 121,
+        "mainsubject": "Language & Communication",
+        "question": "What does the Control Unit (CU) do within the CPU?",
+        "options": ["Performs arithmetic and logical operations", "Stores data for immediate use", "Coordinates with input/output devices and directs computer operations", "Converts data to a readable format"],
+        "correctAnswer": 3,
+        "explanation": "The Control Unit (CU) coordinates with the input and output devices and directs the computer to carry out stored program instructions by communicating with the ALU and registers.",
+        "difficulty": "Medium",
+        "hint": "This part of the CPU acts like a traffic cop for data and instructions."
+    },
+    {
+        "level": 122,
+        "mainsubject": "Language & Communication",
+        "question": "Who invented the first microprocessor, the Intel 4004, in 1971?",
+        "options": ["John Von Neumann", "Charles Babbage", "Ted Hoff", "Steve Jobs"],
+        "correctAnswer": 3,
+        "explanation": "The Intel 4004 was the first microprocessor, made by Intel in 1971 by scientist Ted Hoff and engineer Frederico Faggin.",
+        "difficulty": "Medium",
+        "hint": "He was a scientist at Intel when he invented this in 1971."
+    },
+    {
+        "level": 123,
+        "mainsubject": "Language & Communication",
+        "question": "A set of wires used for interconnection between computer components is known as a",
+        "options": ["Port", "Slot", "Bus", "Cable"],
+        "correctAnswer": 3,
+        "explanation": "A bus is a set of wires used for interconnection, where each wire can carry one bit of data. It is a set of electronic signal pathways for information to travel between components.",
+        "difficulty": "Easy",
+        "hint": "This can be internal (on the motherboard) or external."
+    },
+    {
+        "level": 124,
+        "mainsubject": "Language & Communication",
+        "question": "Which of these is a pointing and draw device?",
+        "options": ["Mouse", "Scanner", "Printer", "CD-ROM"],
+        "correctAnswer": 1,
+        "explanation": "A mouse is a handheld pointing device that allows the user to input data and commands in graphic form by moving a pointer on the monitor.",
+        "difficulty": "Easy",
+        "hint": "This device controls the cursor on your screen."
+    },
+    {
+        "level": 125,
+        "mainsubject": "Language & Communication",
+        "question": "An optical input device that interprets pencil marks on paper media is",
+        "options": ["OMR", "punch card reader", "optical scanners", "magnetic tapes"],
+        "correctAnswer": 1,
+        "explanation": "An Optical Mark Reader (OMR) is used to detect marks on paper, such as those on objective type tests, by using a beam of light to capture the presence or absence of data.",
+        "difficulty": "Easy",
+        "hint": "This device is commonly used for grading multiple-choice exams."
+    },
+    {
+        "level": 126,
+        "mainsubject": "Language & Communication",
+        "question": "The higher the resolution of a monitor, the...",
+        "options": ["larger the pixels", "less clear the screen is", "further apart the pixels", "closer together the pixels"],
+        "correctAnswer": 4,
+        "explanation": "The resolution of a monitor is higher when the pixels are closer together, resulting in a clearer image.",
+        "difficulty": "Easy",
+        "hint": "Higher resolution means more detail in the image."
+    },
+    {
+        "level": 127,
+        "mainsubject": "Language & Communication",
+        "question": "Which type of printer strikes paper and ribbon together to form a character?",
+        "options": ["Inkjet Printer", "Laser Printer", "Impact Printer", "Thermal Printer"],
+        "correctAnswer": 3,
+        "explanation": "An impact printer strikes paper and ribbon together to form a character, similar to a typewriter. Dot matrix and daisy wheel printers are examples of impact printers.",
+        "difficulty": "Medium",
+        "hint": "Examples include dot-matrix and daisy wheel printers."
+    },
+    {
+        "level": 128,
+        "mainsubject": "Language & Communication",
+        "question": "A plotter is a special kind of output device used to produce what?",
+        "options": ["Text documents", "High-quality audio", "Large drawings or images", "3D models"],
+        "correctAnswer": 3,
+        "explanation": "A plotter is a special kind of output channel that produces images on paper. They are mainly used to produce large drawings or images such as construction plans and blueprints.",
+        "difficulty": "Medium",
+        "hint": "This device is often used by architects and engineers for blueprints."
+    },
+    {
+        "level": 129,
+        "mainsubject": "Language & Communication",
+        "question": "What does USB in data cables stand for?",
+        "options": ["Unicode Smart Bus", "Universal Structural Bus", "Unicode Serial Bus", "Universal Serial Bus"],
+        "correctAnswer": 4,
+        "explanation": "USB stands for Universal Serial Bus. It is a common and popular external port available with computers for connecting various devices.",
+        "difficulty": "Easy",
+        "hint": "It's the most common type of port for connecting peripherals to a computer."
+    },
+    {
+        "level": 130,
+        "mainsubject": "Language & Communication",
+        "question": "Primary storage is ______ as compared to secondary storage.",
+        "options": ["slow and inexpensive", "fast and inexpensive", "fast and expensive", "slow and expensive"],
+        "correctAnswer": 3,
+        "explanation": "Primary memory allows for immediate manipulation and has fast access, but it also has a high cost and limited storage capacity compared to secondary storage, which is slower and cheaper.",
+        "difficulty": "Easy",
+        "hint": "Think about the trade-off between speed and cost in computer components."
+    },
+    {
+        "level": 131,
+        "mainsubject": "Language & Communication",
+        "question": "Which type of RAM must be refreshed continually to store information?",
+        "options": ["SRAM", "DRAM", "ROM", "EPROM"],
+        "correctAnswer": 2,
+        "explanation": "Dynamic RAM (DRAM) is made up of memory cells composed of a capacitor and a transistor. DRAM must be refreshed continually to store information.",
+        "difficulty": "Medium",
+        "hint": "This is the more common and less expensive type of RAM found in PCs."
+    },
+    {
+        "level": 132,
+        "mainsubject": "Language & Communication",
+        "question": "A disc’s content that is recorded at the time of manufacture and cannot be changed or erased by the user is",
+        "options": ["memory only", "write only", "once only", "read only"],
+        "correctAnswer": 4,
+        "explanation": "Read Only Memory (ROM) is a type of memory where the data is programmed at the time of manufacturing and cannot be reprogrammed or rewritten, so it has only read capability.",
+        "difficulty": "Easy",
+        "hint": "Think of a CD-ROM or DVD-ROM."
+    },
+    {
+        "level": 133,
+        "mainsubject": "Language & Communication",
+        "question": "Data on a floppy disk is recorded in rings called",
+        "options": ["sectors", "ringers", "rounders", "tracks"],
+        "correctAnswer": 4,
+        "explanation": "On magnetic disks like floppy disks and hard disks, information is recorded in bands; each band of information is called a track.",
+        "difficulty": "Easy",
+        "hint": "These rings are further divided into sectors."
+    },
+    {
+        "level": 134,
+        "mainsubject": "Language & Communication",
+        "question": "Which among the following is another name for a group of 4 bits?",
+        "options": ["Nibble", "Byte", "KiloByte", "MegaByte"],
+        "correctAnswer": 1,
+        "explanation": "A group of 4 bits is called a Nibble. 8 bits make a Byte.",
+        "difficulty": "Easy",
+        "hint": "It's half of a byte."
+    },
+    {
+        "level": 135,
+        "mainsubject": "Language & Communication",
+        "question": "How many kilobytes make a megabyte?",
+        "options": ["128", "1024", "256", "512"],
+        "correctAnswer": 2,
+        "explanation": "In memory measurement, 1024 Bytes equal 1 KiloByte (KB), and 1024 KB equal 1 MegaByte (MB).",
+        "difficulty": "Easy",
+        "hint": "In computing, prefixes are often based on powers of 2, not 10."
+    },
+    {
+        "level": 136,
+        "mainsubject": "Language & Communication",
+        "question": "In the binary language, each letter of the alphabet, each number and each special character is made up of a unique combination of",
+        "options": ["8 bytes", "8 KB", "8 characters", "8 bits"],
+        "correctAnswer": 4,
+        "explanation": "The binary system uses combinations of bits (0s and 1s) to represent data. Standard codes like ASCII and EBCDIC use a combination of 8 bits (which is 1 byte) to represent a single character.",
+        "difficulty": "Easy",
+        "hint": "A single character is typically represented by one byte."
+    },
+    {
+        "level": 137,
+        "mainsubject": "Language & Communication",
+        "question": "The octal number system has a base of",
+        "options": ["2", "8", "10", "16"],
+        "correctAnswer": 2,
+        "explanation": "The Octal Number System consists of 8 digits from 0 to 7 and is known as a Base 8 system.",
+        "difficulty": "Easy",
+        "hint": "The name of the system gives a clue to its base number."
+    },
+    {
+        "level": 138,
+        "mainsubject": "Language & Communication",
+        "question": "The decimal equivalent of the binary number 10101 is",
+        "options": ["19", "12", "27", "21"],
+        "correctAnswer": 4,
+        "explanation": "To convert binary to decimal, you multiply each digit by its corresponding power of 2: (1*2^4) + (0*2^3) + (1*2^2) + (0*2^1) + (1*2^0) = 16 + 0 + 4 + 0 + 1 = 21.",
+        "difficulty": "Medium",
+        "hint": "Use positional notation with powers of 2."
+    },
+    {
+        "level": 139,
+        "mainsubject": "Language & Communication",
+        "question": "In EBCDIC code, the maximum possible character set size is",
+        "options": ["356", "756", "556", "256"],
+        "correctAnswer": 4,
+        "explanation": "EBCDIC (Extended Binary Coded Decimal Interchange) uses eight bits to represent characters, which allows for 2^8 = 256 combinations.",
+        "difficulty": "Medium",
+        "hint": "EBCDIC is an 8-bit code. Calculate 2 to the power of 8."
+    },
+    {
+        "level": 140,
+        "mainsubject": "Language & Communication",
+        "question": "A gate whose output is 1 only when one of its inputs is 1 is called",
+        "options": ["AND", "NOT", "OR", "NOR"],
+        "correctAnswer": 3,
+        "explanation": "The OR gate returns True (1) if any one of its inputs is True (1). It only returns False (0) if both inputs are False (0).",
+        "difficulty": "Medium",
+        "hint": "This gate represents the logical 'or' operation."
+    },
+    {
+        "level": 141,
+        "mainsubject": "Language & Communication",
+        "question": "A collection of various programs that helps to control your computer is called",
+        "options": ["system software", "application software", "Microsoft Excel", "Microsoft Word"],
+        "correctAnswer": 1,
+        "explanation": "System software consists of several programs which are directly responsible for controlling, integrating, and managing the individual hardware components of a computer system.",
+        "difficulty": "Easy",
+        "hint": "This category of software includes the operating system."
+    },
+    {
+        "level": 142,
+        "mainsubject": "Language & Communication",
+        "question": "A linker program...",
+        "options": ["places the program in memory for execution", "relocates the program to a specific memory area", "links the program with other programs needed for its execution", "interfaces the program with its input data"],
+        "correctAnswer": 3,
+        "explanation": "A linker is a system program that links together several object modules and libraries to form a single coherent program (executable).",
+        "difficulty": "Medium",
+        "hint": "This tool combines different pieces of compiled code into one executable file."
+    },
+    {
+        "level": 143,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following softwares allow you to do mathematical or financial calculation?",
+        "options": ["Word processing program", "Spreadsheet program", "Presentation program", "Database program"],
+        "correctAnswer": 2,
+        "explanation": "Electronic spreadsheet applications are computer programs that accept data in a tabular form and allow you to create and manipulate spreadsheets electronically, including calculations.",
+        "difficulty": "Easy",
+        "hint": "Think of Microsoft Excel."
+    },
+    {
+        "level": 144,
+        "mainsubject": "Language & Communication",
+        "question": "What is backup?",
+        "options": ["Connect the user’s network to more components", "Copy to save data from an original source to another destination", "Filter old data from new data", "Access data from tape"],
+        "correctAnswer": 2,
+        "explanation": "Backup utilities can make a copy of all information stored on a disk and restore either the entire disk or selected files.",
+        "difficulty": "Easy",
+        "hint": "This is a safety measure in case the original data is lost."
+    },
+    {
+        "level": 145,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is NOT related to a utility software?",
+        "options": ["Text editor", "Antivirus program", "Disk compression software", "Railway reservation system"],
+        "correctAnswer": 4,
+        "explanation": "Utility programs perform tasks related to computer maintenance, such as text editing, virus scanning, and disk compression. A railway reservation system is a specific purpose application software.",
+        "difficulty": "Medium",
+        "hint": "Utility software maintains the computer; one of these options performs a specific business task."
+    },
+    {
+        "level": 146,
+        "mainsubject": "Language & Communication",
+        "question": "Grouping and processing all of a firm’s transactions at one time is called",
+        "options": ["a database management system", "batch processing", "a real time system", "an on-time system"],
+        "correctAnswer": 2,
+        "explanation": "In a Batch Processing Operating System, a number of jobs are put together and executed as a group.",
+        "difficulty": "Easy",
+        "hint": "This is in contrast to real-time processing, where transactions are processed immediately."
+    },
+    {
+        "level": 147,
+        "mainsubject": "Language & Communication",
+        "question": "Which type of user interface uses symbols, visual metaphors, and pointing devices?",
+        "options": ["Command Line Interface (CLI)", "Graphical User Interface (GUI)", "Text User Interface (TUI)", "Character User Interface (CUI)"],
+        "correctAnswer": 2,
+        "explanation": "A Graphical User Interface (GUI) is a computer program that enables a person to communicate with a computer through the use of symbols, visual metaphors, and pointing devices.",
+        "difficulty": "Easy",
+        "hint": "This is the most common interface on modern computers, using icons and windows."
+    },
+    {
+        "level": 148,
+        "mainsubject": "Language & Communication",
+        "question": "Which operating system is known for being an open-source software?",
+        "options": ["Apple Macintosh (Mac OS)", "Microsoft Windows", "Linux", "MS-DOS"],
+        "correctAnswer": 3,
+        "explanation": "Linux, whose first kernel was released by Linus Torvalds in 1991, is an open source software.",
+        "difficulty": "Easy",
+        "hint": "Its mascot is a penguin."
+    },
+    {
+        "level": 149,
+        "mainsubject": "Language & Communication",
+        "question": "In MS-DOS, commands that are automatically loaded into main memory during booting are called",
+        "options": ["External Commands", "Batch Commands", "Internal Commands", "System Commands"],
+        "correctAnswer": 3,
+        "explanation": "Internal commands in MS-DOS are automatically loaded into main memory when the booting process gets completed. Examples include DATE, TIME, and DIR.",
+        "difficulty": "Medium",
+        "hint": "These commands are always available once the system is running, without needing a separate file."
+    },
+    {
+        "level": 150,
+        "mainsubject": "Language & Communication",
+        "question": "While working with MS-DOS, which command transfers a specific file from one disk to another?",
+        "options": ["Copy", "Disk copy", "Time", "Rename"],
+        "correctAnswer": 1,
+        "explanation": "The COPY command is used to copy one or more files to another location.",
+        "difficulty": "Easy",
+        "hint": "This command makes a duplicate of a file."
+    },
+    {
+        "level": 151,
+        "mainsubject": "Language & Communication",
+        "question": "A factor in the selection of a source language is",
+        "options": ["programmer’s skill", "language availability", "program compatibility with other software", "All of the above"],
+        "correctAnswer": 4,
+        "explanation": "The choice of a programming language depends on various factors, including the skills of the programmer, whether the language is available for the target system, and how it interacts with other software. Therefore, all options are valid factors.",
+        "difficulty": "Easy",
+        "hint": "Consider all practical aspects when choosing a tool for a job."
+    },
+    {
+        "level": 152,
+        "mainsubject": "Language & Communication",
+        "question": "Assembly language uses what in place of binary numbers?",
+        "options": ["High-level commands", "Alphabetic codes (mnemonics)", "Graphical icons", "Natural language"],
+        "correctAnswer": 2,
+        "explanation": "Assembly language uses structured commands (mnemonics) as substitutions for numbers, allowing humans to read the code more easily than looking at binary codes.",
+        "difficulty": "Medium",
+        "hint": "These codes are short, easy-to-remember abbreviations for instructions."
+    },
+    {
+        "level": 153,
+        "mainsubject": "Language & Communication",
+        "question": "What type of translator converts a high-level language program into machine language line-by-line?",
+        "options": ["Compiler", "Assembler", "Interpreter", "Linker"],
+        "correctAnswer": 3,
+        "explanation": "An interpreter converts a High Level Language (HLL) program into machine language by converting it line-by-line. If there is any error, it stops execution immediately.",
+        "difficulty": "Medium",
+        "hint": "This is in contrast to a compiler, which translates the entire program at once."
+    },
+    {
+        "level": 154,
+        "mainsubject": "Language & Communication",
+        "question": "Second generation languages (2GLs) consist of",
+        "options": ["machine language", "assembly language", "Java", "visual basic"],
+        "correctAnswer": 2,
+        "explanation": "The second generation languages, or 2GLs, are low-level languages that generally consist of assembly language.",
+        "difficulty": "Easy",
+        "hint": "First generation was machine language. This was the next step up in abstraction."
+    },
+    {
+        "level": 155,
+        "mainsubject": "Language & Communication",
+        "question": "What is Windows Explorer?",
+        "options": ["Personal Computer", "Network", "File Manager", "Web Browser"],
+        "correctAnswer": 3,
+        "explanation": "Windows Explorer is a file manager application that is included with releases of the Microsoft Windows OS.",
+        "difficulty": "Easy",
+        "hint": "You use this application to browse through files and folders on your computer."
+    },
+    {
+        "level": 156,
+        "mainsubject": "Language & Communication",
+        "question": "A blinking indicator that shows you where your next action will happen is a",
+        "options": ["CPU", "cursor", "toolbar", "boot"],
+        "correctAnswer": 2,
+        "explanation": "A small arrow or blinking symbol moving on the desktop is called a cursor.",
+        "difficulty": "Easy",
+        "hint": "It can be a vertical bar in a text field or an arrow on the desktop."
+    },
+    {
+        "level": 157,
+        "mainsubject": "Language & Communication",
+        "question": "Date and Time are available on the desktop at the",
+        "options": ["Keyboard", "Recycle Bin", "My Computer", "Task Bar"],
+        "correctAnswer": 4,
+        "explanation": "The Task Bar, the long horizontal bar at the bottom of the desktop, typically contains the notification area, where the date and time are displayed.",
+        "difficulty": "Easy",
+        "hint": "Look at the bottom-right corner of your screen."
+    },
+    {
+        "level": 158,
+        "mainsubject": "Language & Communication",
+        "question": "What menu is selected to cut, copy, and paste?",
+        "options": ["File", "Tools", "Special", "Edit"],
+        "correctAnswer": 4,
+        "explanation": "The Edit menu typically contains options like Undo, Cut, Copy, Paste, and Clear.",
+        "difficulty": "Easy",
+        "hint": "These commands are used for modifying the content of a document."
+    },
+    {
+        "level": 159,
+        "mainsubject": "Language & Communication",
+        "question": "The file format for Notepad text files is",
+        "options": [".docx", ".rtf", ".txt", ".exe"],
+        "correctAnswer": 3,
+        "explanation": "Notepad is a text editor program, and the file format of its files is .txt (text document).",
+        "difficulty": "Easy",
+        "hint": "This is the simplest, unformatted text file extension."
+    },
+    {
+        "level": 160,
+        "mainsubject": "Language & Communication",
+        "question": "Editing a document that has been created means",
+        "options": ["saving it", "printing it", "scanning it", "correcting it"],
+        "correctAnswer": 4,
+        "explanation": "Text Editing in MS-Word provides for editing, adding, and deleting text, and modification of text content. This corresponds to correcting the document.",
+        "difficulty": "Easy",
+        "hint": "This involves making changes or corrections to the document."
+    },
+    {
+        "level": 161,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following should be used to move a paragraph from one place to another in a Word document?",
+        "options": ["Copy and paste", "Cut and paste", "Delete and retype", "Find and replace"],
+        "correctAnswer": 2,
+        "explanation": "Text Editing features include cut, copy, and paste. The 'cut' command removes the text from its original position and places it on the clipboard, allowing it to be 'pasted' elsewhere.",
+        "difficulty": "Easy",
+        "hint": "This two-step process removes the text from the original location."
+    },
+    {
+        "level": 162,
+        "mainsubject": "Language & Communication",
+        "question": "In MS-Word, the default alignment for a paragraph is",
+        "options": ["left aligned", "centered", "right aligned", "justified"],
+        "correctAnswer": 1,
+        "explanation": "The default alignment for a paragraph in MS-Word is left aligned, as mentioned in the Tit-Bits section.",
+        "difficulty": "Easy",
+        "hint": "Text starts from the left margin by default."
+    },
+    {
+        "level": 163,
+        "mainsubject": "Language & Communication",
+        "question": "To undo the last work, we have to use which of the following Windows shortcut key?",
+        "options": ["Ctrl + P", "Ctrl + U", "Ctrl + A", "Ctrl + Z"],
+        "correctAnswer": 4,
+        "explanation": "The shortcut key Ctrl + Z is used for the Undo command, which reverses certain commands or the last action.",
+        "difficulty": "Easy",
+        "hint": "This is a common shortcut for reversing your last action."
+    },
+    {
+        "level": 164,
+        "mainsubject": "Language & Communication",
+        "question": "A collection of worksheets is called a",
+        "options": ["Excel book", "Worksheets", "Excel sheets", "Workbook"],
+        "correctAnswer": 4,
+        "explanation": "A workbook is a document that contains one or more worksheets.",
+        "difficulty": "Easy",
+        "hint": "This is the standard file type for MS-Excel."
+    },
+    {
+        "level": 165,
+        "mainsubject": "Language & Communication",
+        "question": "In Excel, which of the following is NOT a valid formula?",
+        "options": ["=A2+A1", "=A2+1", "=1+A2", "=1A+2"],
+        "correctAnswer": 4,
+        "explanation": "A cell address in Excel is specified by the column letter followed by the row number (e.g., A1). '1A' is not a valid cell reference, so the formula '=1A+2' is invalid.",
+        "difficulty": "Medium",
+        "hint": "Cell addresses start with a letter, not a number."
+    },
+    {
+        "level": 166,
+        "mainsubject": "Language & Communication",
+        "question": "Which PowerPoint view displays each slide as a thumbnail and is useful for re-arranging slides?",
+        "options": ["Slide Sorter", "Slide Show", "Slide Master", "Notes Page"],
+        "correctAnswer": 1,
+        "explanation": "The Slide Sorter View provides a view of slides in thumbnail form. This view makes it easy to sort and organise the sequence of the slides.",
+        "difficulty": "Easy",
+        "hint": "This view lets you see many slides at once to change their order."
+    },
+    {
+        "level": 167,
+        "mainsubject": "Language & Communication",
+        "question": "The smallest unit of information about a record in a database is called a",
+        "options": ["cell", "field", "record", "query"],
+        "correctAnswer": 2,
+        "explanation": "A field is an area within a record reserved for a specific piece of data, such as a customer name or phone number. It is the smallest unit of information about a record.",
+        "difficulty": "Easy",
+        "hint": "In a table, this would be a column."
+    },
+    {
+        "level": 168,
+        "mainsubject": "Language & Communication",
+        "question": "The code that relational database management systems use to perform their database task is referred to as",
+        "options": ["QBE", "SQL", "OLAP", "Sequel Server"],
+        "correctAnswer": 2,
+        "explanation": "SQL (Structured Query Language) is the standard language for relational database management systems. DBMS is a collection of programs used to retrieve data, and SQL is the language used to form those queries.",
+        "difficulty": "Medium",
+        "hint": "This is the standard language for managing data in relational databases."
+    },
+    {
+        "level": 169,
+        "mainsubject": "Language & Communication",
+        "question": "Rows of a relation are called",
+        "options": ["relation", "tuples", "data structure", "entities"],
+        "correctAnswer": 2,
+        "explanation": "The rows in a relation (table) are also known as tuples. Each row or tuple has a set of values for each attribute.",
+        "difficulty": "Easy",
+        "hint": "This is another term for a record or a row in a database table."
+    },
+    {
+        "level": 170,
+        "mainsubject": "Language & Communication",
+        "question": "In an E-R diagram, relationship type is represented by a",
+        "options": ["ellipse", "dashed ellipse", "rectangle", "diamond"],
+        "correctAnswer": 4,
+        "explanation": "A relationship, which is an association among several entities, is represented by a diamond shape in an E-R diagram.",
+        "difficulty": "Medium",
+        "hint": "Entities are rectangles and attributes are ellipses."
+    },
+    {
+        "level": 171,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following represents the fastest data transmission speed?",
+        "options": ["Bandwidth", "bps", "gbps", "kbps"],
+        "correctAnswer": 3,
+        "explanation": "Data transmission speed is measured in bits per second (bps). The prefixes kilo (k), mega (M), and giga (G) represent increasing orders of magnitude. Gbps (gigabits per second) is the fastest speed unit among the options.",
+        "difficulty": "Easy",
+        "hint": "Giga is a larger prefix than kilo or mega."
+    },
+    {
+        "level": 172,
+        "mainsubject": "Language & Communication",
+        "question": "A combination of hardware and software that allows communication between computers is a",
+        "options": ["network", "backup system", "server", "peripheral"],
+        "correctAnswer": 1,
+        "explanation": "A computer network is a combination of hardware and software that allows communication between computers over a network.",
+        "difficulty": "Easy",
+        "hint": "This term describes a group of connected computers."
+    },
+    {
+        "level": 173,
+        "mainsubject": "Language & Communication",
+        "question": "What is the use of a bridge in a network?",
+        "options": ["To connect LANs", "To separate LANs", "To control network speed", "To amplify signals"],
+        "correctAnswer": 1,
+        "explanation": "A bridge filters data traffic at a network boundary, reducing the amount of traffic on a LAN by dividing it into two segments. Its function is to connect these segments or different LANs.",
+        "difficulty": "Medium",
+        "hint": "This device connects two network segments at the Data Link layer."
+    },
+    {
+        "level": 174,
+        "mainsubject": "Language & Communication",
+        "question": "Hub is associated with which network topology?",
+        "options": ["Bus", "Ring", "Star", "Mesh"],
+        "correctAnswer": 3,
+        "explanation": "In a Star Topology, peripheral nodes are connected to a central node, which is often a hub. A star network can be expanded by placing another star hub.",
+        "difficulty": "Easy",
+        "hint": "In this topology, all devices connect to a central device."
+    },
+    {
+        "level": 175,
+        "mainsubject": "Language & Communication",
+        "question": "In which topology is every node connected to two other nodes?",
+        "options": ["Bus topology", "Ring topology", "Star topology", "Mesh topology"],
+        "correctAnswer": 2,
+        "explanation": "In a Ring or Circular Topology, each node is connected to exactly two other nodes, forming a continuous pathway for signals—a ring.",
+        "difficulty": "Easy",
+        "hint": "Data in this topology is often transmitted in the form of a token."
+    },
+    {
+        "level": 176,
+        "mainsubject": "Language & Communication",
+        "question": "Encryption and decryption are functions of which OSI layer?",
+        "options": ["Transport layer", "Session layer", "Presentation layer", "Application layer"],
+        "correctAnswer": 3,
+        "explanation": "The Presentation Layer of the OSI model works as a translating layer, which includes functions like data formatting, encryption, and decryption.",
+        "difficulty": "Medium",
+        "hint": "This layer is responsible for data translation and formatting."
+    },
+    {
+        "level": 177,
+        "mainsubject": "Language & Communication",
+        "question": "Your business has contracted with another company to host and run an application over the Internet. The company providing this service is called an",
+        "options": ["Internet Service Provider", "Internet Access Provider", "Application Service Provider", "Application Access Provider"],
+        "correctAnswer": 3,
+        "explanation": "An Internet Service Provider (ISP) provides internet access. When a company specifically hosts and manages software for customers, this is a form of cloud computing. Software as a Service (SaaS) is delivered by an Application Service Provider (ASP).",
+        "difficulty": "Medium",
+        "hint": "This is more specific than just providing an internet connection; it's about providing software."
+    },
+    {
+        "level": 178,
+        "mainsubject": "Language & Communication",
+        "question": "Which protocol provides E-mail facility among different hosts?",
+        "options": ["SMTP", "FTP", "TELNET", "SNMP"],
+        "correctAnswer": 1,
+        "explanation": "SMTP, or Simple Mail Transfer Protocol, is the standard protocol for E-mail services on a TCP/IP network. It provides the ability to send and receive E-mail messages.",
+        "difficulty": "Easy",
+        "hint": "The 'M' in this acronym stands for 'Mail'."
+    },
+    {
+        "level": 179,
+        "mainsubject": "Language & Communication",
+        "question": "A _______ is the term used when a search engine returns a Web page that matches the search criteria.",
+        "options": ["blog", "hit", "link", "view"],
+        "correctAnswer": 2,
+        "explanation": "When a search engine returns the links to web pages corresponding to the keywords entered, it is called a hit.",
+        "difficulty": "Easy",
+        "hint": "This is a successful result from a search query."
+    },
+    {
+        "level": 180,
+        "mainsubject": "Language & Communication",
+        "question": "The process of trading goods over the Internet is known as",
+        "options": ["E-selling n buying", "E-trading", "E-finance", "E-commerce"],
+        "correctAnswer": 4,
+        "explanation": "E-Commerce (Electronic Commerce) includes sharing business information and conducting business transactions, such as the process of trading goods over the Internet.",
+        "difficulty": "Easy",
+        "hint": "The 'E' stands for electronic."
+    },
+    {
+        "level": 181,
+        "mainsubject": "Language & Communication",
+        "question": "A stored link to a Web page for quick and easy access later is called a",
+        "options": ["WP-Link", "Bookmark", "Field", "Cache"],
+        "correctAnswer": 2,
+        "explanation": "Bookmarks are links to web pages that make it easy to get back to your favourite page.",
+        "difficulty": "Easy",
+        "hint": "You might save one of these in your browser for a site you visit often."
+    },
+    {
+        "level": 182,
+        "mainsubject": "Language & Communication",
+        "question": "Softwares such as viruses, worms, and trojan horses that have malicious content are known as",
+        "options": ["malicious software (malware)", "adware", "scareware", "spyware"],
+        "correctAnswer": 1,
+        "explanation": "Malware stands for Malicious Software. It is a broad term for a variety of malicious programs including computer viruses, worms, and trojan horses.",
+        "difficulty": "Easy",
+        "hint": "The name is a combination of 'malicious' and 'software'."
+    },
+    {
+        "level": 183,
+        "mainsubject": "Language & Communication",
+        "question": "Like a virus, it is also a self-replicating program. The difference is that it propagates through computer networks without attaching to other files.",
+        "options": ["Keylogger", "Worm", "Cracker", "Trojan Horse"],
+        "correctAnswer": 2,
+        "explanation": "A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers, often using a computer network to do so.",
+        "difficulty": "Medium",
+        "hint": "This type of malware can spread on its own through a network."
+    },
+    {
+        "level": 184,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following are attempts by individuals to obtain confidential information from you by falsifying their identity?",
+        "options": ["Phishing trips", "Computer viruses", "Spyware scams", "Phishing scams"],
+        "correctAnswer": 4,
+        "explanation": "Phishing is characterized by attempting to fraudulently acquire sensitive information such as passwords and credit card details by masquerading as a trustworthy person or entity.",
+        "difficulty": "Easy",
+        "hint": "This often happens through deceptive emails or websites."
+    },
+    {
+        "level": 185,
+        "mainsubject": "Language & Communication",
+        "question": "A small program that improves an existing piece of software or corrects an error in it is a",
+        "options": ["Patch", "Upgrade", "Version", "Fix"],
+        "correctAnswer": 1,
+        "explanation": "A patch is a piece of software designed to fix problems with a computer program or its supporting data, including fixing security vulnerabilities and other bugs.",
+        "difficulty": "Medium",
+        "hint": "These are often released by software vendors to fix security holes."
+    },
+    {
+        "level": 186,
+        "mainsubject": "Language & Communication",
+        "question": "The legal right to use software based on specific restrictions is granted via a",
+        "options": ["software privacy policy", "software license", "software password manager", "software log"],
+        "correctAnswer": 2,
+        "explanation": "The legal right to use software based on specific restrictions is granted via a Software License.",
+        "difficulty": "Easy",
+        "hint": "You usually have to agree to this before installing software."
+    },
+    {
+        "level": 187,
+        "mainsubject": "Language & Communication",
+        "question": "What is the process of collecting, organising, and analysing large sets of data to discover patterns and other useful information?",
+        "options": ["Future skills", "IoT", "Big data analytics", "User interface"],
+        "correctAnswer": 3,
+        "explanation": "Big data analytics is the process of collecting, organising and analysing large sets of data to discover patterns and other useful information.",
+        "difficulty": "Easy",
+        "hint": "This field helps businesses make sense of massive amounts of information."
+    },
+    {
+        "level": 188,
+        "mainsubject": "Language & Communication",
+        "question": "In the context of Big Data, what does 'Velocity' refer to?",
+        "options": ["The different types of data", "The accuracy of the data", "The speed at which data is created", "The amount of data"],
+        "correctAnswer": 3,
+        "explanation": "Velocity essentially refers to the speed at which data is being created in real time.",
+        "difficulty": "Medium",
+        "hint": "This is one of the three 'V's of Big Data."
+    },
+    {
+        "level": 189,
+        "mainsubject": "Language & Communication",
+        "question": "Additive manufacturing, which creates 3D objects layer by layer, is more commonly known as",
+        "options": ["CAD", "Robotics Process Automation", "3D Printing", "Virtual Reality"],
+        "correctAnswer": 3,
+        "explanation": "3D printing is a manufacturing process where a 3D printer creates three-dimensional objects by depositing materials layer by layer. It is also known as additive manufacturing.",
+        "difficulty": "Easy",
+        "hint": "This technology can create physical objects from a digital file."
+    },
+    {
+        "level": 190,
+        "mainsubject": "Language & Communication",
+        "question": "The use of specialised computer programs known as 'software robots' to automate repeatable business processes is called",
+        "options": ["Artificial Intelligence", "Robotics Process Automation (RPA)", "3D Printing", "Blockchain"],
+        "correctAnswer": 2,
+        "explanation": "Robotics Process Automation (RPA) is the use of specialised computer programs, known as software robots, to automate and standardise repeatable business processes.",
+        "difficulty": "Medium",
+        "hint": "Despite the name, this does not involve physical robots."
+    },
+    {
+        "level": 191,
+        "mainsubject": "Language & Communication",
+        "question": "A cell phone that allows you to do more than make phone calls and send text messages, such as browsing the internet, is a",
+        "options": ["Feature Phone", "Satellite Phone", "Smartphone", "Landline Phone"],
+        "correctAnswer": 3,
+        "explanation": "A smartphone is a cell phone that allows you to do more than make phone calls and send text messages. They use browsers and other software like a computer system.",
+        "difficulty": "Easy",
+        "hint": "These devices typically run on operating systems like Android or iOS."
+    },
+    {
+        "level": 192,
+        "mainsubject": "Language & Communication",
+        "question": "An app that is a digital locker linked to Aadhaar Card and cellphone numbers for storing official documents is called",
+        "options": ["GARV app", "DigiLocker app", "MyGov app", "mPassport Seva app"],
+        "correctAnswer": 2,
+        "explanation": "DigiLocker is a digital locker to store all official documents that is linked to both Aadhaar Card and cellphone numbers.",
+        "difficulty": "Easy",
+        "hint": "This app helps reduce the need to carry physical documents."
+    },
+    {
+        "level": 193,
+        "mainsubject": "Language & Communication",
+        "question": "A type of prepaid account in which a user can store money for future online transactions is a(n)",
+        "options": ["Bank Account", "Credit Card", "e-Wallet", "UPI"],
+        "correctAnswer": 3,
+        "explanation": "An e-Wallet (or Mobile Wallet) is a type of prepaid account in which a user can store his/her money for any future online transaction.",
+        "difficulty": "Easy",
+        "hint": "Examples include Paytm and Mobikwik."
+    },
+     {
+        "level": 194,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is NOT a hardware component?",
+        "options": ["Processor chip", "Printer", "Mouse", "Java"],
+        "correctAnswer": 4,
+        "explanation": "Java is a programming language and a form of software, not a physical hardware component. Processor chips, printers, and mice are all tangible pieces of computer hardware[cite: Page 21, Q2].",
+        "difficulty": "Easy",
+        "hint": "Think about items you can physically touch versus a programming language."
+    },
+    {
+        "level": 195,
+        "mainsubject": "Language & Communication",
+        "question": "What type of device is a computer mouse?",
+        "options": ["Storage", "Output", "Input", "Input/Output"],
+        "correctAnswer": 3,
+        "explanation": "A computer mouse is an input device. It is used to provide data and commands to a computer in the form of movements and button clicks[cite: Page 21, Q13].",
+        "difficulty": "Easy",
+        "hint": "It's used to point, click, and give instructions to the computer."
+    },
+    {
+        "level": 196,
+        "mainsubject": "Language & Communication",
+        "question": "Who built the first computer mouse?",
+        "options": ["Douglas Engelbart", "William English", "Daniel Coogher", "Robert Zawacki"],
+        "correctAnswer": 1,
+        "explanation": "The first computer mouse was built by Douglas Engelbart in 1963 at the Stanford Research Center[cite: Page 15].",
+        "difficulty": "Medium",
+        "hint": "This inventor is associated with pioneering work in human-computer interaction."
+    },
+    {
+        "level": 197,
+        "mainsubject": "Language & Communication",
+        "question": "A joystick is primarily used for ____.",
+        "options": ["controlling sound on the screen", "computer gaming", "entering text", "drawing pictures"],
+        "correctAnswer": 2,
+        "explanation": "A joystick is a pointing device primarily used to control movements in computer games, flight simulators, and CAD/CAM systems[cite: Page 16, Page 21 Q21].",
+        "difficulty": "Easy",
+        "hint": "Commonly found with gaming consoles and flight control systems."
+    },
+    {
+        "level": 198,
+        "mainsubject": "Language & Communication",
+        "question": "Which device is generally used in applications like ATM, hospitals, and airline reservations?",
+        "options": ["Light pen", "Touch screen", "Joystick", "Trackball"],
+        "correctAnswer": 2,
+        "explanation": "Touch screens are input devices that accept input via a user's fingertip on the screen. They are widely used in public-facing applications like ATMs, hospital kiosks, and airline reservation systems for their intuitive interface[cite: Page 16, Page 22 Q25].",
+        "difficulty": "Easy",
+        "hint": "You interact with this device by directly touching the display."
+    },
+    {
+        "level": 199,
+        "mainsubject": "Language & Communication",
+        "question": "What does a barcode reader recognize?",
+        "options": ["Magnetic ink", "Pencil marks", "Printed stripes of dark and light ink", "Handwritten characters"],
+        "correctAnswer": 3,
+        "explanation": "A barcode reader is an input device that uses a light-sensitive detector to read printed barcodes, which are machine-readable representations of information in the form of stripes of dark and light ink[cite: Page 16].",
+        "difficulty": "Medium",
+        "hint": "It scans the patterns found on products in a supermarket."
+    },
+    {
+        "level": 200,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is an example of an output device?",
+        "options": ["Webcam", "Microphone", "Scanner", "Projector"],
+        "correctAnswer": 4,
+        "explanation": "A projector is an output device that projects information from a computer onto a large screen for viewing by a group. Webcams, microphones, and scanners are all input devices[cite: Page 20, Page 23 Q23, Page 23 Q41].",
+        "difficulty": "Easy",
+        "hint": "This device is used in classrooms and conference halls to display content."
+    },
+    {
+        "level": 201,
+        "mainsubject": "Language & Communication",
+        "question": "The clarity of an image on a monitor depends on which of the following factors?",
+        "options": ["Resolution, Dot Pitch, and Refresh Rate", "Size, Weight, and Color", "Brand, Model, and Price", "USB Ports, HDMI Ports, and Power Consumption"],
+        "correctAnswer": 1,
+        "explanation": "The clarity (quality) of an image on a monitor is determined by its resolution (number of pixels), dot pitch (distance between pixels), and refresh rate (how often the image is redrawn per second)[cite: Page 18].",
+        "difficulty": "Medium",
+        "hint": "These are technical specifications used to compare monitor quality."
+    },
+    {
+        "level": 202,
+        "mainsubject": "Language & Communication",
+        "question": "Which type of printer strikes paper and ribbon together to form a character?",
+        "options": ["Inkjet Printer", "Laser Printer", "Impact Printer", "Thermal Printer"],
+        "correctAnswer": 3,
+        "explanation": "Impact printers (like Dot Matrix or Daisy Wheel) work by striking an inked ribbon against the paper to form characters, similar to a typewriter[cite: Page 19].",
+        "difficulty": "Medium",
+        "hint": "This type of printer can be noisy and is often used for multi-part forms."
+    },
+    {
+        "level": 203,
+        "mainsubject": "Language & Communication",
+        "question": "What is the common use of a plotter?",
+        "options": ["Printing text documents", "Producing large drawings or construction plans", "Scanning photographs", "Playing audio files"],
+        "correctAnswer": 3,
+        "explanation": "A plotter is a special output device that uses pens to produce high-precision drawings, such as architectural blueprints, engineering designs, and construction plans[cite: Page 20].",
+        "difficulty": "Medium",
+        "hint": "It is commonly used with CAD/CAM applications."
+    },
+    {
+        "level": 204,
+        "mainsubject": "Language & Communication",
+        "question": "Which early device was the first mechanical adding machine, working on the principle of an odometer?",
+        "options": ["Abacus", "Napier's Bones", "Pascaline", "Jacquard's Loom"],
+        "correctAnswer": 3,
+        "explanation": "The Pascaline, invented by Blaise Pascal in 1642, was the first mechanical adding machine and worked on the principle of an odometer and a watch[cite: 41].",
+        "difficulty": "Medium",
+        "hint": "This French invention from 1642 was also known as an adding machine."
+    },
+    {
+        "level": 205,
+        "mainsubject": "Language & Communication",
+        "question": "What type of computer is designed to be the fastest, often used for tasks requiring immense processing power like weather forecasting?",
+        "options": ["Microcomputer", "Minicomputer", "Mainframe Computer", "Supercomputer"],
+        "correctAnswer": 4,
+        "explanation": "A supercomputer is the fastest and most powerful type of computer, often used for complex scientific and engineering problems[cite: 70].",
+        "difficulty": "Easy",
+        "hint": "These computers are at the forefront of processing capability."
+    },
+    {
+        "level": 206,
+        "mainsubject": "Language & Communication",
+        "question": "Fifth Generation computers are based on which technology?",
+        "options": ["Transistors", "Integrated Circuits", "Microprocessors", "Artificial Intelligence"],
+        "correctAnswer": 4,
+        "explanation": "Fifth Generation computers (Present and Beyond) utilize Super Large Scale Integrated (SLSI) chips and concepts like parallel processing and Artificial Intelligence (AI)[cite: 49].",
+        "difficulty": "Easy",
+        "hint": "This generation focuses on making computers think and learn like humans."
+    },
+    {
+        "level": 207,
+        "mainsubject": "Language & Communication",
+        "question": "The main circuit board contained in any computer is called a",
+        "options": ["Chip", "Processor", "Motherboard", "Bus"],
+        "correctAnswer": 3,
+        "explanation": "The main circuit board contained in any computer is called a motherboard. It is also known as the main board or system board[cite: 179, 180].",
+        "difficulty": "Easy",
+        "hint": "All internal components, like the CPU and RAM, connect to this board."
+    },
+    {
+        "level": 208,
+        "mainsubject": "Language & Communication",
+        "question": "The correct sequence of the instruction cycle is:",
+        "options": ["Fetch, Decode, Execute, Store", "Decode, Fetch, Execute, Store", "Execute, Store, Fetch, Decode", "Store, Decode, Fetch, Execute"],
+        "correctAnswer": 1,
+        "explanation": "A simple instruction cycle consists of the following steps: 1. Fetching the instruction from memory. 2. Decoding the instruction. 3. Executing the instruction. 4. Storing the result in memory[cite: 189, 213, 214, 215].",
+        "difficulty": "Medium",
+        "hint": "The computer first needs to get the instruction before it can understand and perform it."
+    },
+    {
+        "level": 209,
+        "mainsubject": "Language & Communication",
+        "question": "A device that provides emergency power to a computer when the main power source fails is a(n)",
+        "options": ["Power strip", "Surge protector", "UPS (Uninterruptible Power Supply)", "Adapter"],
+        "correctAnswer": 3,
+        "explanation": "A UPS (Uninterruptible Power Supply) is an electrical apparatus that provides emergency power to a load when the input power source or mains power fails[cite: 218].",
+        "difficulty": "Easy",
+        "hint": "This device contains a battery to keep the computer running for a short time during a power outage."
+    },
+    {
+        "level": 210,
+        "mainsubject": "Language & Communication",
+        "question": "What are the keys F1 through F12 called?",
+        "options": ["Alphanumeric Keys", "Numeric Keys", "Function Keys", "Cursor Control Keys"],
+        "correctAnswer": 3,
+        "explanation": "The keys numbered from F1 to F12 are called Function Keys. They are programmable, meaning programs can assign specific actions to them[cite: 370, 371].",
+        "difficulty": "Easy",
+        "hint": "These keys are usually located in a row at the top of the keyboard."
+    },
+    {
+        "level": 211,
+        "mainsubject": "Language & Communication",
+        "question": "The right-click action of a mouse typically does what?",
+        "options": ["Selects an item on the screen", "Opens a document or program", "Displays a list of commands", "Moves an item on the screen"],
+        "correctAnswer": 3,
+        "explanation": "A right click on a mouse displays a list of commands on the screen and is used to access the properties of the selected object[cite: 401, 402].",
+        "difficulty": "Easy",
+        "hint": "This action often opens a context-sensitive menu."
+    },
+    {
+        "level": 212,
+        "mainsubject": "Language & Communication",
+        "question": "Which input device is an alternative to a mouse and uses a ball that is rotated to control the cursor?",
+        "options": ["Joystick", "Light Pen", "Trackball", "Touch Screen"],
+        "correctAnswer": 3,
+        "explanation": "A trackball is another pointing device which is an alternative to a mouse and is used to control cursor movements and actions on a computer screen[cite: 404, 405].",
+        "difficulty": "Easy",
+        "hint": "It's like an upside-down mouse."
+    },
+    {
+        "level": 213,
+        "mainsubject": "Language & Communication",
+        "question": "The quality of a printer is measured in",
+        "options": ["Characters Per Second (CPS)", "Pages Per Minute (PPM)", "Dots Per Inch (DPI)", "Lines Per Minute (LPM)"],
+        "correctAnswer": 3,
+        "explanation": "Printer resolution is a numerical measure of print quality that is measured in Dots Per Inch (DPI)[cite: 489].",
+        "difficulty": "Medium",
+        "hint": "This measures the clarity or resolution of the print."
+    },
+    {
+        "level": 214,
+        "mainsubject": "Language & Communication",
+        "question": "External devices such as printers, keyboards, and modems are also known as",
+        "options": ["add-on devices", "peripherals", "extra software devices", "special buys"],
+        "correctAnswer": 2,
+        "explanation": "The I/O devices that are attached externally to the computer machine are also called peripheral devices[cite: 540].",
+        "difficulty": "Easy",
+        "hint": "This term refers to any device connected to the outside of the computer's system unit."
+    },
+    {
+        "level": 215,
+        "mainsubject": "Language & Communication",
+        "question": "Where are programs and data to be used by the computer available?",
+        "options": ["Processing unit", "Output", "Storage", "Input"],
+        "correctAnswer": 3,
+        "explanation": "Computer memory, a form of storage, stores data and instructions required during the processing of data and for output results[cite: 597].",
+        "difficulty": "Easy",
+        "hint": "Think about where files are kept when the computer is off."
+    },
+    {
+        "level": 216,
+        "mainsubject": "Language & Communication",
+        "question": "A type of ROM that can be erased by exposure to strong ultraviolet light and then rewritten is called",
+        "options": ["PROM", "EEPROM", "EPROM", "Flash Memory"],
+        "correctAnswer": 3,
+        "explanation": "Erasable Programmable ROM (EPROM) is similar to PROM, but it can be erased by exposure to strong ultraviolet light, then rewritten. It is also known as Ultraviolet Erasable Programmable ROM (UVEPROM)[cite: 617, 618].",
+        "difficulty": "Medium",
+        "hint": "The 'E' in its name stands for Erasable."
+    },
+    {
+        "level": 217,
+        "mainsubject": "Language & Communication",
+        "question": "A memory technique that allows the execution of programs that are larger than the main memory is known as",
+        "options": ["Cache Memory", "Flash Memory", "Virtual Memory", "Extended Memory"],
+        "correctAnswer": 3,
+        "explanation": "Virtual Memory is a technique that allows the execution of processes that are not completely in main memory. A major advantage is that programs can be larger than main memory[cite: 624].",
+        "difficulty": "Medium",
+        "hint": "This technique uses hard disk space to supplement RAM."
+    },
+    {
+        "level": 218,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following has the smallest storage capacity?",
+        "options": ["Zip disk", "Hard disk", "Floppy disk", "CD"],
+        "correctAnswer": 3,
+        "explanation": "A floppy disk is used to store data, but it can only store a small amount of data (e.g., 1.44 MB) and is slower to access than hard disks or CDs[cite: 643].",
+        "difficulty": "Easy",
+        "hint": "This was a popular portable storage medium in the 1980s and 90s."
+    },
+    {
+        "level": 219,
+        "mainsubject": "Language & Communication",
+        "question": "What is the correct sequence of storage units from smallest to largest?",
+        "options": ["Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte", "Kilobyte, Gigabyte, Megabyte, Petabyte, Terabyte", "Megabyte, Kilobyte, Gigabyte, Terabyte, Petabyte", "Kilobyte, Megabyte, Terabyte, Gigabyte, Petabyte"],
+        "correctAnswer": 1,
+        "explanation": "The correct sequence of memory measurement units from smallest to largest is: Kilobyte (KB), Megabyte (MB), Gigabyte (GB), Terabyte (TB), Petabyte (PB)[cite: 672].",
+        "difficulty": "Easy",
+        "hint": "The prefixes K, M, G, T, P are in alphabetical order."
+    },
+    {
+        "level": 220,
+        "mainsubject": "Language & Communication",
+        "question": "The decimal number system is also known as",
+        "options": ["Base 2 system", "Base 8 system", "Base 10 system", "Base 16 system"],
+        "correctAnswer": 3,
+        "explanation": "The decimal number system consists of 10 digits from 0 to 9 and is also known as the Base 10 system or positional number system[cite: 769, 770].",
+        "difficulty": "Easy",
+        "hint": "It's the number system we use in everyday life."
+    },
+    {
+        "level": 221,
+        "mainsubject": "Language & Communication",
+        "question": "What is the value of the binary number 1111 in decimal?",
+        "options": ["11", "10", "1", "15"],
+        "correctAnswer": 4,
+        "explanation": "To convert binary 1111 to decimal: (1 * 2^3) + (1 * 2^2) + (1 * 2^1) + (1 * 2^0) = 8 + 4 + 2 + 1 = 15[cite: 783].",
+        "difficulty": "Medium",
+        "hint": "The positions from right to left represent 1, 2, 4, 8."
+    },
+    {
+        "level": 222,
+        "mainsubject": "Language & Communication",
+        "question": "To convert a binary number to octal, you group the bits in sets of",
+        "options": ["2", "3", "4", "8"],
+        "correctAnswer": 2,
+        "explanation": "To convert a binary number to octal, you make a group of 3 bits from right to left[cite: 784].",
+        "difficulty": "Medium",
+        "hint": "Octal is base-8, and 2 to the power of 3 is 8."
+    },
+    {
+        "level": 223,
+        "mainsubject": "Language & Communication",
+        "question": "A coding system where four bits are used to represent each decimal digit (0-9) is called",
+        "options": ["ASCII", "EBCDIC", "UNICODE", "BCD (Binary Coded Decimal)"],
+        "correctAnswer": 4,
+        "explanation": "Binary Coded Decimal (BCD) is a number system where four bits are used to represent each decimal digit from 0 to 9[cite: 807, 808].",
+        "difficulty": "Medium",
+        "hint": "This system directly encodes decimal digits into binary."
+    },
+    {
+        "level": 224,
+        "mainsubject": "Language & Communication",
+        "question": "The primary purpose of software is to turn data into",
+        "options": ["information", "programs", "objects", "charts"],
+        "correctAnswer": 1,
+        "explanation": "Data processing is a key function of a computer, which involves converting raw data into meaningful information[cite: 21]. Software provides the instructions to perform this conversion.",
+        "difficulty": "Easy",
+        "hint": "Data is raw facts; software processes it into something meaningful."
+    },
+    {
+        "level": 225,
+        "mainsubject": "Language & Communication",
+        "question": "Which of these is a software used for creating, storing, and printing documents?",
+        "options": ["Electronic Spreadsheet", "Word Processing Software", "Presentation Software", "Database Management System"],
+        "correctAnswer": 2,
+        "explanation": "A word processor is a software program capable of creating, storing, and printing documents. Examples include Microsoft Word and OpenOffice.org Writer[cite: 901, 902].",
+        "difficulty": "Easy",
+        "hint": "Microsoft Word is a popular example of this type of software."
+    },
+    {
+        "level": 226,
+        "mainsubject": "Language & Communication",
+        "question": "What does DTP, a tool for graphic designers, stand for?",
+        "options": ["Device Transfer Protocol", "Desktop Publishing", "Device Transfer Programs", "Data Type Processing"],
+        "correctAnswer": 2,
+        "explanation": "DTP stands for Desktop Publishing. It is a tool for graphic designers to create visual communications for professional or desktop printing[cite: 906].",
+        "difficulty": "Easy",
+        "hint": "This software is used to create page layouts for print."
+    },
+    {
+        "level": 227,
+        "mainsubject": "Language & Communication",
+        "question": "A Windows utility that locates unnecessary fragments and rearranges files and unused disk space to optimize operations is called",
+        "options": ["Backup", "Disk Cleanup", "Disk Defragmenter", "Restore"],
+        "correctAnswer": 3,
+        "explanation": "A Disk Fragmenter detects computer files whose contents are broken across several locations on the hard disk and moves the fragments to one location to increase efficiency[cite: 928].",
+        "difficulty": "Medium",
+        "hint": "This utility helps to organize files on your hard drive to make access faster."
+    },
+    {
+        "level": 228,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is a function of an operating system?",
+        "options": ["Process Management", "Memory Management", "File Management", "All of the above"],
+        "correctAnswer": 4,
+        "explanation": "The functions of an operating system include Process Management, Memory Management, File Management, and Device Management[cite: 1003, 1005, 1007, 1009].",
+        "difficulty": "Easy",
+        "hint": "The OS is responsible for managing all the computer's resources."
+    },
+    {
+        "level": 229,
+        "mainsubject": "Language & Communication",
+        "question": "An operating system that allows multiple programs to run concurrently is a",
+        "options": ["Single User OS", "Multi User OS", "Multi-Tasking OS", "Real Time OS"],
+        "correctAnswer": 3,
+        "explanation": "In a Multi-Tasking Operating System, more than one process can be executed concurrently. It also allows the user to switch between running applications[cite: 1020].",
+        "difficulty": "Easy",
+        "hint": "This is a standard feature of modern operating systems like Windows and macOS."
+    },
+    {
+        "level": 230,
+        "mainsubject": "Language & Communication",
+        "question": "Which one of the following is NOT an operating system?",
+        "options": ["Linux", "Unix", "Intel", "Windows"],
+        "correctAnswer": 3,
+        "explanation": "Linux, Unix, and Windows are all operating systems. Intel is a company that primarily manufactures microprocessors (hardware)[cite: 1043, 1047, 1050, 177].",
+        "difficulty": "Easy",
+        "hint": "One of these is a brand of computer hardware, not software."
+    },
+    {
+        "level": 231,
+        "mainsubject": "Language & Communication",
+        "question": "In DOS, what is the command to clear the screen?",
+        "options": ["CLEAR", "ERASE", "CLS", "WIPE"],
+        "correctAnswer": 3,
+        "explanation": "The CLS command in MS-DOS is used to clear the screen[cite: 1060, 1062].",
+        "difficulty": "Easy",
+        "hint": "The command is an abbreviation for 'CLear Screen'."
+    },
+    {
+        "level": 232,
+        "mainsubject": "Language & Communication",
+        "question": "Who is regarded as the world’s first programmer?",
+        "options": ["Alan Turing", "Ada Lovelace", "Tim Berners-Lee", "Steve Wozniak"],
+        "correctAnswer": 2,
+        "explanation": "Ada Lovelace is regarded as the world’s first programmer[cite: 1133].",
+        "difficulty": "Medium",
+        "hint": "She worked with Charles Babbage on the Analytical Engine."
+    },
+    {
+        "level": 233,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is the only language understood by the computer?",
+        "options": ["Assembly Language", "High-Level Language", "C++", "Machine Language"],
+        "correctAnswer": 4,
+        "explanation": "Machine Language is the only language understood by computers. It is a collection of binary digits (0 or 1) that the computer reads and interprets[cite: 1138, 1139].",
+        "difficulty": "Easy",
+        "hint": "This language consists of 0s and 1s."
+    },
+    {
+        "level": 234,
+        "mainsubject": "Language & Communication",
+        "question": "Which programming language was developed by Dennis Ritchie at Bell Labs?",
+        "options": ["Pascal", "C", "C++", "Java"],
+        "correctAnswer": 2,
+        "explanation": "The C programming language was developed in 1972 by Dennis Ritchie at Bell Labs and is used for system programming[cite: 1147].",
+        "difficulty": "Medium",
+        "hint": "This language is a predecessor to C++ and Java."
+    },
+    {
+        "level": 235,
+        "mainsubject": "Language & Communication",
+        "question": "A visual representation of the sequence of steps and decisions needed to perform a process is called a",
+        "options": ["Algorithm", "Pseudocode", "Flow Chart", "Program"],
+        "correctAnswer": 3,
+        "explanation": "A flow chart is a visual representation of the sequence of steps and decisions needed to perform a process. Each step is noted within a diagram shape and linked by connecting lines[cite: 1175].",
+        "difficulty": "Easy",
+        "hint": "This uses shapes like ovals, rectangles, and diamonds to map out a process."
+    },
+    {
+        "level": 236,
+        "mainsubject": "Language & Communication",
+        "question": "What is the background image of the desktop called?",
+        "options": ["Graphics", "Deskcover", "Wallback", "Wallpaper"],
+        "correctAnswer": 4,
+        "explanation": "The background image of the desktop is called wallpaper[cite: 1260].",
+        "difficulty": "Easy",
+        "hint": "You can usually customize this image."
+    },
+    {
+        "level": 237,
+        "mainsubject": "Language & Communication",
+        "question": "When you want to move an icon on your desktop, this is called",
+        "options": ["double clicking", "highlighting", "dragging", "pointing"],
+        "correctAnswer": 3,
+        "explanation": "If you move an icon on your desktop, this is called ‘dragging’ and after releasing it, it will be called ‘dropping’[cite: 1264].",
+        "difficulty": "Easy",
+        "hint": "This involves clicking and holding the mouse button while moving the mouse."
+    },
+    {
+        "level": 238,
+        "mainsubject": "Language & Communication",
+        "question": "To shrink a window to an icon on the taskbar, you would",
+        "options": ["open a group window", "minimize a window", "maximize a window", "restore a window"],
+        "correctAnswer": 2,
+        "explanation": "The Minimize Button reduces a window into the form of a button which is placed on the task bar. It helps to shrink the window[cite: 1286].",
+        "difficulty": "Easy",
+        "hint": "This action gets the window out of the way without closing it."
+    },
+    {
+        "level": 239,
+        "mainsubject": "Language & Communication",
+        "question": "A temporary storage area in computer memory that stores cut or copied data is called the",
+        "options": ["Clipart", "Clipboard", "Motherboard", "Cache"],
+        "correctAnswer": 2,
+        "explanation": "The Clipboard is a temporary storage in computer memory that stores cut or copied data[cite: 1318].",
+        "difficulty": "Easy",
+        "hint": "This is where information goes when you use the 'Copy' or 'Cut' command."
+    },
+    {
+        "level": 240,
+        "mainsubject": "Language & Communication",
+        "question": "The file extension for a Microsoft Excel file is typically",
+        "options": [".doc", ".ppt", ".xlsx", ".mdb"],
+        "correctAnswer": 3,
+        "explanation": "By default, the extensions of a MS-Excel spreadsheet are .xls or .xlsx[cite: 1454].",
+        "difficulty": "Easy",
+        "hint": "The 'x' at the end was added in newer versions of the software."
+    },
+    {
+        "level": 241,
+        "mainsubject": "Language & Communication",
+        "question": "To save an existing document with a different file name, you should use",
+        "options": ["Save button", "Save on the File menu", "Save As on the File menu", "Ctrl + S"],
+        "correctAnswer": 3,
+        "explanation": "The 'Save As' command allows you to save an already saved document under a new name or in a new location, creating a separate file[cite: 1428].",
+        "difficulty": "Easy",
+        "hint": "This command lets you create a copy of the document with a new name."
+    },
+    {
+        "level": 242,
+        "mainsubject": "Language & Communication",
+        "question": "In PowerPoint, which view is best for re-arranging the sequence of your slides?",
+        "options": ["Normal View", "Slide Sorter View", "Notes Page View", "Slide Show View"],
+        "correctAnswer": 2,
+        "explanation": "Slide Sorter View provides a view of your slides in thumbnail form, making it easy to sort and organise their sequence[cite: 1542].",
+        "difficulty": "Easy",
+        "hint": "This view shows you miniature versions of all your slides at once."
+    },
+    {
+        "level": 243,
+        "mainsubject": "Language & Communication",
+        "question": "What is the shortcut key to insert a new slide in a PowerPoint presentation?",
+        "options": ["Ctrl + N", "Ctrl + S", "Ctrl + M", "Ctrl + I"],
+        "correctAnswer": 3,
+        "explanation": "The shortcut key Ctrl + M is used to insert a new slide in Microsoft PowerPoint[cite: 1563].",
+        "difficulty": "Easy",
+        "hint": "The 'N' shortcut is for a 'New' presentation, but this is for a new slide within the current one."
+    },
+    {
+        "level": 244,
+        "mainsubject": "Language & Communication",
+        "question": "Which type of database stores data in the form of tables?",
+        "options": ["Network Database", "Hierarchical Database", "Relational Database", "Object-Oriented Database"],
+        "correctAnswer": 3,
+        "explanation": "A relational database, also known as a structured database, is one in which data is stored in the form of tables with columns and rows[cite: 1694].",
+        "difficulty": "Easy",
+        "hint": "This is the most common type of database, used by systems like MySQL and MS-Access."
+    },
+    {
+        "level": 245,
+        "mainsubject": "Language & Communication",
+        "question": "Periodically adding, changing, and deleting file records is called ______ a file.",
+        "options": ["updating", "upgrading", "restructuring", "renewing"],
+        "correctAnswer": 1,
+        "explanation": "Database management involves several operations, including adding, updating, and deleting data. The general term for these modifications is updating[cite: 1686, 1718].",
+        "difficulty": "Easy",
+        "hint": "This is the general term for keeping data current."
+    },
+    {
+        "level": 246,
+        "mainsubject": "Language & Communication",
+        "question": "A database language used to define the structure of tables and other objects is called",
+        "options": ["DML (Data Manipulation Language)", "DCL (Data Control Language)", "DDL (Data Definition Language)", "TCL (Transaction Control Language)"],
+        "correctAnswer": 3,
+        "explanation": "Data Definition Language (DDL) is used to define the structure of your tables and other objects in a database. It specifies the database schema[cite: 1775].",
+        "difficulty": "Medium",
+        "hint": "This language is used for commands like CREATE TABLE and ALTER TABLE."
+    },
+    {
+        "level": 247,
+        "mainsubject": "Language & Communication",
+        "question": "A device that connects to a network without the use of cables is said to be",
+        "options": ["distributed", "cabled", "centralised", "wireless"],
+        "correctAnswer": 4,
+        "explanation": "Wireless technologies transfer information over a distance without the use of electrical conductors or wires[cite: 1876].",
+        "difficulty": "Easy",
+        "hint": "Wi-Fi is a common example of this."
+    },
+    {
+        "level": 248,
+        "mainsubject": "Language & Communication",
+        "question": "What does a router do in a network?",
+        "options": ["Amplifies signals", "Connects devices within one LAN", "Connects LANs and directs packets to appropriate locations", "Converts digital signals to analog"],
+        "correctAnswer": 3,
+        "explanation": "A network device called a router connects LANs to a WAN. A router is a hardware device designed to take incoming packets, analyze them, and direct them to the appropriate locations on another network[cite: 1903, 1933].",
+        "difficulty": "Medium",
+        "hint": "This device helps direct traffic between different networks."
+    },
+    {
+        "level": 249,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following items is NOT used in a Local Area Network (LAN)?",
+        "options": ["Interface card", "Cable", "Computer", "Modem"],
+        "correctAnswer": 4,
+        "explanation": "LANs connect computers over a short distance, typically using cables and network interface cards. A modem is used for communication over telephone lines, often to connect a LAN to a Wide Area Network (WAN) like the internet[cite: 1897, 1938].",
+        "difficulty": "Medium",
+        "hint": "One of these devices is typically used to connect to the internet over a phone line."
+    },
+    {
+        "level": 250,
+        "mainsubject": "Language & Communication",
+        "question": "P2P is a _______ application architecture.",
+        "options": ["client/server", "distributed", "centralised", "1-tier"],
+        "correctAnswer": 2,
+        "explanation": "A Peer-to-Peer (P2P) network relies on computing power at the edges of a connection rather than in a central network itself, making it a distributed architecture. Each computer can act as both a client and a server[cite: 1963, 1967].",
+        "difficulty": "Medium",
+        "hint": "In this model, there is no central server."
+    },
+    {
+        "level": 251,
+        "mainsubject": "Language & Communication",
+        "question": "Which of these is NOT a type of broadband Internet connection?",
+        "options": ["Cable", "DSL", "Dial-up", "BPL"],
+        "correctAnswer": 3,
+        "explanation": "Broadband refers to high-speed internet access. Technologies like DSL, Cable Modem, and Broadband over Power Line (BPL) are types of broadband. Dial-up is a much slower, older method of connecting to the internet[cite: 2078, 2082].",
+        "difficulty": "Easy",
+        "hint": "One of these is a much older, slower way of connecting via a telephone line."
+    },
+    {
+        "level": 252,
+        "mainsubject": "Language & Communication",
+        "question": "A software application used to locate, retrieve, and display content on the World Wide Web is a",
+        "options": ["Web Server", "Web Browser", "Website", "Search Engine"],
+        "correctAnswer": 2,
+        "explanation": "A Web browser is a software application that is used to locate, retrieve and display content on the world wide web, including Web pages. Examples include Chrome, Firefox, and Safari[cite: 2142, 2148].",
+        "difficulty": "Easy",
+        "hint": "You are using one to view this right now."
+    },
+    {
+        "level": 253,
+        "mainsubject": "Language & Communication",
+        "question": "A small message given to a web browser by a web server, used to store information about the user's activity, is a",
+        "options": ["Spam", "Virus", "Cookie", "Cache"],
+        "correctAnswer": 3,
+        "explanation": "A cookie is a small message given to a web browser by a web server. It stores information about the user’s web activity[cite: 2154].",
+        "difficulty": "Easy",
+        "hint": "Websites use these to remember your preferences or login status."
+    },
+    {
+        "level": 254,
+        "mainsubject": "Language & Communication",
+        "question": "An educational institution would generally have which of the following in its domain name?",
+        "options": [".org", ".edu", ".inst", ".com"],
+        "correctAnswer": 2,
+        "explanation": "Domains are organized by the type of organization. A three-letter abbreviation indicates the organization type, with .edu being used for educational institutions[cite: 2162, 2163].",
+        "difficulty": "Easy",
+        "hint": "The domain often reflects the type of organization."
+    },
+    {
+        "level": 255,
+        "mainsubject": "Language & Communication",
+        "question": "The online textual or multimedia conversation between users over the internet is known as",
+        "options": ["E-mail", "Video-conferencing", "Chatting", "Blogging"],
+        "correctAnswer": 3,
+        "explanation": "Chatting is the online textual or multimedia conversation. It is a widely interactive communication process that takes place over the Internet[cite: 2178].",
+        "difficulty": "Easy",
+        "hint": "This is a real-time, text-based communication method."
+    },
+    {
+        "level": 256,
+        "mainsubject": "Language & Communication",
+        "question": "The main reason to encrypt a file is to",
+        "options": ["reduce its size", "secure it for transmission", "prepare it for backup", "include it in the start-up sequence"],
+        "correctAnswer": 2,
+        "explanation": "Cryptography, which includes encryption, is the science of writing information in a 'secret' form. It protects data during transmission and when stored on a disk[cite: 2322].",
+        "difficulty": "Easy",
+        "hint": "This process makes data unreadable to anyone without the key."
+    },
+    {
+        "level": 257,
+        "mainsubject": "Language & Communication",
+        "question": "A standalone malware computer program that replicates itself in order to spread to other computers is a",
+        "options": ["Virus", "Trojan horse", "Spyware", "Worm"],
+        "correctAnswer": 4,
+        "explanation": "A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers, often using a computer network to do so[cite: 2342].",
+        "difficulty": "Medium",
+        "hint": "Unlike a virus, this malware doesn't need to attach itself to another program to spread."
+    },
+    {
+        "level": 258,
+        "mainsubject": "Language & Communication",
+        "question": "Anti-virus software is an example of a(n)",
+        "options": ["business software", "operating system", "security utility", "office suite"],
+        "correctAnswer": 3,
+        "explanation": "An anti-virus is a utility which is used to scan a computer for viruses and prevent the system from being corrupted. System utilities are programs that perform tasks related to computer maintenance and security[cite: 924, 933, 2375].",
+        "difficulty": "Easy",
+        "hint": "This type of software helps maintain the health and safety of your computer."
+    },
+    {
+        "level": 259,
+        "mainsubject": "Language & Communication",
+        "question": "A piece of code intentionally inserted into a computer's memory that will set off a malicious function when specified conditions are met is a",
+        "options": ["Trojan Horse", "Logic Bomb", "Cracker", "Firewall"],
+        "correctAnswer": 2,
+        "explanation": "A logic bomb is a piece of code intentionally inserted into a computer’s memory that will set off a malicious function when specified conditions are met. They are also called slag code and do not replicate[cite: 2396, 2397].",
+        "difficulty": "Hard",
+        "hint": "This malicious code is triggered by a specific event or date."
+    },
+    {
+        "level": 260,
+        "mainsubject": "Language & Communication",
+        "question": "Which of these is an advantage of IoT (Internet of Things)?",
+        "options": ["High Security", "Low Complexity", "Improved Customer Engagement", "Enhanced Privacy"],
+        "correctAnswer": 3,
+        "explanation": "Advantages of IoT include technical optimization, waste reduction, improved data collection, and improved customer engagement. Security, privacy, and complexity are listed as disadvantages[cite: 2459, 2462, 2465, 2466, 2467].",
+        "difficulty": "Medium",
+        "hint": "Consider how connected devices can improve user experience."
+    },
+    {
+        "level": 261,
+        "mainsubject": "Language & Communication",
+        "question": "Robotic Process Automation (RPA) is used to automate what kind of tasks?",
+        "options": ["Highly creative tasks", "Complex decision-making", "Highly repetitive tasks", "Physical manufacturing"],
+        "correctAnswer": 3,
+        "explanation": "In business, Robotic Process Automation is being applied to highly repetitive tasks normally performed by humans[cite: 2500].",
+        "difficulty": "Medium",
+        "hint": "Software robots are best at tasks that are routine and standardized."
+    },
+    {
+        "level": 262,
+        "mainsubject": "Language & Communication",
+        "question": "The 5G cellular network standard is promised to deliver data speeds how much faster than 4G?",
+        "options": ["10 times faster", "20 times faster", "50 times faster", "100 times faster"],
+        "correctAnswer": 4,
+        "explanation": "5G is promised to deliver data speed at a rate 100 times faster than 4G networks[cite: 2545].",
+        "difficulty": "Medium",
+        "hint": "The improvement in speed is significant."
+    },
+    {
+        "level": 263,
+        "mainsubject": "Language & Communication",
+        "question": "What is the primary function of a smart band?",
+        "options": ["Making phone calls", "Browsing the internet", "Tracking and analyzing movement", "Taking photos"],
+        "correctAnswer": 3,
+        "explanation": "Smart bands, or connected bracelets, have a main function to track and analyse your movements during the day. Most have a pedometer and sometimes a heart rate sensor[cite: 2589, 2590].",
+        "difficulty": "Easy",
+        "hint": "This wearable is focused on health and fitness."
+    },
+    {
+        "level": 264,
+        "mainsubject": "Language & Communication",
+        "question": "Which mobile app was launched by the Indian Railway Catering and Tourism Corporation (IRCTC)?",
+        "options": ["MyGov App", "DigiLocker App", "BHIM App", "IRCTC Connect App"],
+        "correctAnswer": 4,
+        "explanation": "IRCTC (Indian Railway Catering and Tourism Corporation) has released its official Android App called IRCTC Connect[cite: 2611].",
+        "difficulty": "Easy",
+        "hint": "The name of the app is very similar to the organization that launched it."
+    },
+    {
+        "level": 265,
+        "mainsubject": "Language & Communication",
+        "question": "A type of prepaid account in which a user can store money for future online transactions is a(n)",
+        "options": ["Bank Account", "Credit Card", "e-Wallet", "UPI"],
+        "correctAnswer": 2,
+        "explanation": "An e-Wallet (or Mobile Wallet) is a type of prepaid account in which a user can store his/her money for any future online transaction.",
+        "difficulty": "Easy",
+        "hint": "Examples include Paytm and Mobikwik."
+    },
+    {
+        "level": 266,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following commands is used in MS-Word to underline a statement?",
+        "options": ["Underline", "U", "I", "P"],
+        "correctAnswer": 1,
+        "explanation": "The shortcut key Ctrl + U is used to apply an underline to the selected text in MS-Word[cite: 1444]. The button is often labeled with a 'U'.",
+        "difficulty": "Easy",
+        "hint": "The shortcut for this command is Ctrl + U."
+    },
+    {
+        "level": 267,
+        "mainsubject": "Language & Communication",
+        "question": "HTTP stands for",
+        "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperTechnical Transfer Protocol", "HyperText Test Protocol"],
+        "correctAnswer": 1,
+        "explanation": "HTTP stands for HyperText Transfer Protocol, which defines how messages are formatted and transmitted on the World Wide Web[cite: 2115].",
+        "difficulty": "Easy",
+        "hint": "This is the foundational protocol for data communication on the World Wide Web."
+    },
+    {
+        "level": 268,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is an example of an input device?",
+        "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+        "correctAnswer": 3,
+        "explanation": "An input device allows a user to feed data into a computer. A keyboard is a commonly used input device for entering text and commands[cite: 356, 360].",
+        "difficulty": "Easy",
+        "hint": "This device is used to type information into the computer."
+    },
+    {
+        "level": 269,
+        "mainsubject": "Language & Communication",
+        "question": "A Compact Disc (CD) is what type of data storage?",
+        "options": ["Magnetic", "Optical", "Electrical", "Electro-mechanical"],
+        "correctAnswer": 2,
+        "explanation": "Optical storage is any type in which data is written and read with a laser. This includes the Compact Disc (CD)[cite: 651, 653].",
+        "difficulty": "Easy",
+        "hint": "This storage medium is read by a laser."
+    },
+    {
+        "level": 270,
+        "mainsubject": "Language & Communication",
+        "question": "When you connect to this service your computer is communicating with a server at your Internet Service Provider (ISP). What does this refer to?",
+        "options": ["Modem", "Internet", "Intranet", "Server"],
+        "correctAnswer": 2,
+        "explanation": "When a user initiates a connection, such as a dial-up connection, the modem dials a phone number of an Internet Service Provider (ISP) that establishes the connection to the Internet[cite: 2079, 2080].",
+        "difficulty": "Easy",
+        "hint": "This is the global network of computers."
+    },
+    {
+        "level": 271,
+        "mainsubject": "Language & Communication",
+        "question": "Data becomes ______ when it is presented in a format that people can understand and use.",
+        "options": ["processed", "graphs", "information", "presentation"],
+        "correctAnswer": 3,
+        "explanation": "When data is processed, organised, structured or presented in a given context to make it useful or meaningful, it is called information[cite: 1689].",
+        "difficulty": "Easy",
+        "hint": "This is the result of processing raw data."
+    },
+    {
+        "level": 272,
+        "mainsubject": "Language & Communication",
+        "question": "What happens when you try to delete files on a floppy disk?",
+        "options": ["The files get moved to the recycle bin", "Files on a floppy cannot be deleted", "The files get deleted and can be restored from the Recycle Bin", "The files get deleted and cannot be restored again"],
+        "correctAnswer": 4,
+        "explanation": "The Recycle Bin stores deleted files from the computer's hard disk, allowing for their restoration. Files deleted from removable media like a floppy disk or USB drive are typically deleted permanently and do not go to the Recycle Bin[cite: 1267, 1269].",
+        "difficulty": "Medium",
+        "hint": "The Recycle Bin is a feature of the hard drive, not removable media."
+    },
+    {
+        "level": 273,
+        "mainsubject": "Language & Communication",
+        "question": "A person who uses their expertise to gain access to other people's computers to get information illegally or do damage is a",
+        "options": ["spammer", "hacker", "instant messenger", "programmer"],
+        "correctAnswer": 2,
+        "explanation": "Hacking is the act of intruding into someone else’s computer or network. A hacker is someone who does the hacking process[cite: 2364, 2366].",
+        "difficulty": "Easy",
+        "hint": "This term is used for someone who illegally breaks into computer systems."
+    },
+    {
+        "level": 274,
+        "mainsubject": "Language & Communication",
+        "question": "The smallest unit of information about a record in a database is called a",
+        "options": ["cell", "field", "record", "query"],
+        "correctAnswer": 2,
+        "explanation": "A field is an area (within the record) reserved for a specific piece of data, such as a customer number or name. It represents the attributes of an entity[cite: 1699].",
+        "difficulty": "Easy",
+        "hint": "In a table, this corresponds to a column."
+    },
+    {
+        "level": 275,
+        "mainsubject": "Language & Communication",
+        "question": "What are .bas, .doc, and .htm examples of in computing?",
+        "options": ["Extensions", "Protocols", "Database", "Domains"],
+        "correctAnswer": 1,
+        "explanation": "Each file has a specific filename and has a file extension that identifies the file type. For example, .docx for a MS-Word document and .htm for a web page[cite: 1307].",
+        "difficulty": "Easy",
+        "hint": "This part of a filename comes after the dot and indicates the file type."
+    },
+    {
+        "level": 276,
+        "mainsubject": "Language & Communication",
+        "question": "Codes consisting of lines of varying widths or lengths that are computer-readable are known as",
+        "options": ["an ASCII code", "a magnetic tape", "an OCR scanner", "a bar code"],
+        "correctAnswer": 4,
+        "explanation": "A barcode is a machine-readable representation of information in the form of stripes of dark and light ink. A barcode reader is used to read these codes[cite: 418, 421].",
+        "difficulty": "Easy",
+        "hint": "You find these on products at the supermarket."
+    },
+    {
+        "level": 277,
+        "mainsubject": "Language & Communication",
+        "question": "Which of the following is the second largest measurement of RAM?",
+        "options": ["Terabyte", "Megabyte", "Byte", "Gigabyte"],
+        "correctAnswer": 3,
+        "explanation": "The measurements of memory, from smallest to largest, are Byte, Kilobyte, Megabyte, Gigabyte, Terabyte. Therefore, Gigabyte is the second largest in this list[cite: 672].",
+        "difficulty": "Easy",
+        "hint": "The order of prefixes is Kilo, Mega, Giga, Tera."
+    },
+    {
+        "level": 278,
+        "mainsubject": "Language & Communication",
+        "question": "A removable magnetic disk that holds information is a",
+        "options": ["floppy disk", "hard drive", "monitor", "portable"],
+        "correctAnswer": 1,
+        "explanation": "A floppy disk is a round, thin plastic disk coated with iron oxide used to store data. It is removable from the drive[cite: 642, 645].",
+        "difficulty": "Easy",
+        "hint": "This was a common form of portable storage before CDs and USB drives."
+    },
+    {
+        "level": 279,
+        "mainsubject": "Language & Communication",
+        "question": "The main memory of a computer can also be called",
+        "options": ["primary storage", "internal memory", "primary memory", "All of the above"],
+        "correctAnswer": 4,
+        "explanation": "The memory unit that communicates directly with the CPU is called main memory, internal memory, or primary memory[cite: 599].",
+        "difficulty": "Easy",
+        "hint": "This is the memory the CPU works with directly."
+    },
+    {
+        "level": 280,
+        "mainsubject": "Language & Communication",
+        "question": "In Excel, which one is a pre-recorded formula that provides a shortcut for complex calculations?",
+        "options": ["Value", "Data Series", "Function", "Field"],
+        "correctAnswer": 3,
+        "explanation": "Functions are pre-defined formulas in Excel that perform calculations by using specific values, called arguments. Examples include SUM, AVERAGE, and MAX[cite: 1471].",
+        "difficulty": "Easy",
+        "hint": "Examples include SUM and AVERAGE."
+    },
+    {
+      "level": 281,
+      "mainsubject": "Language & Communication",
+      "question": "What is the plural form of 'child'?",
+      "options": ["Childs", "Children", "Childes", "Child's"],
+      "correctAnswer": 2,
+      "explanation": "The plural form of 'child' is 'children', which is an irregular plural form in English. Regular plurals add 's' or 'es', but some words have unique plural forms that must be memorized.",
+      "difficulty": "Easy",
+      "hint": "It's an irregular plural form"
+    },
+    {
+      "level": 282,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is a synonym for 'beautiful'?",
+      "options": ["Ugly", "Pretty", "Dark", "Small"],
+      "correctAnswer": 2,
+      "explanation": "'Pretty' is a synonym for 'beautiful', both meaning attractive or pleasing to look at. Synonyms are words with similar meanings that can often be used interchangeably in sentences.",
+      "difficulty": "Easy",
+      "hint": "Think about words meaning attractive appearance"
+    },
+    {
+      "level": 283,
+      "mainsubject": "Language & Communication",
+      "question": "The antonym of 'ancient' is:",
+      "options": ["Old", "Modern", "Historic", "Traditional"],
+      "correctAnswer": 2,
+      "explanation": "'Modern' is the antonym of 'ancient'. Antonyms are words with opposite meanings. Ancient refers to something very old or from long ago, while modern refers to current or recent times.",
+      "difficulty": "Easy",
+      "hint": "Think about the opposite of very old"
+    },
+    {
+      "level": 284,
+      "mainsubject": "Language & Communication",
+      "question": "In the sentence 'The quick brown fox jumps over the lazy dog', what part of speech is 'quick'?",
+      "options": ["Noun", "Adjective", "Verb", "Adverb"],
+      "correctAnswer": 2,
+      "explanation": "'Quick' is an adjective that describes the noun 'fox'. Adjectives modify or describe nouns by providing additional information about their qualities, characteristics, or attributes.",
+      "difficulty": "Easy",
+      "hint": "It describes the fox"
+    },
+    {
+      "level": 285,
+      "mainsubject": "Language & Communication",
+      "question": "Which sentence is grammatically correct?",
+      "options": ["She don't like coffee", "She doesn't like coffee", "She do not like coffee", "She not likes coffee"],
+      "correctAnswer": 2,
+      "explanation": "'She doesn't like coffee' is correct. With third-person singular subjects (he, she, it), we use 'doesn't' (does not) rather than 'don't' (do not). Subject-verb agreement is crucial in English grammar.",
+      "difficulty": "Medium",
+      "hint": "Consider subject-verb agreement with third person singular"
+    },
+    {
+      "level": 286,
+      "mainsubject": "Language & Communication",
+      "question": "The idiom 'break the ice' means:",
+      "options": ["To damage something", "To start a conversation", "To be very cold", "To work hard"],
+      "correctAnswer": 2,
+      "explanation": "'Break the ice' is an idiom meaning to initiate conversation in a social setting or to make people feel more comfortable. Idioms are expressions whose meanings cannot be understood from the individual words.",
+      "difficulty": "Medium",
+      "hint": "Think about starting conversations at social events"
+    },
+    {
+      "level": 287,
+      "mainsubject": "Language & Communication",
+      "question": "In formal letter writing, which is the correct salutation for an unknown recipient?",
+      "options": ["Dear Friend,", "Dear Sir/Madam,", "Hello there,", "Hi,"],
+      "correctAnswer": 2,
+      "explanation": "'Dear Sir/Madam,' is the appropriate formal salutation when the recipient's name is unknown. This follows standard business correspondence etiquette and maintains professional tone.",
+      "difficulty": "Medium",
+      "hint": "Consider formal business correspondence standards"
+    },
+    {
+      "level": 288,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following demonstrates correct use of semicolon?",
+      "options": ["I went to the store; to buy milk", "She was tired; she went to bed early", "The weather was nice; and sunny", "He studied hard; but failed"],
+      "correctAnswer": 2,
+      "explanation": "Semicolons connect two independent clauses that are closely related. 'She was tired' and 'she went to bed early' are both complete sentences that relate to each other logically.",
+      "difficulty": "Medium",
+      "hint": "Semicolons connect related independent clauses"
+    },
+    {
+      "level": 289,
+      "mainsubject": "Language & Communication",
+      "question": "The proverb 'A bird in hand is worth two in the bush' means:",
+      "options": ["Birds are valuable", "It's better to keep what you have than risk losing it for something uncertain", "Hunting is difficult", "Nature is important"],
+      "correctAnswer": 2,
+      "explanation": "This proverb emphasizes the value of certainty over uncertainty. It's better to be content with what you already possess rather than risk losing it while trying to get something that might be better but is not guaranteed.",
+      "difficulty": "Medium",
+      "hint": "Think about choosing certainty over risk"
+    },
+    {
+      "level": 290,
+      "mainsubject": "Language & Communication",
+      "question": "In report writing, the executive summary should:",
+      "options": ["Be longer than the main report", "Come after the conclusion", "Provide a concise overview of key findings and recommendations", "Include detailed methodology"],
+      "correctAnswer": 3,
+      "explanation": "An executive summary provides a brief overview of the main points, findings, and recommendations of a report. It's typically placed at the beginning and allows readers to quickly understand the essence of the entire document.",
+      "difficulty": "Hard",
+      "hint": "Think about what busy executives need to know quickly"
+    },
+    {
+      "level": 291,
+      "mainsubject": "Language & Communication",
+      "question": "Which register of language is most appropriate for official government communication?",
+      "options": ["Colloquial", "Formal", "Casual", "Intimate"],
+      "correctAnswer": 2,
+      "explanation": "Formal register is required for official government communication. It maintains professional standards, uses complete sentences, avoids contractions, and employs appropriate vocabulary for institutional correspondence.",
+      "difficulty": "Hard",
+      "hint": "Consider the level of formality needed in government settings"
+    },
+    {
+      "level": 292,
+      "mainsubject": "Language & Communication",
+      "question": "In Kannada, the word 'ಕಂಪ್ಯೂಟರ್' is:",
+      "options": ["A native Kannada word", "A borrowed word from English", "A Sanskrit-derived word", "A Telugu word"],
+      "correctAnswer": 2,
+      "explanation": "'ಕಂಪ್ಯೂಟರ್' (computer) is a borrowed word from English that has been adapted to fit Kannada phonetics and script. Many technical terms in modern Kannada are borrowed from English due to technological advancement.",
+      "difficulty": "Medium",
+      "hint": "Consider the origin of modern technical vocabulary"
+    },
+    {
+      "level": 293,
+      "mainsubject": "Language & Communication",
+      "question": "The passive voice of 'The teacher explains the lesson' is:",
+      "options": ["The lesson is explained by the teacher", "The lesson was explained by the teacher", "The teacher is explaining the lesson", "The lesson explains by the teacher"],
+      "correctAnswer": 1,
+      "explanation": "In passive voice, the object becomes the subject. 'The lesson is explained by the teacher' correctly transforms the active sentence while maintaining present tense and proper grammatical structure.",
+      "difficulty": "Medium",
+      "hint": "The object becomes the subject in passive voice"
+    },
+    {
+      "level": 294,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is an example of a compound sentence?",
+      "options": ["Although it was raining, we went out", "I studied hard and passed the exam", "The book that I bought is interesting", "Running quickly, he caught the bus"],
+      "correctAnswer": 2,
+      "explanation": "A compound sentence contains two independent clauses joined by a coordinating conjunction. 'I studied hard and passed the exam' has two independent clauses connected by 'and'.",
+      "difficulty": "Hard",
+      "hint": "Look for two independent clauses joined by a coordinating conjunction"
+    },
+    {
+      "level": 295,
+      "mainsubject": "Language & Communication",
+      "question": "In precis writing, the ideal length should be:",
+      "options": ["Same as original", "Half of the original", "One-third of the original", "One-quarter of the original"],
+      "correctAnswer": 3,
+      "explanation": "A precis should typically be one-third the length of the original text. It should retain all essential points while eliminating redundant information, examples, and elaborations to create a concise summary.",
+      "difficulty": "Hard",
+      "hint": "Consider the standard compression ratio for effective summarization"
+    },
+    {
+      "level": 296,
+      "mainsubject": "Language & Communication",
+      "question": "What does the word 'computer' derive from?",
+      "options": ["Greek word meaning 'to count'", "Latin word 'computare' meaning 'to calculate'", "French word 'computer'", "German word 'komputer'"],
+      "correctAnswer": 2,
+      "explanation": "The word 'computer' derives from the Latin word 'computare', which means 'to calculate'. This reflects the original purpose of computers as calculating machines before they evolved into general-purpose information processing devices.",
+      "difficulty": "Easy",
+      "hint": "Think about the historical origin and primary function"
+    },
+    {
+      "level": 297,
+      "mainsubject": "Language & Communication",
+      "question": "Which is NOT a function of a computer?",
+      "options": ["Input", "Processing", "Thinking", "Output"],
+      "correctAnswer": 3,
+      "explanation": "Computers cannot think independently. The four main functions of a computer are input (receiving data), processing (manipulating data according to instructions), output (presenting results), and storage (keeping data for future use).",
+      "difficulty": "Easy",
+      "hint": "Consider what computers can and cannot do independently"
+    },
+    {
+      "level": 298,
+      "mainsubject": "Language & Communication",
+      "question": "The brain of the computer is:",
+      "options": ["Memory", "Hard Drive", "Motherboard", "CPU"],
+      "correctAnswer": 4,
+      "explanation": "The CPU (Central Processing Unit) is called the brain of the computer because it executes instructions and performs calculations. It controls the overall operation of the computer system and processes all data.",
+      "difficulty": "Easy",
+      "hint": "Think about which component controls and processes everything"
+    },
+    {
+      "level": 299,
+      "mainsubject": "Language & Communication",
+      "question": "ALU stands for:",
+      "options": ["Advanced Logic Unit", "Arithmetic Logic Unit", "Automatic Logic Unit", "Applied Logic Unit"],
+      "correctAnswer": 2,
+      "explanation": "ALU stands for Arithmetic Logic Unit. It's a component of the CPU that performs all arithmetic operations (addition, subtraction, multiplication, division) and logical operations (AND, OR, NOT) on data.",
+      "difficulty": "Easy",
+      "hint": "It performs mathematical and logical operations"
+    },
+    {
+      "level": 300,
+      "mainsubject": "Language & Communication",
+      "question": "Which type of memory is volatile?",
+      "options": ["ROM", "Hard Disk", "Flash Memory", "RAM"],
+      "correctAnswer": 4,
+      "explanation": "RAM (Random Access Memory) is volatile memory, meaning it loses all stored data when power is turned off. It's used for temporary storage of programs and data currently being processed by the CPU.",
+      "difficulty": "Easy",
+      "hint": "Think about which memory loses data when power is off"
+    },
+    {
+      "level": 301,
+      "mainsubject": "Language & Communication",
+      "question": "The first mechanical calculating device was:",
+      "options": ["ENIAC", "Abacus", "Pascaline", "Analytical Engine"],
+      "correctAnswer": 2,
+      "explanation": "The Abacus, developed in China around 1602, was the first mechanical calculating device. It used horizontal rods with beads to perform addition and subtraction operations, and could also calculate square roots.",
+      "difficulty": "Medium",
+      "hint": "Think about ancient calculating tools"
+    },
+    {
+      "level": 302,
+      "mainsubject": "Language & Communication",
+      "question": "QWERTY refers to:",
+      "options": ["A type of mouse", "A keyboard layout", "A monitor type", "A printer model"],
+      "correctAnswer": 2,
+      "explanation": "QWERTY is the standard keyboard layout, named after the first six letters in the top alphabet row. It was designed for typewriters and is now the most common keyboard layout worldwide.",
+      "difficulty": "Medium",
+      "hint": "Look at the top row of letters on your keyboard"
+    },
+    {
+      "level": 303,
+      "mainsubject": "Language & Communication",
+      "question": "How many bits make one byte?",
+      "options": ["4", "6", "8", "16"],
+      "correctAnswer": 3,
+      "explanation": "One byte consists of 8 bits. A bit (binary digit) is the smallest unit of data in computing, representing either 0 or 1. Eight bits together can represent 256 different values (0-255).",
+      "difficulty": "Medium",
+      "hint": "It's the standard grouping for computer data storage"
+    },
+    {
+      "level": 304,
+      "mainsubject": "Language & Communication",
+      "question": "Which generation of computers used transistors?",
+      "options": ["First generation (1940-56)", "Second generation (1956-63)", "Third generation (1964-71)", "Fourth generation (1971-Present)"],
+      "correctAnswer": 2,
+      "explanation": "The second generation of computers (1956-63) used transistors made of semiconductors. This replaced vacuum tubes, making computers more reliable, portable, and energy-efficient while generating less heat.",
+      "difficulty": "Medium",
+      "hint": "Think about the evolution from vacuum tubes"
+    },
+    {
+      "level": 305,
+      "mainsubject": "Language & Communication",
+      "question": "USB stands for:",
+      "options": ["Universal System Bus", "Universal Serial Bus", "Unified Serial Bus", "United System Bus"],
+      "correctAnswer": 2,
+      "explanation": "USB stands for Universal Serial Bus. It's a common external port that allows connection of various peripheral devices to computers with plug-and-play functionality, providing both data transfer and power supply capabilities.",
+      "difficulty": "Medium",
+      "hint": "It's a universal connection standard"
+    },
+    {
+      "level": 306,
+      "mainsubject": "Language & Communication",
+      "question": "Which protocol is used for sending emails?",
+      "options": ["HTTP", "FTP", "SMTP", "TCP"],
+      "correctAnswer": 3,
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails across TCP/IP networks. It defines how email messages are formatted, transmitted, and delivered between mail servers.",
+      "difficulty": "Medium",
+      "hint": "Think about mail transfer protocols"
+    },
+    {
+      "level": 307,
+      "mainsubject": "Language & Communication",
+      "question": "The refresh rate of a monitor is measured in:",
+      "options": ["Pixels", "Hertz (Hz)", "Dots per inch", "Bytes"],
+      "correctAnswer": 2,
+      "explanation": "The refresh rate of a monitor is measured in Hertz (Hz), indicating how many times per second the display updates the image. Higher refresh rates provide smoother motion and reduce flicker.",
+      "difficulty": "Medium",
+      "hint": "Think about frequency of updates per second"
+    },
+    {
+      "level": 308,
+      "mainsubject": "Language & Communication",
+      "question": "Cache memory is placed between:",
+      "options": ["RAM and Hard Disk", "CPU and RAM", "Motherboard and CPU", "RAM and ROM"],
+      "correctAnswer": 2,
+      "explanation": "Cache memory is positioned between the CPU and RAM to store frequently accessed data temporarily. This high-speed memory reduces access time and improves overall system performance by providing faster data retrieval.",
+      "difficulty": "Hard",
+      "hint": "Think about the memory hierarchy and speed optimization"
+    },
+    {
+      "level": 309,
+      "mainsubject": "Language & Communication",
+      "question": "Virtual memory allows:",
+      "options": ["Faster processing", "Programs to be larger than main memory", "Better graphics", "More storage space"],
+      "correctAnswer": 2,
+      "explanation": "Virtual memory allows programs to be larger than the available physical memory (RAM) by using hard disk space as an extension of RAM. The operating system swaps data between RAM and disk as needed.",
+      "difficulty": "Hard",
+      "hint": "Think about managing limited physical memory"
+    },
+    {
+      "level": 310,
+      "mainsubject": "Language & Communication",
+      "question": "OSI model has how many layers?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 3,
+      "explanation": "The OSI (Open Systems Interconnection) model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application. Each layer has specific functions in network communication.",
+      "difficulty": "Hard",
+      "hint": "It's a standard reference model for network communication"
+    },
+    {
+      "level": 311,
+      "mainsubject": "Language & Communication",
+      "question": "Which topology connects all nodes to a central hub?",
+      "options": ["Bus", "Ring", "Star", "Mesh"],
+      "correctAnswer": 3,
+      "explanation": "Star topology connects all nodes to a central hub or switch. If one connection fails, it doesn't affect other connections, making it reliable and easy to troubleshoot, though it depends on the central hub.",
+      "difficulty": "Hard",
+      "hint": "Think about a central point of connection"
+    },
+    {
+      "level": 312,
+      "mainsubject": "Language & Communication",
+      "question": "DBMS stands for:",
+      "options": ["Database Management System", "Data Base Management Software", "Digital Base Management System", "Database Monitoring System"],
+      "correctAnswer": 1,
+      "explanation": "DBMS stands for Database Management System. It's software that provides an interface for users to define, create, maintain, and control access to databases while ensuring data integrity and security.",
+      "difficulty": "Medium",
+      "hint": "Think about managing databases"
+    },
+    {
+      "level": 313,
+      "mainsubject": "Language & Communication",
+      "question": "Primary key in a database:",
+      "options": ["Can have null values", "Can have duplicate values", "Uniquely identifies each record", "Is optional in tables"],
+      "correctAnswer": 3,
+      "explanation": "A primary key uniquely identifies each record in a database table. It cannot contain null values or duplicate values, ensuring that each row can be distinctly identified and referenced.",
+      "difficulty": "Hard",
+      "hint": "Think about unique identification in databases"
+    },
+    {
+      "level": 314,
+      "mainsubject": "Language & Communication",
+      "question": "Which programming language was developed by James Gosling?",
+      "options": ["C++", "Python", "Java", "JavaScript"],
+      "correctAnswer": 3,
+      "explanation": "Java was developed by James Gosling at Sun Microsystems in 1995. It was designed for Internet-oriented programming with features like platform independence and object-oriented programming.",
+      "difficulty": "Medium",
+      "hint": "Think about platform-independent programming language"
+    },
+    {
+      "level": 315,
+      "mainsubject": "Language & Communication",
+      "question": "Firewall is used for:",
+      "options": ["Data compression", "Virus detection", "Network security", "File management"],
+      "correctAnswer": 3,
+      "explanation": "A firewall provides network security by controlling incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between trusted internal networks and untrusted external networks.",
+      "difficulty": "Hard",
+      "hint": "Think about network protection mechanisms"
+    },
+    {
+      "level": 316,
+      "mainsubject": "Language & Communication",
+      "question": "HTML stands for:",
+      "options": ["High Transfer Markup Language", "HyperText Markup Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+      "correctAnswer": 2,
+      "explanation": "HTML stands for HyperText Markup Language. It's the standard markup language used to create web pages, using tags to structure content and define how it should be displayed in web browsers.",
+      "difficulty": "Easy",
+      "hint": "It's used for creating web pages"
+    },
+    {
+      "level": 317,
+      "mainsubject": "Language & Communication",
+      "question": "Which storage device has the fastest access time?",
+      "options": ["Hard Disk", "CD-ROM", "Floppy Disk", "RAM"],
+      "correctAnswer": 4,
+      "explanation": "RAM (Random Access Memory) has the fastest access time among storage devices because it provides direct access to any memory location. Unlike sequential access devices, RAM allows immediate access to any stored data.",
+      "difficulty": "Medium",
+      "hint": "Think about direct vs sequential access"
+    },
+    {
+      "level": 318,
+      "mainsubject": "Language & Communication",
+      "question": "Phishing is:",
+      "options": ["A type of computer virus", "An attempt to obtain sensitive information by deception", "A method of data encryption", "A network protocol"],
+      "correctAnswer": 2,
+      "explanation": "Phishing is a cybercrime where attackers attempt to obtain sensitive information like passwords, credit card details, or personal information by masquerading as trustworthy entities through electronic communication.",
+      "difficulty": "Hard",
+      "hint": "Think about deceptive practices to steal information"
+    },
+    {
+      "level": 319,
+      "mainsubject": "Language & Communication",
+      "question": "Which file system is commonly used by Windows?",
+      "options": ["ext4", "FAT32", "NTFS", "HFS+"],
+      "correctAnswer": 3,
+      "explanation": "NTFS (New Technology File System) is the default file system for modern Windows operating systems. It provides features like file compression, encryption, disk quotas, and large file support that FAT32 lacks.",
+      "difficulty": "Hard",
+      "hint": "Think about modern Windows file systems"
+    },
+    {
+      "level": 320,
+      "mainsubject": "Language & Communication",
+      "question": "The Internet protocol TCP/IP has how many layers?",
+      "options": ["3", "4", "5", "7"],
+      "correctAnswer": 2,
+      "explanation": "The TCP/IP model has 4 layers: Application Layer, Transport Layer, Internet Layer, and Network Access Layer. It's simpler than the 7-layer OSI model and is the foundation of Internet communication.",
+      "difficulty": "Hard",
+      "hint": "It's simpler than the OSI model"
+    },
+    {
+      "level": 321,
+      "mainsubject": "Language & Communication",
+      "question": "Big Data is characterized by:",
+      "options": ["Volume only", "Velocity only", "Volume, Velocity, and Variety", "Variety only"],
+      "correctAnswer": 3,
+      "explanation": "Big Data is characterized by the 3 V's: Volume (large amounts of data), Velocity (high speed of data processing), and Variety (different types of data from various sources). Some models add more V's like Veracity and Value.",
+      "difficulty": "Hard",
+      "hint": "Think about the 3 V's concept"
+    },
+    {
+      "level": 322,
+      "mainsubject": "Language & Communication",
+      "question": "Machine Learning is a subset of:",
+      "options": ["Data Mining", "Artificial Intelligence", "Database Management", "Network Security"],
+      "correctAnswer": 2,
+      "explanation": "Machine Learning is a subset of Artificial Intelligence that focuses on algorithms and statistical models that enable computers to improve their performance on tasks through experience without being explicitly programmed.",
+      "difficulty": "Hard",
+      "hint": "Think about computer systems that learn from data"
+    },
+    {
+      "level": 323,
+      "mainsubject": "Language & Communication",
+      "question": "Blockchain technology is primarily known for:",
+      "options": ["Video streaming", "Decentralized and secure transactions", "Image processing", "Word processing"],
+      "correctAnswer": 2,
+      "explanation": "Blockchain is a distributed ledger technology that maintains a continuously growing list of records (blocks) that are linked and secured using cryptography. It's known for enabling secure, decentralized transactions without intermediaries.",
+      "difficulty": "Hard",
+      "hint": "Think about cryptocurrency and secure distributed systems"
+    },
+    {
+      "level": 324,
+      "mainsubject": "Language & Communication",
+      "question": "IoT stands for:",
+      "options": ["Internet of Technology", "Internet of Things", "Internal of Technology", "Integrated of Technology"],
+      "correctAnswer": 2,
+      "explanation": "IoT stands for Internet of Things, referring to the network of physical devices embedded with sensors, software, and connectivity that enables them to collect and exchange data over the internet.",
+      "difficulty": "Medium",
+      "hint": "Think about connected smart devices"
+    },
+    {
+      "level": 325,
+      "mainsubject": "Language & Communication",
+      "question": "Cloud computing service models include:",
+      "options": ["SaaS only", "PaaS only", "IaaS, PaaS, and SaaS", "IaaS only"],
+      "correctAnswer": 3,
+      "explanation": "Cloud computing has three main service models: IaaS (Infrastructure as a Service), PaaS (Platform as a Service), and SaaS (Software as a Service), each providing different levels of abstraction and management.",
+      "difficulty": "Hard",
+      "hint": "Think about different levels of cloud services"
+    },
+    {
+      "level": 326,
+      "mainsubject": "Language & Communication",
+      "question": "Quantum computing uses:",
+      "options": ["Classical bits", "Quantum bits (qubits)", "Bytes", "Transistors"],
+      "correctAnswer": 2,
+      "explanation": "Quantum computing uses quantum bits or qubits, which can exist in multiple states simultaneously (superposition) unlike classical bits that are either 0 or 1. This enables quantum computers to process vast amounts of information simultaneously.",
+      "difficulty": "Hard",
+      "hint": "Think about quantum mechanics principles in computing"
+    },
+    {
+      "level": 327,
+      "mainsubject": "Language & Communication",
+      "question": "API stands for:",
+      "options": ["Application Programming Interface", "Applied Programming Interface", "Automated Programming Interface", "Advanced Programming Interface"],
+      "correctAnswer": 1,
+      "explanation": "API stands for Application Programming Interface. It's a set of protocols, routines, and tools for building software applications, specifying how software components should interact and communicate with each other.",
+      "difficulty": "Medium",
+      "hint": "Think about software communication protocols"
+    },
+    {
+      "level": 328,
+      "mainsubject": "Language & Communication",
+      "question": "Cryptocurrency mining involves:",
+      "options": ["Physical excavation", "Solving complex mathematical problems", "Database queries", "Network routing"],
+      "correctAnswer": 2,
+      "explanation": "Cryptocurrency mining involves solving complex mathematical problems to validate transactions and add new blocks to the blockchain. Miners compete to solve these computational puzzles and are rewarded with cryptocurrency.",
+      "difficulty": "Hard",
+      "hint": "Think about computational work for blockchain validation"
+    },
+    {
+      "level": 329,
+      "mainsubject": "Language & Communication",
+      "question": "5G technology primarily offers:",
+      "options": ["Lower speed internet", "Higher latency", "Ultra-fast internet and low latency", "Same performance as 4G"],
+      "correctAnswer": 3,
+      "explanation": "5G technology offers ultra-fast internet speeds (up to 10-20 Gbps), extremely low latency (under 1ms), and massive device connectivity, enabling applications like autonomous vehicles, IoT, and real-time remote control systems.",
+      "difficulty": "Medium",
+      "hint": "Think about the latest mobile network technology"
+    },
+    {
+      "level": 330,
+      "mainsubject": "Language & Communication",
+      "question": "Edge computing involves:",
+      "options": ["Processing data in centralized cloud servers", "Processing data closer to where it's generated", "Only storing data", "Network routing"],
+      "correctAnswer": 2,
+      "explanation": "Edge computing processes data closer to where it's generated (at the 'edge' of the network) rather than in centralized cloud servers. This reduces latency, saves bandwidth, and enables real-time processing for IoT and mobile applications.",
+      "difficulty": "Hard",
+      "hint": "Think about processing data near its source"
+    },
+    {
+      "level": 331,
+      "mainsubject": "Language & Communication",
+      "question": "What forms the backbone for building a successful computer system?",
+      "options": ["Computer architecture", "Computer model", "Computer instructions", "None of the above"],
+      "correctAnswer": 1,
+      "explanation": "Computer architecture defines the structure, behavior, and functionality of a computer system, serving as the foundation for its design and operation.[cite: Page 10, Q1]",
+      "difficulty": "Easy",
+      "hint": "It involves the logical structure and functional behavior of the system."
+    },
+    {
+      "level": 332,
+      "mainsubject": "Language & Communication",
+      "question": "In which year was the first computer architecture introduced?",
+      "options": ["1970", "1968", "1971", "1973"],
+      "correctAnswer": 1,
+      "explanation": "The first computer architecture was introduced in 1970 by John Von Neumann, who proposed the stored-program concept.[cite: Page 7]",
+      "difficulty": "Medium",
+      "hint": "Think of the architect known for the Von Neumann architecture."
+    },
+    {
+      "level": 333,
+      "mainsubject": "Language & Communication",
+      "question": "The system unit is best described as:",
+      "options": ["coordinates input and output devices", "is the container that houses electronic components", "is a combination of hardware and software", "controls and manipulates data"],
+      "correctAnswer": 2,
+      "explanation": "The system unit is a metal or plastic case that contains all the physical parts of the computer, such as the motherboard, CPU, and memory.[cite: Page 7, Page 10 Q4]",
+      "difficulty": "Easy",
+      "hint": "It's the physical box that contains internal components."
+    },
+    {
+      "level": 334,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is a metal or plastic case that holds all the physical parts of the computer?",
+      "options": ["System unit", "CPU", "Mainframe", "Platform"],
+      "correctAnswer": 1,
+      "explanation": "The system unit is the case that houses the main components of a computer, including the motherboard, power supply, and storage devices.[cite: Page 7, Page 10 Q5]",
+      "difficulty": "Easy",
+      "hint": "This is the outer shell of the computer tower or desktop."
+    },
+    {
+      "level": 335,
+      "mainsubject": "Language & Communication",
+      "question": "Where are the components that process data located?",
+      "options": ["Input devices", "Output devices", "System unit", "Storage component"],
+      "correctAnswer": 3,
+      "explanation": "Data processing components, such as the CPU and memory, are located inside the system unit.[cite: Page 7, Page 10 Q6]",
+      "difficulty": "Easy",
+      "hint": "This is where the 'brain' of the computer resides."
+    },
+    {
+      "level": 336,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is NOT responsible for the performance of the computer?",
+      "options": ["Number of keys on the keyboard", "Format of the video/graphics word", "Memory in the video/graphics word", "The clock speed of the processor"],
+      "correctAnswer": 1,
+      "explanation": "The number of keys on the keyboard is an input feature and does not directly affect the processing performance of the computer, unlike clock speed, memory, and graphics capabilities.[cite: Page 10, Q7]",
+      "difficulty": "Medium",
+      "hint": "Consider what components influence processing speed and power."
+    },
+    {
+      "level": 337,
+      "mainsubject": "Language & Communication",
+      "question": "A device that provides information sent to the CPU is called:",
+      "options": ["input device", "output device", "CPU", "memory"],
+      "correctAnswer": 1,
+      "explanation": "An input device, such as a keyboard or mouse, provides data and instructions to the CPU for processing.[cite: Page 10, Q8]",
+      "difficulty": "Easy",
+      "hint": "These devices allow users to interact with the computer."
+    },
+    {
+      "level": 338,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following includes types of input?",
+      "options": ["Data", "Programs", "Commands", "All of these"],
+      "correctAnswer": 4,
+      "explanation": "Input can consist of data (raw facts), programs (sets of instructions), and commands (user instructions), all of which are fed into the computer.[cite: Page 10, Q9]",
+      "difficulty": "Easy",
+      "hint": "Think about what can be entered into a computer."
+    },
+    {
+      "level": 339,
+      "mainsubject": "Language & Communication",
+      "question": "Information from an external source fed into computer software is called:",
+      "options": ["output", "input", "throughout", "reports"],
+      "correctAnswer": 2,
+      "explanation": "Input refers to any data or instructions entered into a computer from an external source, such as a user or another device.[cite: Page 10, Q10]",
+      "difficulty": "Easy",
+      "hint": "This is the first step in the data processing cycle."
+    },
+    {
+      "level": 340,
+      "mainsubject": "Language & Communication",
+      "question": "The input unit converts data into what form?",
+      "options": ["suitable", "acceptable", "understandable", "rejectable"],
+      "correctAnswer": 2,
+      "explanation": "The input unit converts data from the user into a computer-acceptable format, such as binary code, for processing.[cite: Page 10, Q11]",
+      "difficulty": "Medium",
+      "hint": "Computers understand only specific formats."
+    },
+    {
+      "level": 341,
+      "mainsubject": "Language & Communication",
+      "question": "Which unit sends processed results to the user?",
+      "options": ["Input unit", "Output unit", "Memory unit", "CPU"],
+      "correctAnswer": 2,
+      "explanation": "The output unit, such as a monitor or printer, delivers the processed data to the user in a readable form.[cite: Page 10, Q12]",
+      "difficulty": "Easy",
+      "hint": "This unit makes the results visible or tangible."
+    },
+    {
+      "level": 342,
+      "mainsubject": "Language & Communication",
+      "question": "Output units include which of the following?",
+      "options": ["Plotter", "Printer", "Monitor", "All of these"],
+      "correctAnswer": 4,
+      "explanation": "Output devices include plotters, printers, and monitors, which display or produce results from the computer.[cite: Page 10, Q13]",
+      "difficulty": "Easy",
+      "hint": "These devices convey information from the computer to the user."
+    },
+    {
+      "level": 343,
+      "mainsubject": "Language & Communication",
+      "question": "Which component processes data into information and consists of integrated circuits?",
+      "options": ["Hard disk", "RAM", "CPU", "ROM"],
+      "correctAnswer": 3,
+      "explanation": "The CPU (Central Processing Unit) is made of integrated circuits and is responsible for processing raw data into meaningful information.[cite: Page 10, Q14]",
+      "difficulty": "Easy",
+      "hint": "It's often called the 'brain' of the computer."
+    },
+    {
+      "level": 344,
+      "mainsubject": "Language & Communication",
+      "question": "The Central Processing Unit (CPU) consists of:",
+      "options": ["input, output, and processing", "control unit, primary storage, and secondary storage", "control unit, arithmetic logic unit, memory unit", "All of the above"],
+      "correctAnswer": 3,
+      "explanation": "The CPU is composed of the control unit (CU), arithmetic logic unit (ALU), and memory unit (registers), which work together to execute instructions.[cite: Page 8, Page 10 Q15]",
+      "difficulty": "Medium",
+      "hint": "These are the core sub-systems of the CPU."
+    },
+    {
+      "level": 345,
+      "mainsubject": "Language & Communication",
+      "question": "Which instruction is used for loading data into the CPU accumulator register from memory?",
+      "options": ["Load", "Storage", "Machine", "Access"],
+      "correctAnswer": 1,
+      "explanation": "The Load instruction moves data from memory into the accumulator register for processing.[cite: Page 11, Q16]",
+      "difficulty": "Hard",
+      "hint": "This is a fundamental operation in assembly language."
+    },
+    {
+      "level": 346,
+      "mainsubject": "Language & Communication",
+      "question": "Where does the computer add and compare data?",
+      "options": ["Hard disk", "Floppy disk", "CPU", "Memory chip"],
+      "correctAnswer": 3,
+      "explanation": "Addition and comparison operations are performed by the arithmetic logic unit (ALU) within the CPU.[cite: Page 11, Q17]",
+      "difficulty": "Easy",
+      "hint": "This unit handles mathematical and logical operations."
+    },
+    {
+      "level": 347,
+      "mainsubject": "Language & Communication",
+      "question": "Which unit is responsible for processing and is known as the brain of the computer?",
+      "options": ["CPU", "Keyboard", "Hard disk", "RAM"],
+      "correctAnswer": 1,
+      "explanation": "The CPU interprets and executes instructions, making it the central brain of the computer.[cite: Page 8, Page 11 Q18]",
+      "difficulty": "Easy",
+      "hint": "It's the primary component for executing programs."
+    },
+    {
+      "level": 348,
+      "mainsubject": "Language & Communication",
+      "question": "The main job of the CPU is to:",
+      "options": ["carry out program instructions", "store data/information for further use", "process data and information", "Both (1) and (3)"],
+      "correctAnswer": 4,
+      "explanation": "The CPU's primary functions are to execute program instructions and process data into information.[cite: Page 11, Q19]",
+      "difficulty": "Easy",
+      "hint": "It performs both execution and processing tasks."
+    },
+    {
+      "level": 349,
+      "mainsubject": "Language & Communication",
+      "question": "The main purpose of time-sharing techniques in computers is to make the best use of the:",
+      "options": ["CPU", "peripherals", "secondary storage", "floppy disks"],
+      "correctAnswer": 1,
+      "explanation": "Time-sharing allows multiple users to share CPU time efficiently, maximizing its utilization.[cite: Page 11, Q20]",
+      "difficulty": "Medium",
+      "hint": "This technique optimizes the central processing unit."
+    },
+    {
+      "level": 350,
+      "mainsubject": "Language & Communication",
+      "question": "The CPU is made up of two smaller components:",
+      "options": ["ALU and CU", "ALU and RAM", "RAM and ROM", "RAM and CU"],
+      "correctAnswer": 1,
+      "explanation": "The CPU consists of the Arithmetic Logic Unit (ALU) for calculations and the Control Unit (CU) for coordinating operations.[cite: Page 11, Q21]",
+      "difficulty": "Medium",
+      "hint": "These two units handle computation and control."
+    },
+    {
+      "level": 351,
+      "mainsubject": "Language & Communication",
+      "question": "The CPU comprises control, memory, and which units?",
+      "options": ["microprocessor", "arithmetic/logic", "output", "ROM"],
+      "correctAnswer": 2,
+      "explanation": "The CPU includes the control unit, memory unit (registers), and arithmetic/logic unit (ALU).[cite: Page 11, Q22]",
+      "difficulty": "Medium",
+      "hint": "The ALU handles math and logic operations."
+    },
+    {
+      "level": 352,
+      "mainsubject": "Language & Communication",
+      "question": "What is the responsibility of the logical unit in the CPU?",
+      "options": ["To produce result", "To compare numbers", "To control flow of information", "To do maths work"],
+      "correctAnswer": 2,
+      "explanation": "The logical unit within the ALU is responsible for comparison operations, such as determining if one number is greater than another.[cite: Page 11, Q23]",
+      "difficulty": "Medium",
+      "hint": "It deals with logical decisions, not arithmetic."
+    },
+    {
+      "level": 353,
+      "mainsubject": "Language & Communication",
+      "question": "Which unit helps in communication between the memory and the arithmetic logical unit?",
+      "options": ["CMU", "CCU", "UPS", "CPU"],
+      "correctAnswer": 4,
+      "explanation": "The CPU facilitates data transfer between memory and the ALU during processing.[cite: Page 11, Q24]",
+      "difficulty": "Hard",
+      "hint": "It's the central unit that manages data flow."
+    },
+    {
+      "level": 354,
+      "mainsubject": "Language & Communication",
+      "question": "Which part of the computer is used for calculating and comparing?",
+      "options": ["ALU", "Control unit", "Disc unit", "Modem"],
+      "correctAnswer": 1,
+      "explanation": "The Arithmetic Logic Unit (ALU) performs calculations (e.g., addition) and comparisons (e.g., equal to).[cite: Page 8, Page 11 Q25]",
+      "difficulty": "Easy",
+      "hint": "This unit is within the CPU."
+    },
+    {
+      "level": 355,
+      "mainsubject": "Language & Communication",
+      "question": "Which is used for logical operations or comparisons such as less than, equal to, or greater than?",
+      "options": ["ALU", "CU", "Input unit", "MU"],
+      "correctAnswer": 1,
+      "explanation": "The ALU handles logical operations and comparisons, which are essential for decision-making in programs.[cite: Page 8, Page 11 Q26]",
+      "difficulty": "Easy",
+      "hint": "It's a key component of the CPU."
+    },
+    {
+      "level": 356,
+      "mainsubject": "Language & Communication",
+      "question": "What does ALU in computing denote?",
+      "options": ["Application and Logic Unit", "Algorithm Logic Unit", "Arithmetic Layered Unit", "Arithmetic Legal Unit", "Arithmetic Logic Unit"],
+      "correctAnswer": 5,
+      "explanation": "ALU stands for Arithmetic Logic Unit, which performs arithmetic and logical operations in the CPU.[cite: Page 8, Page 11 Q27]",
+      "difficulty": "Easy",
+      "hint": "It's an acronym for a core CPU component."
+    },
+    {
+      "level": 357,
+      "mainsubject": "Language & Communication",
+      "question": "How many types of arithmetic operations does the ALU perform?",
+      "options": ["4", "2", "5", "8"],
+      "correctAnswer": 1,
+      "explanation": "The ALU typically performs four basic arithmetic operations: addition, subtraction, multiplication, and division.[cite: Page 8, Page 11 Q28]",
+      "difficulty": "Medium",
+      "hint": "Think of the fundamental math operations."
+    },
+    {
+      "level": 358,
+      "mainsubject": "Language & Communication",
+      "question": "Processors contain a control unit and a/an:",
+      "options": ["Control unit", "Primary storage unit", "Input unit", "Arithmetic logic unit"],
+      "correctAnswer": 4,
+      "explanation": "Processors include both a control unit (for coordination) and an arithmetic logic unit (for calculations).[cite: Page 11, Q29]",
+      "difficulty": "Easy",
+      "hint": "The ALU is the other main part of the CPU."
+    },
+    {
+      "level": 359,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following executes the computer commands?",
+      "options": ["Arithmetic unit", "Logic unit", "Both (1) and (2)", "Control unit"],
+      "correctAnswer": 3,
+      "explanation": "The arithmetic unit and logic unit (together forming the ALU) execute commands related to calculations and comparisons.[cite: Page 11, Q30]",
+      "difficulty": "Medium",
+      "hint": "The ALU is responsible for execution of operations."
+    },
+    {
+      "level": 360,
+      "mainsubject": "Language & Communication",
+      "question": "Which unit is a combinational digital electronic circuit that performs arithmetic and bitwise operations on integer binary numbers?",
+      "options": ["BOU", "AEU", "CPU", "ALU"],
+      "correctAnswer": 4,
+      "explanation": "The ALU is a digital circuit that handles arithmetic (e.g., addition) and bitwise (e.g., AND, OR) operations on binary numbers.[cite: Page 11, Q31]",
+      "difficulty": "Hard",
+      "hint": "It operates on binary integers."
+    },
+    {
+      "level": 361,
+      "mainsubject": "Language & Communication",
+      "question": "Internal memory in a CPU is nothing but:",
+      "options": ["a set of registers", "a set of ALU", "microprocessor", "bus"],
+      "correctAnswer": 1,
+      "explanation": "The CPU's internal memory consists of registers, which are small, fast storage locations for temporary data during processing.[cite: Page 11, Q32]",
+      "difficulty": "Medium",
+      "hint": "These are high-speed storage elements within the CPU."
+    },
+    {
+      "level": 362,
+      "mainsubject": "Language & Communication",
+      "question": "Which is a small set of data holding place that is part of the computer processor?",
+      "options": ["Register", "WAN", "Bus", "Address"],
+      "correctAnswer": 1,
+      "explanation": "Registers are small, fast storage areas within the CPU that hold instructions, data, or addresses during execution.[cite: Page 8, Page 11 Q33]",
+      "difficulty": "Medium",
+      "hint": "They are used for immediate data access."
+    },
+    {
+      "level": 363,
+      "mainsubject": "Language & Communication",
+      "question": "The portion of the CPU that coordinates the activities of all other computer components is the:",
+      "options": ["motherboard", "coordination board", "control unit", "arithmetic logic unit"],
+      "correctAnswer": 3,
+      "explanation": "The control unit (CU) directs the operation of the processor by managing the flow of data between components.[cite: Page 12, Q34]",
+      "difficulty": "Easy",
+      "hint": "It acts as the manager of the CPU."
+    },
+    {
+      "level": 364,
+      "mainsubject": "Language & Communication",
+      "question": "Which is an important circuitry in a computer system that directs the operation of the processor?",
+      "options": ["Memory", "Address Bus", "Accumulator", "ALU", "Control unit"],
+      "correctAnswer": 5,
+      "explanation": "The control unit is the circuitry that generates control signals to coordinate the activities of the processor and other components.[cite: Page 12, Q35]",
+      "difficulty": "Medium",
+      "hint": "It ensures instructions are executed in sequence."
+    },
+    {
+      "level": 365,
+      "mainsubject": "Language & Communication",
+      "question": "The part of a computer that coordinates all its functions is called:",
+      "options": ["ROM program", "System board", "Arithmetic logic unit", "Control unit"],
+      "correctAnswer": 4,
+      "explanation": "The control unit coordinates all functions by sending control signals to other parts of the computer.[cite: Page 12, Q36]",
+      "difficulty": "Easy",
+      "hint": "It's like the conductor of an orchestra."
+    },
+    {
+      "level": 366,
+      "mainsubject": "Language & Communication",
+      "question": "The control unit controls other units by generating:",
+      "options": ["control signals", "timing signals", "transfer signals", "command signals"],
+      "correctAnswer": 1,
+      "explanation": "The control unit produces control signals that regulate the operation of the ALU, memory, and I/O devices.[cite: Page 12, Q37]",
+      "difficulty": "Medium",
+      "hint": "These signals dictate the actions of components."
+    },
+    {
+      "level": 367,
+      "mainsubject": "Language & Communication",
+      "question": "Control unit of a digital computer is often called the:",
+      "options": ["clock", "nerve centre", "Both (1) and (2)", "IC"],
+      "correctAnswer": 2,
+      "explanation": "The control unit is referred to as the nerve centre because it manages and coordinates all computer operations.[cite: Page 12, Q38]",
+      "difficulty": "Medium",
+      "hint": "It's the central control point."
+    },
+    {
+      "level": 368,
+      "mainsubject": "Language & Communication",
+      "question": "Memory unit that communicates directly with the CPU is called the:",
+      "options": ["main memory", "secondary memory", "auxiliary memory", "register"],
+      "correctAnswer": 1,
+      "explanation": "Main memory (RAM) communicates directly with the CPU for fast data access during processing.[cite: Page 12, Q39]",
+      "difficulty": "Easy",
+      "hint": "It's the primary storage for active data."
+    },
+    {
+      "level": 369,
+      "mainsubject": "Language & Communication",
+      "question": "CPU retrieves its data and instructions from:",
+      "options": ["secondary memory", "auxiliary memory", "main memory", "All of these"],
+      "correctAnswer": 3,
+      "explanation": "The CPU fetches instructions and data from main memory (RAM) for execution.[cite: Page 12, Q40]",
+      "difficulty": "Easy",
+      "hint": "This memory is directly accessible by the CPU."
+    },
+    {
+      "level": 370,
+      "mainsubject": "Language & Communication",
+      "question": "Which computer memory is used for storing programs and data currently being processed by the CPU?",
+      "options": ["Mass memory", "Internal memory", "Non-volatile memory", "PROM"],
+      "correctAnswer": 2,
+      "explanation": "Internal memory (RAM) holds the programs and data that are actively being used by the CPU.[cite: Page 12, Q41]",
+      "difficulty": "Easy",
+      "hint": "It's volatile and temporary storage."
+    },
+    {
+      "level": 371,
+      "mainsubject": "Language & Communication",
+      "question": "The I/O processor has direct access to _____ and contains independent data channels.",
+      "options": ["main memory", "secondary memory", "cache", "flash memory"],
+      "correctAnswer": 1,
+      "explanation": "The I/O processor can directly access main memory to transfer data without CPU intervention, using its own channels.[cite: Page 12, Q42]",
+      "difficulty": "Hard",
+      "hint": "This allows efficient data handling."
+    },
+    {
+      "level": 372,
+      "mainsubject": "Language & Communication",
+      "question": "The word 'computer' usually refers to the central processing unit plus:",
+      "options": ["external memory", "internal memory", "input devices", "output devices"],
+      "correctAnswer": 2,
+      "explanation": "Traditionally, 'computer' refers to the CPU combined with internal memory (RAM), which together form the core processing system.[cite: Page 12, Q43]",
+      "difficulty": "Medium",
+      "hint": "It's the core system without peripherals."
+    },
+    {
+      "level": 373,
+      "mainsubject": "Language & Communication",
+      "question": "Who invented the first microprocessor?",
+      "options": ["Vint Cerf", "Terence Percival", "John Mauchly", "Ted Hoff"],
+      "correctAnswer": 4,
+      "explanation": "Ted Hoff, along with Federico Faggin, invented the first microprocessor, the Intel 4004, in 1971.[cite: Page 9, Page 12 Q44]",
+      "difficulty": "Medium",
+      "hint": "He worked at Intel."
+    },
+    {
+      "level": 374,
+      "mainsubject": "Language & Communication",
+      "question": "A microprocessor is the brain of the computer and is also called a:",
+      "options": ["microchip", "macrochip", "macroprocessor", "calculator"],
+      "correctAnswer": 1,
+      "explanation": "A microprocessor is a single integrated circuit (microchip) that acts as the central brain of the computer.[cite: Page 8, Page 12 Q45]",
+      "difficulty": "Easy",
+      "hint": "It's a small chip with large functionality."
+    },
+    {
+      "level": 375,
+      "mainsubject": "Language & Communication",
+      "question": "Microprocessors can be used to make:",
+      "options": ["computer", "digital system", "calculators", "All of these"],
+      "correctAnswer": 4,
+      "explanation": "Microprocessors are versatile and are used in computers, digital systems, calculators, and many other electronic devices.[cite: Page 12, Q46]",
+      "difficulty": "Easy",
+      "hint": "They are the core of modern electronics."
+    },
+    {
+      "level": 376,
+      "mainsubject": "Language & Communication",
+      "question": "High power microprocessor is:",
+      "options": ["Pentium, Pentium pro", "Pentium II and III", "Pentium II", "All of the above"],
+      "correctAnswer": 4,
+      "explanation": "High-power microprocessors include the Pentium series, such as Pentium Pro, Pentium II, and Pentium III, which offer advanced performance.[cite: Page 12, Q47]",
+      "difficulty": "Medium",
+      "hint": "These are Intel processors."
+    },
+    {
+      "level": 377,
+      "mainsubject": "Language & Communication",
+      "question": "The microprocessor of a computer:",
+      "options": ["does not understand machine language", "understands machine language and high level language", "understands only machine language", "understands only high level languages"],
+      "correctAnswer": 3,
+      "explanation": "Microprocessors are designed to execute instructions in machine language (binary code) directly.[cite: Page 12, Q48]",
+      "difficulty": "Medium",
+      "hint": "It operates at the lowest level of programming."
+    },
+    {
+      "level": 378,
+      "mainsubject": "Language & Communication",
+      "question": "The CPU and memory are located in which of the following devices?",
+      "options": ["Motherboard", "Expansion board", "Storage device", "Output device"],
+      "correctAnswer": 1,
+      "explanation": "The CPU and memory modules are mounted on the motherboard, which is the main circuit board of the computer.[cite: Page 9, Page 12 Q49]",
+      "difficulty": "Easy",
+      "hint": "It's the primary board for components."
+    },
+    {
+      "level": 379,
+      "mainsubject": "Language & Communication",
+      "question": "Personal computers use a number of chips mounted on a main circuit board. What is the common name for such boards?",
+      "options": ["Daughterboard", "Motherboard", "Broadband", "None of the above"],
+      "correctAnswer": 2,
+      "explanation": "The motherboard is the main circuit board that houses the CPU, memory, and other essential components.[cite: Page 12, Q50]",
+      "difficulty": "Easy",
+      "hint": "It's often called the 'mainboard'."
+    },
+    {
+      "level": 380,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following are components that reside on the motherboard?",
+      "options": ["CMOS battery", "Fan", "PCI slot", "All of these"],
+      "correctAnswer": 4,
+      "explanation": "The motherboard contains various components, including the CMOS battery, cooling fan, and PCI slots for expansion cards.[cite: Page 9, Page 12 Q51]",
+      "difficulty": "Medium",
+      "hint": "These are integral parts of the motherboard."
+    },
+    {
+      "level": 381,
+      "mainsubject": "Language & Communication",
+      "question": "A _____ is the main Printed Circuit Board (PCB) in a computer.",
+      "options": ["ROM", "CPU", "RAM", "Motherboard"],
+      "correctAnswer": 4,
+      "explanation": "The motherboard is the primary PCB that connects all components of a computer system.[cite: Page 13, Q52]",
+      "difficulty": "Easy",
+      "hint": "It's the foundation of the computer."
+    },
+    {
+      "level": 382,
+      "mainsubject": "Language & Communication",
+      "question": "Which one among the following is a main system board of a computer?",
+      "options": ["CPU", "Keyboard", "Microchip", "Motherboard"],
+      "correctAnswer": 4,
+      "explanation": "The motherboard is the main system board that provides connectivity for all hardware components.[cite: Page 13, Q53]",
+      "difficulty": "Easy",
+      "hint": "It's where everything connects."
+    },
+    {
+      "level": 383,
+      "mainsubject": "Language & Communication",
+      "question": "The communication line between CPU, memory and peripherals is called a:",
+      "options": ["bus", "line", "media", "All of these"],
+      "correctAnswer": 1,
+      "explanation": "A bus is a set of wires that transmits data and signals between the CPU, memory, and peripheral devices.[cite: Page 9, Page 13 Q54]",
+      "difficulty": "Medium",
+      "hint": "It's a pathway for data transfer."
+    },
+    {
+      "level": 384,
+      "mainsubject": "Language & Communication",
+      "question": "A physical connection between the microprocessor memory and other parts of the microcomputer is known as:",
+      "options": ["path", "address bus", "route", "All of these"],
+      "correctAnswer": 2,
+      "explanation": "The address bus is a specific bus that carries memory addresses from the microprocessor to other components.[cite: Page 13, Q55]",
+      "difficulty": "Hard",
+      "hint": "It deals with addressing memory locations."
+    },
+    {
+      "level": 385,
+      "mainsubject": "Language & Communication",
+      "question": "The read/write line belongs to:",
+      "options": ["the data bus", "the control bus", "the address bus", "CPU bus"],
+      "correctAnswer": 2,
+      "explanation": "The read/write line is part of the control bus, which manages the direction of data flow (read or write operations).[cite: Page 13, Q56]",
+      "difficulty": "Hard",
+      "hint": "It controls access to memory and I/O."
+    },
+    {
+      "level": 386,
+      "mainsubject": "Language & Communication",
+      "question": "The name of the location of a particular piece of data is its:",
+      "options": ["address", "memory name", "storage", "data location"],
+      "correctAnswer": 1,
+      "explanation": "Each data item stored in memory has a unique address that identifies its location.[cite: Page 13, Q57]",
+      "difficulty": "Easy",
+      "hint": "It's like a house address for data."
+    },
+    {
+      "level": 387,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is used to connect different external devices?",
+      "options": ["Address bus", "Data bus", "Control bus", "External bus"],
+      "correctAnswer": 4,
+      "explanation": "The external bus, also known as the expansion bus, connects peripheral devices to the motherboard.[cite: Page 9, Page 13 Q58]",
+      "difficulty": "Medium",
+      "hint": "It's for external connectivity."
+    },
+    {
+      "level": 388,
+      "mainsubject": "Language & Communication",
+      "question": "A computer executes program in the sequence of:",
+      "options": ["Execute, Fetch, Decode", "Store, Fetch, Execute", "Fetch, Decode, Execute", "Decode, Fetch, Execute"],
+      "correctAnswer": 3,
+      "explanation": "The instruction cycle consists of fetching the instruction from memory, decoding it, and then executing it.[cite: Page 9, Page 13 Q59]",
+      "difficulty": "Medium",
+      "hint": "This is the fundamental cycle of CPU operation."
+    },
+    {
+      "level": 389,
+      "mainsubject": "Language & Communication",
+      "question": "Which is not an integral part of a computer?",
+      "options": ["CPU", "Mouse", "Monitor", "UPS"],
+      "correctAnswer": 4,
+      "explanation": "A UPS (Uninterruptible Power Supply) is an external device for power backup and is not an integral part of the computer's core architecture.[cite: Page 13, Q60]",
+      "difficulty": "Easy",
+      "hint": "It's a peripheral for power management."
+    },
+    {
+      "level": 390,
+      "mainsubject": "Language & Communication",
+      "question": "A device that provides surge protection and battery backup during a power outage is:",
+      "options": ["battery strip", "UPS", "surge strip", "USB"],
+      "correctAnswer": 2,
+      "explanation": "A UPS (Uninterruptible Power Supply) offers both surge protection and battery power to keep the computer running during outages.[cite: Page 9, Page 13 Q61]",
+      "difficulty": "Easy",
+      "hint": "It ensures uninterrupted power."
+    },
+    {
+      "level": 391,
+      "mainsubject": "Language & Communication",
+      "question": "What is a power strip?",
+      "options": ["It is an electrical device that expands the capacity of a wall outlet", "It plugs multiple components into one power outlet", "It provides power supply for electronic devices", "It is used to increase the magnitude of voltage/current/power"],
+      "correctAnswer": 1,
+      "explanation": "A power strip is an electrical device with multiple sockets, allowing several devices to be plugged into a single wall outlet.[cite: Page 9, Page 13 Q62]",
+      "difficulty": "Easy",
+      "hint": "It's a multi-outlet extension cord."
+    },
+    {
+      "level": 392,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is an example of a magnetic storage device?",
+      "options": ["Hard disk", "Compact disc", "Audio tapes", "All of these"],
+      "correctAnswer": 1,
+      "explanation": "Hard disks are magnetic storage devices that use rotating platters coated with magnetic material to store data. Compact discs are optical storage, and audio tapes are magnetic but not typically used for computer data storage in the same way.[cite: Page 28, Page 33 Q36]",
+      "difficulty": "Easy",
+      "hint": "Think about devices that use magnetism to store data."
+    },
+    {
+      "level": 393,
+      "mainsubject": "Language & Communication",
+      "question": "What is the capacity of a 3.5-inch floppy disk?",
+      "options": ["1.40 MB", "1.44 GB", "1.40 GB", "1.44 MB"],
+      "correctAnswer": 4,
+      "explanation": "A standard 3.5-inch floppy disk has a storage capacity of 1.44 MB.[cite: Page 34, Q44]",
+      "difficulty": "Easy",
+      "hint": "It's a small storage size in megabytes."
+    },
+    {
+      "level": 394,
+      "mainsubject": "Language & Communication",
+      "question": "FDD stands for:",
+      "options": ["Floppy Drive Detector", "Floppy Drive Demodulator", "Floppy Disk Drive", "Floppy Demodulator Disc"],
+      "correctAnswer": 3,
+      "explanation": "FDD is an acronym for Floppy Disk Drive, which is used to read and write data to floppy disks.[cite: Page 34, Q47]",
+      "difficulty": "Easy",
+      "hint": "It's related to floppy disks."
+    },
+    {
+      "level": 395,
+      "mainsubject": "Language & Communication",
+      "question": "The process of dividing a disk into tracks and sectors is called:",
+      "options": ["Tracking", "Formatting", "Crashing", "Allotting"],
+      "correctAnswer": 2,
+      "explanation": "Formatting a disk involves preparing it for use by dividing it into tracks and sectors where data will be stored.[cite: Page 34, Q48]",
+      "difficulty": "Medium",
+      "hint": "It's a preparation step for storage media."
+    },
+    {
+      "level": 396,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following can hold the maximum amount of data?",
+      "options": ["Optical disc", "Floppy disk", "Magnetic disk", "Magnetic tape"],
+      "correctAnswer": 4,
+      "explanation": "Magnetic tapes have the highest storage capacity among the options and are used for backup and archival purposes due to their large data storage capabilities.[cite: Page 29, Page 34 Q51]",
+      "difficulty": "Medium",
+      "hint": "Think about storage used for backups."
+    },
+    {
+      "level": 397,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is not true about RAM?",
+      "options": ["RAM is the same as hard disk storage", "RAM is a temporary storage area", "RAM is volatile", "RAM is a primary memory"],
+      "correctAnswer": 1,
+      "explanation": "RAM (Random Access Memory) is volatile primary memory used for temporary storage during processing, whereas hard disk storage is non-volatile secondary memory for long-term storage.[cite: Page 27, Page 31 Q13]",
+      "difficulty": "Easy",
+      "hint": "RAM loses data when power is off."
+    },
+    {
+      "level": 398,
+      "mainsubject": "Language & Communication",
+      "question": "What is the full form of PROM?",
+      "options": ["Programmable Read Only Memory", "Program Read Output Memory", "Program Read Only Memory", "Primary Read Only Memory"],
+      "correctAnswer": 1,
+      "explanation": "PROM stands for Programmable Read Only Memory, which is a type of non-volatile memory that can be programmed once.[cite: Page 28, Page 32 Q20]",
+      "difficulty": "Medium",
+      "hint": "It can be programmed but not erased."
+    },
+    {
+      "level": 399,
+      "mainsubject": "Language & Communication",
+      "question": "The difference between memory and storage is that memory is _____ and storage is _____.",
+      "options": ["temporary; permanent", "permanent; temporary", "slow; fast", "non-volatile; volatile"],
+      "correctAnswer": 1,
+      "explanation": "Memory (like RAM) is temporary and volatile, losing data when power is off, while storage (like hard disk) is permanent and non-volatile, retaining data without power.[cite: Page 32, Q23]",
+      "difficulty": "Easy",
+      "hint": "Think about data persistence."
+    },
+    {
+      "level": 400,
+      "mainsubject": "Language & Communication",
+      "question": "Which memory acts as a buffer between the CPU and main memory?",
+      "options": ["Primary memory", "Cache memory", "Secondary memory", "RAM"],
+      "correctAnswer": 2,
+      "explanation": "Cache memory is a high-speed memory that stores frequently accessed data to speed up CPU operations by reducing access time to main memory.[cite: Page 28, Page 32 Q24]",
+      "difficulty": "Medium",
+      "hint": "It's very fast and close to the CPU."
+    },
+    {
+      "level": 401,
+      "mainsubject": "Language & Communication",
+      "question": "How many kilobytes make a megabyte?",
+      "options": ["128", "1024", "256", "512"],
+      "correctAnswer": 2,
+      "explanation": "1 megabyte (MB) is equal to 1024 kilobytes (KB) in binary systems.[cite: Page 34, Page 36 Q74]",
+      "difficulty": "Easy",
+      "hint": "Remember the binary multiples."
+    },
+    {
+      "level": 402,
+      "mainsubject": "Language & Communication",
+      "question": "Which number system is known as base-2?",
+      "options": ["Decimal", "Binary", "Octal", "Hexadecimal"],
+      "correctAnswer": 2,
+      "explanation": "The binary number system uses only two digits, 0 and 1, and is referred to as base-2.[cite: Page 37]",
+      "difficulty": "Easy",
+      "hint": "It's fundamental to computers."
+    },
+    {
+      "level": 403,
+      "mainsubject": "Language & Communication",
+      "question": "What is the decimal equivalent of the binary number 1010?",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": 3,
+      "explanation": "Binary 1010 is calculated as (1*2^3) + (0*2^2) + (1*2^1) + (0*2^0) = 8 + 0 + 2 + 0 = 10 in decimal.[cite: Page 38, Page 43 Q22]",
+      "difficulty": "Medium",
+      "hint": "Calculate the powers of 2."
+    },
+    {
+      "level": 404,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is a computer code used for representing characters?",
+      "options": ["ASCII", "EBCDIC", "UNICODE", "All of these"],
+      "correctAnswer": 4,
+      "explanation": "ASCII, EBCDIC, and UNICODE are all character encoding standards used to represent text in computers.[cite: Page 40, Page 44 Q43]",
+      "difficulty": "Easy",
+      "hint": "They are used for text encoding."
+    },
+    {
+      "level": 405,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is system software?",
+      "options": ["Operating system", "Device driver", "Language translator", "All of these"],
+      "correctAnswer": 4,
+      "explanation": "System software includes operating systems, device drivers, and language translators that manage hardware and provide a platform for application software.[cite: Page 46]",
+      "difficulty": "Easy",
+      "hint": "Software that operates the computer."
+    },
+    {
+      "level": 406,
+      "mainsubject": "Language & Communication",
+      "question": "What does BIOS stand for?",
+      "options": ["Basic Input/Output System", "Basic Internal Output System", "Basic Inner/Output System", "Basic Input/Output Systemisation"],
+      "correctAnswer": 1,
+      "explanation": "BIOS stands for Basic Input/Output System, which is firmware used to initialize hardware during the booting process.[cite: Page 46, Page 51 Q18]",
+      "difficulty": "Easy",
+      "hint": "It's involved in starting up the computer."
+    },
+    {
+      "level": 407,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is a function of an operating system?",
+      "options": ["Process management", "Memory management", "File management", "All of the above"],
+      "correctAnswer": 4,
+      "explanation": "Operating systems perform process management, memory management, file management, and device management to ensure efficient computer operation.[cite: Page 55]",
+      "difficulty": "Easy",
+      "hint": "OS manages resources."
+    },
+    {
+      "level": 408,
+      "mainsubject": "Language & Communication",
+      "question": "What is the name of the batch file that automatically runs when MS-DOS is booted?",
+      "options": ["Config.sys", "Config.bat", "Autoexec.bat", "Run.bat"],
+      "correctAnswer": 3,
+      "explanation": "Autoexec.bat is a batch file that automatically executes commands when MS-DOS starts up.[cite: Page 57, Page 62 Q47]",
+      "difficulty": "Medium",
+      "hint": "It auto-executes on boot."
+    },
+    {
+      "level": 409,
+      "mainsubject": "Language & Communication",
+      "question": "Who is regarded as the world's first programmer?",
+      "options": ["Alan Turing", "Ada Lovelace", "Tim Berners Lee", "Steve Wozniak"],
+      "correctAnswer": 2,
+      "explanation": "Ada Lovelace is considered the first programmer for her work on Charles Babbage's analytical engine, where she wrote the first algorithm intended for machine processing.[cite: Page 64, Page 67 Q5]",
+      "difficulty": "Medium",
+      "hint": "She worked with Babbage."
+    },
+    {
+      "level": 410,
+      "mainsubject": "Language & Communication",
+      "question": "Which key combination is used to restart the computer?",
+      "options": ["Ctrl + Alt + Del", "Ctrl + Shift + Del", "Alt + F4", "Shift + Del"],
+      "correctAnswer": 1,
+      "explanation": "Pressing Ctrl + Alt + Del together will restart the computer or bring up a menu for task management in Windows.[cite: Page 60, Page 76 Q76]",
+      "difficulty": "Easy",
+      "hint": "It's a common shortcut for restart."
+    },
+    {
+      "level": 411,
+      "mainsubject": "Language & Communication",
+      "question": "What is the default file extension for Microsoft Word documents?",
+      "options": [".txt", ".doc", ".docx", ".rtf"],
+      "correctAnswer": 3,
+      "explanation": "Microsoft Word documents typically use the .docx extension by default for files created in newer versions of Word.[cite: Page 75, Page 80 Q68]",
+      "difficulty": "Easy",
+      "hint": "It starts with 'doc'."
+    },
+     {
+      "level": 412,
+      "mainsubject": "Language & Communication",
+      "question": "What is the correct order for writing a formal business letter?",
+      "options": ["Date, Salutation, Body, Complimentary Close", "Salutation, Date, Body, Signature", "Body, Date, Salutation, Close", "Date, Body, Salutation, Close"],
+      "correctAnswer": 1,
+      "explanation": "The correct order for a formal business letter is: Date, Inside Address, Salutation, Body, Complimentary Close, and Signature. This follows standard business correspondence format used in official communications.",
+      "difficulty": "Medium",
+      "hint": "Think about the logical flow of formal correspondence"
+    },
+    {
+      "level": 413,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is an example of administrative terminology?",
+      "options": ["Recipe", "Memorandum", "Story", "Poem"],
+      "correctAnswer": 2,
+      "explanation": "A memorandum (memo) is administrative terminology used in official communications within organizations. It's a brief written message used to communicate policies, procedures, or information between departments or staff members.",
+      "difficulty": "Medium",
+      "hint": "Think about internal office communication documents"
+    },
+    {
+      "level": 414,
+      "mainsubject": "Language & Communication",
+      "question": "In essay writing, the thesis statement should appear in:",
+      "options": ["The conclusion", "The introduction", "The middle paragraph", "The bibliography"],
+      "correctAnswer": 2,
+      "explanation": "The thesis statement should appear in the introduction, typically at the end of the first paragraph. It presents the main argument or central point of the essay and guides the entire writing structure.",
+      "difficulty": "Hard",
+      "hint": "Think about where you state your main argument"
+    },
+    {
+      "level": 415,
+      "mainsubject": "Language & Communication",
+      "question": "The phrase 'ಸರ್ಕಾರಿ ಕಛೇರಿ' in Kannada means:",
+      "options": ["Private office", "Government office", "Home office", "Post office"],
+      "correctAnswer": 2,
+      "explanation": "'ಸರ್ಕಾರಿ ಕಛೇರಿ' translates to 'Government office' in English. This is essential administrative terminology for understanding official communications and documents in Karnataka government services.",
+      "difficulty": "Medium",
+      "hint": "Think about official government workplace terminology"
+    },
+    {
+      "level": 416,
+      "mainsubject": "Language & Communication",
+      "question": "Which punctuation mark is used to introduce a list or explanation?",
+      "options": ["Semicolon", "Comma", "Colon", "Period"],
+      "correctAnswer": 3,
+      "explanation": "A colon (:) is used to introduce a list, explanation, or elaboration of what was mentioned before it. It signals that what follows will provide more specific information about the preceding statement.",
+      "difficulty": "Medium",
+      "hint": "Think about introducing explanatory information"
+    },
+    {
+      "level": 417,
+      "mainsubject": "Language & Communication",
+      "question": "Which computer was designed by Charles Babbage?",
+      "options": ["ENIAC", "Analytical Engine", "UNIVAC", "MARK-1"],
+      "correctAnswer": 2,
+      "explanation": "Charles Babbage designed the Analytical Engine in 1837, which was the first general-purpose computer concept. It stored programs in the form of 'pegs' (barrels) and was a decimal machine using sign and magnitude representation.",
+      "difficulty": "Medium",
+      "hint": "Think about the father of computers"
+    },
+    {
+      "level": 418,
+      "mainsubject": "Language & Communication",
+      "question": "ENIAC was developed in which year?",
+      "options": ["1944", "1946", "1947", "1949"],
+      "correctAnswer": 2,
+      "explanation": "ENIAC (Electronic Numerical Integrator And Computer) was developed in 1946 by JP Eckert and JW Mauchly. It was the first electronic digital computer, consisting of twenty accumulators and used for weather prediction and atomic energy calculations.",
+      "difficulty": "Hard",
+      "hint": "Think about the first electronic digital computer"
+    },
+    {
+      "level": 419,
+      "mainsubject": "Language & Communication",
+      "question": "Which generation of computers used Integrated Circuits (ICs)?",
+      "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+      "correctAnswer": 3,
+      "explanation": "Third generation computers (1964-71) used Integrated Circuits (ICs) made of silicon. This technology consumed less power, required highly sophisticated manufacturing, and enabled database management systems like NCR-395 and B6500.",
+      "difficulty": "Medium",
+      "hint": "Think about silicon-based circuits"
+    },
+    {
+      "level": 420,
+      "mainsubject": "Language & Communication",
+      "question": "What does VLSI stand for?",
+      "options": ["Very Large Scale Integration", "Very Low Scale Integration", "Virtual Large Scale Integration", "Variable Large Scale Integration"],
+      "correctAnswer": 1,
+      "explanation": "VLSI stands for Very Large Scale Integration. It's a technology used in fourth and fifth generation computers, allowing thousands of transistors to be integrated on a single chip, enabling more powerful and compact computer systems.",
+      "difficulty": "Medium",
+      "hint": "Think about advanced chip integration technology"
+    },
+    {
+      "level": 421,
+      "mainsubject": "Language & Communication",
+      "question": "Which is the smallest computer mentioned in the classification?",
+      "options": ["Minicomputer", "Microcomputer", "Nano computer", "Embedded computer"],
+      "correctAnswer": 3,
+      "explanation": "Nano computer is described as smaller than a microcomputer, usually about the size of a credit card. Example includes Raspberry Pi, which can be used in schools to teach science to children.",
+      "difficulty": "Hard",
+      "hint": "Think about credit card-sized computers"
+    },
+    {
+      "level": 422,
+      "mainsubject": "Language & Communication",
+      "question": "The motherboard is also known as:",
+      "options": ["System board", "Main board", "Logic board", "All of the above"],
+      "correctAnswer": 4,
+      "explanation": "The motherboard is also known as the main board, logic board, system board, or planar board. It's the main circuit board that contains all other electronic devices and circuits, including ROM, RAM, expansion slots, and PCI slots.",
+      "difficulty": "Easy",
+      "hint": "Think about alternative names for the main circuit board"
+    },
+    {
+      "level": 423,
+      "mainsubject": "Language & Communication",
+      "question": "What is the function of CMOS battery on motherboard?",
+      "options": ["Provide main power", "Store BIOS settings", "Cool the processor", "Connect peripherals"],
+      "correctAnswer": 2,
+      "explanation": "The CMOS battery on the motherboard maintains BIOS settings and system clock when the computer is powered off. It's a small battery that preserves important configuration information like date, time, and hardware settings.",
+      "difficulty": "Medium",
+      "hint": "Think about maintaining settings when power is off"
+    },
+    {
+      "level": 424,
+      "mainsubject": "Language & Communication",
+      "question": "Which bus carries the address of memory or I/O devices?",
+      "options": ["Data bus", "Control bus", "Address bus", "System bus"],
+      "correctAnswer": 3,
+      "explanation": "The address bus carries the address of memory or I/O devices, specifying where data should be read from or written to. It's part of the internal bus system that connects components inside the motherboard.",
+      "difficulty": "Hard",
+      "hint": "Think about specifying memory locations"
+    },
+    {
+      "level": 425,
+      "mainsubject": "Language & Communication",
+      "question": "UPS stands for:",
+      "options": ["United Power Supply", "Uninterruptible Power Supply", "Universal Power System", "Uniform Power Supply"],
+      "correctAnswer": 2,
+      "explanation": "UPS stands for Uninterruptible Power Supply. It's an electrical apparatus that provides emergency power to a load when the input power source fails, protecting computers from power outages and voltage fluctuations.",
+      "difficulty": "Easy",
+      "hint": "Think about backup power protection"
+    },
+    {
+      "level": 426,
+      "mainsubject": "Language & Communication",
+      "question": "Which input device uses light as input source?",
+      "options": ["Keyboard", "Mouse", "Scanner", "Joystick"],
+      "correctAnswer": 3,
+      "explanation": "A scanner is an optical input device that uses light as an input source to convert images into electronic form. It stores documents in their original form that can be modified and manipulated later, supporting both grayscale and color modes.",
+      "difficulty": "Medium",
+      "hint": "Think about converting physical documents to digital"
+    },
+    {
+      "level": 427,
+      "mainsubject": "Language & Communication",
+      "question": "MICR is commonly used in:",
+      "options": ["Supermarkets", "Banks", "Schools", "Hospitals"],
+      "correctAnswer": 2,
+      "explanation": "MICR (Magnetic Ink Character Recognition) is commonly used in banks for processing cheques. It reads characters printed with special ink containing iron oxide that can be magnetized, recognizing magnetic encoding numbers at the bottom of cheques.",
+      "difficulty": "Medium",
+      "hint": "Think about cheque processing"
+    },
+    {
+      "level": 428,
+      "mainsubject": "Language & Communication",
+      "question": "The clarity of monitor image depends on:",
+      "options": ["Resolution only", "Dot pitch only", "Refresh rate only", "Resolution, dot pitch, and refresh rate"],
+      "correctAnswer": 4,
+      "explanation": "Monitor image clarity depends on three factors: Resolution (number of pixels horizontally and vertically), Dot pitch (diagonal distance between colored pixels), and Refresh rate (how many times per second the display updates).",
+      "difficulty": "Hard",
+      "hint": "Think about all factors affecting display quality"
+    },
+    {
+      "level": 429,
+      "mainsubject": "Language & Communication",
+      "question": "DPI in printer resolution stands for:",
+      "options": ["Data Per Inch", "Dots Per Inch", "Drive Per Inch", "Disk Per Inch"],
+      "correctAnswer": 2,
+      "explanation": "DPI stands for Dots Per Inch, which is a numerical measure of print quality in printers. Higher DPI values indicate better print resolution and clarity, with more dots packed into each inch of printed output.",
+      "difficulty": "Medium",
+      "hint": "Think about print quality measurement"
+    },
+    {
+      "level": 430,
+      "mainsubject": "Language & Communication",
+      "question": "Which printer type uses heat on chemically treated paper?",
+      "options": ["Inkjet printer", "Laser printer", "Thermal printer", "Dot matrix printer"],
+      "correctAnswer": 3,
+      "explanation": "Thermal printers use heat on chemically treated paper to form characters. They're commonly used for receipts, labels, and fax machines because they're quiet, fast, and don't require ink or ribbons.",
+      "difficulty": "Medium",
+      "hint": "Think about heat-based printing technology"
+    },
+    {
+      "level": 431,
+      "mainsubject": "Language & Communication",
+      "question": "Who invented the 3D printer?",
+      "options": ["Chuck Hull", "Steve Jobs", "Bill Gates", "Tim Berners-Lee"],
+      "correctAnswer": 1,
+      "explanation": "Chuck Hull invented the first 3D printer in 1984. These printers can create almost anything into a real-life model by building objects layer by layer using various materials like plastics, metals, or ceramics.",
+      "difficulty": "Hard",
+      "hint": "Think about additive manufacturing pioneer"
+    },
+    {
+      "level": 432,
+      "mainsubject": "Language & Communication",
+      "question": "Primary memory is characterized by:",
+      "options": ["Permanent storage", "Large capacity", "Volatile nature", "Slow access"],
+      "correctAnswer": 3,
+      "explanation": "Primary memory is characterized by its volatile nature, meaning it loses all stored data when power is turned off. It provides direct communication with the CPU and has limited storage capacity but fast access speed.",
+      "difficulty": "Medium",
+      "hint": "Think about temporary storage properties"
+    },
+    {
+      "level": 433,
+      "mainsubject": "Language & Communication",
+      "question": "SRAM needs to be refreshed:",
+      "options": ["Continuously", "Periodically", "Never", "Once per day"],
+      "correctAnswer": 3,
+      "explanation": "SRAM (Static RAM) does not need to be refreshed periodically as it retains data as long as power is provided. It uses multiple transistors for each memory cell and is faster but more expensive than DRAM.",
+      "difficulty": "Hard",
+      "hint": "Think about static vs dynamic memory characteristics"
+    },
+    {
+      "level": 434,
+      "mainsubject": "Language & Communication",
+      "question": "EEPROM stands for:",
+      "options": ["Electrically Erasable Programmable ROM", "Electronic Erasable Programmable ROM", "Electrically Efficient Programmable ROM", "Extended Erasable Programmable ROM"],
+      "correctAnswer": 1,
+      "explanation": "EEPROM stands for Electrically Erasable Programmable Read Only Memory. It can be erased electrically and rewritten, with the burning process being reversible by exposure to electric pulses. It's commonly used for BIOS storage.",
+      "difficulty": "Medium",
+      "hint": "Think about electrically modifiable ROM"
+    },
+    {
+      "level": 435,
+      "mainsubject": "Language & Communication",
+      "question": "The smallest memory measurement unit is:",
+      "options": ["Byte", "Bit", "Nibble", "Kilobyte"],
+      "correctAnswer": 2,
+      "explanation": "Bit (Binary Digit) is the smallest memory measurement unit, representing either 0 or 1. It's the fundamental unit of information in computing, with larger units like bytes (8 bits) built from bits.",
+      "difficulty": "Easy",
+      "hint": "Think about the most basic unit of digital information"
+    },
+    {
+      "level": 436,
+      "mainsubject": "Language & Communication",
+      "question": "Cloud computing enables:",
+      "options": ["Only data storage", "Only software access", "On-demand computing resources over internet", "Only hardware virtualization"],
+      "correctAnswer": 3,
+      "explanation": "Cloud computing provides on-demand access to computing resources (servers, storage, databases, networking, software) over the internet with pay-per-use pricing, eliminating the need for local infrastructure maintenance.",
+      "difficulty": "Medium",
+      "hint": "Think about internet-based computing services"
+    },
+    {
+      "level": 437,
+      "mainsubject": "Language & Communication",
+      "question": "In binary system, what is the decimal value of 1010?",
+      "options": ["8", "10", "12", "16"],
+      "correctAnswer": 2,
+      "explanation": "Binary 1010 equals decimal 10. Calculation: (1×2³) + (0×2²) + (1×2¹) + (0×2⁰) = 8 + 0 + 2 + 0 = 10. Binary uses base-2 number system with only digits 0 and 1.",
+      "difficulty": "Medium",
+      "hint": "Convert using powers of 2"
+    },
+    {
+      "level": 438,
+      "mainsubject": "Language & Communication",
+      "question": "NAND gate output is 0 when:",
+      "options": ["Both inputs are 0", "One input is 0", "Both inputs are 1", "One input is 1"],
+      "correctAnswer": 3,
+      "explanation": "NAND gate output is 0 only when both inputs are 1. It's the inverse of AND gate, returning False only when both conditions are True. NAND is called a universal gate because any logic function can be implemented using only NAND gates.",
+      "difficulty": "Hard",
+      "hint": "Think about the inverse of AND operation"
+    },
+    {
+      "level": 439,
+      "mainsubject": "Language & Communication",
+      "question": "ASCII-7 can represent how many unique characters?",
+      "options": ["64", "128", "256", "512"],
+      "correctAnswer": 2,
+      "explanation": "ASCII-7 is a 7-bit standard code that can represent 2⁷ = 128 unique characters (0 to 127). This includes letters, numbers, punctuation marks, and control characters used in computing and telecommunications.",
+      "difficulty": "Medium",
+      "hint": "Think about 7-bit combinations"
+    },
+    {
+      "level": 440,
+      "mainsubject": "Language & Communication",
+      "question": "System software includes:",
+      "options": ["MS-Word only", "Operating system and device drivers", "Games only", "Web browsers only"],
+      "correctAnswer": 2,
+      "explanation": "System software includes operating systems, device drivers, and language translators that control and manage computer hardware resources. It provides a platform for application software to run and manages system operations.",
+      "difficulty": "Medium",
+      "hint": "Think about software that manages computer hardware"
+    },
+    {
+      "level": 441,
+      "mainsubject": "Language & Communication",
+      "question": "What is the function of a linker?",
+      "options": ["Execute programs", "Debug code", "Link object modules together", "Translate assembly code"],
+      "correctAnswer": 3,
+      "explanation": "A linker is a system program that links together several object modules and libraries to form a single coherent executable program. Its main purpose is to resolve references among files and create the final executable file.",
+      "difficulty": "Hard",
+      "hint": "Think about combining separate code modules"
+    },
+    {
+      "level": 442,
+      "mainsubject": "Language & Communication",
+      "question": "Which Windows version introduced the Metro Design language?",
+      "options": ["Windows 7", "Windows 8", "Windows Vista", "Windows XP"],
+      "correctAnswer": 2,
+      "explanation": "Windows 8 introduced Microsoft's Metro Design language, featuring a tile-based interface optimized for touch devices. It was released on October 26, 2012, and supported new technologies like USB 3.0 and cloud computing.",
+      "difficulty": "Hard",
+      "hint": "Think about the tile-based interface Windows version"
+    },
+    {
+      "level": 443,
+      "mainsubject": "Language & Communication",
+      "question": "What does the Recycle Bin contain?",
+      "options": ["Currently running programs", "System files", "Deleted files and folders", "Network connections"],
+      "correctAnswer": 3,
+      "explanation": "The Recycle Bin contains deleted files, folders, and shortcuts. When files are deleted, they go to the Recycle Bin where they can be restored to their original location or permanently deleted by emptying the bin.",
+      "difficulty": "Easy",
+      "hint": "Think about temporary storage for deleted items"
+    },
+    {
+      "level": 444,
+      "mainsubject": "Language & Communication",
+      "question": "In MS-Word, Ctrl+Z performs:",
+      "options": ["Copy", "Paste", "Undo", "Save"],
+      "correctAnswer": 3,
+      "explanation": "Ctrl+Z performs the Undo operation in MS-Word, reversing the last action performed. This is a universal keyboard shortcut across most Windows applications for undoing recent changes or operations.",
+      "difficulty": "Easy",
+      "hint": "Think about reversing the last action"
+    },
+    {
+      "level": 445,
+      "mainsubject": "Language & Communication",
+      "question": "The default file extension for MS-Excel 2007 is:",
+      "options": [".xls", ".xlsx", ".doc", ".docx"],
+      "correctAnswer": 2,
+      "explanation": "The default file extension for MS-Excel 2007 and later versions is .xlsx. This replaced the older .xls format and provides better compression, improved data recovery, and enhanced security features.",
+      "difficulty": "Medium",
+      "hint": "Think about newer Excel file formats"
+    },
+    {
+      "level": 446,
+      "mainsubject": "Language & Communication",
+      "question": "In Excel, what does the SUM function do?",
+      "options": ["Counts cells", "Finds maximum value", "Adds all values in a range", "Calculates average"],
+      "correctAnswer": 3,
+      "explanation": "The SUM function in Excel adds all the values provided as arguments within a specified range. For example, =SUM(A1:A5) adds all values from cell A1 to A5, providing the total sum.",
+      "difficulty": "Easy",
+      "hint": "Think about mathematical addition operation"
+    },
+    {
+      "level": 447,
+      "mainsubject": "Language & Communication",
+      "question": "Which chart type shows proportional relationships to the whole?",
+      "options": ["Line chart", "Bar chart", "Pie chart", "Scatter chart"],
+      "correctAnswer": 3,
+      "explanation": "Pie charts show the proportional size of items that make up one data series to the sum of the items. Each slice represents a percentage of the whole, making it ideal for displaying parts of a total.",
+      "difficulty": "Medium",
+      "hint": "Think about showing parts of a whole"
+    },
+    {
+      "level": 448,
+      "mainsubject": "Language & Communication",
+      "question": "In PowerPoint, F5 key is used for:",
+      "options": ["Save presentation", "Print slides", "View slide show", "Insert new slide"],
+      "correctAnswer": 3,
+      "explanation": "F5 key in PowerPoint starts the slide show from the beginning. This keyboard shortcut immediately launches the presentation in full-screen mode, allowing you to preview or deliver your presentation.",
+      "difficulty": "Easy",
+      "hint": "Think about starting a presentation"
+    },
+    {
+      "level": 449,
+      "mainsubject": "Language & Communication",
+      "question": "Maximum zoom percentage in MS-PowerPoint is:",
+      "options": ["200%", "300%", "400%", "500%"],
+      "correctAnswer": 3,
+      "explanation": "The maximum zoom percentage in MS-PowerPoint is 400%. This allows for very detailed editing and viewing of slide content, though such high magnification is rarely needed for normal presentation work.",
+      "difficulty": "Hard",
+      "hint": "Think about the highest magnification level"
+    },
+    {
+      "level": 450,
+      "mainsubject": "Language & Communication",
+      "question": "A database table consists of:",
+      "options": ["Rows only", "Columns only", "Rows and columns", "Queries only"],
+      "correctAnswer": 3,
+      "explanation": "A database table consists of rows (records) and columns (fields). Rows contain individual data entries while columns define the type of data stored, creating a structured grid for organizing information.",
+      "difficulty": "Easy",
+      "hint": "Think about spreadsheet-like structure"
+    },
+    {
+      "level": 451,
+      "mainsubject": "Language & Communication",
+      "question": "Primary key in a database must be:",
+      "options": ["Null", "Duplicate", "Unique and not null", "Optional"],
+      "correctAnswer": 3,
+      "explanation": "Primary key must be unique and not null. It uniquely identifies each record in a database table and cannot contain duplicate values or null values, ensuring each row can be distinctly identified.",
+      "difficulty": "Medium",
+      "hint": "Think about unique identification requirements"
+    },
+    {
+      "level": 452,
+      "mainsubject": "Language & Communication",
+      "question": "DDL stands for:",
+      "options": ["Data Definition Language", "Data Description Language", "Database Definition Language", "Data Design Language"],
+      "correctAnswer": 1,
+      "explanation": "DDL stands for Data Definition Language. It's used to define the structure of database tables and other objects, including commands like CREATE, ALTER, and DROP for managing database schema.",
+      "difficulty": "Medium",
+      "hint": "Think about defining database structure"
+    },
+    {
+      "level": 453,
+      "mainsubject": "Language & Communication",
+      "question": "Half duplex communication allows:",
+      "options": ["One-way communication only", "Two-way communication simultaneously", "Two-way communication but not simultaneously", "No communication"],
+      "correctAnswer": 3,
+      "explanation": "Half duplex communication allows data flow in both directions but not simultaneously. When one device transmits, the other can only receive at that time. Walkie-talkies are a common example of half duplex communication.",
+      "difficulty": "Medium",
+      "hint": "Think about taking turns in communication"
+    },
+    {
+      "level": 454,
+      "mainsubject": "Language & Communication",
+      "question": "Fiber optic cables transmit data using:",
+      "options": ["Electrical signals", "Radio waves", "Light pulses", "Magnetic fields"],
+      "correctAnswer": 3,
+      "explanation": "Fiber optic cables transmit data using light pulses through glass or plastic fibers. This technology provides high bandwidth, immunity to electromagnetic interference, and transmission speeds hundreds of times faster than coaxial cables.",
+      "difficulty": "Easy",
+      "hint": "Think about light-based transmission"
+    },
+    {
+      "level": 455,
+      "mainsubject": "Language & Communication",
+      "question": "Which network topology provides the highest reliability?",
+      "options": ["Bus", "Star", "Ring", "Mesh"],
+      "correctAnswer": 4,
+      "explanation": "Mesh topology provides the highest reliability because every node has dedicated point-to-point links to every other node. If one connection fails, data can still reach its destination through alternative paths.",
+      "difficulty": "Hard",
+      "hint": "Think about multiple connection paths"
+    },
+    {
+      "level": 456,
+      "mainsubject": "Language & Communication",
+      "question": "HTTP operates at which OSI layer?",
+      "options": ["Physical layer", "Network layer", "Transport layer", "Application layer"],
+      "correctAnswer": 4,
+      "explanation": "HTTP (HyperText Transfer Protocol) operates at the Application layer (Layer 7) of the OSI model. It defines how web browsers and servers communicate to transfer web pages and other resources over the internet.",
+      "difficulty": "Hard",
+      "hint": "Think about the highest layer of network communication"
+    },
+    {
+      "level": 457,
+      "mainsubject": "Language & Communication",
+      "question": "A URL must contain:",
+      "options": ["Only domain name", "Only protocol", "Protocol and domain name", "Only file path"],
+      "correctAnswer": 3,
+      "explanation": "A URL (Uniform Resource Locator) must contain at least a protocol identifier (like http://) and the unique registered domain name to properly identify and locate resources on the internet.",
+      "difficulty": "Medium",
+      "hint": "Think about minimum components for web addresses"
+    },
+    {
+      "level": 458,
+      "mainsubject": "Language & Communication",
+      "question": "Email attachments are a common source of:",
+      "options": ["Faster internet", "Computer viruses", "Better graphics", "Increased storage"],
+      "correctAnswer": 2,
+      "explanation": "Email attachments are one of the most common sources of computer viruses. Malicious files can be disguised as legitimate attachments, especially from unknown senders, making it crucial to scan attachments before opening.",
+      "difficulty": "Medium",
+      "hint": "Think about security risks in email"
+    },
+    {
+      "level": 459,
+      "mainsubject": "Language & Communication",
+      "question": "A Trojan horse virus:",
+      "options": ["Replicates itself", "Does not replicate itself", "Only affects hardware", "Only affects networks"],
+      "correctAnswer": 2,
+      "explanation": "A Trojan horse virus does not replicate itself, unlike other viruses. It disguises itself as legitimate software while secretly performing malicious activities, often creating backdoors for unauthorized access to computer systems.",
+      "difficulty": "Hard",
+      "hint": "Think about disguised malicious software"
+    },
+    {
+      "level": 460,
+      "mainsubject": "Language & Communication",
+      "question": "Digital signature provides:",
+      "options": ["Data compression", "Data encryption", "Authentication and integrity", "Data backup"],
+      "correctAnswer": 3,
+      "explanation": "Digital signature provides authentication (verifying sender identity) and integrity (ensuring data hasn't been altered) for electronic documents. It uses cryptographic techniques to create a unique digital fingerprint for verification.",
+      "difficulty": "Hard",
+      "hint": "Think about verifying document authenticity"
+    },
+    {
+      "level": 461,
+      "mainsubject": "Language & Communication",
+      "question": "Software piracy refers to:",
+      "options": ["Legal software distribution", "Unauthorized copying and distribution of software", "Software development", "Software testing"],
+      "correctAnswer": 2,
+      "explanation": "Software piracy refers to the unauthorized copying and distribution of copyrighted software without proper licensing. This illegal activity violates intellectual property rights and can result in legal consequences and security risks.",
+      "difficulty": "Medium",
+      "hint": "Think about illegal software distribution"
+    },
+    {
+      "level": 462,
+      "mainsubject": "Language & Communication",
+      "question": "GPS stands for:",
+      "options": ["Global Positioning System", "General Positioning System", "Global Processing System", "General Processing System"],
+      "correctAnswer": 1,
+      "explanation": "GPS stands for Global Positioning System. It's a global navigation satellite system that provides location, velocity, and time synchronization services worldwide, commonly found in cars, smartphones, and watches.",
+      "difficulty": "Easy",
+      "hint": "Think about satellite navigation technology"
+    },
+    {
+      "level": 463,
+      "mainsubject": "Language & Communication",
+      "question": "The first computer virus was:",
+      "options": ["ILOVEYOU", "Melissa", "Creeper", "MyDoom"],
+      "correctAnswer": 3,
+      "explanation": "Creeper was considered the first computer virus, created in the early 1970s as an experimental self-replicating program. It infected DEC PDP-10 computers running the TENEX operating system and displayed the message 'I'm the creeper, catch me if you can!'",
+      "difficulty": "Hard",
+      "hint": "Think about early experimental malicious programs"
+    },
+    {
+      "level": 464,
+      "mainsubject": "Language & Communication",
+      "question": "5G technology offers speeds up to:",
+      "options": ["1-2 Gbps", "5-10 Gbps", "15-20 Gbps", "25-30 Gbps"],
+      "correctAnswer": 3,
+      "explanation": "5G technology offers ultra-fast speeds of approximately 15-20 Gbps with extremely low latency (under 1ms). This enables applications like autonomous vehicles, real-time remote surgery, and massive IoT device connectivity.",
+      "difficulty": "Medium",
+      "hint": "Think about next-generation mobile network speeds"
+    },
+    {
+      "level": 465,
+      "mainsubject": "Language & Communication",
+      "question": "Quantum computers use:",
+      "options": ["Classical bits", "Quantum bits (qubits)", "Analog signals", "Light waves"],
+      "correctAnswer": 2,
+      "explanation": "Quantum computers use quantum bits (qubits) that can exist in superposition states, representing both 0 and 1 simultaneously. This quantum parallelism enables processing vast amounts of information exponentially faster than classical computers.",
+      "difficulty": "Hard",
+      "hint": "Think about quantum mechanical computing principles"
+    },
+    {
+      "level": 466,
+      "mainsubject": "Language & Communication",
+      "question": "Which payment interface was launched by NPCI?",
+      "options": ["PayPal", "UPI", "Visa", "Mastercard"],
+      "correctAnswer": 2,
+      "explanation": "UPI (Unified Payment Interface) was launched by NPCI (National Payments Corporation of India). It enables instant money transfers between bank accounts through mobile platforms, revolutionizing digital payments in India.",
+      "difficulty": "Medium",
+      "hint": "Think about Indian digital payment systems"
+    },
+    {
+      "level": 467,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is NOT a function of a computer?",
+      "options": ["Input", "Processing", "Output", "Calculation"],
+      "correctAnswer": 4,
+      "explanation": "The basic functions of a computer are input, processing, output, and storage. Calculation is a part of processing, not a separate function.[cite: Page 3]",
+      "difficulty": "Easy",
+      "hint": "Think of the core functions defined in the introduction."
+    },
+    {
+      "level": 468,
+      "mainsubject": "Language & Communication",
+      "question": "What is the main feature of a computer that allows it to perform millions of instructions per second?",
+      "options": ["Accuracy", "Speed", "Storage Capacity", "Versatility"],
+      "correctAnswer": 2,
+      "explanation": "Speed refers to the computer's ability to process data very quickly, often measured in millions of instructions per second (MIPS).[cite: Page 3]",
+      "difficulty": "Easy",
+      "hint": "This feature is about how fast it can operate."
+    },
+    {
+      "level": 469,
+      "mainsubject": "Language & Communication",
+      "question": "Who invented the Analytical Engine, considered the first general-purpose computer?",
+      "options": ["Charles Babbage", "Blaise Pascal", "Joseph Marie Jacquard", "Herman Hollerith"],
+      "correctAnswer": 1,
+      "explanation": "Charles Babbage invented the Analytical Engine in 1837, which was the first general-purpose computer design.[cite: Page 4]",
+      "difficulty": "Medium",
+      "hint": "He is known as the 'father of the computer'."
+    },
+    {
+      "level": 470,
+      "mainsubject": "Language & Communication",
+      "question": "Which generation of computers used vacuum tubes as switching devices?",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correctAnswer": 1,
+      "explanation": "The first generation (1940-1956) used vacuum tubes for processing and were large, heat-generating machines.[cite: Page 5]",
+      "difficulty": "Easy",
+      "hint": "This generation included ENIAC and UNIVAC."
+    },
+    {
+      "level": 471,
+      "mainsubject": "Language & Communication",
+      "question": "What type of computer is designed to fit into the palm of your hand?",
+      "options": ["Microcomputer", "Minicomputer", "Mainframe", "Supercomputer"],
+      "correctAnswer": 1,
+      "explanation": "Microcomputers include handheld or palmtop computers, which are small enough to fit in the palm and are portable.[cite: Page 6]",
+      "difficulty": "Easy",
+      "hint": "Think of small, portable devices like PDAs."
+    },
+    {
+      "level": 472,
+      "mainsubject": "Language & Communication",
+      "question": "Which component of the CPU is responsible for performing arithmetic and logical operations?",
+      "options": ["Control Unit", "Arithmetic Logic Unit", "Registers", "Cache"],
+      "correctAnswer": 2,
+      "explanation": "The Arithmetic Logic Unit (ALU) handles all arithmetic calculations and logical comparisons in the CPU.[cite: Page 8]",
+      "difficulty": "Easy",
+      "hint": "It's where math and logic happen."
+    },
+    {
+      "level": 473,
+      "mainsubject": "Language & Communication",
+      "question": "What is the purpose of the control unit in the CPU?",
+      "options": ["To perform calculations", "To store data", "To coordinate operations", "To manage memory"],
+      "correctAnswer": 3,
+      "explanation": "The control unit directs the operation of the processor by generating control signals that coordinate other components.[cite: Page 8]",
+      "difficulty": "Medium",
+      "hint": "It acts as the manager of the CPU."
+    },
+    {
+      "level": 474,
+      "mainsubject": "Language & Communication",
+      "question": "Which bus carries memory addresses from the CPU to memory?",
+      "options": ["Data bus", "Address bus", "Control bus", "System bus"],
+      "correctAnswer": 2,
+      "explanation": "The address bus is used to specify memory addresses for reading or writing data.[cite: Page 9]",
+      "difficulty": "Medium",
+      "hint": "It deals with locations in memory."
+    },
+    {
+      "level": 475,
+      "mainsubject": "Language & Communication",
+      "question": "What is the first step in the instruction cycle?",
+      "options": ["Decode", "Execute", "Fetch", "Store"],
+      "correctAnswer": 3,
+      "explanation": "The instruction cycle begins with fetching the instruction from memory before decoding and executing it.[cite: Page 9]",
+      "difficulty": "Medium",
+      "hint": "It's about getting the instruction."
+    },
+    {
+      "level": 476,
+      "mainsubject": "Language & Communication",
+      "question": "Which input device is used to read printed barcodes?",
+      "options": ["OMR", "OCR", "Barcode Reader", "MICR"],
+      "correctAnswer": 3,
+      "explanation": "A barcode reader scans and interprets barcodes, which are patterns of dark and light stripes, commonly used in retail.[cite: Page 16]",
+      "difficulty": "Easy",
+      "hint": "Used in supermarkets for pricing."
+    },
+    {
+      "level": 477,
+      "mainsubject": "Language & Communication",
+      "question": "What does OMR stand for?",
+      "options": ["Optical Mark Reader", "Optical Memory Recognition", "Optical Magnetic Reader", "Optical Mode Recognition"],
+      "correctAnswer": 1,
+      "explanation": "OMR stands for Optical Mark Reader, which detects marks on paper, such as in multiple-choice answer sheets.[cite: Page 17]",
+      "difficulty": "Medium",
+      "hint": "Used for detecting filled bubbles on forms."
+    },
+    {
+      "level": 478,
+      "mainsubject": "Language & Communication",
+      "question": "Which printer type uses a laser beam to create an image on a photosensitive drum?",
+      "options": ["Inkjet Printer", "Dot Matrix Printer", "Laser Printer", "Thermal Printer"],
+      "correctAnswer": 3,
+      "explanation": "Laser printers use a laser beam to transfer toner onto paper via a photosensitive drum, producing high-quality output.[cite: Page 19]",
+      "difficulty": "Medium",
+      "hint": "Common in offices for fast, high-quality printing."
+    },
+    {
+      "level": 479,
+      "mainsubject": "Language & Communication",
+      "question": "What is the primary function of a plotter?",
+      "options": ["Printing text documents", "Producing large drawings", "Scanning images", "Playing audio"],
+      "correctAnswer": 2,
+      "explanation": "Plotters are used to produce large-scale drawings, such as architectural blueprints and engineering designs, using pens.[cite: Page 20]",
+      "difficulty": "Easy",
+      "hint": "Used for precise graphical output."
+    },
+    {
+      "level": 480,
+      "mainsubject": "Language & Communication",
+      "question": "Which type of memory is volatile and loses data when power is turned off?",
+      "options": ["ROM", "RAM", "PROM", "EEPROM"],
+      "correctAnswer": 2,
+      "explanation": "RAM (Random Access Memory) is volatile memory used for temporary storage during processing and requires power to maintain data.[cite: Page 27]",
+      "difficulty": "Easy",
+      "hint": "It's where running programs are stored."
+    },
+    {
+      "level": 481,
+      "mainsubject": "Language & Communication",
+      "question": "What is the smallest unit of data in a computer?",
+      "options": ["Byte", "Bit", "Nibble", "Word"],
+      "correctAnswer": 2,
+      "explanation": "A bit (binary digit) is the smallest unit, representing a 0 or 1, and is the foundation of digital data.[cite: Page 34]",
+      "difficulty": "Easy",
+      "hint": "It's a single binary value."
+    },
+    {
+      "level": 482,
+      "mainsubject": "Language & Communication",
+      "question": "How many bits are in a byte?",
+      "options": ["4", "8", "16", "32"],
+      "correctAnswer": 2,
+      "explanation": "A byte consists of 8 bits and is the standard unit for representing a single character of text.[cite: Page 34]",
+      "difficulty": "Easy",
+      "hint": "Commonly used in data measurement."
+    },
+    {
+      "level": 483,
+      "mainsubject": "Language & Communication",
+      "question": "Which memory type is typically used as cache memory?",
+      "options": ["DRAM", "SRAM", "ROM", "PROM"],
+      "correctAnswer": 2,
+      "explanation": "SRAM (Static RAM) is faster and more expensive than DRAM, making it suitable for cache memory due to its high speed.[cite: Page 27]",
+      "difficulty": "Medium",
+      "hint": "It's faster but more costly than DRAM."
+    },
+    {
+      "level": 484,
+      "mainsubject": "Language & Communication",
+      "question": "What is the binary equivalent of the decimal number 10?",
+      "options": ["1010", "1001", "1100", "1110"],
+      "correctAnswer": 1,
+      "explanation": "Decimal 10 is converted to binary as 1010, calculated by dividing by 2 and noting remainders: 10/2=5 rem 0, 5/2=2 rem 1, 2/2=1 rem 0, 1/2=0 rem 1, reading remainders from bottom to top.[cite: Page 38]",
+      "difficulty": "Medium",
+      "hint": "Use the division-by-2 method."
+    },
+    {
+      "level": 485,
+      "mainsubject": "Language & Communication",
+      "question": "Which number system uses base 16?",
+      "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+      "correctAnswer": 4,
+      "explanation": "Hexadecimal is a base-16 system that uses digits 0-9 and letters A-F to represent values, often used in computing for compact representation.[cite: Page 37]",
+      "difficulty": "Easy",
+      "hint": "It includes letters after 9."
+    },
+    {
+      "level": 486,
+      "mainsubject": "Language & Communication",
+      "question": "What is the purpose of a logic gate?",
+      "options": ["To store data", "To perform arithmetic operations", "To implement logical operations", "To manage memory"],
+      "correctAnswer": 3,
+      "explanation": "Logic gates are fundamental building blocks of digital circuits that perform basic logical functions like AND, OR, and NOT.[cite: Page 40]",
+      "difficulty": "Medium",
+      "hint": "They process binary inputs to produce outputs."
+    },
+    {
+      "level": 487,
+      "mainsubject": "Language & Communication",
+      "question": "Which logic gate outputs true only if all inputs are true?",
+      "options": ["OR gate", "AND gate", "NOT gate", "XOR gate"],
+      "correctAnswer": 2,
+      "explanation": "The AND gate returns true (1) only when all its inputs are true; otherwise, it returns false (0).[cite: Page 41]",
+      "difficulty": "Easy",
+      "hint": "It requires all conditions to be met."
+    },
+    {
+      "level": 488,
+      "mainsubject": "Language & Communication",
+      "question": "What is the main purpose of system software?",
+      "options": ["To perform specific tasks for users", "To manage hardware resources", "To create documents", "To play games"],
+      "correctAnswer": 2,
+      "explanation": "System software, like operating systems and device drivers, controls and manages hardware resources to provide a platform for application software.[cite: Page 46]",
+      "difficulty": "Easy",
+      "hint": "It operates the computer system."
+    },
+    {
+      "level": 489,
+      "mainsubject": "Language & Communication",
+      "question": "Which of the following is an example of application software?",
+      "options": ["Operating System", "Device Driver", "Microsoft Word", "Compiler"],
+      "correctAnswer": 3,
+      "explanation": "Microsoft Word is application software designed for word processing, helping users perform specific tasks.[cite: Page 47]",
+      "difficulty": "Easy",
+      "hint": "It's used for creating documents."
+    },
+    {
+      "level": 490,
+      "mainsubject": "Language & Communication",
+      "question": "What does BIOS stand for?",
+      "options": ["Basic Input/Output System", "Basic Internal Operating System", "Binary Input/Output System", "Basic Integrated Operating System"],
+      "correctAnswer": 1,
+      "explanation": "BIOS stands for Basic Input/Output System, which is firmware used to initialize hardware during the boot process.[cite: Page 46]",
+      "difficulty": "Easy",
+      "hint": "It's the first software to run when a computer starts."
+    },
+    {
+      "level": 491,
+      "mainsubject": "Language & Communication",
+      "question": "Which language translator converts high-level language to machine language line by line?",
+      "options": ["Assembler", "Compiler", "Interpreter", "Linker"],
+      "correctAnswer": 3,
+      "explanation": "An interpreter translates and executes high-level language programs line by line, stopping at errors immediately.[cite: Page 47]",
+      "difficulty": "Medium",
+      "hint": "It works sequentially and is good for debugging."
+    },
+    {
+      "level": 492,
+      "mainsubject": "Language & Communication",
+      "question": "What is the primary function of an operating system?",
+      "options": ["To run applications", "To manage computer resources", "To create software", "To design hardware"],
+      "correctAnswer": 2,
+      "explanation": "The operating system manages hardware resources like CPU, memory, and storage, and provides services for applications.[cite: Page 55]",
+      "difficulty": "Easy",
+      "hint": "It acts as an intermediary between users and hardware."
+    },
+    {
+      "level": 493,
+      "mainsubject": "Language & Communication",
+      "question": "Which type of operating system allows multiple users to access a computer simultaneously?",
+      "options": ["Single-user", "Multi-user", "Real-time", "Batch processing"],
+      "correctAnswer": 2,
+      "explanation": "Multi-user operating systems, like Unix or Linux, enable multiple users to access and use the system at the same time.[cite: Page 60]",
+      "difficulty": "Easy",
+      "hint": "Common in servers and mainframes."
+    },
+    {
+      "level": 494,
+      "mainsubject": "Language & Communication",
+      "question": "What is the process of starting a computer called?",
+      "options": ["Booting", "Loading", "Initializing", "Launching"],
+      "correctAnswer": 1,
+      "explanation": "Booting is the process of starting a computer, which involves loading the operating system into memory.[cite: Page 60]",
+      "difficulty": "Easy",
+      "hint": "It comes from the phrase 'pulling oneself up by one's bootstraps'."
+    },
+    {
+      "level": 495,
+      "mainsubject": "Language & Communication",
+      "question": "Which command in MS-DOS is used to display the contents of a directory?",
+      "options": ["CD", "DIR", "COPY", "DEL"],
+      "correctAnswer": 2,
+      "explanation": "The DIR command in MS-DOS lists the files and subdirectories in the current directory.[cite: Page 62]",
+      "difficulty": "Easy",
+      "hint": "It shows what's in the folder."
+    },
+    {
+      "level": 496,
+      "mainsubject": "Language & Communication",
+      "question": "What is the purpose of the Windows Registry?",
+      "options": ["To store hardware configurations", "To manage user passwords", "To store system and application settings", "To control network connections"],
+      "correctAnswer": 3,
+      "explanation": "The Windows Registry is a database that stores low-level settings for the operating system and installed applications.[cite: General Knowledge]",
+      "difficulty": "Medium",
+      "hint": "It contains settings and options."
+    },
+    {
+      "level": 497,
+      "mainsubject": "Language & Communication",
+      "question": "Which programming language was developed by Dennis Ritchie?",
+      "options": ["Java", "C", "Python", "COBOL"],
+      "correctAnswer": 2,
+      "explanation": "Dennis Ritchie developed the C programming language at Bell Labs in the early 1970s.[cite: Page 65]",
+      "difficulty": "Medium",
+      "hint": "It's a foundational language for system programming."
+    },
+    {
+      "level": 498,
+      "mainsubject": "Language & Communication",
+      "question": "What is the main characteristic of object-oriented programming?",
+      "options": ["Procedural execution", "Use of functions", "Encapsulation and inheritance", "Low-level access"],
+      "correctAnswer": 3,
+      "explanation": "Object-oriented programming (OOP) focuses on objects containing data and methods, with features like encapsulation, inheritance, and polymorphism.[cite: Page 65]",
+      "difficulty": "Medium",
+      "hint": "It involves classes and objects."
+    },
+    {
+      "level": 499,
+      "mainsubject": "Language & Communication",
+      "question": "Which generation of programming languages uses visual tools for development?",
+      "options": ["1GL", "2GL", "3GL", "5GL"],
+      "correctAnswer": 4,
+      "explanation": "Fifth-generation languages (5GL) use visual tools and are designed for artificial intelligence and natural language processing.[cite: Page 66]",
+      "difficulty": "Hard",
+      "hint": "They are high-level and often involve GUI."
+    },
+    {
+      "level": 500,
+      "mainsubject": "Language & Communication",
+      "question": "What is an algorithm?",
+      "options": ["A programming language", "A step-by-step procedure to solve a problem", "A type of hardware", "A data structure"],
+      "correctAnswer": 2,
+      "explanation": "An algorithm is a finite set of instructions that, if followed, accomplishes a particular task or solves a problem.[cite: Page 66]",
+      "difficulty": "Easy",
+      "hint": "It's like a recipe for solving problems."
+    },
+    {
+      "level": 501,
+      "mainsubject": "Language & Communication",
+      "question": "Which version of Windows introduced the Start menu?",
+      "options": ["Windows 3.1", "Windows 95", "Windows XP", "Windows 7"],
+      "correctAnswer": 2,
+      "explanation": "Windows 95 was the first version to introduce the Start menu, which became a key feature of the Windows interface.[cite: Page 71]",
+      "difficulty": "Medium",
+      "hint": "It was a major release in the mid-90s."
+    },
+    {
+      "level": 502,
+      "mainsubject": "Language & Communication",
+      "question": "What is the function of the Recycle Bin in Windows?",
+      "options": ["To store temporary files", "To hold deleted files for recovery", "To compress files", "To organize files"],
+      "correctAnswer": 2,
+      "explanation": "The Recycle Bin stores deleted files and folders, allowing users to restore them if needed before permanent deletion.[cite: Page 73]",
+      "difficulty": "Easy",
+      "hint": "It's a safety net for deletions."
+    },
+    {
+      "level": 503,
+      "mainsubject": "Language & Communication",
+      "question": "Which shortcut key is used to open the Run dialog box in Windows?",
+      "options": ["Ctrl + R", "Win + R", "Alt + R", "Shift + R"],
+      "correctAnswer": 2,
+      "explanation": "Pressing the Windows key + R opens the Run dialog box, which allows users to quickly launch programs and commands.[cite: Page 76]",
+      "difficulty": "Easy",
+      "hint": "It involves the Windows key."
+    },
+    {
+      "level": 504,
+      "mainsubject": "Language & Communication",
+      "question": "What is the default file extension for Microsoft Excel workbooks?",
+      "options": [".xls", ".xlsx", ".docx", ".ppt"],
+      "correctAnswer": 2,
+      "explanation": "Microsoft Excel workbooks typically use the .xlsx extension for files created in versions 2007 and later.[cite: Page 85]",
+      "difficulty": "Easy",
+      "hint": "It starts with 'x' for Excel."
+    },
+    {
+      "level": 505,
+      "mainsubject": "Language & Communication",
+      "question": "Which Microsoft Office application is used for creating presentations?",
+      "options": ["Word", "Excel", "PowerPoint", "Access"],
+      "correctAnswer": 3,
+      "explanation": "Microsoft PowerPoint is designed for creating slide-based presentations with text, images, and animations.[cite: Page 47]",
+      "difficulty": "Easy",
+      "hint": "It involves slides and shows."
+    },
+    {
+      "level": 506,
+      "mainsubject": "Language & Communication",
+      "question": "What does the SUM function in Excel do?",
+      "options": ["Finds the average", "Counts cells", "Adds values", "Multiplies values"],
+      "correctAnswer": 3,
+      "explanation": "The SUM function adds all the numbers in a range of cells and returns the total.[cite: Page 86]",
+      "difficulty": "Easy",
+      "hint": "It's a basic arithmetic function."
+    },
+    {
+      "level": 507,
+      "mainsubject": "Language & Communication",
+      "question": "What does URL stand for?",
+      "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Reference Locator", "Universal Reference Link"],
+      "correctAnswer": 1,
+      "explanation": "URL stands for Uniform Resource Locator, which is the address used to access resources on the internet.[cite: Page 125]",
+      "difficulty": "Easy",
+      "hint": "It's what you type in a web browser."
+    },
+    {
+      "level": 508,
+      "mainsubject": "Language & Communication",
+      "question": "Which protocol is used for secure communication over the internet?",
+      "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+      "correctAnswer": 3,
+      "explanation": "HTTPS (Hypertext Transfer Protocol Secure) encrypts data for secure communication between web browsers and servers.[cite: Page 125]",
+      "difficulty": "Medium",
+      "hint": "It has an 'S' for secure."
+    },
+    {
+      "level": 509,
+      "mainsubject": "Language & Communication",
+      "question": "What is the primary purpose of a web browser?",
+      "options": ["To create websites", "To access and view web pages", "To send emails", "To manage files"],
+      "correctAnswer": 2,
+      "explanation": "A web browser is software used to retrieve, present, and traverse information resources on the World Wide Web.[cite: Page 125]",
+      "difficulty": "Easy",
+      "hint": "Examples include"
+    },
+    {
+"level": 510,
+"mainsubject": "Language & Communication",
+"question": "Which of the following is a correct sentence formation in English?",
+"options": ["She go to school every day.", "She goes to school every day.", "She going to school every day.", "She gone to school every day."],
+"correctAnswer": 2,
+"explanation": "The correct sentence uses the third-person singular present tense 'goes' for the subject 'she'.[cite: Page 1]",
+"difficulty": "Easy",
+"hint": "Focus on subject-verb agreement in present tense."
+},
+{
+"level": 511,
+"mainsubject": "Language & Communication",
+"question": "What is the Kannada equivalent of the English word 'house'?",
+"options": ["ಮನೆ (Mane)", "ಸ್ಕೂಲ್ (School)", "ಪುಸ್ತಕ (Pustaka)", "ಬೆಂಕಿ (Benki)"],
+"correctAnswer": 1,
+"explanation": "ಮನೆ (Mane) means 'house' in Kannada, a basic vocabulary term for daily use in administrative contexts.[cite: Page 2]",
+"difficulty": "Easy",
+"hint": "Think of a common dwelling term."
+},
+{
+"level": 512,
+"mainsubject": "Language & Communication",
+"question": "Choose the synonym for 'happy' from the options below.",
+"options": ["Sad", "Joyful", "Angry", "Tired"],
+"correctAnswer": 2,
+"explanation": "Joyful is a direct synonym for happy, denoting a state of pleasure or contentment.[cite: Page 3]",
+"difficulty": "Easy",
+"hint": "Look for a word meaning positive emotion."
+},
+{
+"level": 513,
+"mainsubject": "Language & Communication",
+"question": "What does the idiom 'break a leg' mean?",
+"options": ["To injure someone", "Good luck", "To run away", "To argue fiercely"],
+"correctAnswer": 2,
+"explanation": "Break a leg is an idiom used to wish someone good luck, especially before a performance.[cite: Page 4]",
+"difficulty": "Medium",
+"hint": "It's a theatrical expression for success."
+},
+{
+"level": 514,
+"mainsubject": "Language & Communication",
+"question": "Form a sentence using the vocabulary word 'meticulous'.",
+"options": ["He is a meticulous worker.", "She meticulous the room.", "Meticulous is happy.", "The meticulous runs fast."],
+"correctAnswer": 1,
+"explanation": "Meticulous means showing great attention to detail; the sentence correctly uses it as an adjective.[cite: Page 5]",
+"difficulty": "Easy",
+"hint": "Use it to describe careful attention."
+},
+{
+"level": 515,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'ancient' is:",
+"options": ["Old", "Modern", "Historic", "Aged"],
+"correctAnswer": 2,
+"explanation": "Modern is the opposite of ancient, referring to something contemporary rather than from the distant past.[cite: Page 6]",
+"difficulty": "Easy",
+"hint": "Opposite of very old."
+},
+{
+"level": 516,
+"mainsubject": "Language & Communication",
+"question": "In Kannada, what is the proverb equivalent to 'Actions speak louder than words'?",
+"options": ["ಕೆಲಸವೇ ಮಾತಿಗಿಂತ ದೊಡ್ಡದು (Kelasa ve matiginta doddadu)", "ಪುಸ್ತಕ ಓದಿ ಬುದ್ಧಿ ಬರು (Pustaka odi buddhi baru)", "ಹಣವಿಲ್ಲದೆ ದುಡ್ಡು ಇಲ್ಲ (Hanavillade duddu illa)", "ಮಳೆ ಬಂದರೆ ಮಳೆಯೇ (Male bandare maleye)"],
+"correctAnswer": 1,
+"explanation": "ಕೆಲಸವೇ ಮಾತಿಗಿಂತ ದೊಡ್ಡದು translates to 'Work is greater than words', emphasizing deeds over talk.[cite: Page 7]",
+"difficulty": "Medium",
+"hint": "Proverb stressing deeds over speech."
+},
+{
+"level": 517,
+"mainsubject": "Language & Communication",
+"question": "Identify the correct sentence structure: Subject-Verb-Object.",
+"options": ["The cat chased the mouse.", "Chased the cat mouse the.", "Mouse the chased cat the.", "The chased cat mouse."],
+"correctAnswer": 1,
+"explanation": "English follows SVO order: The cat (S) chased (V) the mouse (O).[cite: Page 8]",
+"difficulty": "Easy",
+"hint": "Standard English word order."
+},
+{
+"level": 518,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'abundant' in English:",
+"options": ["Scarce", "Plentiful", "Limited", "Rare"],
+"correctAnswer": 2,
+"explanation": "Plentiful means existing in large quantities, synonymous with abundant.[cite: Page 9]",
+"difficulty": "Easy",
+"hint": "Word for plenty or excess."
+},
+{
+"level": 519,
+"mainsubject": "Language & Communication",
+"question": "What is the meaning of the proverb 'Every cloud has a silver lining'?",
+"options": ["Storms are dangerous", "Bad situations have positive aspects", "Clouds predict rain", "Silver is valuable"],
+"correctAnswer": 2,
+"explanation": "This proverb means that even in difficult times, there is something good to be found.[cite: Page 10]",
+"difficulty": "Medium",
+"hint": "Hope in adversity."
+},
+{
+"level": 520,
+"mainsubject": "Language & Communication",
+"question": "Kannada word for 'education' is:",
+"options": ["ಶಿಕ್ಷಣ (Shikshana)", "ಆಹಾರ (Aahara)", "ಪಾನೀ (Paani)", "ವಾಹನ (Vaahana)"],
+"correctAnswer": 1,
+"explanation": "ಶಿಕ್ಷಣ (Shikshana) is the Kannada term for education, key in official documents.[cite: Page 11]",
+"difficulty": "Easy",
+"hint": "Term for learning or schooling."
+},
+{
+"level": 521,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'generous' is:",
+"options": ["Kind", "Selfish", "Giving", "Helpful"],
+"correctAnswer": 2,
+"explanation": "Selfish is the opposite of generous, implying unwillingness to share.[cite: Page 12]",
+"difficulty": "Easy",
+"hint": "Opposite of willing to give."
+},
+{
+"level": 522,
+"mainsubject": "Language & Communication",
+"question": "Form a vocabulary-rich sentence with 'eloquent'.",
+"options": ["He spoke eloquently about the issue.", "Eloquent is a color.", "She eloquent the book.", "The eloquent flies high."],
+"correctAnswer": 1,
+"explanation": "Eloquent means fluent or persuasive in speaking; used as an adverb here.[cite: Page 13]",
+"difficulty": "Medium",
+"hint": "Describes persuasive speech."
+},
+{
+"level": 523,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'hit the nail on the head' means:",
+"options": ["To hammer incorrectly", "To describe exactly", "To avoid a problem", "To start a fight"],
+"correctAnswer": 2,
+"explanation": "It means to identify something precisely or correctly.[cite: Page 14]",
+"difficulty": "Medium",
+"hint": "Perfect accuracy."
+},
+{
+"level": 524,
+"mainsubject": "Language & Communication",
+"question": "Correct sentence: 'Neither the teacher nor the students _____ happy.'",
+"options": ["is", "are", "was", "were"],
+"correctAnswer": 2,
+"explanation": "With 'neither...nor', the verb agrees with the nearer subject (students, plural).[cite: Page 15]",
+"difficulty": "Medium",
+"hint": "Verb agreement with plural noun."
+},
+{
+"level": 525,
+"mainsubject": "Language & Communication",
+"question": "Kannada synonym for 'beautiful' (ಸುಂದರ - Sundara) is:",
+"options": ["ಕಣ್ಣು (Kannu)", "ಮನೋಹರ (Manohara)", "ಬೇರು (Beru)", "ಪತ್ರ (Patra)"],
+"correctAnswer": 2,
+"explanation": "ಮನೋಹರ (Manohara) means charming or beautiful in Kannada.[cite: Page 16]",
+"difficulty": "Easy",
+"hint": "Word for attractive."
+},
+{
+"level": 526,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Don't count your chickens before they hatch' means:",
+"options": ["Eat eggs quickly", "Don't plan prematurely", "Buy more chickens", "Hatch eggs yourself"],
+"correctAnswer": 2,
+"explanation": "It advises against assuming success before it happens.[cite: Page 17]",
+"difficulty": "Easy",
+"hint": "Caution in expectations."
+},
+{
+"level": 527,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Benevolent' means:",
+"options": ["Kind-hearted", "Evil", "Lazy", "Greedy"],
+"correctAnswer": 1,
+"explanation": "Benevolent refers to well-meaning and kindly, often in a generous way.[cite: Page 18]",
+"difficulty": "Easy",
+"hint": "Well-wishing."
+},
+{
+"level": 528,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'transient' is:",
+"options": ["Temporary", "Permanent", "Brief", "Short"],
+"correctAnswer": 2,
+"explanation": "Permanent is the opposite of transient, which means lasting only a short time.[cite: Page 19]",
+"difficulty": "Medium",
+"hint": "Lasting vs. passing."
+},
+{
+"level": 529,
+"mainsubject": "Language & Communication",
+"question": "In Kannada grammar, the equivalent of English passive voice is:",
+"options": ["ಕ್ರಿಯಾಪದ (Kri yapada)", "ಪೀಠ್ಯ ಕ್ರಿಯೆ (Peethya kriye)", "ಸಕ್ರಿಯ ಕ್ರಿಯೆ (Sakriya kriye)", "ಭಾವಾರ್ಥ (Bhavartha)"],
+"correctAnswer": 2,
+"explanation": "ಪೀಠ್ಯ ಕ್ರಿಯೆ (Peethya kriye) is the Kannada term for passive voice, where the subject receives the action.[cite: Page 20]",
+"difficulty": "Medium",
+"hint": "Voice where action is done to the subject."
+},
+{
+"level": 530,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'burn the midnight oil' refers to:",
+"options": ["Waste energy", "Work late into the night", "Start a fire", "Save money"],
+"correctAnswer": 2,
+"explanation": "It means to work or study hard late at night.[cite: Page 21]",
+"difficulty": "Medium",
+"hint": "Late-night effort."
+},
+{
+"level": 531,
+"mainsubject": "Language & Communication",
+"question": "Sentence formation: Rearrange to 'The book was read by the student.'",
+"options": ["Student the book read.", "By the student read was the book.", "The student read the book.", "Read the book by student the."],
+"correctAnswer": 3,
+"explanation": "The active voice sentence 'The student read the book' is the base form before converting to passive.[cite: Page 22]",
+"difficulty": "Easy",
+"hint": "Active voice structure."
+},
+{
+"level": 532,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'diligent' in official contexts:",
+"options": ["Lazy", "Hardworking", "Careless", "Idle"],
+"correctAnswer": 2,
+"explanation": "Diligent means careful and hardworking, useful in administrative reports.[cite: Page 23]",
+"difficulty": "Easy",
+"hint": "Persistent effort."
+},
+{
+"level": 533,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'Unity is strength':",
+"options": ["ಒಂದು ಹাতಕ್ಕೆ ತಟ್ಟು (Ondhu hatakke thattu)", "ಒಗ್ಗಟ್ಟಿನ ಬಲ (Oggattina bala)", "ಮರದಲ್ಲಿ ಹಣ್ಣು (Maradalli hannah)", "ನೀರಿನಲ್ಲಿ ಬೆಂಕಿ (Neerinalli benki)"],
+"correctAnswer": 2,
+"explanation": "ಒಗ್ಗಟ್ಟಿನ ಬಲ means 'strength in unity', emphasizing collective power.[cite: Page 24]",
+"difficulty": "Medium",
+"hint": "Proverb on togetherness."
+},
+{
+"level": 534,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'procrastinate' is:",
+"options": ["Delay", "Expedite", "Postpone", "Hesitate"],
+"correctAnswer": 2,
+"explanation": "Expedite means to speed up, opposite of procrastinate (to delay).[cite: Page 25]",
+"difficulty": "Medium",
+"hint": "To hurry or speed up."
+},
+{
+"level": 535,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Ubiquitous' means:",
+"options": ["Rare", "Present everywhere", "Hidden", "Unique"],
+"correctAnswer": 2,
+"explanation": "Ubiquitous describes something found everywhere or widespread.[cite: Page 26]",
+"difficulty": "Medium",
+"hint": "Omnipresent."
+},
+{
+"level": 536,
+"mainsubject": "Language & Communication",
+"question": "Correct formation: 'If it rains, we _____ the picnic.'",
+"options": ["cancel", "cancels", "canceling", "canceled"],
+"correctAnswer": 1,
+"explanation": "In conditional sentences, the main clause uses present tense 'cancel' for future possibility.[cite: Page 27]",
+"difficulty": "Easy",
+"hint": "First conditional structure."
+},
+{
+"level": 537,
+"mainsubject": "Language & Communication",
+"question": "Kannada antonym for 'ಬಿಡುಗಡೆ (Bidugade - Release)' is:",
+"options": ["ಬಂಧನ (Bandhana)", "ಮುಕ್ತಿ (Mukti)", "ಸ್ವಾತಂತ್ರ್ಯ (Swatantrya)", "ಆದೇಶ (Aadesh)"],
+"correctAnswer": 1,
+"explanation": "ಬಂಧನ (Bandhana) means bondage or imprisonment, opposite of release.[cite: Page 28]",
+"difficulty": "Medium",
+"hint": "Opposite of freedom."
+},
+{
+"level": 538,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'spill the beans' means:",
+"options": ["Cook food", "Reveal a secret", "Waste resources", "Start a business"],
+"correctAnswer": 2,
+"explanation": "It means to disclose confidential information.[cite: Page 29]",
+"difficulty": "Easy",
+"hint": "To let out information."
+},
+{
+"level": 539,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'meticulous' is:",
+"options": ["Careless", "Precise", "Rough", "Hasty"],
+"correctAnswer": 2,
+"explanation": "Precise means exact and careful, similar to meticulous.[cite: Page 30]",
+"difficulty": "Easy",
+"hint": "Attention to detail."
+},
+{
+"level": 540,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'A stitch in time saves nine' implies:",
+"options": ["Sewing is easy", "Early action prevents bigger problems", "Time is money", "Nine is lucky"],
+"correctAnswer": 2,
+"explanation": "It means addressing issues promptly to avoid larger complications.[cite: Page 31]",
+"difficulty": "Easy",
+"hint": "Timely repair."
+},
+{
+"level": 541,
+"mainsubject": "Language & Communication",
+"question": "In English grammar, a clause with its own subject and verb but dependent on main clause is:",
+"options": ["Independent clause", "Dependent clause", "Noun phrase", "Adjective"],
+"correctAnswer": 2,
+"explanation": "Dependent clauses cannot stand alone and rely on the main clause for meaning.[cite: Page 32]",
+"difficulty": "Medium",
+"hint": "Cannot form a complete sentence alone."
+},
+{
+"level": 542,
+"mainsubject": "Language & Communication",
+"question": "Kannada vocabulary for 'government' is:",
+"options": ["ಸರ್ಕಾರ (Sarkara)", "ಪುಸ್ತಕ (Pustaka)", "ಹಣ (Hana)", "ಬೀಜ (Beja)"],
+"correctAnswer": 1,
+"explanation": "ಸರ್ಕಾರ (Sarkara) is the standard Kannada term for government in official usage.[cite: Page 33]",
+"difficulty": "Easy",
+"hint": "Administrative authority."
+},
+{
+"level": 543,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'exuberant' is:",
+"options": ["Energetic", "Depressed", "Lively", "Cheerful"],
+"correctAnswer": 2,
+"explanation": "Depressed means low in spirits, opposite of exuberant (full of energy).[cite: Page 34]",
+"difficulty": "Medium",
+"hint": "Low energy vs. high."
+},
+{
+"level": 544,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'kick the bucket' means:",
+"options": ["Play football", "Die", "Start running", "Throw away"],
+"correctAnswer": 2,
+"explanation": "It's a euphemism for dying.[cite: Page 35]",
+"difficulty": "Hard",
+"hint": "Euphemism for death."
+},
+{
+"level": 545,
+"mainsubject": "Language & Communication",
+"question": "Sentence: 'The committee _____ its decision.' (has/have)",
+"options": ["has", "have", "having", "had"],
+"correctAnswer": 1,
+"explanation": "Collective nouns like 'committee' take singular verb 'has' in formal English.[cite: Page 36]",
+"difficulty": "Medium",
+"hint": "Singular for groups in formal writing."
+},
+{
+"level": 546,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'resilient' is:",
+"options": ["Fragile", "Adaptable", "Weak", "Brittle"],
+"correctAnswer": 2,
+"explanation": "Resilient means able to recover quickly, synonymous with adaptable.[cite: Page 37]",
+"difficulty": "Easy",
+"hint": "Bouncing back."
+},
+{
+"level": 547,
+"mainsubject": "Language & Communication",
+"question": "Kannada idiom for 'raining cats and dogs':",
+"options": ["ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಮುಂಡೆ (Pettigeyalli munde)", "ಹಾಲು ಮಳೆ (Haalu male)", "ಗಾಳಿ ಬೀಸುತ್ತಾ ಮಳೆ (Gaali beesutta male)", "ಕಟ್ಟಿಗೆ ಮಳೆ (Kattige male)"],
+"correctAnswer": 3,
+"explanation": "ಗಾಳಿ ಬೀಸುತ್ತಾ ಮಳೆ means heavy rain with wind, akin to pouring rain.[cite: Page 38]",
+"difficulty": "Medium",
+"hint": "Heavy downpour description."
+},
+{
+"level": 548,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary building: 'Pernicious' means:",
+"options": ["Helpful", "Harmful", "Beneficial", "Neutral"],
+"correctAnswer": 2,
+"explanation": "Pernicious means having a harmful effect, especially in a gradual way.[cite: Page 39]",
+"difficulty": "Hard",
+"hint": "Gradually destructive."
+},
+{
+"level": 549,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'obscure' is:",
+"options": ["Hidden", "Clear", "Vague", "Mysterious"],
+"correctAnswer": 2,
+"explanation": "Clear is the opposite of obscure, meaning not hidden or unclear.[cite: Page 40]",
+"difficulty": "Easy",
+"hint": "Easy to understand."
+},
+{
+"level": 550,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Rome was not built in a day' teaches:",
+"options": ["Travel to Italy", "Patience and persistence", "Hurry in construction", "Ancient history"],
+"correctAnswer": 2,
+"explanation": "It means great things take time and effort.[cite: Page 41]",
+"difficulty": "Easy",
+"hint": "Time for big achievements."
+},
+{
+"level": 551,
+"mainsubject": "Language & Communication",
+"question": "In Kannada sentence formation, the structure for questions is:",
+"options": ["Subject-Object-Verb", "Verb-Subject-Object", "Question word at end", "Question word at beginning"],
+"correctAnswer": 4,
+"explanation": "Kannada questions often start with question words like ಯಾವುದು (Yavudu - which).[cite: Page 42]",
+"difficulty": "Medium",
+"hint": "Interrogative words first."
+},
+{
+"level": 552,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'prudent' is:",
+"options": ["Reckless", "Cautious", "Bold", "Impulsive"],
+"correctAnswer": 2,
+"explanation": "Prudent means acting with care and thought for the future.[cite: Page 43]",
+"difficulty": "Easy",
+"hint": "Wise and careful."
+},
+{
+"level": 553,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'piece of cake' means:",
+"options": ["Dessert item", "Something easy", "Difficult task", "Share food"],
+"correctAnswer": 2,
+"explanation": "It describes a task that is very easy to do.[cite: Page 44]",
+"difficulty": "Easy",
+"hint": "Simple achievement."
+},
+{
+"level": 554,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'affluent' is:",
+"options": ["Rich", "Wealthy", "Poor", "Prosperous"],
+"correctAnswer": 3,
+"explanation": "Poor is the opposite of affluent, meaning having little money.[cite: Page 45]",
+"difficulty": "Easy",
+"hint": "Lack of wealth."
+},
+{
+"level": 555,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Ebullient' means:",
+"options": ["Calm", "Enthusiastic", "Quiet", "Reserved"],
+"correctAnswer": 2,
+"explanation": "Ebullient describes someone cheerful and full of energy.[cite: Page 46]",
+"difficulty": "Medium",
+"hint": "Bubbly personality."
+},
+{
+"level": 556,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'honesty is the best policy':",
+"options": ["ಸತ್ಯವೇ ಸತ್ಯ (Satyave satya)", "ನಿಜವಾದ ಸತ್ಯ (Nijavada satya)", "ಸತ್ಯಕ್ಕೆ ಬೆಲೆ (Satyakke bele)", "ಒಳ್ಳೆಯದು ಸತ್ಯ (Ollayadhu satya)"],
+"correctAnswer": 2,
+"explanation": "ನಿಜವಾದ ಸತ್ಯ emphasizes truthfulness as the superior choice.[cite: Page 47]",
+"difficulty": "Medium",
+"hint": "Value of truth."
+},
+{
+"level": 557,
+"mainsubject": "Language & Communication",
+"question": "Correct sentence: 'The news _____ surprising.'",
+"options": ["is", "are", "were", "have"],
+"correctAnswer": 1,
+"explanation": "Uncountable nouns like 'news' take singular verb 'is'.[cite: Page 48]",
+"difficulty": "Easy",
+"hint": "Singular for abstract nouns."
+},
+{
+"level": 558,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'tenacious' is:",
+"options": ["Weak", "Persistent", "Yielding", "Fragile"],
+"correctAnswer": 2,
+"explanation": "Tenacious means holding firmly, synonymous with persistent.[cite: Page 49]",
+"difficulty": "Easy",
+"hint": "Not giving up."
+},
+{
+"level": 559,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'under the weather' means:",
+"options": ["Sunny day", "Feeling ill", "Good mood", "Traveling"],
+"correctAnswer": 2,
+"explanation": "It means not feeling well or slightly ill.[cite: Page 50]",
+"difficulty": "Medium",
+"hint": "Mild sickness."
+},
+{
+"level": 560,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'verbose' is:",
+"options": ["Wordy", "Concise", "Talkative", "Long-winded"],
+"correctAnswer": 2,
+"explanation": "Concise means brief and to the point, opposite of verbose (using too many words).[cite: Page 51]",
+"difficulty": "Medium",
+"hint": "Brief vs. wordy."
+},
+{
+"level": 561,
+"mainsubject": "Language & Communication",
+"question": "Form a sentence with 'ambiguous':",
+"options": ["The message was ambiguous.", "Ambiguous is a fruit.", "She ambiguous the letter.", "The ambiguous sings well."],
+"correctAnswer": 1,
+"explanation": "Ambiguous means open to more than one interpretation.[cite: Page 52]",
+"difficulty": "Easy",
+"hint": "Unclear meaning."
+},
+{
+"level": 562,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'responsibility' is:",
+"options": ["ದಾಯಿತ್ವ (Dayitva)", "ಸುಖ (Sukha)", "ದುಃಖ (Dukha)", "ಆನಂದ (Ananda)"],
+"correctAnswer": 1,
+"explanation": "ದಾಯಿತ್ವ (Dayitva) means duty or responsibility in administrative language.[cite: Page 53]",
+"difficulty": "Easy",
+"hint": "Duty or obligation."
+},
+{
+"level": 563,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Barking dogs seldom bite' means:",
+"options": ["Dogs are dangerous", "Threats are often empty", "Quiet dogs attack", "Bite first"],
+"correctAnswer": 2,
+"explanation": "It suggests that those who make threats are less likely to act on them.[cite: Page 54]",
+"difficulty": "Easy",
+"hint": "Idle threats."
+},
+{
+"level": 564,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'candid' is:",
+"options": ["Deceptive", "Honest", "Secretive", "Guarded"],
+"correctAnswer": 2,
+"explanation": "Candid means truthful and straightforward.[cite: Page 55]",
+"difficulty": "Easy",
+"hint": "Open and sincere."
+},
+{
+"level": 565,
+"mainsubject": "Language & Communication",
+"question": "Grammar: Passive voice of 'They built the bridge.'",
+"options": ["The bridge was built by them.", "They were built the bridge.", "Built the bridge they.", "The bridge built them."],
+"correctAnswer": 1,
+"explanation": "Passive: Object becomes subject, with 'by' for agent.[cite: Page 56]",
+"difficulty": "Medium",
+"hint": "Change active to passive."
+},
+{
+"level": 566,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'complacent' is:",
+"options": ["Satisfied", "Ambitious", "Content", "Smug"],
+"correctAnswer": 2,
+"explanation": "Ambitious means driven to improve, opposite of complacent (self-satisfied).[cite: Page 57]",
+"difficulty": "Medium",
+"hint": "Driven vs. self-satisfied."
+},
+{
+"level": 567,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'let the cat out of the bag' means:",
+"options": ["Buy a pet", "Reveal a secret", "Hide something", "Start a fight"],
+"correctAnswer": 2,
+"explanation": "It means to accidentally disclose a secret.[cite: Page 58]",
+"difficulty": "Easy",
+"hint": "Accidental revelation."
+},
+{
+"level": 568,
+"mainsubject": "Language & Communication",
+"question": "Kannada synonym for 'important' (ಮುಖ್ಯ - Mukhya):",
+"options": ["ತಪ್ಪು (Tappu)", "ಗುರುತರ (Gurutara)", "ಸಾಮಾನ್ಯ (Samanya)", "ಚಿಕ್ಕ (Chikka)"],
+"correctAnswer": 2,
+"explanation": "ಗುರುತರ (Gurutara) means significant or crucial.[cite: Page 59]",
+"difficulty": "Easy",
+"hint": "Crucial or vital."
+},
+{
+"level": 569,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Mitigate' means:",
+"options": ["Worsen", "Lessen", "Increase", "Ignore"],
+"correctAnswer": 2,
+"explanation": "Mitigate means to make milder or less severe.[cite: Page 60]",
+"difficulty": "Medium",
+"hint": "To reduce severity."
+},
+{
+"level": 570,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'The early bird catches the worm' encourages:",
+"options": ["Sleep late", "Punctuality and early action", "Avoid birds", "Eat worms"],
+"correctAnswer": 2,
+"explanation": "It promotes being early to gain advantages.[cite: Page 61]",
+"difficulty": "Easy",
+"hint": "Benefits of timeliness."
+},
+{
+"level": 571,
+"mainsubject": "Language & Communication",
+"question": "Sentence formation error in: 'He don't like coffee.'",
+"options": ["He doesn't like coffee.", "He do not like coffee.", "He liking coffee.", "He not like coffee."],
+"correctAnswer": 1,
+"explanation": "Third-person singular requires 'doesn't' for negation.[cite: Page 62]",
+"difficulty": "Easy",
+"hint": "Negative contraction."
+},
+{
+"level": 572,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'zealous' is:",
+"options": ["Enthusiastic", "Apathetic", "Passionate", "Eager"],
+"correctAnswer": 2,
+"explanation": "Apathetic means lacking interest, opposite of zealous (fervent).[cite: Page 63]",
+"difficulty": "Medium",
+"hint": "Lack of enthusiasm."
+},
+{
+"level": 573,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'bite the bullet' means:",
+"options": ["Eat quickly", "Face a difficult situation bravely", "Avoid pain", "Complain"],
+"correctAnswer": 2,
+"explanation": "It means to endure a painful situation with courage.[cite: Page 64]",
+"difficulty": "Medium",
+"hint": "Brave endurance."
+},
+{
+"level": 574,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'vibrant' is:",
+"options": ["Dull", "Energetic", "Faded", "Quiet"],
+"correctAnswer": 2,
+"explanation": "Vibrant means full of energy and life.[cite: Page 65]",
+"difficulty": "Easy",
+"hint": "Full of life."
+},
+{
+"level": 575,
+"mainsubject": "Language & Communication",
+"question": "Kannada grammar: Adjective placement is:",
+"options": ["After noun", "Before noun", "At end of sentence", "Before verb"],
+"correctAnswer": 2,
+"explanation": "In Kannada, adjectives typically precede the noun they describe.[cite: Page 66]",
+"difficulty": "Medium",
+"hint": "Like English, before the noun."
+},
+{
+"level": 576,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'When in Rome, do as the Romans do' advises:",
+"options": ["Travel alone", "Adapt to local customs", "Ignore traditions", "Stay home"],
+"correctAnswer": 2,
+"explanation": "It means to follow the customs of the place you visit.[cite: Page 67]",
+"difficulty": "Easy",
+"hint": "Follow local ways."
+},
+{
+"level": 577,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Quell' means:",
+"options": ["Start", "Suppress", "Encourage", "Ignore"],
+"correctAnswer": 2,
+"explanation": "Quell means to put an end to, usually by force.[cite: Page 68]",
+"difficulty": "Medium",
+"hint": "To suppress or end."
+},
+{
+"level": 578,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'frugal' is:",
+"options": ["Thrifty", "Extravagant", "Economical", "Sparing"],
+"correctAnswer": 2,
+"explanation": "Extravagant means spending too much, opposite of frugal (thrifty).[cite: Page 69]",
+"difficulty": "Easy",
+"hint": "Wasteful spending."
+},
+{
+"level": 579,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'cost an arm and a leg' means:",
+"options": ["Cheap", "Very expensive", "Free", "Valuable"],
+"correctAnswer": 2,
+"explanation": "It describes something extremely costly.[cite: Page 70]",
+"difficulty": "Easy",
+"hint": "High price."
+},
+{
+"level": 580,
+"mainsubject": "Language & Communication",
+"question": "Correct formation: 'She _____ to the market yesterday.'",
+"options": ["go", "goes", "went", "going"],
+"correctAnswer": 3,
+"explanation": "Past tense 'went' for completed action.[cite: Page 71]",
+"difficulty": "Easy",
+"hint": "Past simple tense."
+},
+{
+"level": 581,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'decision' in official terms:",
+"options": ["ಸಿನಿಮಾ (Cinema)", "ಸಂಪುಟ (Samputa)", "ನಿರ್ಧಾರ (Nirdhaara)", "ಪತ್ರ (Patra)"],
+"correctAnswer": 3,
+"explanation": "ನಿರ್ಧಾರ (Nirdhaara) means decision or determination.[cite: Page 72]",
+"difficulty": "Easy",
+"hint": "Choice or judgment."
+},
+{
+"level": 582,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'metaphor' in literary vocabulary:",
+"options": ["Literal", "Figure of speech", "Fact", "Prose"],
+"correctAnswer": 2,
+"explanation": "A metaphor is a figure of speech comparing unlike things.[cite: Page 73]",
+"difficulty": "Medium",
+"hint": "Non-literal comparison."
+},
+{
+"level": 583,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Birds of a feather flock together' means:",
+"options": ["Birds fly alone", "Similar people associate", "Diversity is key", "Avoid groups"],
+"correctAnswer": 2,
+"explanation": "It suggests people with similar interests group together.[cite: Page 74]",
+"difficulty": "Easy",
+"hint": "Like attracts like."
+},
+{
+"level": 584,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'innovative' is:",
+"options": ["Creative", "Conventional", "Original", "Novel"],
+"correctAnswer": 2,
+"explanation": "Conventional means traditional, opposite of innovative (new ideas).[cite: Page 75]",
+"difficulty": "Easy",
+"hint": "Traditional vs. new."
+},
+{
+"level": 585,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'on the ball' means:",
+"options": ["Playing sports", "Alert and competent", "Lazy", "Confused"],
+"correctAnswer": 2,
+"explanation": "It means being attentive and efficient.[cite: Page 76]",
+"difficulty": "Medium",
+"hint": "Sharp and aware."
+},
+{
+"level": 586,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Ostentatious' means:",
+"options": ["Modest", "Showy", "Simple", "Humble"],
+"correctAnswer": 2,
+"explanation": "Ostentatious describes pretentious display to impress.[cite: Page 77]",
+"difficulty": "Medium",
+"hint": "Flashy display."
+},
+{
+"level": 587,
+"mainsubject": "Language & Communication",
+"question": "Kannada sentence: 'ನಾನು ಬುಕ್ ಓದುತ್ತೇನೆ' translates to:",
+"options": ["I read book.", "I am reading a book.", "Book reads me.", "I book read."],
+"correctAnswer": 2,
+"explanation": "It means 'I am reading a book' in present continuous tense.[cite: Page 78]",
+"difficulty": "Easy",
+"hint": "Present ongoing action."
+},
+{
+"level": 588,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'serene' is:",
+"options": ["Calm", "Agitated", "Stormy", "Noisy"],
+"correctAnswer": 1,
+"explanation": "Serene means peaceful and untroubled.[cite: Page 79]",
+"difficulty": "Easy",
+"hint": "Peaceful state."
+},
+{
+"level": 589,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'ephemeral' is:",
+"options": ["Temporary", "Eternal", "Fleeting", "Short-lived"],
+"correctAnswer": 2,
+"explanation": "Eternal means lasting forever, opposite of ephemeral (short-lived).[cite: Page 80]",
+"difficulty": "Hard",
+"hint": "Everlasting."
+},
+{
+"level": 590,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'All that glitters is not gold' warns against:",
+"options": ["Shiny objects", "Judging by appearances", "Gold mining", "Honesty"],
+"correctAnswer": 2,
+"explanation": "It means not everything attractive is valuable.[cite: Page 81]",
+"difficulty": "Easy",
+"hint": "Deceptive looks."
+},
+{
+"level": 591,
+"mainsubject": "Language & Communication",
+"question": "Grammar: 'Each of the boys _____ a gift.'",
+"options": ["have", "has", "having", "had"],
+"correctAnswer": 2,
+"explanation": "'Each' takes singular verb 'has'.[cite: Page 82]",
+"difficulty": "Medium",
+"hint": "Singular quantifier."
+},
+{
+"level": 592,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'agreement' (deal):",
+"options": ["ಒಪ್ಪಂದ (Oppanda)", "ಯುದ್ಧ (Yuddha)", "ಹಾಡು (Haadu)", "ನೃತ್ಯ (Nritya)"],
+"correctAnswer": 1,
+"explanation": "ಒಪ್ಪಂದ (Oppanda) means contract or agreement in official terms.[cite: Page 83]",
+"difficulty": "Easy",
+"hint": "Contract or pact."
+},
+{
+"level": 593,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'miss the boat' means:",
+"options": ["Travel by sea", "Lose an opportunity", "Catch fish", "Sail away"],
+"correctAnswer": 2,
+"explanation": "It means to fail to take advantage of an opportunity.[cite: Page 84]",
+"difficulty": "Medium",
+"hint": "Missed chance."
+},
+{
+"level": 594,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'audacious' is:",
+"options": ["Timid", "Bold", "Cowardly", "Shy"],
+"correctAnswer": 2,
+"explanation": "Audacious means daring or bold.[cite: Page 85]",
+"difficulty": "Easy",
+"hint": "Daring action."
+},
+{
+"level": 595,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Laconic' means:",
+"options": ["Verbose", "Concise", "Detailed", "Expansive"],
+"correctAnswer": 2,
+"explanation": "Laconic means using few words.[cite: Page 86]",
+"difficulty": "Medium",
+"hint": "Brief speech."
+},
+{
+"level": 596,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'malevolent' is:",
+"options": ["Evil", "Benevolent", "Harmful", "Wicked"],
+"correctAnswer": 2,
+"explanation": "Benevolent means kind, opposite of malevolent (wishing harm).[cite: Page 87]",
+"difficulty": "Easy",
+"hint": "Kind vs. evil."
+},
+{
+"level": 597,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Make hay while the sun shines' suggests:",
+"options": ["Avoid sun", "Take advantage of opportunities", "Farm only at night", "Waste time"],
+"correctAnswer": 2,
+"explanation": "It means to act when conditions are favorable.[cite: Page 88]",
+"difficulty": "Easy",
+"hint": "Seize the moment."
+},
+{
+"level": 598,
+"mainsubject": "Language & Communication",
+"question": "Kannada idiom for 'apple of one's eye':",
+"options": ["ಕಣ್ಣಿನ ಮುಟ್ಟು (Kannina muttu)", "ತಲೆಯ ಮೇಲೆ (Tale mele)", "ಹೃದಯದ ರತ್ನ (Hridayada ratna)", "ಪಾದದ ತಳ (Paadada tala)"],
+"correctAnswer": 3,
+"explanation": "ಹೃದಯದ ರತ್ನ means cherished or most valued.[cite: Page 89]",
+"difficulty": "Medium",
+"hint": "Most precious."
+},
+{
+"level": 599,
+"mainsubject": "Language & Communication",
+"question": "Sentence: 'The team _____ winning the match.' (is/are)",
+"options": ["is", "are", "were", "have"],
+"correctAnswer": 1,
+"explanation": "Collective 'team' takes singular 'is' when acting as a unit.[cite: Page 90]",
+"difficulty": "Medium",
+"hint": "Unit vs. individuals."
+},
+{
+"level": 600,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'perseverance' is:",
+"options": ["Quit", "Persistence", "Surrender", "Give up"],
+"correctAnswer": 2,
+"explanation": "Perseverance means continued effort to achieve something.[cite: Page 91]",
+"difficulty": "Easy",
+"hint": "Steadfast effort."
+},
+{
+"level": 601,
+"mainsubject": "Language & Communication",
+"question": "What is the main idea of the passage: 'Education is the most powerful weapon which you can use to change the world.' (Nelson Mandela quote)?",
+"options": ["Education is dangerous", "Education changes society", "Weapons are needed", "World is unchanging"],
+"correctAnswer": 2,
+"explanation": "The passage emphasizes education's transformative power on society.[cite: Page 92]",
+"difficulty": "Easy",
+"hint": "Central theme of quote."
+},
+{
+"level": 602,
+"mainsubject": "Language & Communication",
+"question": "Precis of: 'The government launched a scheme to provide free education to underprivileged children, aiming to reduce dropout rates.' (Limit to 15 words)",
+"options": ["Government scheme for free education to reduce dropouts.", "Free education launched by government for children.", "Underprivileged children get free education scheme.", "Dropout rates reduced by free scheme."],
+"correctAnswer": 1,
+"explanation": "A precis summarizes key points concisely while retaining meaning.[cite: Page 93]",
+"difficulty": "Medium",
+"hint": "Condense to essentials."
+},
+{
+"level": 603,
+"mainsubject": "Language & Communication",
+"question": "In a reading comprehension, infer the meaning of 'ubiquitous' from context: 'Smartphones are ubiquitous in modern life.'",
+"options": ["Rare", "Everywhere", "Expensive", "Old"],
+"correctAnswer": 2,
+"explanation": "Context shows smartphones are common everywhere in daily life.[cite: Page 94]",
+"difficulty": "Easy",
+"hint": "From sentence clue."
+},
+{
+"level": 604,
+"mainsubject": "Language & Communication",
+"question": "Write a precis for a 100-word report on climate change impacts.",
+"options": ["Summarize in 20 words.", "Copy the report.", "Expand to 200 words.", "Ignore key facts."],
+"correctAnswer": 1,
+"explanation": "Precis writing reduces length to 1/5th while keeping core ideas.[cite: Page 95]",
+"difficulty": "Medium",
+"hint": "Short summary."
+},
+{
+"level": 605,
+"mainsubject": "Language & Communication",
+"question": "Comprehension question: What is the tone of 'The policy will drastically alter the economy for the better.'?",
+"options": ["Pessimistic", "Optimistic", "Neutral", "Sarcastic"],
+"correctAnswer": 2,
+"explanation": "Words like 'drastically' and 'better' indicate positive expectation.[cite: Page 96]",
+"difficulty": "Medium",
+"hint": "Author's attitude."
+},
+{
+"level": 606,
+"mainsubject": "Language & Communication",
+"question": "For report writing, the structure starts with:",
+"options": ["Conclusion", "Introduction", "References", "Appendix"],
+"correctAnswer": 2,
+"explanation": "Reports begin with an introduction outlining purpose and scope.[cite: Page 97]",
+"difficulty": "Easy",
+"hint": "Opening section."
+},
+{
+"level": 607,
+"mainsubject": "Language & Communication",
+"question": "Precis technique: Eliminate:",
+"options": ["Main idea", "Examples", "Repetitions", "Conclusion"],
+"correctAnswer": 3,
+"explanation": "Remove redundancies to condense without losing essence.[cite: Page 98]",
+"difficulty": "Easy",
+"hint": "Avoid duplicates."
+},
+{
+"level": 608,
+"mainsubject": "Language & Communication",
+"question": "In essay writing, thesis statement is placed in:",
+"options": ["Conclusion", "Body paragraphs", "Introduction", "References"],
+"correctAnswer": 3,
+"explanation": "It states the main argument early to guide the essay.[cite: Page 99]",
+"difficulty": "Easy",
+"hint": "Opening argument."
+},
+{
+"level": 609,
+"mainsubject": "Language & Communication",
+"question": "Reading: Author's purpose in 'This law protects citizens from exploitation.'",
+"options": ["Entertain", "Inform about benefits", "Persuade against", "Describe history"],
+"correctAnswer": 2,
+"explanation": "The sentence informs on the law's positive impact.[cite: Page 100]",
+"difficulty": "Medium",
+"hint": "Why written."
+},
+{
+"level": 610,
+"mainsubject": "Language & Communication",
+"question": "Report writing: Use _____ language.",
+"options": ["Casual", "Formal and objective", "Poetic", "Emotional"],
+"correctAnswer": 2,
+"explanation": "Reports require neutral, factual tone for credibility.[cite: Page 101]",
+"difficulty": "Easy",
+"hint": "Professional style."
+},
+{
+"level": 611,
+"mainsubject": "Language & Communication",
+"question": "Precis of news: 'Floods displaced 5000 families; relief efforts underway.' (10 words)",
+"options": ["Floods displace 5000; relief starts.", "5000 families displaced by floods.", "Relief for flood victims begins.", "Floods and relief efforts."],
+"correctAnswer": 2,
+"explanation": "Captures cause and scale concisely.[cite: Page 102]",
+"difficulty": "Medium",
+"hint": "Key facts only."
+},
+{
+"level": 612,
+"mainsubject": "Language & Communication",
+"question": "Comprehension: Synonym in passage 'The valiant soldier fought bravely.' for 'valiant':",
+"options": ["Cowardly", "Brave", "Weak", "Fearful"],
+"correctAnswer": 2,
+"explanation": "Context shows 'valiant' means courageous.[cite: Page 103]",
+"difficulty": "Easy",
+"hint": "From passage words."
+},
+{
+"level": 613,
+"mainsubject": "Language & Communication",
+"question": "Essay structure: Body paragraphs develop:",
+"options": ["Topic only", "Supporting arguments", "Irrelevant ideas", "Conclusion early"],
+"correctAnswer": 2,
+"explanation": "Each paragraph supports the thesis with evidence.[cite: Page 104]",
+"difficulty": "Easy",
+"hint": "Evidence and examples."
+},
+{
+"level": 614,
+"mainsubject": "Language & Communication",
+"question": "In report, headings help with:",
+"options": ["Decoration", "Organization", "Length", "Humor"],
+"correctAnswer": 2,
+"explanation": "Headings structure content for easy navigation.[cite: Page 105]",
+"difficulty": "Easy",
+"hint": "Clarity in sections."
+},
+{
+"level": 615,
+"mainsubject": "Language & Communication",
+"question": "Precis rule: Maintain _____ tone.",
+"options": ["Original author's", "Your own", "Exaggerated", "Simplified"],
+"correctAnswer": 1,
+"explanation": "Retain the source's viewpoint and style.[cite: Page 106]",
+"difficulty": "Medium",
+"hint": "Author's voice."
+},
+{
+"level": 616,
+"mainsubject": "Language & Communication",
+"question": "Reading: Infer from 'The economy boomed post-reform.'",
+"options": ["Decline", "Rapid growth", "Stability", "Recession"],
+"correctAnswer": 2,
+"explanation": "'Boomed' implies significant positive expansion.[cite: Page 107]",
+"difficulty": "Easy",
+"hint": "Word meaning inference."
+},
+{
+"level": 617,
+"mainsubject": "Language & Communication",
+"question": "Essay conclusion should:",
+"options": ["Introduce new ideas", "Restate thesis and summarize", "List references only", "End abruptly"],
+"correctAnswer": 2,
+"explanation": "It reinforces main points without new info.[cite: Page 108]",
+"difficulty": "Easy",
+"hint": "Wrap up key ideas."
+},
+{
+"level": 618,
+"mainsubject": "Language & Communication",
+"question": "Report: Include _____ for credibility.",
+"options": ["Opinions only", "Data and sources", "Stories", "Jokes"],
+"correctAnswer": 2,
+"explanation": "Facts, figures, and citations support claims.[cite: Page 109]",
+"difficulty": "Medium",
+"hint": "Evidence-based."
+},
+{
+"level": 619,
+"mainsubject": "Language & Communication",
+"question": "Comprehension: Antonym in 'The serene lake contrasted the stormy sky.' for 'serene':",
+"options": ["Calm", "Peaceful", "Stormy", "Quiet"],
+"correctAnswer": 3,
+"explanation": "Stormy is opposite of serene in the contrast.[cite: Page 110]",
+"difficulty": "Medium",
+"hint": "From contrasting words."
+},
+{
+"level": 620,
+"mainsubject": "Language & Communication",
+"question": "Precis length for 200-word text:",
+"options": ["200 words", "40 words", "500 words", "100 words"],
+"correctAnswer": 2,
+"explanation": "Standard ratio is 1:5 for summarization.[cite: Page 111]",
+"difficulty": "Easy",
+"hint": "One-fifth rule."
+},
+{
+"level": 621,
+"mainsubject": "Language & Communication",
+"question": "In essay, transitions connect:",
+"options": ["Only paragraphs", "Ideas smoothly", "References", "Headings"],
+"correctAnswer": 2,
+"explanation": "Words like 'however' ensure logical flow.[cite: Page 112]",
+"difficulty": "Easy",
+"hint": "Smooth linkage."
+},
+{
+"level": 622,
+"mainsubject": "Language & Communication",
+"question": "Report writing: Avoid _____ language.",
+"options": ["Formal", "Jargon-heavy", "Clear", "Concise"],
+"correctAnswer": 2,
+"explanation": "Use simple terms for accessibility.[cite: Page 113]",
+"difficulty": "Medium",
+"hint": "Plain English."
+},
+{
+"level": 623,
+"mainsubject": "Language & Communication",
+"question": "Reading: Purpose of 'This initiative will empower women.'",
+"options": ["Discourage", "Highlight benefits", "Criticize", "Describe failure"],
+"correctAnswer": 2,
+"explanation": "Positive language shows empowerment focus.[cite: Page 114]",
+"difficulty": "Easy",
+"hint": "Positive intent."
+},
+{
+"level": 624,
+"mainsubject": "Language & Communication",
+"question": "Precis: Paraphrase to avoid:",
+"options": ["Original meaning", "Plagiarism", "Length", "Clarity"],
+"correctAnswer": 2,
+"explanation": "Rephrase in own words while keeping sense.[cite: Page 115]",
+"difficulty": "Medium",
+"hint": "Own wording."
+},
+{
+"level": 625,
+"mainsubject": "Language & Communication",
+"question": "Essay: Use examples to:",
+"options": ["Confuse reader", "Illustrate points", "Fill space", "Repeat ideas"],
+"correctAnswer": 2,
+"explanation": "Examples make arguments concrete and persuasive.[cite: Page 116]",
+"difficulty": "Easy",
+"hint": "Support with instances."
+},
+{
+"level": 626,
+"mainsubject": "Language & Communication",
+"question": "In report, executive summary is:",
+"options": ["Detailed analysis", "Brief overview", "Long conclusion", "References"],
+"correctAnswer": 2,
+"explanation": "It summarizes key findings for quick reading.[cite: Page 117]",
+"difficulty": "Easy",
+"hint": "Snapshot of report."
+},
+{
+"level": 627,
+"mainsubject": "Language & Communication",
+"question": "Comprehension: Inference from 'Despite challenges, she succeeded.'",
+"options": ["Gave up", "Overcame obstacles", "Ignored issues", "Faced no problems"],
+"correctAnswer": 2,
+"explanation": "'Despite' implies triumph over difficulties.[cite: Page 118]",
+"difficulty": "Medium",
+"hint": "Logical conclusion."
+},
+{
+"level": 628,
+"mainsubject": "Language & Communication",
+"question": "Precis writing: Focus on:",
+"options": ["Minor details", "Main ideas", "Author's biography", "Word count only"],
+"correctAnswer": 2,
+"explanation": "Capture essence without trivia.[cite: Page 119]",
+"difficulty": "Easy",
+"hint": "Core content."
+},
+{
+"level": 629,
+"mainsubject": "Language & Communication",
+"question": "Essay on 'Environment': Start with:",
+"options": ["Statistics", "Hook like quote", "Conclusion", "References"],
+"correctAnswer": 2,
+"explanation": "Engaging opener draws reader in.[cite: Page 120]",
+"difficulty": "Easy",
+"hint": "Attention grabber."
+},
+{
+"level": 630,
+"mainsubject": "Language & Communication",
+"question": "Report: Use _____ for data.",
+"options": ["Narrative only", "Charts and tables", "Poetry", "Dialogues"],
+"correctAnswer": 2,
+"explanation": "Visuals clarify complex information.[cite: Page 121]",
+"difficulty": "Medium",
+"hint": "Visual aids."
+},
+{
+"level": 631,
+"mainsubject": "Language & Communication",
+"question": "Reading: Tone of 'Reforms are urgently needed to fix corruption.'",
+"options": ["Optimistic", "Critical", "Indifferent", "Humorous"],
+"correctAnswer": 2,
+"explanation": "'Urgently needed' shows disapproval of current state.[cite: Page 122]",
+"difficulty": "Medium",
+"hint": "Critical view."
+},
+{
+"level": 632,
+"mainsubject": "Language & Communication",
+"question": "Precis: Third-person _____ used.",
+"options": ["Always", "Perspective maintained", "First-person added", "Dialogue included"],
+"correctAnswer": 2,
+"explanation": "Keep original viewpoint.[cite: Page 123]",
+"difficulty": "Hard",
+"hint": "Original POV."
+},
+{
+"level": 633,
+"mainsubject": "Language & Communication",
+"question": "In essay, counterarguments strengthen by:",
+"options": ["Ignoring them", "Addressing and refuting", "Agreeing fully", "Omitting"],
+"correctAnswer": 2,
+"explanation": "Show balanced view and rebuttal.[cite: Page 124]",
+"difficulty": "Medium",
+"hint": "Handle opposition."
+},
+{
+"level": 634,
+"mainsubject": "Language & Communication",
+"question": "Report recommendation section:",
+"options": ["Past events", "Future actions", "Budget only", "Team list"],
+"correctAnswer": 2,
+"explanation": "Suggest solutions based on findings.[cite: Page 125]",
+"difficulty": "Easy",
+"hint": "Proposed steps."
+},
+{
+"level": 635,
+"mainsubject": "Language & Communication",
+"question": "Comprehension: Main idea of 'Technology bridges gaps in education.'",
+"options": ["Technology fails", "Tech aids learning access", "Education unnecessary", "Gaps widen"],
+"correctAnswer": 2,
+"explanation": "Focus on positive connectivity.[cite: Page 126]",
+"difficulty": "Easy",
+"hint": "Central message."
+},
+{
+"level": 636,
+"mainsubject": "Language & Communication",
+"question": "Precis: Avoid _____ opinions.",
+"options": ["Factual", "Personal", "Supported", "Neutral"],
+"correctAnswer": 2,
+"explanation": "Stick to objective summary.[cite: Page 127]",
+"difficulty": "Easy",
+"hint": "No bias."
+},
+{
+"level": 637,
+"mainsubject": "Language & Communication",
+"question": "Essay: Coherence via:",
+"options": ["Random jumps", "Logical progression", "Repetition", "Short sentences only"],
+"correctAnswer": 2,
+"explanation": "Smooth flow of ideas.[cite: Page 128]",
+"difficulty": "Medium",
+"hint": "Logical links."
+},
+{
+"level": 638,
+"mainsubject": "Language & Communication",
+"question": "Report: Methodology describes:",
+"options": ["Results", "How data collected", "Future plans", "Costs"],
+"correctAnswer": 2,
+"explanation": "Process for reproducibility.[cite: Page 129]",
+"difficulty": "Easy",
+"hint": "Research method."
+},
+{
+"level": 639,
+"mainsubject": "Language & Communication",
+"question": "Reading: Bias in 'All politicians are corrupt.'",
+"options": ["Neutral", "Generalization", "Factual", "Balanced"],
+"correctAnswer": 2,
+"explanation": "'All' indicates overgeneralization.[cite: Page 130]",
+"difficulty": "Medium",
+"hint": "Overstatement."
+},
+{
+"level": 640,
+"mainsubject": "Language & Communication",
+"question": "Precis title should be:",
+"options": ["Long", "Descriptive of content", "Irrelevant", "Question form"],
+"correctAnswer": 2,
+"explanation": "Reflects summary's focus.[cite: Page 131]",
+"difficulty": "Easy",
+"hint": "Summarizes essence."
+},
+{
+"level": 641,
+"mainsubject": "Language & Communication",
+"question": "Essay on 'Poverty': Use _____ evidence.",
+"options": ["Anecdotes only", "Statistics and examples", "Myths", "Fiction"],
+"correctAnswer": 2,
+"explanation": "Credible support for arguments.[cite: Page 132]",
+"difficulty": "Easy",
+"hint": "Data-backed."
+},
+{
+"level": 642,
+"mainsubject": "Language & Communication",
+"question": "Report appendix includes:",
+"options": ["Main text", "Supplementary data", "Title", "Abstract"],
+"correctAnswer": 2,
+"explanation": "Extra info without cluttering body.[cite: Page 133]",
+"difficulty": "Medium",
+"hint": "Additional materials."
+},
+{
+"level": 643,
+"mainsubject": "Language & Communication",
+"question": "Comprehension: Supporting detail in 'Exercise daily for health benefits.'",
+"options": ["Ignore exercise", "Daily routine", "Health risks", "Sedentary life"],
+"correctAnswer": 2,
+"explanation": "Specifies frequency as key.[cite: Page 134]",
+"difficulty": "Easy",
+"hint": "Specific advice."
+},
+{
+"level": 644,
+"mainsubject": "Language & Communication",
+"question": "Precis: Use _____ voice.",
+"options": ["Passive preferred", "Active for clarity", "Mixed", "Third-person only"],
+"correctAnswer": 2,
+"explanation": "Active voice for directness.[cite: Page 135]",
+"difficulty": "Medium",
+"hint": "Clear and direct."
+},
+{
+"level": 645,
+"mainsubject": "Language & Communication",
+"question": "In essay, avoid _____ paragraphs.",
+"options": ["Well-structured", "Overly long", "Short", "Focused"],
+"correctAnswer": 2,
+"explanation": "Keep to 4-6 sentences for readability.[cite: Page 136]",
+"difficulty": "Easy",
+"hint": "Balanced length."
+},
+{
+"level": 646,
+"mainsubject": "Language & Communication",
+"question": "Report: Abstract is _____ summary.",
+"options": ["Detailed", "Brief overview", "Conclusion", "Introduction"],
+"correctAnswer": 2,
+"explanation": "100-200 words on purpose and findings.[cite: Page 137]",
+"difficulty": "Easy",
+"hint": "Quick gist."
+},
+{
+"level": 647,
+"mainsubject": "Language & Communication",
+"question": "Reading: Vocabulary in context 'The arid desert lacked water.' for 'arid':",
+"options": ["Wet", "Dry", "Green", "Fertile"],
+"correctAnswer": 2,
+"explanation": "Context of desert implies dryness.[cite: Page 138]",
+"difficulty": "Easy",
+"hint": "Desert clue."
+},
+{
+"level": 648,
+"mainsubject": "Language & Communication",
+"question": "Precis: Objective is to:",
+"options": ["Expand text", "Condense while retaining meaning", "Criticize", "Translate"],
+"correctAnswer": 2,
+"explanation": "Shorten to essentials.[cite: Page 139]",
+"difficulty": "Easy",
+"hint": "Summarize key points."
+},
+{
+"level": 649,
+"mainsubject": "Language & Communication",
+"question": "Essay writing: Language should be:",
+"options": ["Colloquial", "Formal and precise", "Slang-filled", "Vague"],
+"correctAnswer": 2,
+"explanation": "Suitable for academic or official topics.[cite: Page 140]",
+"difficulty": "Easy",
+"hint": "Professional tone."
+},
+{
+"level": 650,
+"mainsubject": "Language & Communication",
+"question": "Report: Findings section presents:",
+"options": ["Recommendations", "Raw data analysis", "Budget", "Timeline"],
+"correctAnswer": 2,
+"explanation": "Objective results from research.[cite: Page 141]",
+"difficulty": "Medium",
+"hint": "Analysis of data."
+},
+{
+"level": 651,
+"mainsubject": "Language & Communication",
+"question": "English term for Kannada 'ಸರ್ಕಾರಿ ದಾಖಲೆ (Sarkari daakhale - Official document)':",
+"options": ["Personal letter", "Government record", "Fiction book", "Diary"],
+"correctAnswer": 2,
+"explanation": "Official & administrative terminology: Government record.[cite: Page 142]",
+"difficulty": "Easy",
+"hint": "Public admin file."
+},
+{
+"level": 652,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'formal letter' is:",
+"options": ["ಅನೌಪಚಾರಿಕ ಪತ್ರ (Anaupach arika patra)", "ಔಪಚಾರಿಕ ಪತ್ರ (Aupach arika patra)", "ಕಥೆ (Kathe)", "ಕವಿತೆ (Kavite)"],
+"correctAnswer": 2,
+"explanation": "ಔಪಚಾರಿಕ ಪತ್ರ means formal correspondence in admin contexts.[cite: Page 143]",
+"difficulty": "Easy",
+"hint": "Official communication."
+},
+{
+"level": 653,
+"mainsubject": "Language & Communication",
+"question": "In formal letter writing, salutation for unknown recipient:",
+"options": ["Dear Friend", "Dear Sir/Madam", "Hi there", "To whom it may concern"],
+"correctAnswer": 2,
+"explanation": "Dear Sir/Madam is standard for unknown officials.[cite: Page 144]",
+"difficulty": "Easy",
+"hint": "Professional greeting."
+},
+{
+"level": 654,
+"mainsubject": "Language & Communication",
+"question": "Administrative term: 'Agenda' in Kannada is:",
+"options": ["ಪಟ್ಟಿ (Patti)", "ವಿಷಯಸೂಚಿ (Vishayasoochi)", "ಸಭೆ (Sabhe)", "ಸಮಯ (Samaya)"],
+"correctAnswer": 2,
+"explanation": "ವಿಷಯಸೂಚಿ means list of topics for meeting.[cite: Page 145]",
+"difficulty": "Medium",
+"hint": "Meeting topics list."
+},
+{
+"level": 655,
+"mainsubject": "Language & Communication",
+"question": "Notice writing: Include _____ and date.",
+"options": ["Personal details", "Event title", "Irrelevant info", "Story"],
+"correctAnswer": 2,
+"explanation": "Key elements: Purpose, date, venue for clarity.[cite: Page 146]",
+"difficulty": "Easy",
+"hint": "Event essentials."
+},
+{
+"level": 656,
+"mainsubject": "Language & Communication",
+"question": "English ↔ Kannada: 'Minutes of meeting' is 'ಸಭೆಯ ದಾಖಲೆ' (Sabhey daakhale). True/False structure?",
+"options": ["True, accurate translation", "False, incorrect", "Partial", "Unrelated"],
+"correctAnswer": 1,
+"explanation": "Standard administrative term for meeting records.[cite: Page 147]",
+"difficulty": "Easy",
+"hint": "Meeting summary."
+},
+{
+"level": 657,
+"mainsubject": "Language & Communication",
+"question": "Memo format: Starts with 'To', 'From', _____ , Subject.",
+"options": ["Date", "Signature", "Body", "Attachment"],
+"correctAnswer": 1,
+"explanation": "Standard header includes recipients, sender, date, subject.[cite: Page 148]",
+"difficulty": "Easy",
+"hint": "Internal note header."
+},
+{
+"level": 658,
+"mainsubject": "Language & Communication",
+"question": "Formal letter closing: 'Yours sincerely' for:",
+"options": ["Known recipient", "Unknown", "Friend", "Family"],
+"correctAnswer": 1,
+"explanation": "Used when name is known; 'faithfully' for unknown.[cite: Page 149]",
+"difficulty": "Medium",
+"hint": "Named addressee."
+},
+{
+"level": 659,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'notification' in admin:",
+"options": ["ಅಧಿಸೂಚನೆ (Adhisoochane)", "ಪತ್ರ (Patra)", "ಬಿಲ್ (Bill)", "ಕಾನೂನು (Kanunu)"],
+"correctAnswer": 1,
+"explanation": "ಅಧಿಸೂಚನೆ means official notice or alert.[cite: Page 150]",
+"difficulty": "Easy",
+"hint": "Official alert."
+},
+{
+"level": 660,
+"mainsubject": "Language & Communication",
+"question": "Communication skill: Notice should be _____ .",
+"options": ["Vague", "Concise and clear", "Long-winded", "Humorous"],
+"correctAnswer": 2,
+"explanation": "Brief to ensure quick understanding.[cite: Page 151]",
+"difficulty": "Easy",
+"hint": "To the point."
+},
+{
+"level": 661,
+"mainsubject": "Language & Communication",
+"question": "Administrative terminology: 'Quorum' in Kannada:",
+"options": ["ಪೂರ್ಣ ಸಭೆ (Poorn sabhe)", "ಅರ್ಧ ಸಭೆ (Ardha sabhe)", "ನಿರ್ಧಾರ ಸಭೆ (Nirdhaara sabhe)", "ಕನಿಷ್ಠ ಸದಸ್ಯರು (Kanishta sadasyaru)"],
+"correctAnswer": 4,
+"explanation": "ಕನಿಷ್ಠ ಸದಸ್ಯರು means minimum members required for validity.[cite: Page 152]",
+"difficulty": "Medium",
+"hint": "Minimum attendance."
+},
+{
+"level": 662,
+"mainsubject": "Language & Communication",
+"question": "Formal letter: Body includes _____ and request.",
+"options": ["Jokes", "Introduction", "Fiction", "Ads"],
+"correctAnswer": 2,
+"explanation": "State purpose clearly after greeting.[cite: Page 153]",
+"difficulty": "Easy",
+"hint": "Main content."
+},
+{
+"level": 663,
+"mainsubject": "Language & Communication",
+"question": "Memo purpose: Internal _____ .",
+"options": ["Advertisement", "Communication", "Public notice", "Legal document"],
+"correctAnswer": 2,
+"explanation": "For quick office updates or instructions.[cite: Page 154]",
+"difficulty": "Easy",
+"hint": "Office note."
+},
+{
+"level": 664,
+"mainsubject": "Language & Communication",
+"question": "English for Kannada 'ಅರ್ಜಿ (Arji - Application)':",
+"options": ["Invitation", "Petition", "Story", "Song"],
+"correctAnswer": 2,
+"explanation": "Formal request document in admin.[cite: Page 155]",
+"difficulty": "Easy",
+"hint": "Formal request."
+},
+{
+"level": 665,
+"mainsubject": "Language & Communication",
+"question": "Notice: Signed by _____ authority.",
+"options": ["Anyone", "Competent", "Student", "Visitor"],
+"correctAnswer": 2,
+"explanation": "Authorized person for validity.[cite: Page 156]",
+"difficulty": "Medium",
+"hint": "Official signer."
+},
+{
+"level": 666,
+"mainsubject": "Language & Communication",
+"question": "Formal letter: Enclosures noted as:",
+"options": ["No need", "Enc.", "Story", "Joke"],
+"correctAnswer": 2,
+"explanation": "List attachments below signature.[cite: Page 157]",
+"difficulty": "Easy",
+"hint": "Attachments."
+},
+{
+"level": 667,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'circular' (admin notice):",
+"options": ["ಚಕ್ರ (Chakra)", "ವೃತ್ತ ಪತ್ರ (Vrutta patra)", "ಸರ್ಕ್ಯುಲರ್ (Circular)", "ಬಿಳಿ ಪತ್ರ (Bili patra)"],
+"correctAnswer": 2,
+"explanation": "ವೃತ್ತ ಪತ್ರ means circular letter for mass communication.[cite: Page 158]",
+"difficulty": "Medium",
+"hint": "Group announcement."
+},
+{
+"level": 668,
+"mainsubject": "Language & Communication",
+"question": "Communication: Memo is _____ .",
+"options": ["Public", "Internal brief", "Long report", "Email"],
+"correctAnswer": 2,
+"explanation": "Short internal message.[cite: Page 159]",
+"difficulty": "Easy",
+"hint": "Quick office note."
+},
+{
+"level": 669,
+"mainsubject": "Language & Communication",
+"question": "Administrative: 'Affidavit' in Kannada:",
+"options": ["ಶಪಥ ಪತ್ರ (Shapatha patra)", "ಸಾಧಾರಣ ಪತ್ರ (Sadharana patra)", "ಕಥೆ ಪತ್ರ (Kathe patra)", "ಗೀತೆ (Geete)"],
+"correctAnswer": 1,
+"explanation": "ಶಪಥ ಪತ್ರ is sworn statement.[cite: Page 160]",
+"difficulty": "Medium",
+"hint": "Sworn declaration."
+},
+{
+"level": 670,
+"mainsubject": "Language & Communication",
+"question": "Formal letter: Reference number placed:",
+"options": ["End", "Top right", "Body", "Signature"],
+"correctAnswer": 2,
+"explanation": "For tracking correspondence.[cite: Page 161]",
+"difficulty": "Easy",
+"hint": "Header area."
+},
+{
+"level": 671,
+"mainsubject": "Language & Communication",
+"question": "Notice: Language should be:",
+"options": ["Ambiguous", "Imperative and clear", "Narrative", "Questioning"],
+"correctAnswer": 2,
+"explanation": "Direct commands for action.[cite: Page 162]",
+"difficulty": "Medium",
+"hint": "Command style."
+},
+{
+"level": 672,
+"mainsubject": "Language & Communication",
+"question": "Kannada ↔ English: 'ಪ್ರಸ್ತುತಿ (Prasuti - Presentation)':",
+"options": ["Absence", "Delivery", "Meeting", "Report"],
+"correctAnswer": 2,
+"explanation": "Means speech or demo in admin meetings.[cite: Page 163]",
+"difficulty": "Easy",
+"hint": "Oral delivery."
+},
+{
+"level": 673,
+"mainsubject": "Language & Communication",
+"question": "Memo: CC stands for:",
+"options": ["Carbon copy", "Chief commander", "Closed circuit", "Central committee"],
+"correctAnswer": 1,
+"explanation": "For additional recipients.[cite: Page 164]",
+"difficulty": "Easy",
+"hint": "Additional readers."
+},
+{
+"level": 674,
+"mainsubject": "Language & Communication",
+"question": "Formal letter: Use _____ tone.",
+"options": ["Casual", "Polite and professional", "Angry", "Joking"],
+"correctAnswer": 2,
+"explanation": "Respectful for official interaction.[cite: Page 165]",
+"difficulty": "Easy",
+"hint": "Courteous."
+},
+{
+"level": 675,
+"mainsubject": "Language & Communication",
+"question": "Administrative term: 'Indictment' in Kannada:",
+"options": ["ಅರ್ಜಿ (Arji)", "ಆರೋಪ ಪತ್ರ (Aroapa patra)", "ಪ್ರಶಂಸೆ (Prashamse)", "ಸಹಾಯ (Sahaya)"],
+"correctAnswer": 2,
+"explanation": "ಆರೋಪ ಪತ್ರ means formal accusation.[cite: Page 166]",
+"difficulty": "Medium",
+"hint": "Legal charge."
+},
+{
+"level": 676,
+"mainsubject": "Language & Communication",
+"question": "Notice writing: End with _____ .",
+"options": ["Story", "Contact details", "Question", "Joke"],
+"correctAnswer": 2,
+"explanation": "For inquiries or responses.[cite: Page 167]",
+"difficulty": "Easy",
+"hint": "How to respond."
+},
+{
+"level": 677,
+"mainsubject": "Language & Communication",
+"question": "Communication: Formal letter subject line is:",
+"options": ["Optional", "Bold and centered", "At end", "Missing"],
+"correctAnswer": 2,
+"explanation": "Summarizes purpose clearly.[cite: Page 168]",
+"difficulty": "Medium",
+"hint": "Topic summary."
+},
+{
+"level": 678,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'resolution' (decision):",
+"options": ["ಪರಿಹಾರ (Parihara)", "ಸಂಕಲ್ಪ (Sankalpa)", "ಸಮಸ್ಯೆ (Samasye)", "ಚರ್ಚೆ (Charche)"],
+"correctAnswer": 2,
+"explanation": "ಸಂಕಲ್ಪ means firm decision in meetings.[cite: Page 169]",
+"difficulty": "Easy",
+"hint": "Firm choice."
+},
+{
+"level": 679,
+"mainsubject": "Language & Communication",
+"question": "Memo: Body is _____ .",
+"options": ["Narrative story", "Concise message", "Poem", "List only"],
+"correctAnswer": 2,
+"explanation": "Direct and to the point.[cite: Page 170]",
+"difficulty": "Easy",
+"hint": "Brief content."
+},
+{
+"level": 680,
+"mainsubject": "Language & Communication",
+"question": "English term for Kannada 'ಸೂಚನೆ (Soochane - Instruction)':",
+"options": ["Suggestion", "Directive", "Question", "Story"],
+"correctAnswer": 2,
+"explanation": "Official order or guideline.[cite: Page 171]",
+"difficulty": "Easy",
+"hint": "Command or guide."
+},
+{
+"level": 681,
+"mainsubject": "Language & Communication",
+"question": "Formal letter: Complimentary close before signature.",
+"options": ["Thanks", "Yours faithfully", "Bye", "Regards only"],
+"correctAnswer": 2,
+"explanation": "Standard polite ending.[cite: Page 172]",
+"difficulty": "Easy",
+"hint": "Polite farewell."
+},
+{
+"level": 682,
+"mainsubject": "Language & Communication",
+"question": "Notice: For _____ events.",
+"options": ["Private parties", "Public announcements", "Personal diaries", "Novels"],
+"correctAnswer": 2,
+"explanation": "Informs groups on important matters.[cite: Page 173]",
+"difficulty": "Medium",
+"hint": "Group info."
+},
+{
+"level": 683,
+"mainsubject": "Language & Communication",
+"question": "Administrative: 'Proforma' in Kannada:",
+"options": ["ಪೂರ್ವರೂಪ (Poorvaroo pa)", "ಅಂತಿಮ ರೂಪ (Antima roopa)", "ಕಥೆ (Kathe)", "ಪಾಟ (Pata)"],
+"correctAnswer": 1,
+"explanation": "ಪೂರ್ವರೂಪ means preliminary form.[cite: Page 174]",
+"difficulty": "Medium",
+"hint": "Draft form."
+},
+{
+"level": 684,
+"mainsubject": "Language & Communication",
+"question": "Memo distribution via:",
+"options": ["Public media", "Internal channels", "Newspapers", "TV"],
+"correctAnswer": 2,
+"explanation": "Within organization.[cite: Page 175]",
+"difficulty": "Easy",
+"hint": "Office circulation."
+},
+{
+"level": 685,
+"mainsubject": "Language & Communication",
+"question": "Kannada ↔ English: 'ಅನುಮೋದನೆ (Anumodane - Approval)':",
+"options": ["Rejection", "Sanction", "Delay", "Cancel"],
+"correctAnswer": 2,
+"explanation": "Official permission.[cite: Page 176]",
+"difficulty": "Easy",
+"hint": "Official okay."
+},
+{
+"level": 686,
+"mainsubject": "Language & Communication",
+"question": "Formal letter: Address format:",
+"options": ["Casual", "Sender's below recipient's", "No address", "Only phone"],
+"correctAnswer": 2,
+"explanation": "Sender's address at top right.[cite: Page 177]",
+"difficulty": "Easy",
+"hint": "Letterhead position."
+},
+{
+"level": 687,
+"mainsubject": "Language & Communication",
+"question": "Notice: Use _____ font for headings.",
+"options": ["Small", "Bold", "Italic", "Underlined only"],
+"correctAnswer": 2,
+"explanation": "Bold for visibility.[cite: Page 178]",
+"difficulty": "Easy",
+"hint": "Stand out."
+},
+{
+"level": 688,
+"mainsubject": "Language & Communication",
+"question": "Communication skill: Memo for _____ updates.",
+"options": ["External news", "Policy changes", "Weather", "Sports"],
+"correctAnswer": 2,
+"explanation": "Internal policy or procedure info.[cite: Page 179]",
+"difficulty": "Medium",
+"hint": "Office policy."
+},
+{
+"level": 689,
+"mainsubject": "Language & Communication",
+"question": "Administrative term: 'Endorsement' in Kannada:",
+"options": ["ಹಿಂದಿನದ (Hindinad)", "ಹೊಂದಾಣಿಕೆ (Hondaanike)", "ಅಂತ್ಯ (Antya)", "ಪ್ರಾರಂಭ (Prarambha)"],
+"correctAnswer": 2,
+"explanation": "ಹೊಂದಾಣಿಕೆ means support or approval.[cite: Page 180]",
+"difficulty": "Medium",
+"hint": "Official support."
+},
+{
+"level": 690,
+"mainsubject": "Language & Communication",
+"question": "Which of the following forms a correct English sentence using present perfect tense?",
+"options": ["She has went to the store.", "She has gone to the store.", "She gone to the store.", "She goes to the store has."],
+"correctAnswer": 2,
+"explanation": "The present perfect tense is formed with 'has/have' + past participle; 'gone' is the correct past participle of 'go', indicating an action completed at an unspecified time in the past with relevance to the present.",
+"difficulty": "Easy",
+"hint": "Use 'has' + past participle for completion."
+},
+{
+"level": 691,
+"mainsubject": "Language & Communication",
+"question": "What is the Kannada word for 'opportunity' in a professional context?",
+"options": ["ಅವಕಾಶ (Avakaasha)", "ಸಮಯ (Samaya)", "ಪರೀಕ್ಷೆ (Pareek she)", "ಪುಸ್ತಕ (Pustaka)"],
+"correctAnswer": 1,
+"explanation": "ಅವಕಾಶ (Avakaasha) translates to 'opportunity' and is commonly used in administrative and career-related discussions to denote a favorable chance or opening.",
+"difficulty": "Easy",
+"hint": "A chance or opening."
+},
+{
+"level": 692,
+"mainsubject": "Language & Communication",
+"question": "Choose the synonym for 'meticulous' in the context of report preparation.",
+"options": ["Careless", "Precise", "Hasty", "Vague"],
+"correctAnswer": 2,
+"explanation": "Precise means marked by exactness and accuracy, aligning with meticulous, which emphasizes thorough attention to detail essential for error-free official documents.",
+"difficulty": "Easy",
+"hint": "Exact and detailed."
+},
+{
+"level": 693,
+"mainsubject": "Language & Communication",
+"question": "What does the idiom 'cut to the chase' imply in a meeting discussion?",
+"options": ["Delay the topic", "Get to the main point quickly", "End the meeting early", "Change the agenda"],
+"correctAnswer": 2,
+"explanation": "Cut to the chase means to skip unnecessary details and address the essential matter directly, promoting efficiency in formal communications like memos or briefings.",
+"difficulty": "Medium",
+"hint": "Skip preliminaries."
+},
+{
+"level": 694,
+"mainsubject": "Language & Communication",
+"question": "Form a sentence using the vocabulary word 'diligence' correctly.",
+"options": ["His diligence ensured the project's success.", "Diligence is a color.", "She diligence the files.", "The diligence works hard."],
+"correctAnswer": 1,
+"explanation": "Diligence refers to persistent effort and careful attention; the sentence correctly employs it as a noun to describe the quality leading to achievement in tasks.",
+"difficulty": "Easy",
+"hint": "Persistent effort."
+},
+{
+"level": 695,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'explicit' in instructions is:",
+"options": ["Clear", "Implicit", "Detailed", "Obvious"],
+"correctAnswer": 2,
+"explanation": "Implicit means suggested but not directly expressed, contrasting with explicit, which is fully and clearly stated, crucial for unambiguous administrative directives.",
+"difficulty": "Easy",
+"hint": "Implied, not stated."
+},
+{
+"level": 696,
+"mainsubject": "Language & Communication",
+"question": "The Kannada proverb 'ಒಂದು ಹೊಂದಿನ ಗೊತ್ತು ಎಲ್ಲರ ಹೊಂದು' translates to what English equivalent?",
+"options": ["One swallow doesn't make a summer", "Birds of a feather flock together", "Every cloud has a silver lining", "Actions speak louder than words"],
+"correctAnswer": 1,
+"explanation": "This proverb means a single positive event doesn't indicate overall success, similar to 'one swallow doesn't make a summer,' advising caution in judgments based on isolated incidents.",
+"difficulty": "Medium",
+"hint": "One event doesn't define all."
+},
+{
+"level": 697,
+"mainsubject": "Language & Communication",
+"question": "Identify the error in sentence formation: 'The manager along with the team are attending the conference.'",
+"options": ["Manager along", "With the team", "Are attending", "The conference"],
+"correctAnswer": 3,
+"explanation": "The subject 'manager' is singular, so it requires 'is' not 'are'; 'along with' phrases do not affect subject-verb agreement, ensuring grammatical precision in reports.",
+"difficulty": "Medium",
+"hint": "Subject-verb match."
+},
+{
+"level": 698,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'concise' in essay writing is:",
+"options": ["Wordy", "Brief", "Elaborate", "Verbose"],
+"correctAnswer": 2,
+"explanation": "Brief means short and to the point, ideal for concise writing that conveys ideas efficiently without unnecessary details, a key skill in precis and reports.",
+"difficulty": "Easy",
+"hint": "Short and succinct."
+},
+{
+"level": 699,
+"mainsubject": "Language & Communication",
+"question": "The idiom 'read between the lines' means:",
+"options": ["Literal reading", "Infer hidden meaning", "Skip details", "Quote directly"],
+"correctAnswer": 2,
+"explanation": "It refers to understanding implied or subtle messages not explicitly stated, vital for comprehension in official documents or nuanced communications.",
+"difficulty": "Medium",
+"hint": "Unstated implications."
+},
+{
+"level": 700,
+"mainsubject": "Language & Communication",
+"question": "Kannada vocabulary for 'efficiency' in administrative work:",
+"options": ["ದುರ್ಬಲತೆ (Durbalata)", "ಕಾರ್ಯಕ್ಷಮತೆ (Karyakshamata)", "ಅಸೃಜನಶೀಲತೆ (Asrujanasheelate)", "ಅಸಂಗತತೆ (Asangatat e)"],
+"correctAnswer": 2,
+"explanation": "ಕಾರ್ಯಕ್ಷಮತೆ (Karyakshamata) denotes the ability to perform tasks effectively and economically, a core term in performance evaluations and reports.",
+"difficulty": "Easy",
+"hint": "Effective performance."
+},
+{
+"level": 701,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'ambiguous' in legal notices is:",
+"options": ["Unclear", "Clear", "Vague", "Obscure"],
+"correctAnswer": 2,
+"explanation": "Clear means easily understood without confusion, essential for notices and memos to avoid misinterpretation in official settings.",
+"difficulty": "Easy",
+"hint": "Straightforward."
+},
+{
+"level": 702,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'The pen is mightier than the sword' highlights the power of:",
+"options": ["Violence", "Written words", "Physical strength", "Oral speech"],
+"correctAnswer": 2,
+"explanation": "This proverb underscores that ideas and persuasion through writing can achieve more than force, relevant for persuasive essays and formal arguments.",
+"difficulty": "Easy",
+"hint": "Ideas over force."
+},
+{
+"level": 703,
+"mainsubject": "Language & Communication",
+"question": "Correct sentence formation for reported speech: 'He said, I am tired..",
+"options": ["He said that he is tired.", "He said that he was tired.", "He said that I am tired.", "He said that I was tired."],
+"correctAnswer": 2,
+"explanation": "In reported speech, present tense 'am' shifts to past 'was,' and first-person 'I' becomes third-person 'he' to reflect the speaker's perspective accurately.",
+"difficulty": "Medium",
+"hint": "Tense backshift."
+},
+{
+"level": 704,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'coherent' in report writing is:",
+"options": ["Confused", "Logical", "Disjointed", "Random"],
+"correctAnswer": 2,
+"explanation": "Logical means consistently reasoned and connected, ensuring a coherent report flows seamlessly from introduction to conclusion without gaps.",
+"difficulty": "Easy",
+"hint": "Well-connected."
+},
+{
+"level": 705,
+"mainsubject": "Language & Communication",
+"question": "The idiom 'burn bridges' means:",
+"options": ["Build relationships", "Destroy future options", "Travel over water", "Light a fire"],
+"correctAnswer": 2,
+"explanation": "It refers to ruining relationships or opportunities irreparably, a caution in professional communications to maintain diplomacy.",
+"difficulty": "Medium",
+"hint": "No way back."
+},
+{
+"level": 706,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary sentence: Use 'pragmatic' correctly.",
+"options": ["Her pragmatic approach solved the issue.", "Pragmatic is a bird.", "He pragmatic the plan.", "The pragmatic dreams big."],
+"correctAnswer": 1,
+"explanation": "Pragmatic means dealing with things sensibly and realistically; the sentence illustrates its use in practical problem-solving contexts like administration.",
+"difficulty": "Easy",
+"hint": "Practical and sensible."
+},
+{
+"level": 707,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'redundant' in precis writing is:",
+"options": ["Unnecessary", "Essential", "Repetitive", "Superfluous"],
+"correctAnswer": 2,
+"explanation": "Essential means absolutely necessary, contrasting redundant (excessive or unnecessary), key for trimming precis to focus on vital points.",
+"difficulty": "Easy",
+"hint": "Necessary."
+},
+{
+"level": 708,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb equivalent to 'Practice makes perfect':",
+"options": ["ಅಭ್ಯಾಸ ಮಾಡಿ ಪರಿಪೂರ್ಣ (Abhyaasa maadi paripoorn a)", "ಒಂದು ದಿನದಲ್ಲಿ ಎಲ್ಲ (Ondhu dina dalli ella)", "ಹೊಸದಕ್ಕೆ ಹಳೆಯದು (Hosadakke haleyadhu)", "ಮಳೆ ಬಂದರೆ ಮಳೆ (Male bandare male)"],
+"correctAnswer": 1,
+"explanation": "ಅಭ್ಯಾಸ ಮಾಡಿ ಪರಿಪೂರ್ಣ emphasizes repeated practice leading to mastery, mirroring the English proverb for skill development in exams or jobs.",
+"difficulty": "Medium",
+"hint": "Repetition for skill."
+},
+{
+"level": 709,
+"mainsubject": "Language & Communication",
+"question": "Sentence formation: 'Despite _____ rain, the event proceeded.'",
+"options": ["a heavy", "heavy", "the heavy", "heavily"],
+"correctAnswer": 2,
+"explanation": "Adjectives like 'heavy' precede nouns without articles when uncountable (rain); this structure shows concession in complex sentences for essays.",
+"difficulty": "Medium",
+"hint": "Adjective + uncountable noun."
+},
+{
+"level": 710,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'eloquent' in formal speeches is:",
+"options": ["Inarticulate", "Expressive", "Silent", "Mumbled"],
+"correctAnswer": 2,
+"explanation": "Expressive means effectively conveying thoughts or feelings, akin to eloquent, vital for persuasive writing in reports or essays.",
+"difficulty": "Easy",
+"hint": "Persuasive expression."
+},
+{
+"level": 711,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'throw in the towel' signifies:",
+"options": ["Start fighting", "Give up", "Clean up", "Win easily"],
+"correctAnswer": 2,
+"explanation": "It means to admit defeat or quit, originating from boxing, useful in discussing perseverance in motivational essays.",
+"difficulty": "Medium",
+"hint": "Surrender."
+},
+{
+"level": 712,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'innovation' in policy contexts:",
+"options": ["ನವೀನತೆ (Navinat e)", "ಪುರಾತನತೆ (Puratanat e)", "ಸ್ಥಿರತೆ (Sthirat e)", "ಹಿಂದೆ (Hinde)"],
+"correctAnswer": 1,
+"explanation": "ನವೀನತೆ (Navinat e) refers to new ideas or methods, commonly used in administrative reforms and reports on progress.",
+"difficulty": "Easy",
+"hint": "New ideas."
+},
+{
+"level": 713,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'prolific' in writing productivity is:",
+"options": ["Productive", "Barren", "Fertile", "Abundant"],
+"correctAnswer": 2,
+"explanation": "Barren means producing little or nothing, opposite of prolific (producing much), relevant for evaluating essay or report output.",
+"difficulty": "Medium",
+"hint": "Unproductive."
+},
+{
+"level": 714,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Don't put all your eggs in one basket' advises:",
+"options": ["Collect eggs", "Diversify risks", "Eat quickly", "Share everything"],
+"correctAnswer": 2,
+"explanation": "It warns against concentrating resources in one area to avoid total loss, applicable to financial or strategic planning in reports.",
+"difficulty": "Easy",
+"hint": "Spread risks."
+},
+{
+"level": 715,
+"mainsubject": "Language & Communication",
+"question": "Grammar: 'The data _____ reliable.' (is/are)",
+"options": ["is", "are", "were", "have"],
+"correctAnswer": 1,
+"explanation": "Data is treated as a singular mass noun in modern usage, taking 'is'; this convention aids precise reporting in administrative documents.",
+"difficulty": "Medium",
+"hint": "Singular mass noun."
+},
+{
+"level": 716,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'resolute' in decision-making is:",
+"options": ["Hesitant", "Determined", "Uncertain", "Wavering"],
+"correctAnswer": 2,
+"explanation": "Determined means firmly resolved, synonymous with resolute, essential for conveying firm stances in formal letters or memos.",
+"difficulty": "Easy",
+"hint": "Firmly decided."
+},
+{
+"level": 717,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'elephant in the room' refers to:",
+"options": ["Large animal", "Obvious ignored issue", "Small problem", "Hidden treasure"],
+"correctAnswer": 2,
+"explanation": "It describes a major problem everyone avoids discussing, useful in essays on social or administrative oversights.",
+"difficulty": "Medium",
+"hint": "Unaddressed big issue."
+},
+{
+"level": 718,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Circumspect' means:",
+"options": ["Reckless", "Cautious", "Bold", "Impulsive"],
+"correctAnswer": 2,
+"explanation": "Circumspect means wary and unwilling to take risks, promoting careful consideration in official communications and planning.",
+"difficulty": "Medium",
+"hint": "Wary and careful."
+},
+{
+"level": 719,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'compliant' in regulatory contexts is:",
+"options": ["Obedient", "Defiant", "Agreeable", "Submissive"],
+"correctAnswer": 2,
+"explanation": "Defiant means resisting authority, opposite of compliant (following rules), critical for discussions on policy adherence.",
+"difficulty": "Easy",
+"hint": "Resistant to rules."
+},
+{
+"level": 720,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'necessity is the mother of invention':",
+"options": ["ಅಗತ್ಯತೆಯ ಮಗುವು ನಾವೀನ್ಯ (Agatyatey maguvu navinya)", "ಹಣ್ಣು ಮರಕ್ಕೆ ಬರುವುದಿಲ್ಲ (Hannu marakke baruvudilla)", "ಒಂದು ರಾತ್ರಿಯಲ್ಲಿ ಎಲ್ಲ (Ondhu ratrinalli ella)", "ಮಳೆಯಲ್ಲಿ ಮಳೆ (Maleyalli male)"],
+"correctAnswer": 1,
+"explanation": "ಅಗತ್ಯತೆಯ ಮಗುವು ನಾವೀನ್ಯ highlights how needs drive creativity, akin to the English proverb for innovation in resource-limited scenarios.",
+"difficulty": "Medium",
+"hint": "Need sparks creation."
+},
+{
+"level": 721,
+"mainsubject": "Language & Communication",
+"question": "Sentence formation: 'Hardly _____ the bell when the train arrived.'",
+"options": ["had rung", "rang", "rings", "ringing"],
+"correctAnswer": 1,
+"explanation": "Inversion with 'hardly' requires past perfect 'had rung' for sequence, a structure for emphasizing near-simultaneous events in narratives.",
+"difficulty": "Hard",
+"hint": "Inversion with past perfect."
+},
+{
+"level": 722,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'pivotal' in policy reports is:",
+"options": ["Minor", "Crucial", "Trivial", "Peripheral"],
+"correctAnswer": 2,
+"explanation": "Crucial means of great importance, like pivotal, denoting a central role in turning points or key decisions.",
+"difficulty": "Easy",
+"hint": "Of central importance."
+},
+{
+"level": 723,
+"mainsubject": "Language & Communication",
+"question": "The idiom 'jump on the bandwagon' means:",
+"options": ["Avoid trends", "Follow popular opinion", "Start a parade", "Leave early"],
+"correctAnswer": 2,
+"explanation": "It describes joining a cause or trend for popularity, relevant in essays critiquing conformity in social or political movements.",
+"difficulty": "Medium",
+"hint": "Join the crowd."
+},
+{
+"level": 724,
+"mainsubject": "Language & Communication",
+"question": "Kannada vocabulary for 'sustainability' in environmental admin:",
+"options": ["ಸ್ಥಿರತೆ (Sthirat e)", "ಬೆಳವಣಿಗೆ (Belavanige)", "ಹಾನಿ (Haani)", "ಅಸ್ಥಿರತೆ (Asthirat e)"],
+"correctAnswer": 1,
+"explanation": "ಸ್ಥಿರತೆ (Sthirat e) means long-term viability, a key term in policy documents for resource management and development.",
+"difficulty": "Easy",
+"hint": "Long-term viability."
+},
+{
+"level": 725,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'negligent' in duty contexts is:",
+"options": ["Careless", "Attentive", "Irresponsible", "Oversightful"],
+"correctAnswer": 2,
+"explanation": "Attentive means watchful and careful, opposite of negligent (failing in duty), important for accountability in official roles.",
+"difficulty": "Easy",
+"hint": "Watchful."
+},
+{
+"level": 726,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'A journey of a thousand miles begins with a single step' promotes:",
+"options": ["Avoid travel", "Starting small", "Rushing ahead", "Staying put"],
+"correctAnswer": 2,
+"explanation": "It encourages initiating action, no matter how small, for long-term goals, ideal for motivational essays on personal development.",
+"difficulty": "Easy",
+"hint": "First step matters."
+},
+{
+"level": 727,
+"mainsubject": "Language & Communication",
+"question": "Grammar: 'Not only _____ the rule but also broke it.'",
+"options": ["he knew", "did he know", "he know", "know he"],
+"correctAnswer": 2,
+"explanation": "Inversion follows 'not only' in correlative structures for emphasis, creating a balanced, emphatic sentence in formal writing.",
+"difficulty": "Hard",
+"hint": "Inversion after not only."
+},
+{
+"level": 728,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'ubiquitous' in tech reports is:",
+"options": ["Rare", "Omnipresent", "Scarce", "Limited"],
+"correctAnswer": 2,
+"explanation": "Omnipresent means present everywhere simultaneously, like ubiquitous, describing widespread adoption in modern contexts.",
+"difficulty": "Medium",
+"hint": "Everywhere at once."
+},
+{
+"level": 729,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'steal someone's thunder' means:",
+"options": ["Cause rain", "Take credit for ideas", "Share praise", "Avoid spotlight"],
+"correctAnswer": 2,
+"explanation": "It refers to claiming someone else's achievement or idea, a concept in essays on ethics or collaboration.",
+"difficulty": "Medium",
+"hint": "Claim undue credit."
+},
+{
+"level": 730,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Equitable' means:",
+"options": ["Unfair", "Fair and impartial", "Biased", "Unequal"],
+"correctAnswer": 2,
+"explanation": "Equitable denotes justice and fairness in treatment, crucial for discussions on policy and resource allocation.",
+"difficulty": "Easy",
+"hint": "Just distribution."
+},
+{
+"level": 731,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'volatile' in market reports is:",
+"options": ["Unstable", "Stable", "Fluctuating", "Erratic"],
+"correctAnswer": 2,
+"explanation": "Stable means steady and unchanging, opposite of volatile (prone to sudden change), used in economic analyses.",
+"difficulty": "Easy",
+"hint": "Steady."
+},
+{
+"level": 732,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'look before you leap':",
+"options": ["ಜಿಗುವ ಮುನ್ನ ನೋಡು (Jiguv munna nodu)", "ಓಡಾಡು ಮುನ್ನ ತಿನ್ನು (Odaadu munna tinnu)", "ಹಾರಿಸು ಮುನ್ನ ಹಿಡಿಯು (Haarisu munna hidiyu)", "ಸುಮ್ಮನೆ ನಿಲ್ಲು (Summane nillu)"],
+"correctAnswer": 1,
+"explanation": "ಜಿಗುವ ಮುನ್ನ ನೋಡು advises caution before action, paralleling the English proverb for risk assessment in decisions.",
+"difficulty": "Medium",
+"hint": "Caution before jump."
+},
+{
+"level": 733,
+"mainsubject": "Language & Communication",
+"question": "Sentence: '_____ the instructions carefully before proceeding.'",
+"options": ["Read", "Reads", "Reading", "To read"],
+"correctAnswer": 1,
+"explanation": "Imperative mood uses base form 'read' for commands, common in notices and manuals for clear directives.",
+"difficulty": "Easy",
+"hint": "Command form."
+},
+{
+"level": 734,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'scrutiny' in audits is:",
+"options": ["Ignore", "Examination", "Neglect", "Overview"],
+"correctAnswer": 2,
+"explanation": "Examination means close and careful inspection, like scrutiny, vital for detailed reviews in administrative processes.",
+"difficulty": "Easy",
+"hint": "Close inspection."
+},
+{
+"level": 735,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'tip of the iceberg' indicates:",
+"options": ["Full view", "Small visible part of larger issue", "Ocean exploration", "Ice sculpture"],
+"correctAnswer": 2,
+"explanation": "It suggests only a minor portion is apparent, with more hidden, useful in reports on underlying problems.",
+"difficulty": "Medium",
+"hint": "Surface vs. depth."
+},
+{
+"level": 736,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'transparency' in governance:",
+"options": ["ಸ್ಪಷ್ಟತೆ (Spashtat e)", "ಗುಪ್ತತೆ (Gup tat e)", "ಅಂಧಕಾರ (Andhakaara)", "ಮರೀಚಿಕೆ (Mareechike)"],
+"correctAnswer": 1,
+"explanation": "ಸ್ಪಷ್ಟತೆ (Spashtat e) means openness and clarity, a fundamental principle in ethical administration and policy-making.",
+"difficulty": "Easy",
+"hint": "Openness."
+},
+{
+"level": 737,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'cumbersome' in procedures is:",
+"options": ["Bulky", "Streamlined", "Heavy", "Complicated"],
+"correctAnswer": 2,
+"explanation": "Streamlined means simplified and efficient, opposite of cumbersome (awkward or unwieldy), for process improvements.",
+"difficulty": "Easy",
+"hint": "Simplified."
+},
+{
+"level": 738,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Haste makes waste' warns against:",
+"options": ["Planning", "Rushing without thought", "Patience", "Deliberation"],
+"correctAnswer": 2,
+"explanation": "It cautions that hurried actions lead to errors, promoting thoughtful approaches in decision-making essays.",
+"difficulty": "Easy",
+"hint": "Speed causes mistakes."
+},
+{
+"level": 739,
+"mainsubject": "Language & Communication",
+"question": "Grammar: '_____ of the applicants were qualified.'",
+"options": ["Most", "Much", "Many a", "Few"],
+"correctAnswer": 3,
+"explanation": "'Many a' is singular, taking 'was' (implied), for emphasizing individuals in a group; correct for precise quantification.",
+"difficulty": "Hard",
+"hint": "Singular quantifier."
+},
+{
+"level": 740,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'viable' in project proposals is:",
+"options": ["Impossible", "Feasible", "Unworkable", "Hypothetical"],
+"correctAnswer": 2,
+"explanation": "Feasible means capable of being done successfully, like viable, assessing practicality in administrative evaluations.",
+"difficulty": "Easy",
+"hint": "Workable."
+},
+{
+"level": 741,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'bark up the wrong tree' means:",
+"options": ["Climb incorrectly", "Misjudge a situation", "Plant trees", "Avoid dogs"],
+"correctAnswer": 2,
+"explanation": "It indicates pursuing a mistaken approach, helpful in essays on error analysis or strategic missteps.",
+"difficulty": "Medium",
+"hint": "Wrong direction."
+},
+{
+"level": 742,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Inscrutable' means:",
+"options": ["Obvious", "Impossible to understand", "Clear", "Transparent"],
+"correctAnswer": 2,
+"explanation": "Inscrutable describes something mysterious or hard to interpret, used in discussions of complex policies or behaviors.",
+"difficulty": "Medium",
+"hint": "Mysterious."
+},
+{
+"level": 743,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'expedite' in processing is:",
+"options": ["Speed up", "Delay", "Hasten", "Accelerate"],
+"correctAnswer": 2,
+"explanation": "Delay means to postpone or slow down, opposite of expedite (to make faster), common in workflow critiques.",
+"difficulty": "Easy",
+"hint": "Slow down."
+},
+{
+"level": 744,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'blood is thicker than water':",
+"options": ["ರಕ್ತದಿಂದ ಮಾಡಿದದ್ದು ನೀರಿನಿಂದ ಮಾಡಿದದ್ದಕ್ಕಿಂತ ದಟ್ಟ (Raktadinda maadiddu neerindinda maadidduginta datta)", "ನೀರು ಎಲ್ಲರದು (Neeru ellaradhu)", "ಹಣ್ಣು ಮರಕ್ಕೆ (Hannu marakke)", "ಪಕ್ಷಿ ಗುಡ್ಡದಲ್ಲಿ (Pakshi guddadalli)"],
+"correctAnswer": 1,
+"explanation": "This proverb stresses family bonds over others, akin to 'blood is thicker than water,' for essays on relationships.",
+"difficulty": "Medium",
+"hint": "Family ties stronger."
+},
+{
+"level": 745,
+"mainsubject": "Language & Communication",
+"question": "Sentence: 'By the time we arrive, the meeting _____ .'",
+"options": ["will start", "will have started", "starts", "started"],
+"correctAnswer": 2,
+"explanation": "Future perfect 'will have started' indicates completion before another future action, for sequencing in reports.",
+"difficulty": "Medium",
+"hint": "Future completion."
+},
+{
+"level": 746,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'mitigate' in risk management is:",
+"options": ["Worsen", "Alleviate", "Intensify", "Ignore"],
+"correctAnswer": 2,
+"explanation": "Alleviate means to make less severe, like mitigate, for reducing impacts in policy recommendations.",
+"difficulty": "Easy",
+"hint": "Lessen severity."
+},
+{
+"level": 747,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'hit the ground running' means:",
+"options": ["Fall down", "Start effectively", "Run slowly", "Stop suddenly"],
+"correctAnswer": 2,
+"explanation": "It describes beginning a task with energy and efficiency, suitable for essays on productivity.",
+"difficulty": "Medium",
+"hint": "Quick start."
+},
+{
+"level": 748,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'accountability' in ethics:",
+"options": ["ಉತ್ತರದಾಯಕತೆ (Uttaradaayakat e)", "ಸ್ವಾತಂತ್ರ್ಯ (Swatantrya)", "ಅನುಮಾನ (Anumaana)", "ಹಗರ (Hagara)"],
+"correctAnswer": 1,
+"explanation": "ಉತ್ತರದಾಯಕತೆ (Uttaradaayakat e) means responsibility for actions, central to governance and official conduct.",
+"difficulty": "Easy",
+"hint": "Answerable for deeds."
+},
+{
+"level": 749,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'superficial' in analysis is:",
+"options": ["Shallow", "In-depth", "Surface-level", "Brief"],
+"correctAnswer": 2,
+"explanation": "In-depth means thorough and detailed, opposite of superficial (concerned only with surface aspects), for comprehensive reports.",
+"difficulty": "Easy",
+"hint": "Deep examination."
+},
+{
+"level": 750,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Where there's a will, there's a way' inspires:",
+"options": ["Give up", "Determination overcomes obstacles", "Luck only", "Avoid effort"],
+"correctAnswer": 2,
+"explanation": "It asserts that strong resolve finds solutions, motivating in essays on perseverance and goal achievement.",
+"difficulty": "Easy",
+"hint": "Willpower succeeds."
+},
+{
+"level": 751,
+"mainsubject": "Language & Communication",
+"question": "Grammar: '_____ the rain, the match was canceled.'",
+"options": ["Due to", "Because", "Owing", "In spite"],
+"correctAnswer": 1,
+"explanation": "'Due to' introduces a cause for a noun phrase (the match's cancellation), formal for reports on events.",
+"difficulty": "Medium",
+"hint": "Cause for noun."
+},
+{
+"level": 752,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'arduous' in task descriptions is:",
+"options": ["Easy", "Strenuous", "Simple", "Light"],
+"correctAnswer": 2,
+"explanation": "Strenuous means requiring great effort, like arduous, for describing challenging administrative duties.",
+"difficulty": "Easy",
+"hint": "Requiring effort."
+},
+{
+"level": 753,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'cross that bridge when you come to it' advises:",
+"options": ["Plan ahead", "Deal with problems later", "Avoid bridges", "Rush across"],
+"correctAnswer": 2,
+"explanation": "It suggests not worrying about future issues prematurely, balancing proactive and reactive approaches in planning.",
+"difficulty": "Medium",
+"hint": "Future worries later."
+},
+{
+"level": 754,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Benevolent' in leadership is:",
+"options": ["Cruel", "Kind", "Strict", "Indifferent"],
+"correctAnswer": 2,
+"explanation": "Benevolent means well-meaning and kindly, characterizing compassionate governance or management styles.",
+"difficulty": "Easy",
+"hint": "Well-meaning."
+},
+{
+"level": 755,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'inherent' in traits is:",
+"options": ["Innate", "Acquired", "Intrinsic", "Natural"],
+"correctAnswer": 2,
+"explanation": "Acquired means gained through experience, opposite of inherent (existing from birth), for nature vs. nurture debates.",
+"difficulty": "Medium",
+"hint": "Learned, not born."
+},
+{
+"level": 756,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'too many cooks spoil the broth':",
+"options": ["ಒಂದು ಕುಕ್ಕರದಲ್ಲಿ ಒಂದು ಸಾಸ್ (Ondhu kukkaradalli ondhu saas)", "ಬಹಳ ರಾಂಧಿ ಒಂದು ತಪ್ಪು (Bahala raandhi ondhu tap pu)", "ಒಂದು ಮನೆ ಒಂದು ಮಾತು (Ondhu mane ondhu maatu)", "ಸರಳತೆಯಲ್ಲಿ ಗ್ರ್ಯಾಂಡ್ (Saralat eyalli grand)"],
+"correctAnswer": 2,
+"explanation": "ಬಹಳ ರಾಂಧಿ ಒಂದು ತಪ್ಪು means too many helpers cause errors, warning against over-involvement in tasks.",
+"difficulty": "Medium",
+"hint": "Excess helpers harm."
+},
+{
+"level": 757,
+"mainsubject": "Language & Communication",
+"question": "Sentence formation: 'She _____ the report by tomorrow.'",
+"options": ["will finish", "finishes", "finished", "finishing"],
+"correctAnswer": 1,
+"explanation": "Future simple 'will finish' for planned actions, standard in timelines for memos or proposals.",
+"difficulty": "Easy",
+"hint": "Future plan."
+},
+{
+"level": 758,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'formidable' in challenges is:",
+"options": ["Easy", "Intimidating", "Simple", "Trivial"],
+"correctAnswer": 2,
+"explanation": "Intimidating means causing fear or apprehension, like formidable, for describing tough obstacles in essays.",
+"difficulty": "Easy",
+"hint": "Daunting."
+},
+{
+"level": 759,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'the ball is in your court' means:",
+"options": ["Play tennis", "Your turn to act", "Game over", "Avoid responsibility"],
+"correctAnswer": 2,
+"explanation": "It indicates it's now the other party's responsibility to make a decision, common in negotiation contexts.",
+"difficulty": "Medium",
+"hint": "Your decision time."
+},
+{
+"level": 760,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'integrity' in ethics:",
+"options": ["ನೈತಿಕತೆ (Naitikat e)", "ಭ್ರಷ್ಟಾಚಾರ (Bhrashtaachaara)", "ಪ್ರಾಮಾಣಿಕತೆ (Praamaa nikate)", "ದುರಾಸೆ (Duraase)"],
+"correctAnswer": 3,
+"explanation": "ಪ್ರಾಮಾಣಿಕತೆ (Praamaa nikate) means honesty and moral uprightness, foundational in public service codes.",
+"difficulty": "Easy",
+"hint": "Honesty."
+},
+{
+"level": 761,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'ephemeral' in trends is:",
+"options": ["Temporary", "Enduring", "Fleeting", "Transient"],
+"correctAnswer": 2,
+"explanation": "Enduring means lasting over time, opposite of ephemeral (short-lived), for analyzing long-term impacts.",
+"difficulty": "Medium",
+"hint": "Long-lasting."
+},
+{
+"level": 762,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Curiosity killed the cat' cautions against:",
+"options": ["Boredom", "Excessive inquiry", "Caution", "Knowledge"],
+"correctAnswer": 2,
+"explanation": "It warns that meddling can lead to trouble, balanced by 'satisfaction brought it back' in full form, for balanced exploration in research.",
+"difficulty": "Easy",
+"hint": "Nosy trouble."
+},
+{
+"level": 763,
+"mainsubject": "Language & Communication",
+"question": "Grammar: '_____ rain or shine, the event will proceed.'",
+"options": ["Come", "Comes", "Coming", "Came"],
+"correctAnswer": 1,
+"explanation": "Subjunctive 'come' expresses hypothetical conditions, used in formal invitations or notices for certainty.",
+"difficulty": "Hard",
+"hint": "Hypothetical condition."
+},
+{
+"level": 764,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'disparate' in diverse groups is:",
+"options": ["Similar", "Diverse", "Identical", "Uniform"],
+"correctAnswer": 2,
+"explanation": "Diverse means markedly different, like disparate, for describing varied stakeholder inputs in reports.",
+"difficulty": "Easy",
+"hint": "Varied."
+},
+{
+"level": 765,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'pull strings' means:",
+"options": ["Play music", "Use influence covertly", "Relax", "Tie knots"],
+"correctAnswer": 2,
+"explanation": "It refers to using personal connections for favors, critiqued in essays on nepotism.",
+"difficulty": "Medium",
+"hint": "Behind-scenes power."
+},
+{
+"level": 766,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Palliative' means:",
+"options": ["Curative", "Relieving without curing", "Preventive", "Diagnostic"],
+"correctAnswer": 2,
+"explanation": "Palliative provides temporary relief from symptoms, not a cure, applied in policy for symptomatic solutions.",
+"difficulty": "Medium",
+"hint": "Symptom relief."
+},
+{
+"level": 767,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'prodigal' in resource use is:",
+"options": ["Wasteful", "Thrifty", "Extravagant", "Lavish"],
+"correctAnswer": 2,
+"explanation": "Thrifty means economical, opposite of prodigal (recklessly spending), for sustainable budgeting discussions.",
+"difficulty": "Easy",
+"hint": "Economical."
+},
+{
+"level": 768,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'absence makes the heart grow fonder':",
+"options": ["ದೂರದಲ್ಲಿರುವುದು ಹೃದಯವನ್ನು ದೂರ ಮಾಡುತ್ತದೆ (Dooradalliru vudu hrudayavannu door maaduttad e)", "ನಿರ್ಗಮನವು ಸ್ನೇಹವನ್ನು ಬಲಪಡಿಸುತ್ತದೆ (Nirgamanavu snehavannu balapadistad e)", "ಹಾಜರಿಲ್ಲದೆ ಪ್ರೀತಿ ಕಡಿಮೆ (Haajarilladhe preeti kadime)", "ಸಾಮೀಪ್ಯದಲ್ಲಿ ಸಂಘರ್ಷ (Saameepyadalli sangharsha)"],
+"correctAnswer": 2,
+"explanation": "ನಿರ್ಗಮನವು ಸ್ನೇಹವನ್ನು ಬಲಪಡಿಸುತ್ತದೆ suggests distance strengthens bonds, for relationship dynamics in essays.",
+"difficulty": "Medium",
+"hint": "Distance strengthens."
+},
+{
+"level": 769,
+"mainsubject": "Language & Communication",
+"question": "Sentence: 'Were I in your position, I _____ resign.'",
+"options": ["would", "will", "shall", "should"],
+"correctAnswer": 1,
+"explanation": "Conditional 'would' in unreal situations, for hypothetical advice in formal correspondence.",
+"difficulty": "Hard",
+"hint": "Unreal condition."
+},
+{
+"level": 770,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'tenure' in job security is:",
+"options": ["Temporary", "Term", "Brief", "Interim"],
+"correctAnswer": 2,
+"explanation": "Term means period of time in office, like tenure, for employment or policy durations.",
+"difficulty": "Easy",
+"hint": "Period in role."
+},
+{
+"level": 771,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'draw a blank' means:",
+"options": ["Win a prize", "Fail to remember", "Sketch poorly", "Erase mistakes"],
+"correctAnswer": 2,
+"explanation": "It indicates inability to recall information, common in discussions of memory or research gaps.",
+"difficulty": "Medium",
+"hint": "Memory failure."
+},
+{
+"level": 772,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'diversity' in inclusion policies:",
+"options": ["ಏಕತೆ (Ekat e)", "ವೈವಿಧ್ಯತೆ (Vaividhyat e)", "ಸಮಾನತೆ (Sam anat e)", "ಒಗ್ಗಟ್ಟು (Oggatt u)"],
+"correctAnswer": 2,
+"explanation": "ವೈವಿಧ್ಯತೆ (Vaividhyat e) means variety or differences, key in diversity and equity frameworks.",
+"difficulty": "Easy",
+"hint": "Variety."
+},
+{
+"level": 773,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'ubiquitous' in rare finds is:",
+"options": ["Common", "Scarce", "Widespread", "Universal"],
+"correctAnswer": 2,
+"explanation": "Scarce means insufficient or rare, opposite of ubiquitous (found everywhere), for resource scarcity topics.",
+"difficulty": "Easy",
+"hint": "Rare."
+},
+{
+"level": 774,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'The grass is always greener on the other side' reflects:",
+"options": ["Contentment", "Envy of others' situations", "Gardening tips", "Equality"],
+"correctAnswer": 2,
+"explanation": "It expresses dissatisfaction with one's own circumstances by idealizing others', for essays on perspective.",
+"difficulty": "Easy",
+"hint": "Envy illusion."
+},
+{
+"level": 775,
+"mainsubject": "Language & Communication",
+"question": "Grammar: '_____ you help me with this?'",
+"options": ["Will", "Would", "Shall", "Should"],
+"correctAnswer": 1,
+"explanation": "'Will' for polite requests in questions, fostering collaborative tone in memos or letters.",
+"difficulty": "Easy",
+"hint": "Polite offer."
+},
+{
+"level": 776,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'ameliorate' in improvements is:",
+"options": ["Worsen", "Improve", "Maintain", "Destroy"],
+"correctAnswer": 2,
+"explanation": "Improve means to make better, like ameliorate, for enhancement strategies in reports.",
+"difficulty": "Easy",
+"hint": "Make better."
+},
+{
+"level": 777,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'go the extra mile' encourages:",
+"options": ["Stop early", "Exceed expectations", "Travel far", "Save energy"],
+"correctAnswer": 2,
+"explanation": "It means doing more than required, promoting excellence in professional duties.",
+"difficulty": "Medium",
+"hint": "Beyond duty."
+},
+{
+"level": 778,
+"mainsubject": "Language & Communication",
+"question": "Vocabulary: 'Lacuna' means:",
+"options": ["Fullness", "Gap or missing part", "Completeness", "Surplus"],
+"correctAnswer": 2,
+"explanation": "Lacuna refers to an unfilled space or gap, often in knowledge or text, for identifying omissions in analyses.",
+"difficulty": "Hard",
+"hint": "Missing element."
+},
+{
+"level": 779,
+"mainsubject": "Language & Communication",
+"question": "Antonym of 'affluent' in demographics is:",
+"options": ["Wealthy", "Impoverished", "Prosperous", "Rich"],
+"correctAnswer": 2,
+"explanation": "Impoverished means poor or destitute, opposite of affluent (wealthy), for socioeconomic reports.",
+"difficulty": "Easy",
+"hint": "Poor."
+},
+{
+"level": 780,
+"mainsubject": "Language & Communication",
+"question": "Kannada proverb for 'every dog has its day':",
+"options": ["ಪ್ರತಿ ನಾಯಿಗೂ ಒಂದು ದಿನ (Prati naayigoo ondhu dina)", "ನಾಯಿ ಮರಕ್ಕೆ ಹೋಗುತ್ತದೆ (Naayi marakke hoguttad e)", "ಹುಲ್ಲು ಹಸಿರಾಗಿರುತ್ತದೆ (Hullu hasiragiruttad e)", "ಬೆಕ್ಕು ಮರಿಗೆ ಹುಟ್ಟು (Bekku marige hutt u)"],
+"correctAnswer": 1,
+"explanation": "ಪ್ರತಿ ನಾಯಿಗೂ ಒಂದು ದಿನ means everyone gets a chance for success, for themes of opportunity.",
+"difficulty": "Medium",
+"hint": "Turn for all."
+},
+{
+"level": 781,
+"mainsubject": "Language & Communication",
+"question": "Sentence: 'The committee has _____ its report.'",
+"options": ["submit", "submitted", "submitting", "submits"],
+"correctAnswer": 2,
+"explanation": "Present perfect 'has submitted' for recent completion with present relevance, standard in status updates.",
+"difficulty": "Medium",
+"hint": "Recent action."
+},
+{
+"level": 782,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'pernicious' in effects is:",
+"options": ["Beneficial", "Harmful", "Neutral", "Positive"],
+"correctAnswer": 2,
+"explanation": "Harmful means causing damage, like pernicious, for assessing negative policy impacts.",
+"difficulty": "Easy",
+"hint": "Damaging."
+},
+{
+"level": 783,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'in the same boat' means:",
+"options": ["Different situations", "Facing same problem", "Traveling together", "Competing"],
+"correctAnswer": 2,
+"explanation": "It indicates shared circumstances or challenges, fostering solidarity in group essays.",
+"difficulty": "Easy",
+"hint": "Shared fate."
+},
+{
+"level": 784,
+"mainsubject": "Language & Communication",
+"question": "Kannada for 'resilience' in crisis management:",
+"options": ["ಬಲ (Bala)", "ಸ್ಥಿರತೆ (Sthirat e)", "ದುರ್ಬಲತೆ (Durbalata)", "ಭಯ (Bhaya)"],
+"correctAnswer": 2,
+"explanation": "ಸ್ಥಿರತೆ (Sthirat e) implies ability to recover from difficulties, key in disaster response policies.",
+"difficulty": "Easy",
+"hint": "Recovery strength."
+},
+{
+"level": 785,
+"mainsubject": "Language & Communication",
+"question": "Antonym for 'docile' in team dynamics is:",
+"options": ["Obedient", "Rebellious", "Compliant", "Submissive"],
+"correctAnswer": 2,
+"explanation": "Rebellious means resisting authority, opposite of docile (easily managed), for leadership discussions.",
+"difficulty": "Easy",
+"hint": "Defiant."
+},
+{
+"level": 786,
+"mainsubject": "Language & Communication",
+"question": "Proverb 'Fortune favors the bold' motivates:",
+"options": ["Timidity", "Courageous action", "Waiting", "Passivity"],
+"correctAnswer": 2,
+"explanation": "It suggests success comes to the daring, inspiring risk-taking in entrepreneurial essays.",
+"difficulty": "Easy",
+"hint": "Boldness rewarded."
+},
+{
+"level": 787,
+"mainsubject": "Language & Communication",
+"question": "Grammar: 'It is high time we _____ action.'",
+"options": ["take", "took", "taking", "takes"],
+"correctAnswer": 2,
+"explanation": "Subjunctive 'took' after 'it is high time' for urgency, formal for calls to action in reports.",
+"difficulty": "Hard",
+"hint": "Past subjunctive for now."
+},
+{
+"level": 788,
+"mainsubject": "Language & Communication",
+"question": "Synonym for 'inscrutable' in negotiations is:",
+"options": ["Readable", "Enigmatic", "Transparent", "Obvious"],
+"correctAnswer": 2,
+"explanation": "Enigmatic means mysterious and puzzling, like inscrutable, for opaque strategies.",
+"difficulty": "Medium",
+"hint": "Puzzling."
+},
+{
+"level": 789,
+"mainsubject": "Language & Communication",
+"question": "Idiom 'back to the drawing board' implies:",
+"options": ["Success", "Restart after failure", "End project", "Celebrate"],
+"correctAnswer": 2,
+"explanation": "It means to rethink plans after a setback, common in iterative processes like policy revisions.",
+"difficulty": "Medium",
+"hint": "Redo plans."
+}
+  
   ],
 };
 
